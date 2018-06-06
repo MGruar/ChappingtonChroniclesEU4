@@ -1,0 +1,26 @@
+# Susa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1875
+1429.3.4 = {
+	monarch = {
+		name = "Secondotto"
+		birth_date = 1397.4.5
+		dynasty = "d'Appiano"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1875
+	add_treasury = 11
+	add_prestige = 58
+}

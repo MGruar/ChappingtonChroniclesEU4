@@ -1,0 +1,26 @@
+# Breizh
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = breton
+religion = cathar
+clear_scripted_personalities = yes
+capital = 171
+1434.9.18 = {
+	monarch = {
+		name = "Mari"
+		birth_date = 1429.12.23
+		dynasty = "de Porhoët"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 171
+	add_treasury = 74
+	add_prestige = 362
+}

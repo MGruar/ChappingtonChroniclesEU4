@@ -1,0 +1,160 @@
+# Merya
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 124 137 89 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Nuyat" "Shkay" "Tatka" "Deryab" "Meltsayka" "Kezhapa" "Liyava" "Setyamka" "Jedetus" "Nishkepaz" 
+	"Kanyava" "Malyaka" "Vergava" "Vechkas" "Dobrinya" "Tul" "Elyuva" "Malyy" "Viryay" "Nulzyava" 
+	"Tikshayka" "Nyayka" "Utyayka" "Moksha" "Vezhav" "Sochava" "Azyren" "Orunza" "Pokshava" "Kardaz" 
+	"Nalka" "Parava" "Yalgava" "Irene" "Jurva" "Satajalka" "Pekko" "Inzhay" "Tuhan" "Varmanpaz" 
+	"Tylze" "Pakstyan" "Koshel" "Daira" "Koit" "Purysho" "Mitrofan" "Narvait" "Vladislav" "Kaupo" 
+	"Litto" "Ihar" "Parush" "Vakrim" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Erziya" "Kezhay" 
+	"Kezhedey" "Kezhevat" "Kichay" "Kubrat" "Mordvinko" "Nuyaksha" "Nuyanza" "Ovtay" "Paksyay" "Paksyut" 
+	"Pivtsay" "Pokshayka" "Putyayka" "Shindyay" "Shoksha" "Syrka" "Tyueykezhut" "Uchva" "Varaka" "Velmayka" 
+	"Virdyan" "Viryas" "Atyamas" "Chipaz" "Kinyak" "Murunza" "Naruchad" "Puresh" "Saksa" "Surt" 
+	"Tunya" "Tutyra" "Tylmache" "Tyushten" "Tyushtya" "Uzhara" }
+monarch_names = {
+	"Nuyat #0" = 1
+	"Shkay #1" = 24
+	"Tatka #0" = -1
+	"Deryab #0" = 1
+	"Meltsayka #0" = 1
+	"Kezhapa #1" = 18
+	"Liyava #0" = -1
+	"Setyamka #0" = -1
+	"Jedetus #0" = 1
+	"Nishkepaz #0" = 1
+	"Kanyava #0" = -1
+	"Malyaka #0" = 1
+	"Vergava #0" = -1
+	"Vechkas #1" = 18
+	"Dobrinya #0" = 1
+	"Tul #0" = 1
+	"Elyuva #0" = -1
+	"Malyy #0" = 1
+	"Viryay #2" = 18
+	"Nulzyava #0" = -1
+	"Tikshayka #0" = 1
+	"Nyayka #0" = -1
+	"Utyayka #0" = -1
+	"Moksha #0" = 1
+	"Vezhav #0" = -1
+	"Sochava #0" = -1
+	"Azyren #0" = 1
+	"Orunza #0" = 1
+	"Pokshava #0" = -1
+	"Kardaz #2" = 0
+	"Nalka #2" = 0
+	"Parava #1" = -1
+	"Yalgava #1" = -1
+	"Irene #1" = -1
+	"Jurva #1" = 0
+	"Satajalka #1" = 0
+	"Pekko #1" = 0
+	"Inzhay #1" = 0
+	"Tuhan #3" = 0
+	"Varmanpaz #2" = 0
+	"Tylze #1" = 0
+	"Pakstyan #1" = 0
+	"Koshel #2" = 0
+	"Daira #1" = -1
+	"Koit #1" = 0
+	"Purysho #1" = 0
+	"Mitrofan #1" = 0
+	"Narvait #1" = 0
+	"Vladislav #1" = 0
+	"Kaupo #1" = 0
+	"Litto #1" = 0
+	"Ihar #1" = 0
+	"Parush #1" = 0
+	"Vakrim #1" = 0
+	"Andyamo #0" = 0
+	"Chichayka #0" = 0
+	"Chumbulat #0" = 0
+	"Dergun #0" = 0
+	"Erziya #0" = 0
+	"Kezhay #0" = 0
+	"Kezhedey #0" = 0
+	"Kezhevat #0" = 0
+	"Kichay #0" = 0
+	"Kubrat #0" = 0
+	"Mordvinko #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyanza #0" = 0
+	"Ovtay #0" = 0
+	"Paksyay #0" = 0
+	"Paksyut #0" = 0
+	"Pivtsay #0" = 0
+	"Pokshayka #0" = 0
+	"Putyayka #0" = 0
+	"Shindyay #0" = 0
+	"Shoksha #0" = 0
+	"Syrka #0" = 0
+	"Tyueykezhut #0" = 0
+	"Uchva #0" = 0
+	"Varaka #0" = 0
+	"Velmayka #0" = 0
+	"Virdyan #0" = 0
+	"Viryas #0" = 0
+	"Atyamas #0" = 0
+	"Chipaz #0" = 0
+	"Kinyak #0" = 0
+	"Murunza #0" = 0
+	"Naruchad #0" = 0
+	"Puresh #0" = 0
+	"Saksa #0" = 0
+	"Surt #0" = 0
+	"Tunya #0" = 0
+	"Tutyra #0" = 0
+	"Tylmache #0" = 0
+	"Tyushten #0" = 0
+	"Tyushtya #0" = 0
+	"Uzhara #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

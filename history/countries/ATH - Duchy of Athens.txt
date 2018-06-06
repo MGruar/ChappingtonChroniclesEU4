@@ -1,0 +1,25 @@
+# Athens
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 146
+1435.4.12 = {
+	monarch = {
+		name = "Helias"
+		birth_date = 1425.2.4
+		dynasty = "Amalfinos"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 146
+	add_treasury = 42
+	add_prestige = 226
+}

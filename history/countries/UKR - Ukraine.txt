@@ -1,0 +1,26 @@
+# Ruthenia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 281
+1443.2.10 = {
+	monarch = {
+		name = "Stephania"
+		birth_date = 1415.7.21
+		dynasty = "Semnos"
+		female = yes
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 281
+	add_treasury = 43
+	add_prestige = 35
+}

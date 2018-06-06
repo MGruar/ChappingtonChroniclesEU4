@@ -1,0 +1,287 @@
+# Angsaxland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 202 26 26 }
+historical_idea_groups = {
+	plutocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ragnarr" "Isla" "Ælfwig" "Sigeberht" "Eadhild" "Swegn" "Leofgifu" "Eleanor" "Fingola" "Oscar" 
+	"Archibald" "Helen" "Haukr" "Eilionoir" "Walan" "Catriona" "Hysing" "Edna" "Una" "Iain" 
+	"Margaret" "Mary" "Alice" "Cailean" "Othon" "Rædwulf" "Ealdwulf" "Eastmund" "Eadræd" "Rægenweald" 
+	"Cenwulf" "Beorhtfrith" "Oshere" "Ælfnoth" "Æthelræd" "Conredeu" "Wiglaf" "Sælræd" "Ceolwulf" "Thoræd" 
+	"Thurfrith" "Harold" "Leofheah" "Waltheof" "Ælfflæd" "Heregyth" "Ælfwynn" "Burgflæd" "Eanswith" "Æthelburh" 
+	"Michael" "Æthelweard" "Heahberht" "Copsige" "Abdul-Aziz" "Matthew" "Æthelburg" "Muirne" "Murray" "Morcar" 
+	"Hlothere" "Macbeth" "Alexander" "Eric" "Ada" "Robert" "Petre" "Pierre" "Colban" "Kenneth" 
+	"Arncytel" "Balthere" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" 
+	"Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cerdic" "Cuthberht" "Cuthræd" "Cynehelm" 
+	"Cynewulf" "Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadsige" "Eadulf" 
+	"Eadweald" "Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" "Ealdræd" "Ealdwine" "Eanberht" 
+	"Eanfrith" "Eanhere" "Eardwulf" "Ecgberht" "Ecgfrith" "Gamall" "Godwine" "Gospatric" "Guthfrith" "Guthmund" 
+	"Gyrth" "Hacon" "Hereberht" "Hereweald" "Hereweard" "Hrodberht" "Inwær" "Leofhelm" "Leofric" "Leofweald" 
+	"Leofwine" "Maccus" "Mærleswegn" "Offa" "Onlaf" "Ordgar" "Oscytel" "Osmund" "Osric" "Osræd" 
+	"Osulf" "Osweald" "Oswine" "Oswulf" "Scule" "Sigehelm" "Sigeric" "Sigeræd" "Sighere" "Siweard" 
+	"Stigand" "Swithelm" "Swithræd" "Swæfræd" "Sæbert" "Sæweald" "Sæxbald" "Sæxræd" "Thurcytel" "Tostig" 
+	"Uhtræd" "Ulf" "Ulfcytel" "Werestan" "Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" "Wulfhelm" 
+	"Wulfhere" "Wulfmær" "Wulfnoth" "Wulfstan" "Ælfgar" "Ælfmær" "Ælfric" "Ælfræd" "Ælfsige" "Ælfstan" 
+	"Ælfwald" "Ælfweard" "Ælfwine" "Ælle" "Æthelbald" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" 
+	"Æthelsige" "Æthelstan" "Æthelweald" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" 
+	"Rædwald" }
+monarch_names = {
+	"Ragnarr #0" = 1
+	"Isla #0" = -1
+	"Ælfwig #0" = 1
+	"Sigeberht #1" = 18
+	"Eadhild #0" = -1
+	"Swegn #0" = 1
+	"Leofgifu #0" = -1
+	"Eleanor #0" = -1
+	"Fingola #0" = -1
+	"Oscar #0" = 1
+	"Archibald #0" = 1
+	"Helen #0" = -1
+	"Haukr #0" = 1
+	"Eilionoir #0" = -1
+	"Walan #0" = 1
+	"Catriona #0" = -1
+	"Hysing #0" = 1
+	"Edna #0" = -1
+	"Una #0" = -1
+	"Iain #0" = 1
+	"Margaret #0" = -1
+	"Mary #0" = -1
+	"Alice #0" = -1
+	"Cailean #0" = 1
+	"Othon #0" = 1
+	"Rædwulf #1" = 0
+	"Ealdwulf #1" = 0
+	"Eastmund #1" = 0
+	"Eadræd #1" = 0
+	"Rægenweald #1" = 0
+	"Cenwulf #1" = 0
+	"Beorhtfrith #1" = 0
+	"Oshere #1" = 0
+	"Ælfnoth #1" = 0
+	"Æthelræd #1" = 0
+	"Conredeu #1" = 0
+	"Wiglaf #1" = 0
+	"Sælræd #2" = 0
+	"Ceolwulf #1" = 0
+	"Thoræd #1" = 0
+	"Thurfrith #1" = 0
+	"Harold #1" = 0
+	"Leofheah #1" = 0
+	"Waltheof #1" = 0
+	"Ælfflæd #1" = -1
+	"Heregyth #1" = -1
+	"Ælfwynn #1" = -1
+	"Burgflæd #1" = -1
+	"Eanswith #1" = -1
+	"Æthelburh #1" = -1
+	"Michael #3" = 0
+	"Æthelweard #1" = 0
+	"Heahberht #1" = 0
+	"Copsige #1" = 0
+	"Abdul-Aziz #1" = 0
+	"Matthew #1" = 0
+	"Æthelburg #1" = -1
+	"Muirne #1" = -1
+	"Murray #1" = 0
+	"Morcar #1" = 0
+	"Hlothere #1" = 0
+	"Macbeth #1" = 0
+	"Alexander #2" = 0
+	"Eric #1" = 0
+	"Ada #1" = -1
+	"Robert #1" = 0
+	"Petre #1" = 0
+	"Pierre #1" = 0
+	"Colban #1" = 0
+	"Kenneth #1" = 0
+	"Arncytel #0" = 0
+	"Balthere #0" = 0
+	"Beorhthelm #0" = 0
+	"Beorhtmær #0" = 0
+	"Beorhtnoth #0" = 0
+	"Beorhtric #0" = 0
+	"Beorhtsige #0" = 0
+	"Beorhtwine #0" = 0
+	"Beorn #0" = 0
+	"Beornræd #0" = 0
+	"Beornwulf #0" = 0
+	"Burgheard #0" = 0
+	"Byrhtnoth #0" = 0
+	"Cearl #0" = 0
+	"Cenfus #0" = 0
+	"Cenræd #0" = 0
+	"Cerdic #0" = 0
+	"Cuthberht #0" = 0
+	"Cuthræd #0" = 0
+	"Cynehelm #0" = 0
+	"Cynewulf #0" = 0
+	"Cytelbearn #0" = 0
+	"Eadberht #0" = 0
+	"Eadfrith #0" = 0
+	"Eadgar #0" = 0
+	"Eadmund #0" = 0
+	"Eadmær #0" = 0
+	"Eadric #0" = 0
+	"Eadsige #0" = 0
+	"Eadulf #0" = 0
+	"Eadweald #0" = 0
+	"Eadweard #0" = 0
+	"Eadwig #0" = 0
+	"Eadwine #0" = 0
+	"Eadwulf #0" = 0
+	"Ealdhun #0" = 0
+	"Ealdmund #0" = 0
+	"Ealdræd #0" = 0
+	"Ealdwine #0" = 0
+	"Eanberht #0" = 0
+	"Eanfrith #0" = 0
+	"Eanhere #0" = 0
+	"Eardwulf #0" = 0
+	"Ecgberht #0" = 0
+	"Ecgfrith #0" = 0
+	"Gamall #0" = 0
+	"Godwine #0" = 0
+	"Gospatric #0" = 0
+	"Guthfrith #0" = 0
+	"Guthmund #0" = 0
+	"Gyrth #0" = 0
+	"Hacon #0" = 0
+	"Hereberht #0" = 0
+	"Hereweald #0" = 0
+	"Hereweard #0" = 0
+	"Hrodberht #0" = 0
+	"Inwær #0" = 0
+	"Leofhelm #0" = 0
+	"Leofric #0" = 0
+	"Leofweald #0" = 0
+	"Leofwine #0" = 0
+	"Maccus #0" = 0
+	"Mærleswegn #0" = 0
+	"Offa #0" = 0
+	"Onlaf #0" = 0
+	"Ordgar #0" = 0
+	"Oscytel #0" = 0
+	"Osmund #0" = 0
+	"Osric #0" = 0
+	"Osræd #0" = 0
+	"Osulf #0" = 0
+	"Osweald #0" = 0
+	"Oswine #0" = 0
+	"Oswulf #0" = 0
+	"Scule #0" = 0
+	"Sigehelm #0" = 0
+	"Sigeric #0" = 0
+	"Sigeræd #0" = 0
+	"Sighere #0" = 0
+	"Siweard #0" = 0
+	"Stigand #0" = 0
+	"Swithelm #0" = 0
+	"Swithræd #0" = 0
+	"Swæfræd #0" = 0
+	"Sæbert #0" = 0
+	"Sæweald #0" = 0
+	"Sæxbald #0" = 0
+	"Sæxræd #0" = 0
+	"Thurcytel #0" = 0
+	"Tostig #0" = 0
+	"Uhtræd #0" = 0
+	"Ulf #0" = 0
+	"Ulfcytel #0" = 0
+	"Werestan #0" = 0
+	"Wihtræd #0" = 0
+	"Wistan #0" = 0
+	"Wulf #0" = 0
+	"Wulfgar #0" = 0
+	"Wulfgeat #0" = 0
+	"Wulfhelm #0" = 0
+	"Wulfhere #0" = 0
+	"Wulfmær #0" = 0
+	"Wulfnoth #0" = 0
+	"Wulfstan #0" = 0
+	"Ælfgar #0" = 0
+	"Ælfmær #0" = 0
+	"Ælfric #0" = 0
+	"Ælfræd #0" = 0
+	"Ælfsige #0" = 0
+	"Ælfstan #0" = 0
+	"Ælfwald #0" = 0
+	"Ælfweard #0" = 0
+	"Ælfwine #0" = 0
+	"Ælle #0" = 0
+	"Æthelbald #0" = 0
+	"Æthelberht #0" = 0
+	"Æthelfrith #0" = 0
+	"Æthelhere #0" = 0
+	"Æthelmær #0" = 0
+	"Æthelric #0" = 0
+	"Æthelsige #0" = 0
+	"Æthelstan #0" = 0
+	"Æthelweald #0" = 0
+	"Æthelwine #0" = 0
+	"Æthelwold #0" = 0
+	"Æthelwulf #0" = 0
+	"Eormenred #0" = 0
+	"Eorcenberht #0" = 0
+	"Eormenric #0" = 0
+	"Eadbald #0" = 0
+	"Rædwald #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

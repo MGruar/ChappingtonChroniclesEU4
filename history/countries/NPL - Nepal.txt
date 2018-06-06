@@ -1,0 +1,36 @@
+# Nepal
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 677
+1436.2.8 = {
+	monarch = {
+		name = "Udumtsen III"
+		birth_date = 1433.12.13
+		dynasty = "Licchavi"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+	heir = {
+		name = "Pungse"
+		monarch_name = "Pungse"
+		dynasty = "Licchavi"
+		birth_date = 1435.4.24
+		death_date = 1515.4.24
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 677
+	add_treasury = 0
+	add_prestige = 1023
+}

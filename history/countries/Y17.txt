@@ -1,0 +1,25 @@
+# Saamod
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 313
+1437.3.11 = {
+	monarch = {
+		name = "Apollonios"
+		birth_date = 1397.3.11
+		dynasty = "Panokomites"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 313
+	add_treasury = 18
+	add_prestige = 26
+}

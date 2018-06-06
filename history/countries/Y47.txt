@@ -1,0 +1,36 @@
+# Injuid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1076
+1437.8.22 = {
+	monarch = {
+		name = "Narin"
+		birth_date = 1398.7.22
+		dynasty = "Iljigin"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Chulgetei"
+		monarch_name = "Chulgetei"
+		dynasty = "Iljigin"
+		birth_date = 1425.10.14
+		death_date = 1505.10.14
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1076
+	add_treasury = 8
+	add_prestige = 244
+}

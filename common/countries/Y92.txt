@@ -1,0 +1,398 @@
+# Kumul
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 235 208 59 }
+
+
+
+
+leader_names = {
+
+	"Virabahu" "Ahiavadevi" "Suvrata" "Tse" "Kunzang" "Lha" "Padatcaina" "Kelzang" "Hvarda" "Denöl" 
+	"Kimatcuna" "Dolma" "Jayamala" "Songtsen" "Yajiyavati" "Trinring" "Donyö" "Sönam" "Senöl" "Vishirapumna" 
+	"Lukhong" "Sudhana" "Ratnavati" "Harjjaravarman" "Udumtsen" "Dharmapala" "Bhattamahabahu" "Devavati" "Durlabha" "Gopala" 
+	"Bhogavati" "Dattadevi" "Vijaya" "Kumarapala" "Yajnavati" "Gandharavati" "Tyagasimha" "Jayapala" "Kuladevi" "Ratnadhwajpala" 
+	"Syamadevi" "Mahendravarman" "Vasumati" "Indrapala" "Vijnayavati" "Harshapala" "Timgyadeva" "Ummoka" "Purandelapala" "Harshavarman" 
+	"Bum" "Gyalpo" "Detsen" "Yasaraksite" "Lasya" "Sanlyudo" "Samghatrate" "Ptompile" "Cakravar" "Siddharthe" 
+	"Ksmate" "Ayardhyame" "Naradeve" "Purtas" "Sachen" "Tsentsän" "Kolite" "Tawen" "Tsen" "Mangsong" 
+	"Drigum" "Shiresala" "Aryamgula" "Palden" "Zhonnu" "Yülsung" "Phoyongsa" "Pema" "Airawanta" "Ajatasatru" 
+	"Ajite" "Alp" "Ambare" "Amprätasarme" "Amrätaraksite" "Amrätodane" "Anande" "Anathapindike" "Aniruddhe" "Andhave" 
+	"Anktsas" "Arjune" "Aranemi" "Arnyartate" "Arslam" "Arthadarsi" "Aryamarg" "Aryaske" "Aryatewe" "Aryawarme" 
+	"Aryottame" "Asokamitre" "Asokaraksite" "Asoke" "Asärte" "Astawi" "Atakke" "Atidivakare" "Atyuccagami" "Atraikatte" 
+	"Bimbasare" "Caitike" "Caiytiska" "Cakule" "Candramukhe" "Candravasu" "Candre" "Caracate" "Cina" "Cinatyuti" 
+	"Citre" "Cittaraksite" "Cowaske" "Dandakamal" "Devarakste" "Dhanike" "Dharma" "Dharmacandre" "Dharmadase" "Dharmakame" 
+	"Dharmakamiske" "Dharmaraksite" "Dharmasome" "Dharmatrate" "Dharmawarme" "Dipankar" "Dirghanakhe" "Dravyasvare" "Durmukhe" "Ekasrinke" 
+	"Erkätsole" "Esmiñe" "Etrise" "Gayakasyape" "Gayasirs" "Gaye" "Gunacamdre" "Gunasampade" "Hariscandre" "Hastake" 
+	"Hetubalike" "Indradhvaje" "Indratewe" "Indre" "Indriske" "Issapake" "Jatisrone" "Jetavam" "Jñanacamndre" "Jñanaghose" 
+	"Jñanakame" "Jñanakupte" "Jñanamokse" "Jñanasene" "Jñanasome" "Jñanasthite" "Jñanawirye" "Kadike" "Kalodaye" "Kalyanamokse" 
+	"Kalyanavraddhi" "Kalyanawartane" "Kanake" "Kanaske" "Kanthäke" "Kapilavarne" "Kapilavastu" "Kas" "Kasyap" "Katakarni" 
+	"Kaundinye" "Kauravye" "Kausal" "Kemarcune" "Kentarske" "Kercampey" "Kercapiske" "Kerdipole" "Kereptaññe" "Kimñe" 
+	"Klenkarako" "Klpapatre" "Klyotiska" "Kotile" "Koysam" "Ksemankare" "Ksmarjune" "Ksmawarme" "Ksmateworsa" "Ksmika" 
+	"Kulkera" "Kumarapunye" "Kumpante" "Kunacamttrakau" "Kunacamttre" "Kwirapabhadra" "Lariska" "Mahasammate" "Mahisvare" "Manisvare" 
+	"Mitrakseme" "Mitraske" "Mitre" "Moksasene" "Moksasome" "Moksawarme" "Molyoke" "Mukalanti" "Munkhare" "Murdhagate" 
+	"Nandabala" "Nandake" "Nande" "Nandipale" "Nasme" "Ñatte" "Ñirot" "Nupura" "Nyagrodhe" "Padmakesar" 
+	"Padmottare" "Pakacandre" "Pañcasikhi" "Pawaske" "Pesane" "Prabhankare" "Prabhase" "Pranada" "Prasamnake" "Pravare" 
+	"Priyadeve" "Puñaiyse" "Puñakame" "Puñaraksite" "Puñicamndre" "Punyamitre" "Rahule" "Raktadewe" "Ratnacuda" "Ratnasikhi" 
+	"Rsivadam" "Rudramukhe" "Rudrasarme" "Sagare" "Samantatir" "Samcite" "Sanavasi" "Sanghasarme" "Sankene" "Sanum" 
+	"Saputanase" "Sarasike" "Sarmacamdre" "Sarsire" "Satuma" "Satyake" "Satyaraksite" "Sidhasamgha" "Siladewe" "Silamitre" 
+	"Silarakite" "Silaraksi" "Silasoma" "Silavande" "Silawarne" "Silayase" "Silopake" "Simpraye" "Siñcake" "Sinke" 
+	"Sinku" "Skanatatte" "Skwarle" "Slacamndre" "Solarke" "Some" "Srestake" "Sudarse" "Sudas" "Suddhodane" 
+	"Sujate" "Sukase" "Suklodane" "Sunaksatre" "Sunetre" "Sutasome" "Sutate" "Swarnabuspe" "Swarnatepe" "Tarmacandre" 
+	"Tarmaraksite" "Tenare" "Tohkem" "Tonke" "Tukik" "Tunka" "Tusi" "Udanalankar" "Udayi" "Ulkamukhe" 
+	"Uluke" "Upage" "Upagupte" "Upanande" "Uposathe" "Urbilvakasyape" "Uttaraphalguni" "Uttare" "Vaisravane" "Vaitike" 
+	"Varddhane" "Vidusake" "Vimalapuspe" "Vinaise" "Visale" "Wamsok" "Warwattaske" "Wäryaruci" "Wäryasene" "Wasampile" 
+	"Wasave" "Wiryadewe" "Wiryamitre" "Wiryasanti" "Wiryasiñi" "Wisikke" "Wrauske" "Yanayase" "Yarpaläske" "Yasa" 
+	"Yasawine" "Yase" "Yasonaka" "Yastare" "Yiswe" "Yonge" "Yonu" "Ype" "Yudhisthire" "Yugaraje" }
+monarch_names = {
+	"Virabahu #0" = 1
+	"Ahiavadevi #0" = -1
+	"Suvrata #0" = -1
+	"Tse #1" = -19
+	"Kunzang #0" = -1
+	"Lha #0" = 1
+	"Padatcaina #0" = 1
+	"Kelzang #0" = -1
+	"Hvarda #0" = 1
+	"Denöl #0" = 1
+	"Kimatcuna #0" = 1
+	"Dolma #0" = -1
+	"Jayamala #0" = 1
+	"Songtsen #0" = 1
+	"Yajiyavati #0" = -1
+	"Trinring #0" = 1
+	"Donyö #1" = 18
+	"Sönam #0" = 1
+	"Senöl #0" = 1
+	"Vishirapumna #0" = 1
+	"Lukhong #0" = 1
+	"Sudhana #0" = 1
+	"Ratnavati #0" = -1
+	"Harjjaravarman #0" = 1
+	"Udumtsen #0" = 1
+	"Dharmapala #0" = 1
+	"Bhattamahabahu #0" = 1
+	"Devavati #0" = -1
+	"Durlabha #0" = -1
+	"Gopala #0" = 1
+	"Bhogavati #0" = -1
+	"Dattadevi #0" = -1
+	"Vijaya #0" = 1
+	"Kumarapala #0" = 1
+	"Yajnavati #0" = -1
+	"Gandharavati #0" = -1
+	"Tyagasimha #0" = 1
+	"Jayapala #0" = 1
+	"Kuladevi #0" = -1
+	"Ratnadhwajpala #0" = 1
+	"Syamadevi #0" = -1
+	"Mahendravarman #0" = 1
+	"Vasumati #0" = -1
+	"Indrapala #0" = 1
+	"Vijnayavati #0" = -1
+	"Harshapala #0" = 1
+	"Timgyadeva #0" = 1
+	"Ummoka #0" = 1
+	"Purandelapala #1" = 21
+	"Harshavarman #0" = 1
+	"Bum #0" = -1
+	"Gyalpo #0" = 1
+	"Detsen #0" = 1
+	"Yasaraksite #0" = -1
+	"Lasya #0" = -1
+	"Sanlyudo #1" = 0
+	"Samghatrate #1" = 0
+	"Ptompile #1" = 0
+	"Cakravar #2" = 0
+	"Siddharthe #1" = 0
+	"Ksmate #1" = 0
+	"Ayardhyame #1" = -1
+	"Naradeve #1" = 0
+	"Purtas #3" = 0
+	"Sachen #1" = 0
+	"Tsentsän #1" = 0
+	"Kolite #1" = -1
+	"Tawen #2" = 0
+	"Tsen #2" = 0
+	"Mangsong #1" = 0
+	"Drigum #2" = 0
+	"Shiresala #1" = 0
+	"Aryamgula #1" = 0
+	"Palden #1" = 0
+	"Zhonnu #1" = 0
+	"Yülsung #1" = 0
+	"Phoyongsa #1" = -1
+	"Pema #1" = -1
+	"Airawanta #0" = 0
+	"Ajatasatru #0" = 0
+	"Ajite #0" = 0
+	"Alp #0" = 0
+	"Ambare #0" = 0
+	"Amprätasarme #0" = 0
+	"Amrätaraksite #0" = 0
+	"Amrätodane #0" = 0
+	"Anande #0" = 0
+	"Anathapindike #0" = 0
+	"Aniruddhe #0" = 0
+	"Andhave #0" = 0
+	"Anktsas #0" = 0
+	"Arjune #0" = 0
+	"Aranemi #0" = 0
+	"Arnyartate #0" = 0
+	"Arslam #0" = 0
+	"Arthadarsi #0" = 0
+	"Aryamarg #0" = 0
+	"Aryaske #0" = 0
+	"Aryatewe #0" = 0
+	"Aryawarme #0" = 0
+	"Aryottame #0" = 0
+	"Asokamitre #0" = 0
+	"Asokaraksite #0" = 0
+	"Asoke #0" = 0
+	"Asärte #0" = 0
+	"Astawi #0" = 0
+	"Atakke #0" = 0
+	"Atidivakare #0" = 0
+	"Atyuccagami #0" = 0
+	"Atraikatte #0" = 0
+	"Bimbasare #0" = 0
+	"Caitike #0" = 0
+	"Caiytiska #0" = 0
+	"Cakule #0" = 0
+	"Candramukhe #0" = 0
+	"Candravasu #0" = 0
+	"Candre #0" = 0
+	"Caracate #0" = 0
+	"Cina #0" = 0
+	"Cinatyuti #0" = 0
+	"Citre #0" = 0
+	"Cittaraksite #0" = 0
+	"Cowaske #0" = 0
+	"Dandakamal #0" = 0
+	"Devarakste #0" = 0
+	"Dhanike #0" = 0
+	"Dharma #0" = 0
+	"Dharmacandre #0" = 0
+	"Dharmadase #0" = 0
+	"Dharmakame #0" = 0
+	"Dharmakamiske #0" = 0
+	"Dharmaraksite #0" = 0
+	"Dharmasome #0" = 0
+	"Dharmatrate #0" = 0
+	"Dharmawarme #0" = 0
+	"Dipankar #0" = 0
+	"Dirghanakhe #0" = 0
+	"Dravyasvare #0" = 0
+	"Durmukhe #0" = 0
+	"Ekasrinke #0" = 0
+	"Erkätsole #0" = 0
+	"Esmiñe #0" = 0
+	"Etrise #0" = 0
+	"Gayakasyape #0" = 0
+	"Gayasirs #0" = 0
+	"Gaye #0" = 0
+	"Gunacamdre #0" = 0
+	"Gunasampade #0" = 0
+	"Hariscandre #0" = 0
+	"Hastake #0" = 0
+	"Hetubalike #0" = 0
+	"Indradhvaje #0" = 0
+	"Indratewe #0" = 0
+	"Indre #0" = 0
+	"Indriske #0" = 0
+	"Issapake #0" = 0
+	"Jatisrone #0" = 0
+	"Jetavam #0" = 0
+	"Jñanacamndre #0" = 0
+	"Jñanaghose #0" = 0
+	"Jñanakame #0" = 0
+	"Jñanakupte #0" = 0
+	"Jñanamokse #0" = 0
+	"Jñanasene #0" = 0
+	"Jñanasome #0" = 0
+	"Jñanasthite #0" = 0
+	"Jñanawirye #0" = 0
+	"Kadike #0" = 0
+	"Kalodaye #0" = 0
+	"Kalyanamokse #0" = 0
+	"Kalyanavraddhi #0" = 0
+	"Kalyanawartane #0" = 0
+	"Kanake #0" = 0
+	"Kanaske #0" = 0
+	"Kanthäke #0" = 0
+	"Kapilavarne #0" = 0
+	"Kapilavastu #0" = 0
+	"Kas #0" = 0
+	"Kasyap #0" = 0
+	"Katakarni #0" = 0
+	"Kaundinye #0" = 0
+	"Kauravye #0" = 0
+	"Kausal #0" = 0
+	"Kemarcune #0" = 0
+	"Kentarske #0" = 0
+	"Kercampey #0" = 0
+	"Kercapiske #0" = 0
+	"Kerdipole #0" = 0
+	"Kereptaññe #0" = 0
+	"Kimñe #0" = 0
+	"Klenkarako #0" = 0
+	"Klpapatre #0" = 0
+	"Klyotiska #0" = 0
+	"Kotile #0" = 0
+	"Koysam #0" = 0
+	"Ksemankare #0" = 0
+	"Ksmarjune #0" = 0
+	"Ksmawarme #0" = 0
+	"Ksmateworsa #0" = 0
+	"Ksmika #0" = 0
+	"Kulkera #0" = 0
+	"Kumarapunye #0" = 0
+	"Kumpante #0" = 0
+	"Kunacamttrakau #0" = 0
+	"Kunacamttre #0" = 0
+	"Kwirapabhadra #0" = 0
+	"Lariska #0" = 0
+	"Mahasammate #0" = 0
+	"Mahisvare #0" = 0
+	"Manisvare #0" = 0
+	"Mitrakseme #0" = 0
+	"Mitraske #0" = 0
+	"Mitre #0" = 0
+	"Moksasene #0" = 0
+	"Moksasome #0" = 0
+	"Moksawarme #0" = 0
+	"Molyoke #0" = 0
+	"Mukalanti #0" = 0
+	"Munkhare #0" = 0
+	"Murdhagate #0" = 0
+	"Nandabala #0" = 0
+	"Nandake #0" = 0
+	"Nande #0" = 0
+	"Nandipale #0" = 0
+	"Nasme #0" = 0
+	"Ñatte #0" = 0
+	"Ñirot #0" = 0
+	"Nupura #0" = 0
+	"Nyagrodhe #0" = 0
+	"Padmakesar #0" = 0
+	"Padmottare #0" = 0
+	"Pakacandre #0" = 0
+	"Pañcasikhi #0" = 0
+	"Pawaske #0" = 0
+	"Pesane #0" = 0
+	"Prabhankare #0" = 0
+	"Prabhase #0" = 0
+	"Pranada #0" = 0
+	"Prasamnake #0" = 0
+	"Pravare #0" = 0
+	"Priyadeve #0" = 0
+	"Puñaiyse #0" = 0
+	"Puñakame #0" = 0
+	"Puñaraksite #0" = 0
+	"Puñicamndre #0" = 0
+	"Punyamitre #0" = 0
+	"Rahule #0" = 0
+	"Raktadewe #0" = 0
+	"Ratnacuda #0" = 0
+	"Ratnasikhi #0" = 0
+	"Rsivadam #0" = 0
+	"Rudramukhe #0" = 0
+	"Rudrasarme #0" = 0
+	"Sagare #0" = 0
+	"Samantatir #0" = 0
+	"Samcite #0" = 0
+	"Sanavasi #0" = 0
+	"Sanghasarme #0" = 0
+	"Sankene #0" = 0
+	"Sanum #0" = 0
+	"Saputanase #0" = 0
+	"Sarasike #0" = 0
+	"Sarmacamdre #0" = 0
+	"Sarsire #0" = 0
+	"Satuma #0" = 0
+	"Satyake #0" = 0
+	"Satyaraksite #0" = 0
+	"Sidhasamgha #0" = 0
+	"Siladewe #0" = 0
+	"Silamitre #0" = 0
+	"Silarakite #0" = 0
+	"Silaraksi #0" = 0
+	"Silasoma #0" = 0
+	"Silavande #0" = 0
+	"Silawarne #0" = 0
+	"Silayase #0" = 0
+	"Silopake #0" = 0
+	"Simpraye #0" = 0
+	"Siñcake #0" = 0
+	"Sinke #0" = 0
+	"Sinku #0" = 0
+	"Skanatatte #0" = 0
+	"Skwarle #0" = 0
+	"Slacamndre #0" = 0
+	"Solarke #0" = 0
+	"Some #0" = 0
+	"Srestake #0" = 0
+	"Sudarse #0" = 0
+	"Sudas #0" = 0
+	"Suddhodane #0" = 0
+	"Sujate #0" = 0
+	"Sukase #0" = 0
+	"Suklodane #0" = 0
+	"Sunaksatre #0" = 0
+	"Sunetre #0" = 0
+	"Sutasome #0" = 0
+	"Sutate #0" = 0
+	"Swarnabuspe #0" = 0
+	"Swarnatepe #0" = 0
+	"Tarmacandre #0" = 0
+	"Tarmaraksite #0" = 0
+	"Tenare #0" = 0
+	"Tohkem #0" = 0
+	"Tonke #0" = 0
+	"Tukik #0" = 0
+	"Tunka #0" = 0
+	"Tusi #0" = 0
+	"Udanalankar #0" = 0
+	"Udayi #0" = 0
+	"Ulkamukhe #0" = 0
+	"Uluke #0" = 0
+	"Upage #0" = 0
+	"Upagupte #0" = 0
+	"Upanande #0" = 0
+	"Uposathe #0" = 0
+	"Urbilvakasyape #0" = 0
+	"Uttaraphalguni #0" = 0
+	"Uttare #0" = 0
+	"Vaisravane #0" = 0
+	"Vaitike #0" = 0
+	"Varddhane #0" = 0
+	"Vidusake #0" = 0
+	"Vimalapuspe #0" = 0
+	"Vinaise #0" = 0
+	"Visale #0" = 0
+	"Wamsok #0" = 0
+	"Warwattaske #0" = 0
+	"Wäryaruci #0" = 0
+	"Wäryasene #0" = 0
+	"Wasampile #0" = 0
+	"Wasave #0" = 0
+	"Wiryadewe #0" = 0
+	"Wiryamitre #0" = 0
+	"Wiryasanti #0" = 0
+	"Wiryasiñi #0" = 0
+	"Wisikke #0" = 0
+	"Wrauske #0" = 0
+	"Yanayase #0" = 0
+	"Yarpaläske #0" = 0
+	"Yasa #0" = 0
+	"Yasawine #0" = 0
+	"Yase #0" = 0
+	"Yasonaka #0" = 0
+	"Yastare #0" = 0
+	"Yiswe #0" = 0
+	"Yonge #0" = 0
+	"Yonu #0" = 0
+	"Ype #0" = 0
+	"Yudhisthire #0" = 0
+	"Yugaraje #0" = 0
+}
+

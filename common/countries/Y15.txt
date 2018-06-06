@@ -1,0 +1,89 @@
+# Dvina
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 106 121 61 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Xëryuchi" "Tada" "Nabtiko" "Auli" "Alik" "Hasaba" "Kako" "Kharuchi" "Kolik" "Mandak" 
+	"Nenyts" "Nga" "Ngënoh" "Noumea" "Num" "Nyalku" "Panay" "Pudak" "Salinder" "Samatu" 
+	"Sarak" "Sirtya" "Somatu" "Syudbya" "Tatva" "Tolik" "Vesei" "Wayngachi" "Yadne" "Yapti" 
+	"Yar" "Yavlad" "Yurak" }
+monarch_names = {
+	"Xëryuchi #0" = 1
+	"Tada #0" = -1
+	"Nabtiko #0" = 1
+	"Auli #0" = -1
+	"Alik #0" = 0
+	"Hasaba #0" = 0
+	"Kako #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Mandak #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Wayngachi #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+	"Yurak #0" = 0
+
+
+	"Tada #0" = -1
+	"Yar #0" = -1
+	"Kat #0" = -1
+}
+ship_names = {
+	Cherdyn Pelym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Uzheg
+	Baseg Yus Pokcha Vychegda Sysola
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+}
+

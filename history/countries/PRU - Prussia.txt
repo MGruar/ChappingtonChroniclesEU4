@@ -1,0 +1,26 @@
+# Prussia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = latvian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1841
+1415.7.30 = {
+	monarch = {
+		name = "Karl"
+		birth_date = 1398.12.20
+		dynasty = "Läma"
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1841
+	add_treasury = 75
+	add_prestige = 69
+}

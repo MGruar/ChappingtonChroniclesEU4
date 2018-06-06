@@ -1,0 +1,117 @@
+# Gojjam
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 137 90 76 }
+
+
+
+
+leader_names = {
+
+	"Fasilidas" "Melesse" "Taye" "Afework" "Zena" "Kelyle" "Hagos" "Negasi" "Cheren" "Jazarah" 
+	"Jima" "Kifle" "Aman" "Gebereal" "Dahnay" "Teruworq" "Bekele" "Ñouddl" "Assefa" "Tariku" 
+	"Tesfaye" "Adanech" "Qwara" "Belkis" "Melaku" "Ibrahim" "Iyasu" "Berhanua" "Azmera" "Kafa" 
+	"Berhanu" "Gondar" "Tekle" "Teru" "Ogbae" "Magdala" "Kaleb" "Amare" "Desta" "Getachew" 
+	"Geteye" "Girma" "Iskinder" "Abai" "Abebe" "Atoberhan" "Benaim" "Berihun" "Berta" "Bworo" 
+	"Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fethee" "Gabra" "Gebre" "Hackeem" "Haeran" 
+	"Hakeem" "Hakiem" "Hakim" "Hakym" "Iskander" "Kelile" "Lebna" "Lema" "Loua" "Mamo" 
+	"Mekonnen" "Mengesha" "Merille" "Miruts" "Negash" "Negus" "Ogbai" "Oromo" "Rahad" "Selassie" 
+	"Semer" "Semere" "Sisay" "Tamirat" "Tefere" "Teferi" "Teka" "Tengene" "Tessema" "Tewodros" 
+	"Yacob" "Yohannas" "Yonas" "Zula" }
+monarch_names = {
+	"Fasilidas #1" = 18
+	"Melesse #0" = -1
+	"Taye #0" = 1
+	"Afework #0" = 1
+	"Zena #0" = -1
+	"Kelyle #1" = 18
+	"Hagos #2" = 21
+	"Negasi #0" = 1
+	"Cheren #1" = -19
+	"Jazarah #0" = -1
+	"Jima #3" = 21
+	"Kifle #0" = 1
+	"Aman #2" = 0
+	"Gebereal #2" = 0
+	"Dahnay #3" = 0
+	"Teruworq #1" = 0
+	"Bekele #1" = 0
+	"Ñouddl #1" = -1
+	"Assefa #1" = 0
+	"Tariku #3" = 0
+	"Tesfaye #1" = 0
+	"Adanech #1" = -1
+	"Qwara #1" = -1
+	"Belkis #1" = -1
+	"Melaku #1" = 0
+	"Ibrahim #1" = 0
+	"Iyasu #2" = 0
+	"Berhanua #1" = 0
+	"Azmera #1" = 0
+	"Kafa #1" = 0
+	"Berhanu #1" = 0
+	"Gondar #1" = 0
+	"Tekle #1" = 0
+	"Teru #1" = -1
+	"Ogbae #1" = 0
+	"Magdala #1" = -1
+	"Kaleb #1" = 0
+	"Amare #0" = 0
+	"Desta #0" = 0
+	"Getachew #0" = 0
+	"Geteye #0" = 0
+	"Girma #0" = 0
+	"Iskinder #0" = 0
+	"Abai #0" = 0
+	"Abebe #0" = 0
+	"Atoberhan #0" = 0
+	"Benaim #0" = 0
+	"Berihun #0" = 0
+	"Berta #0" = 0
+	"Bworo #0" = 0
+	"Daniachew #0" = 0
+	"Dawit #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Ezana #0" = 0
+	"Fethee #0" = 0
+	"Gabra #0" = 0
+	"Gebre #0" = 0
+	"Hackeem #0" = 0
+	"Haeran #0" = 0
+	"Hakeem #0" = 0
+	"Hakiem #0" = 0
+	"Hakim #0" = 0
+	"Hakym #0" = 0
+	"Iskander #0" = 0
+	"Kelile #0" = 0
+	"Lebna #0" = 0
+	"Lema #0" = 0
+	"Loua #0" = 0
+	"Mamo #0" = 0
+	"Mekonnen #0" = 0
+	"Mengesha #0" = 0
+	"Merille #0" = 0
+	"Miruts #0" = 0
+	"Negash #0" = 0
+	"Negus #0" = 0
+	"Ogbai #0" = 0
+	"Oromo #0" = 0
+	"Rahad #0" = 0
+	"Selassie #0" = 0
+	"Semer #0" = 0
+	"Semere #0" = 0
+	"Sisay #0" = 0
+	"Tamirat #0" = 0
+	"Tefere #0" = 0
+	"Teferi #0" = 0
+	"Teka #0" = 0
+	"Tengene #0" = 0
+	"Tessema #0" = 0
+	"Tewodros #0" = 0
+	"Yacob #0" = 0
+	"Yohannas #0" = 0
+	"Yonas #0" = 0
+	"Zula #0" = 0
+}
+

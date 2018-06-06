@@ -1,0 +1,27 @@
+# Galilaea
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1855
+1427.11.24 = {
+	monarch = {
+		name = "Zenobia"
+		birth_date = 1413.5.6
+		dynasty = "Spanogregores"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 1855
+	add_treasury = 26
+	add_prestige = 64
+}

@@ -1,0 +1,26 @@
+# Traillokyachandrid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 510
+1419.8.14 = {
+	monarch = {
+		name = "Samar-Singh III"
+		birth_date = 1417.2.12
+		dynasty = "Traillokyachandrid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 510
+	add_treasury = 23
+	add_prestige = 214
+}

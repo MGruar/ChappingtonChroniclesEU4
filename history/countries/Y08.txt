@@ -1,0 +1,26 @@
+# Chud
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4251
+1421.9.21 = {
+	monarch = {
+		name = "Meltsayka"
+		birth_date = 1383.9.1
+		dynasty = "Gorodokid"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 4251
+	add_treasury = 3
+	add_prestige = 420
+}

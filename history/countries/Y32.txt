@@ -1,0 +1,37 @@
+# Kartid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 455
+1435.6.19 = {
+	monarch = {
+		name = "Ehsan"
+		birth_date = 1420.9.28
+		dynasty = "Kartid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = conqueror_personality
+}
+1441.1.6 = {
+	heir = {
+		name = "Kurush"
+		monarch_name = "Kurush"
+		dynasty = "Kartid"
+		birth_date = 1441.1.6
+		death_date = 1521.1.6
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 455
+	add_treasury = -4
+	add_prestige = 76
+}

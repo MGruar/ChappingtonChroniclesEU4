@@ -1,0 +1,27 @@
+# Verona
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 108
+1421.4.5 = {
+	monarch = {
+		name = "Virginia"
+		birth_date = 1418.1.5
+		dynasty = "Adorno"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 108
+	add_treasury = 47
+	add_prestige = 63
+}

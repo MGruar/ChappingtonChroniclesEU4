@@ -1,0 +1,274 @@
+# Rascia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 168 135 57 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Theocharistos" "Sibylla" "Euphrosyne" "Symeon" "Dionysia" "Gennadios" "Basillike" "Euphemia" "Thomas" "Arsenios" 
+	"Aigidia" "Anthousa" "Nikarete" "Adrianos" "Ioustina" "Pyrros" "Phokas" "Eupraxia" "Konstas" "Gerasimos" 
+	"Konstantinos" "Alexandra" "Akakios" "Chrysanthos" "Theophanes" "Kyriakos" "Anastasia" "Elaiodora" "Adriane" "Helias" 
+	"Eunike" "Kallinikos" "Theodotos" "Evangelos" "Hypatios" "Romylia" "Dorothea" "Hedwig" "Petronia" "Martha" 
+	"Dionysios" "Pankratios" "Basileios" "Prokopios" "Eusebia" "Ioanna" "Agathe" "Epiphania" "Euphemios" "Margarita" 
+	"Ioulia" "Petros" "Barbara" "Anthe" "Sergios" "Konstantine" "Kyra" "Kaisarios" "Matthaios" "Theodoulos" 
+	"Iouliana" "Melissa" "Theophano" "Xene" "Niketas" "Kyriake" "Sabas" "Thomais" "Athanasia" "Hektorios" 
+	"Eulalia" "Maurikios" "Pelagia" "Sophia" "Niphon" "Damiane" "Konstantios" "Šahram" "Apollonia" "Orestes" 
+	"Nikephoros" "Simonis" "Evanthia" "Damianos" "Viviana" "Komitas" "Theoktiste" "Zenobia" "Megistos" "Artemios" 
+	"Theodosios" "Leontios" "Anatolios" "Hypatia" "Ioustinianos" "Antonia" "Vojislav" "Nikodim" "Trajan" "Godimir" 
+	"Dorotheos" "Symmachos" "Nikoletta" "Raphail" "Methodios" "Pelagios" "Hierotheos" "Tryphon" "Andronikos" "Stephanos" 
+	"Alexandros" "Alexios" "Anastasios" "Andreas" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Athanasios" 
+	"Bardas" "Bartholomaios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysogonos" "Daniel" "David" "Demetrios" 
+	"Diogenes" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Eusebios" "Eustathios" "Gabriel" "Georgios" "Germanos" 
+	"Gregoras" "Gregorios" "Herakleios" "Himerios" "Hippolytos" "Iakobos" "Ignatios" "Innokentios" "Ioannes" "Ioannikios" 
+	"Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinos" "Kallistos" "Kosmas" "Kyrillos" 
+	"Kyros" "Laurentios" "Lazaros" "Leon" "Loukas" "Makarios" "Manuel" "Markos" "Maximos" "Meletios" 
+	"Michael" "Narses" "Neophytos" "Nikodemos" "Nikolaos" "Pamphilios" "Pantoleon" "Paschalis" "Pavlos" "Philaretos" 
+	"Philippos" "Philotheos" "Photios" "Polykarpos" "Porphyrios" "Romanos" "Samuel" "Serapion" "Sebastianos" "Staurakios" 
+	"Theodoros" "Theoktistos" "Theophilos" "Theophylaktos" "Tiberios" "Traianos" "Timotheos" "Valerios" "Zacharias" "Zenobios" 
+	"Zenon" }
+monarch_names = {
+	"Theocharistos #1" = 24
+	"Sibylla #0" = -1
+	"Euphrosyne #0" = -1
+	"Symeon #0" = 1
+	"Dionysia #0" = -1
+	"Gennadios #0" = 1
+	"Basillike #0" = -1
+	"Euphemia #0" = -1
+	"Thomas #1" = 21
+	"Arsenios #0" = 1
+	"Aigidia #0" = -1
+	"Anthousa #1" = -25
+	"Nikarete #1" = -25
+	"Adrianos #0" = 1
+	"Ioustina #0" = -1
+	"Pyrros #0" = 1
+	"Phokas #2" = 21
+	"Eupraxia #0" = -1
+	"Konstas #0" = 1
+	"Gerasimos #1" = 21
+	"Konstantinos #0" = 1
+	"Alexandra #0" = -1
+	"Akakios #0" = 1
+	"Chrysanthos #0" = 1
+	"Theophanes #0" = 1
+	"Kyriakos #0" = 1
+	"Anastasia #0" = -1
+	"Elaiodora #0" = -1
+	"Adriane #0" = -1
+	"Helias #0" = 1
+	"Eunike #0" = -1
+	"Kallinikos #0" = 1
+	"Theodotos #0" = 1
+	"Evangelos #0" = 1
+	"Hypatios #1" = 18
+	"Romylia #0" = -1
+	"Dorothea #0" = -1
+	"Hedwig #0" = -1
+	"Petronia #0" = -1
+	"Martha #0" = -1
+	"Dionysios #0" = 1
+	"Pankratios #0" = 1
+	"Basileios #0" = 1
+	"Prokopios #0" = 1
+	"Eusebia #0" = -1
+	"Ioanna #0" = -1
+	"Agathe #0" = -1
+	"Epiphania #0" = -1
+	"Euphemios #0" = 1
+	"Margarita #1" = -25
+	"Ioulia #0" = -1
+	"Petros #0" = 1
+	"Barbara #0" = -1
+	"Anthe #0" = -1
+	"Sergios #0" = 1
+	"Konstantine #0" = -1
+	"Kyra #0" = -1
+	"Kaisarios #0" = 1
+	"Matthaios #0" = 1
+	"Theodoulos #1" = 18
+	"Iouliana #0" = -1
+	"Melissa #2" = -22
+	"Theophano #0" = -1
+	"Xene #0" = -1
+	"Niketas #0" = 1
+	"Kyriake #0" = -1
+	"Sabas #0" = 1
+	"Thomais #0" = -1
+	"Athanasia #0" = -1
+	"Hektorios #1" = 21
+	"Eulalia #0" = -1
+	"Maurikios #0" = 1
+	"Pelagia #0" = -1
+	"Sophia #0" = -1
+	"Niphon #1" = 27
+	"Damiane #0" = -1
+	"Konstantios #0" = 1
+	"Šahram #0" = 1
+	"Apollonia #0" = -1
+	"Orestes #0" = 1
+	"Nikephoros #0" = 1
+	"Simonis #0" = -1
+	"Evanthia #0" = -1
+	"Damianos #0" = 1
+	"Viviana #0" = -1
+	"Komitas #1" = 21
+	"Theoktiste #0" = -1
+	"Zenobia #0" = -1
+	"Megistos #0" = 1
+	"Artemios #4" = 24
+	"Theodosios #0" = 1
+	"Leontios #2" = 21
+	"Anatolios #1" = 18
+	"Hypatia #0" = -1
+	"Ioustinianos #0" = 1
+	"Antonia #0" = -1
+	"Vojislav #1" = 0
+	"Nikodim #1" = 0
+	"Trajan #1" = 0
+	"Godimir #1" = 0
+	"Dorotheos #1" = 0
+	"Symmachos #2" = 0
+	"Nikoletta #1" = -1
+	"Raphail #1" = 0
+	"Methodios #1" = 0
+	"Pelagios #1" = 0
+	"Hierotheos #2" = 0
+	"Tryphon #1" = 0
+	"Andronikos #3" = 0
+	"Stephanos #1" = 0
+	"Alexandros #0" = 0
+	"Alexios #0" = 0
+	"Anastasios #0" = 0
+	"Andreas #0" = 0
+	"Anthemios #0" = 0
+	"Anthimos #0" = 0
+	"Antiochos #0" = 0
+	"Antonios #0" = 0
+	"Apollonios #0" = 0
+	"Athanasios #0" = 0
+	"Bardas #0" = 0
+	"Bartholomaios #0" = 0
+	"Belisarios #0" = 0
+	"Boethios #0" = 0
+	"Bosporios #0" = 0
+	"Christophoros #0" = 0
+	"Chrysogonos #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Eirenaios #0" = 0
+	"Eudoxios #0" = 0
+	"Eustratios #0" = 0
+	"Eugenios #0" = 0
+	"Eusebios #0" = 0
+	"Eustathios #0" = 0
+	"Gabriel #0" = 0
+	"Georgios #0" = 0
+	"Germanos #0" = 0
+	"Gregoras #0" = 0
+	"Gregorios #0" = 0
+	"Herakleios #0" = 0
+	"Himerios #0" = 0
+	"Hippolytos #0" = 0
+	"Iakobos #0" = 0
+	"Ignatios #0" = 0
+	"Innokentios #0" = 0
+	"Ioannes #0" = 0
+	"Ioannikios #0" = 0
+	"Iordanes #0" = 0
+	"Ioseph #0" = 0
+	"Isaakios #0" = 0
+	"Isaias #0" = 0
+	"Isidoros #0" = 0
+	"Ioulianos #0" = 0
+	"Ioustinos #0" = 0
+	"Kallistos #0" = 0
+	"Kosmas #0" = 0
+	"Kyrillos #0" = 0
+	"Kyros #0" = 0
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Leon #0" = 0
+	"Loukas #0" = 0
+	"Makarios #0" = 0
+	"Manuel #0" = 0
+	"Markos #0" = 0
+	"Maximos #0" = 0
+	"Meletios #0" = 0
+	"Michael #0" = 0
+	"Narses #0" = 0
+	"Neophytos #0" = 0
+	"Nikodemos #0" = 0
+	"Nikolaos #0" = 0
+	"Pamphilios #0" = 0
+	"Pantoleon #0" = 0
+	"Paschalis #0" = 0
+	"Pavlos #0" = 0
+	"Philaretos #0" = 0
+	"Philippos #0" = 0
+	"Philotheos #0" = 0
+	"Photios #0" = 0
+	"Polykarpos #0" = 0
+	"Porphyrios #0" = 0
+	"Romanos #0" = 0
+	"Samuel #0" = 0
+	"Serapion #0" = 0
+	"Sebastianos #0" = 0
+	"Staurakios #0" = 0
+	"Theodoros #0" = 0
+	"Theoktistos #0" = 0
+	"Theophilos #0" = 0
+	"Theophylaktos #0" = 0
+	"Tiberios #0" = 0
+	"Traianos #0" = 0
+	"Timotheos #0" = 0
+	"Valerios #0" = 0
+	"Zacharias #0" = 0
+	"Zenobios #0" = 0
+	"Zenon #0" = 0
+}
+ship_names = {
+	Raska
+	Bosnia
+	Duklja
+	Zahumlje
+	Travunia
+	Pagania
+	"Stefan Nemanja"
+	"Stefan Prvovencani"
+	"Stefan Dusan"
+	Milutin
+}
+

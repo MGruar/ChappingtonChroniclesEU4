@@ -1,0 +1,26 @@
+# Warangal
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2037
+1397.4.19 = {
+	monarch = {
+		name = "Kadarangkonda II"
+		birth_date = 1383.9.15
+		dynasty = "Vaidumba"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 2037
+	add_treasury = 51
+	add_prestige = 695
+}

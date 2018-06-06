@@ -1,0 +1,26 @@
+# Bohemia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = czech
+religion = jewish
+clear_scripted_personalities = yes
+capital = 266
+1439.8.7 = {
+	monarch = {
+		name = "Morguetel"
+		birth_date = 1430.1.19
+		dynasty = "de Châteaubriant"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 266
+	add_treasury = 35
+	add_prestige = 15
+}

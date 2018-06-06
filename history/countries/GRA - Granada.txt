@@ -1,0 +1,25 @@
+# Granada
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 223
+1441.6.20 = {
+	monarch = {
+		name = "Glenn"
+		birth_date = 1394.9.23
+		dynasty = "de Tamisa"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 223
+	add_treasury = 65
+	add_prestige = 115
+}

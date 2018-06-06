@@ -1,0 +1,26 @@
+# Temes
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 156
+1421.5.20 = {
+	monarch = {
+		name = "Anatolios"
+		birth_date = 1420.1.18
+		dynasty = "Ampelas"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 156
+	add_treasury = 7
+	add_prestige = 92
+}

@@ -1,0 +1,132 @@
+# Su-lig
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 216 195 104 }
+
+
+
+
+leader_names = {
+
+	"Virabahu" "Ahiavadevi" "Suvrata" "Tse" "Kunzang" "Lha" "Padatcaina" "Kelzang" "Hvarda" "Denöl" 
+	"Kimatcuna" "Dolma" "Jayamala" "Songtsen" "Yajiyavati" "Trinring" "Donyö" "Sönam" "Senöl" "Vishirapumna" 
+	"Lukhong" "Sudhana" "Ratnavati" "Harjjaravarman" "Udumtsen" "Dharmapala" "Bhattamahabahu" "Devavati" "Durlabha" "Gopala" 
+	"Bhogavati" "Dattadevi" "Vijaya" "Kumarapala" "Yajnavati" "Gandharavati" "Tyagasimha" "Jayapala" "Kuladevi" "Ratnadhwajpala" 
+	"Syamadevi" "Mahendravarman" "Vasumati" "Indrapala" "Vijnayavati" "Harshapala" "Timgyadeva" "Ummoka" "Purandelapala" "Harshavarman" 
+	"Bum" "Gyalpo" "Detsen" "Yasaraksite" "Lasya" "Kartir" "Lengleng" "Mamatti" "Issapake" "Upage" 
+	"Uluke" "Cina" "Nasme" "Mutik" "Langdarma" "Mangnyen" "Dompu" "Thönmi" "Gyaltsen" "Namkha" 
+	"Mutri" "Öpoche" "Aryamgula" "Palden" "Zhonnu" "Yülsung" "Phoyongsa" "Pema" "Abaoji" "Bei" 
+	"Biegute" "Bishe" "Dashi" "Deguang" "Dilie" "Duolubu" "Fuguzhi" "Gou'er" "Hongji" "Hougu" 
+	"Jing" "Ketuyu" "Rian" "Ruan" "Suogu" "Tiande" "Wenshunu" "Wolila" "Wuge" "Wuyu" 
+	"Xian" "Xiuge" "Yanchege" "Yanxi" "Yilie" "Zhilugu" "Zhongyuan" "Zongzhen" }
+monarch_names = {
+	"Virabahu #0" = 1
+	"Ahiavadevi #0" = -1
+	"Suvrata #1" = -25
+	"Tse #1" = -19
+	"Kunzang #0" = -1
+	"Lha #0" = 1
+	"Padatcaina #0" = 1
+	"Kelzang #0" = -1
+	"Hvarda #0" = 1
+	"Denöl #0" = 1
+	"Kimatcuna #0" = 1
+	"Dolma #0" = -1
+	"Jayamala #0" = 1
+	"Songtsen #1" = 18
+	"Yajiyavati #0" = -1
+	"Trinring #0" = 1
+	"Donyö #0" = 1
+	"Sönam #0" = 1
+	"Senöl #0" = 1
+	"Vishirapumna #0" = 1
+	"Lukhong #0" = 1
+	"Sudhana #0" = 1
+	"Ratnavati #0" = -1
+	"Harjjaravarman #0" = 1
+	"Udumtsen #0" = 1
+	"Dharmapala #0" = 1
+	"Bhattamahabahu #0" = 1
+	"Devavati #0" = -1
+	"Durlabha #0" = -1
+	"Gopala #0" = 1
+	"Bhogavati #0" = -1
+	"Dattadevi #0" = -1
+	"Vijaya #0" = 1
+	"Kumarapala #0" = 1
+	"Yajnavati #0" = -1
+	"Gandharavati #0" = -1
+	"Tyagasimha #0" = 1
+	"Jayapala #0" = 1
+	"Kuladevi #0" = -1
+	"Ratnadhwajpala #0" = 1
+	"Syamadevi #0" = -1
+	"Mahendravarman #0" = 1
+	"Vasumati #0" = -1
+	"Indrapala #0" = 1
+	"Vijnayavati #0" = -1
+	"Harshapala #0" = 1
+	"Timgyadeva #0" = 1
+	"Ummoka #1" = 18
+	"Purandelapala #2" = 21
+	"Harshavarman #0" = 1
+	"Bum #0" = -1
+	"Gyalpo #0" = 1
+	"Detsen #0" = 1
+	"Yasaraksite #0" = -1
+	"Lasya #0" = -1
+	"Kartir #1" = 0
+	"Lengleng #1" = 0
+	"Mamatti #1" = 0
+	"Issapake #1" = 0
+	"Upage #1" = 0
+	"Uluke #1" = 0
+	"Cina #1" = 0
+	"Nasme #1" = 0
+	"Mutik #1" = 0
+	"Langdarma #1" = 0
+	"Mangnyen #1" = 0
+	"Dompu #1" = 0
+	"Thönmi #3" = 0
+	"Gyaltsen #4" = 0
+	"Namkha #1" = 0
+	"Mutri #1" = 0
+	"Öpoche #1" = 0
+	"Aryamgula #1" = 0
+	"Palden #1" = 0
+	"Zhonnu #1" = 0
+	"Yülsung #1" = 0
+	"Phoyongsa #1" = -1
+	"Pema #1" = -1
+	"Abaoji #0" = 0
+	"Bei #0" = 0
+	"Biegute #0" = 0
+	"Bishe #0" = 0
+	"Dashi #0" = 0
+	"Deguang #0" = 0
+	"Dilie #0" = 0
+	"Duolubu #0" = 0
+	"Fuguzhi #0" = 0
+	"Gou'er #0" = 0
+	"Hongji #0" = 0
+	"Hougu #0" = 0
+	"Jing #0" = 0
+	"Ketuyu #0" = 0
+	"Rian #0" = 0
+	"Ruan #0" = 0
+	"Suogu #0" = 0
+	"Tiande #0" = 0
+	"Wenshunu #0" = 0
+	"Wolila #0" = 0
+	"Wuge #0" = 0
+	"Wuyu #0" = 0
+	"Xian #0" = 0
+	"Xiuge #0" = 0
+	"Yanchege #0" = 0
+	"Yanxi #0" = 0
+	"Yilie #0" = 0
+	"Zhilugu #0" = 0
+	"Zhongyuan #0" = 0
+	"Zongzhen #0" = 0
+}
+

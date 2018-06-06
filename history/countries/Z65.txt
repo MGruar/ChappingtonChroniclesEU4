@@ -1,0 +1,25 @@
+# Tripolis
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 378
+1436.8.25 = {
+	monarch = {
+		name = "Theodosios"
+		birth_date = 1407.2.14
+		dynasty = "de Nikomedeia"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 378
+	add_treasury = 55
+	add_prestige = 63
+}

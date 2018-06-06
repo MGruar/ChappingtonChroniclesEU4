@@ -1,0 +1,25 @@
+# Antiócheia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2313
+1440.12.24 = {
+	monarch = {
+		name = "Manuel"
+		birth_date = 1423.10.23
+		dynasty = "Pentarkles"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = martial_educator_personality
+}
+1444.11.11 = {
+	capital = 2313
+	add_treasury = 123
+	add_prestige = 54
+}

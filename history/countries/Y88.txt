@@ -1,0 +1,26 @@
+# Nagchu
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 4205
+1418.1.11 = {
+	monarch = {
+		name = "Taknye"
+		birth_date = 1403.9.16
+		dynasty = "Chimza"
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4205
+	add_treasury = 44
+	add_prestige = 296
+}

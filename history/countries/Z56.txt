@@ -1,0 +1,25 @@
+# Nikaea
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 317
+1441.12.2 = {
+	monarch = {
+		name = "Megistos"
+		birth_date = 1411.4.11
+		dynasty = "Balatios"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 317
+	add_treasury = 46
+	add_prestige = 133
+}

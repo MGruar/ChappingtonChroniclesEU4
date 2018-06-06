@@ -1,0 +1,26 @@
+# Nisiá Aigaîos
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2348
+1418.10.21 = {
+	monarch = {
+		name = "Meletios"
+		birth_date = 1399.9.10
+		dynasty = "Mihranian"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 2348
+	add_treasury = 152
+	add_prestige = 259
+}

@@ -1,0 +1,25 @@
+# Muradid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2310
+1435.11.11 = {
+	monarch = {
+		name = "Keyghobad"
+		birth_date = 1407.7.6
+		dynasty = "Muradid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2310
+	add_treasury = 0
+	add_prestige = 173
+}

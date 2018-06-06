@@ -1,0 +1,25 @@
+# Karurid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 510
+1434.11.22 = {
+	monarch = {
+		name = "Arjunpal"
+		birth_date = 1395.1.18
+		dynasty = "Karurid"
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 510
+	add_treasury = 93
+	add_prestige = 88
+}

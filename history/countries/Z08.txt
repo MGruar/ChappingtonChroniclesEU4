@@ -1,0 +1,25 @@
+# Africa
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = cathar
+clear_scripted_personalities = yes
+capital = 356
+1438.11.1 = {
+	monarch = {
+		name = "Colin II"
+		birth_date = 1428.7.20
+		dynasty = "Mac Gillebrath"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 356
+	add_treasury = 58
+	add_prestige = 68
+}

@@ -1,0 +1,26 @@
+# Zakari
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 410
+1414.8.24 = {
+	monarch = {
+		name = "Morad II"
+		birth_date = 1386.6.20
+		dynasty = "Zakari"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 410
+	add_treasury = 165
+	add_prestige = 580
+}

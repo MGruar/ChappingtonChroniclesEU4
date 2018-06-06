@@ -1,0 +1,158 @@
+# Croatia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 162 53 53 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Prokopios" "Damiane" "Nikarete" "Damianos" "Manuel" "Euphrosyne" "Loukas" "Hierotheos" "Matthaios" "Theodosia" 
+	"Maurikios" "Apollonios" "Stephanos" "Stephania" "Ioannes" "Agathe" "Budimir" "Milman" "Stjepan" "Vukan" 
+	"Vuk" "Dobromir" "Dragomir" "Dragan" "Vlaicu" "Ratimir" "Igor" "Yilig" "Stéphanie" "Staurakios" 
+	"Sebastianos" "Basileios" "Nikolaos" "Theoktistos" "Ioseph" "Gabriel" "Erich" "Dorotheos" "NataŠa" "Eudokia" 
+	"Apollonia" "Niphon" "Neophytos" "Megistos" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
+	"Branimir" "Castimir" "Danail" "Dmitar" "Drzislav" "Dujam" "Duym" "Filip" "Gaspar" "Gheorghe" 
+	"Grigorii" "Hranislav" "Hrvoje" "Ioan" "Ivan" "Ivanis" "Jitej" "Karlo" "Koloman" "Kresimir" 
+	"Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" "Mislav" "Mutimir" "Nikolitza" "Ognjen" 
+	"Petar" "Prohor" "Radomir" "Sebeslav" "Seslav" "Slavich" "Stanislav" "Sulvan" "Teodor" "Tomislav" 
+	"Tvrdoslav" "Tvrtko" "Ulfo" "Vid" "Vitomir" "Zvonimir" }
+monarch_names = {
+	"Prokopios #2" = 18
+	"Damiane #0" = -1
+	"Nikarete #0" = -1
+	"Damianos #0" = 1
+	"Manuel #0" = 1
+	"Euphrosyne #0" = -1
+	"Loukas #0" = 1
+	"Hierotheos #0" = 1
+	"Matthaios #2" = 21
+	"Theodosia #0" = -1
+	"Maurikios #0" = 1
+	"Apollonios #0" = 1
+	"Stephanos #0" = 1
+	"Stephania #0" = -1
+	"Ioannes #1" = 18
+	"Agathe #0" = -1
+	"Budimir #1" = 0
+	"Milman #1" = 0
+	"Stjepan #1" = 0
+	"Vukan #1" = 0
+	"Vuk #1" = 0
+	"Dobromir #1" = 0
+	"Dragomir #1" = 0
+	"Dragan #1" = 0
+	"Vlaicu #1" = 0
+	"Ratimir #1" = 0
+	"Igor #1" = 0
+	"Yilig #1" = 0
+	"Stéphanie #1" = -1
+	"Staurakios #1" = 0
+	"Sebastianos #1" = 0
+	"Basileios #1" = 0
+	"Nikolaos #1" = 0
+	"Theoktistos #1" = 0
+	"Ioseph #1" = 0
+	"Gabriel #1" = 0
+	"Erich #1" = 0
+	"Dorotheos #1" = 0
+	"NataŠa #1" = -1
+	"Eudokia #1" = -1
+	"Apollonia #1" = -1
+	"Niphon #1" = 0
+	"Neophytos #1" = 0
+	"Megistos #2" = 0
+	"Adam #0" = 0
+	"Andrija #0" = 0
+	"Bartol #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Boris #0" = 0
+	"Branimir #0" = 0
+	"Castimir #0" = 0
+	"Danail #0" = 0
+	"Dmitar #0" = 0
+	"Drzislav #0" = 0
+	"Dujam #0" = 0
+	"Duym #0" = 0
+	"Filip #0" = 0
+	"Gaspar #0" = 0
+	"Gheorghe #0" = 0
+	"Grigorii #0" = 0
+	"Hranislav #0" = 0
+	"Hrvoje #0" = 0
+	"Ioan #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Jitej #0" = 0
+	"Karlo #0" = 0
+	"Koloman #0" = 0
+	"Kresimir #0" = 0
+	"Ladislav #0" = 0
+	"Ljudevit #0" = 0
+	"Ljutomisl #0" = 0
+	"Lovro #0" = 0
+	"Matej #0" = 0
+	"Mihajlo #0" = 0
+	"Mislav #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Ognjen #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Sebeslav #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Stanislav #0" = 0
+	"Sulvan #0" = 0
+	"Teodor #0" = 0
+	"Tomislav #0" = 0
+	"Tvrdoslav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vitomir #0" = 0
+	"Zvonimir #0" = 0
+}
+ship_names = {
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
+}
+

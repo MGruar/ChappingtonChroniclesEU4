@@ -1,0 +1,26 @@
+# Mali
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1134
+1427.10.26 = {
+	monarch = {
+		name = "Michael"
+		birth_date = 1426.7.12
+		dynasty = "Mac Gabráin"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1134
+	add_treasury = 10
+	add_prestige = 78
+}

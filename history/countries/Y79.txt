@@ -1,0 +1,26 @@
+# Harasimhadevid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 567
+1406.5.20 = {
+	monarch = {
+		name = "Vasujyeshtha"
+		birth_date = 1383.8.12
+		dynasty = "Harasimhadevid"
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = fertile_personality
+}
+1444.11.11 = {
+	capital = 567
+	add_treasury = 67
+	add_prestige = 482
+}

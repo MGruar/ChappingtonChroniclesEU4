@@ -1,0 +1,26 @@
+# Srirangapatn
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 526
+1376.2.2 = {
+	monarch = {
+		name = "Vinayaditya VI"
+		birth_date = 1369.9.28
+		dynasty = "Srirangapatn"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = -32
+	add_prestige = 835
+}

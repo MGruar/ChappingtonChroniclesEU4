@@ -1,0 +1,25 @@
+# Samos
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2348
+1437.9.12 = {
+	monarch = {
+		name = "Gennadios II"
+		birth_date = 1428.2.2
+		dynasty = "Cemšîdid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 2348
+	add_treasury = 78
+	add_prestige = 141
+}

@@ -1,0 +1,229 @@
+# Zakari
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 45 118 57 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Zakaria" "Golbahar" "Morad" "Zand" "Parvin" "Furuzan" "Sina" "Shahzadeh" "Ghazal" "Elnaz" 
+	"Bakhtiar" "Delbar" "Jamileh" "Bahman" "Arghavan" "Golnaz" "Yasaman" "Hooshyar" "Azadeh" "Dinah" 
+	"Faramarz" "Yekta" "Farah" "Zeynab" "Parviz" "Ayeshah" "Delaram" "Mehrab" "Aurang" "Fariborz" 
+	"Khodadad" "Shahbaz" "Mariam" "Fareed" "Nazilla" "Rostam" "Hazarasp" "Pourandokht" "Berta" "Vishtasb" 
+	"Sadri" "Esfandiar" "Yazdegerd" "Fareedeh" "Morteza" "Ayten" "Pashang" "Yousef" "Danush" "Azarmidokht" 
+	"Goshtasb" "Ghamze" "Khudayar" "Behrouz" "Donya" "Jahandar" "Bahram" "Vahhab" "Farrin" "Eskander" 
+	"Shahin" "Nazgol" "Kharmandar" "Navvaba" "Shayan" "Zia" "Babak" "Zarrindokht" "Varshasb" "Farrukhzad" 
+	"Mahdokht" "Farnaz" "Zahak" "Farhad" "Asa" "Kavadh" "Shahrzad" "Bahar" "Hormoz" "Golshan" 
+	"Noor" "Farva" "Jahanshah" "Keyghobad" "Salomeh" "Ramadan" "Husam" "Shujah" "Muslihiddin" "Mirza" 
+	"Qawurd" "Mashad" "Assad" "Bozorg" "Afshar" "Amin" "Anushirvan" "Aram" "Ardahan" "Ardavan" 
+	"Ardeshir" "Behrad" "Darab" "Dariush" "Davud" "Djamasp" "Ebrahim" "Ehsan" "Esma'il" "Faraz" 
+	"Farroukh" "Farzad" "Fath" "Ferdows" "Fereedun" "Ghobad" "Gholam" "Godarz" "Hafez" "Hassan" 
+	"Hedayat" "Humayun" "Jahangir" "Jamshid" "Javeed" "Kambiz" "Kamran" "Kavoos" "Keykhosrau" "Khashayar" 
+	"Khosrau" "Khurshid" "Kurush" "Manuchihr" "Manushihr" "Marzuban" "Mehrzad" "Mozaffar" "Nard" "Naveed" 
+	"Nawid" "Nezam" "Peroz" "Pujman" "Reza" "Ruhollah" "Salman" "Shahab" "Shahram" "Shahrokh" 
+	"Shahruz" "Shahryar" "Tahmasb" "Vahid" "Vali" }
+monarch_names = {
+	"Zakaria #0" = 1
+	"Golbahar #0" = -1
+	"Morad #2" = 24
+	"Zand #0" = 1
+	"Parvin #0" = -1
+	"Furuzan #0" = -1
+	"Sina #0" = 1
+	"Shahzadeh #0" = -1
+	"Ghazal #0" = -1
+	"Elnaz #0" = -1
+	"Bakhtiar #0" = 1
+	"Delbar #0" = -1
+	"Jamileh #0" = -1
+	"Bahman #0" = 1
+	"Arghavan #0" = -1
+	"Golnaz #0" = -1
+	"Yasaman #0" = -1
+	"Hooshyar #0" = 1
+	"Azadeh #0" = -1
+	"Dinah #0" = -1
+	"Faramarz #1" = 24
+	"Yekta #0" = -1
+	"Farah #0" = -1
+	"Zeynab #0" = -1
+	"Parviz #0" = 1
+	"Ayeshah #0" = 1
+	"Delaram #0" = -1
+	"Mehrab #0" = 1
+	"Aurang #0" = 1
+	"Fariborz #0" = 1
+	"Khodadad #3" = 24
+	"Shahbaz #0" = 1
+	"Mariam #0" = -1
+	"Fareed #0" = 1
+	"Nazilla #0" = -1
+	"Rostam #0" = 1
+	"Hazarasp #0" = 1
+	"Pourandokht #0" = -1
+	"Berta #0" = 1
+	"Vishtasb #2" = 24
+	"Sadri #0" = 1
+	"Esfandiar #2" = 18
+	"Yazdegerd #0" = 1
+	"Fareedeh #0" = -1
+	"Morteza #0" = 1
+	"Ayten #0" = -1
+	"Pashang #0" = 1
+	"Yousef #0" = 1
+	"Danush #0" = 1
+	"Azarmidokht #0" = -1
+	"Goshtasb #0" = 1
+	"Ghamze #0" = -1
+	"Khudayar #0" = 1
+	"Behrouz #0" = 1
+	"Donya #0" = -1
+	"Jahandar #0" = 1
+	"Bahram #1" = 21
+	"Vahhab #0" = 1
+	"Farrin #0" = -1
+	"Eskander #0" = 1
+	"Shahin #0" = 1
+	"Nazgol #0" = -1
+	"Kharmandar #0" = 1
+	"Navvaba #0" = -1
+	"Shayan #0" = 1
+	"Zia #0" = 1
+	"Babak #0" = 1
+	"Zarrindokht #0" = -1
+	"Varshasb #0" = 1
+	"Farrukhzad #0" = 1
+	"Mahdokht #0" = -1
+	"Farnaz #0" = -1
+	"Zahak #0" = 1
+	"Farhad #1" = 21
+	"Asa #0" = -1
+	"Kavadh #1" = 18
+	"Shahrzad #0" = -1
+	"Bahar #0" = -1
+	"Hormoz #0" = 1
+	"Golshan #0" = -1
+	"Noor #0" = -1
+	"Farva #0" = -1
+	"Jahanshah #1" = 18
+	"Keyghobad #0" = 1
+	"Salomeh #0" = -1
+	"Ramadan #1" = 0
+	"Husam #1" = 0
+	"Shujah #1" = 0
+	"Muslihiddin #1" = 0
+	"Mirza #1" = 0
+	"Qawurd #1" = 0
+	"Mashad #1" = 0
+	"Assad #1" = 0
+	"Bozorg #1" = 0
+	"Afshar #0" = 0
+	"Amin #0" = 0
+	"Anushirvan #0" = 0
+	"Aram #0" = 0
+	"Ardahan #0" = 0
+	"Ardavan #0" = 0
+	"Ardeshir #0" = 0
+	"Behrad #0" = 0
+	"Darab #0" = 0
+	"Dariush #0" = 0
+	"Davud #0" = 0
+	"Djamasp #0" = 0
+	"Ebrahim #0" = 0
+	"Ehsan #0" = 0
+	"Esma'il #0" = 0
+	"Faraz #0" = 0
+	"Farroukh #0" = 0
+	"Farzad #0" = 0
+	"Fath #0" = 0
+	"Ferdows #0" = 0
+	"Fereedun #0" = 0
+	"Ghobad #0" = 0
+	"Gholam #0" = 0
+	"Godarz #0" = 0
+	"Hafez #0" = 0
+	"Hassan #0" = 0
+	"Hedayat #0" = 0
+	"Humayun #0" = 0
+	"Jahangir #0" = 0
+	"Jamshid #0" = 0
+	"Javeed #0" = 0
+	"Kambiz #0" = 0
+	"Kamran #0" = 0
+	"Kavoos #0" = 0
+	"Keykhosrau #0" = 0
+	"Khashayar #0" = 0
+	"Khosrau #0" = 0
+	"Khurshid #0" = 0
+	"Kurush #0" = 0
+	"Manuchihr #0" = 0
+	"Manushihr #0" = 0
+	"Marzuban #0" = 0
+	"Mehrzad #0" = 0
+	"Mozaffar #0" = 0
+	"Nard #0" = 0
+	"Naveed #0" = 0
+	"Nawid #0" = 0
+	"Nezam #0" = 0
+	"Peroz #0" = 0
+	"Pujman #0" = 0
+	"Reza #0" = 0
+	"Ruhollah #0" = 0
+	"Salman #0" = 0
+	"Shahab #0" = 0
+	"Shahram #0" = 0
+	"Shahrokh #0" = 0
+	"Shahruz #0" = 0
+	"Shahryar #0" = 0
+	"Tahmasb #0" = 0
+	"Vahid #0" = 0
+	"Vali #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

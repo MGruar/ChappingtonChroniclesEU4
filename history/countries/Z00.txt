@@ -1,0 +1,40 @@
+# Great Muirland
+government = administrative_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 249
+1400.9.26 = {
+	monarch = {
+		name = "Alexander II"
+		birth_date = 1392.12.1
+		dynasty = "Chappington"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = midas_touched_personality
+}
+1415.3.9 = {
+	heir = {
+		name = "Eleanor"
+		monarch_name = "Eleanor"
+		dynasty = "Chappington"
+		birth_date = 1415.3.9
+		death_date = 1495.3.9
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 249
+	add_treasury = 686
+	add_prestige = 4275
+}

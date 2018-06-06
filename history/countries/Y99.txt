@@ -1,0 +1,39 @@
+# Thamaritid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 391
+1423.10.11 = {
+	monarch = {
+		name = "Isa III"
+		birth_date = 1391.5.17
+		dynasty = "Thamaritid"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = loose_lips_personality
+}
+1428.8.1 = {
+	heir = {
+		name = "Sa'daddin"
+		monarch_name = "Sa'daddin"
+		dynasty = "Thamaritid"
+		birth_date = 1428.8.1
+		death_date = 1508.8.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 391
+	add_treasury = 45
+	add_prestige = 111
+}

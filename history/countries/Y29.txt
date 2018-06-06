@@ -1,0 +1,36 @@
+# Aralkum
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1971
+1436.8.24 = {
+	monarch = {
+		name = "Bolkhadar"
+		birth_date = 1412.3.23
+		dynasty = "Aralkum"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Shiraghul"
+		monarch_name = "Shiraghul"
+		dynasty = "Aralkum"
+		birth_date = 1431.12.17
+		death_date = 1511.12.17
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 1971
+	add_treasury = 1
+	add_prestige = 105
+}

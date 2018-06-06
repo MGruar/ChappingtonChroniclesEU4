@@ -1,0 +1,26 @@
+# Nadia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 561
+1410.10.27 = {
+	monarch = {
+		name = "Ramapala"
+		birth_date = 1381.11.20
+		dynasty = "Nyang"
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 561
+	add_treasury = 31
+	add_prestige = 487
+}

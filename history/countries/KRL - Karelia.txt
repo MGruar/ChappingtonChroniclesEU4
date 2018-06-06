@@ -1,0 +1,25 @@
+# Karelia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1776
+1440.10.25 = {
+	monarch = {
+		name = "Ewan"
+		birth_date = 1416.4.2
+		dynasty = "Ingrija"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1776
+	add_treasury = 12
+	add_prestige = 96
+}

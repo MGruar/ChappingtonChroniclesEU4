@@ -1,0 +1,24 @@
+# Katoch
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = avadhi
+religion = hinduism
+capital = 511
+1437.12.13 = {
+	monarch = {
+		name = "Dattadevi"
+		birth_date = 1437.5.7
+		dynasty = "Katoch"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 511
+	add_treasury = 63
+	add_prestige = 148
+}

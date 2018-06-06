@@ -1,0 +1,26 @@
+# The Ecumenical Patriarchate
+government = theocratic_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 151
+1432.4.16 = {
+	monarch = {
+		name = "Methodios"
+		birth_date = 1398.12.6
+		dynasty = "of  Konstantinoúpolis"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 798
+	add_prestige = 128
+}

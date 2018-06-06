@@ -1,0 +1,22 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "von Wittelsbach" "von Supplingenburg" "von Rüssel" "von Weyhe" "von Dachau" "von Kerpen" "von Tunna" "von Salza" "von Malberg" "von Hohenlohe" "von Wüllersleben" "von Osterna" "Unruochinger" "von Chur" "von Stahleck" "von Tatabánya" "von Konstanz" "von Roth" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "de Joinville" "de Crecy" "Capet" "d'Abzac" "de Voisins" "de Bar" "de Guise" "de Saint-Pol" "de Messines" "Grenier" "de Montfaucon" "de Bailleul" "de Valromey" "d'Enghien" "de Montboissier" "de Tonnerre" "de Châtillon" "de la Roche" "d'Oloron" "de Soule" "de Pau" "d'Orthez" "de Luçon" "de Guéret" "de Cognac" "de Guines" "de Valpergue" "de Montbéliard" "de Strunino" "d'Aalst" "de Prog" "de Vienne" "de Drazdy" "de Breisgau" "de Luxembourg" "de Breisgau" "de Kurgan" "de Lescar" "de Courtenay" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { "Duro" }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { }
+	}
+	old_lombard = {
+		primary = ITA
+		dynast_names = Â§old_lombardÂ§
+	}
+}

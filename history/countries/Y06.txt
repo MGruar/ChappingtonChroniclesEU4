@@ -1,0 +1,37 @@
+# Mordvinia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+clear_scripted_personalities = yes
+capital = 310
+1425.10.19 = {
+	monarch = {
+		name = "Tuure"
+		birth_date = 1393.4.19
+		dynasty = "Kibarid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Uzhara"
+		monarch_name = "Uzhara"
+		dynasty = "Kibarid"
+		birth_date = 1414.10.4
+		death_date = 1494.10.4
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 310
+	add_treasury = -1
+	add_prestige = 561
+}

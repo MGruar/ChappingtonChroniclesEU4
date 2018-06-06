@@ -1,0 +1,25 @@
+# Pest
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 162
+1439.5.20 = {
+	monarch = {
+		name = "Eustache II"
+		birth_date = 1425.4.21
+		dynasty = "Akhasir"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 162
+	add_treasury = 28
+	add_prestige = 45
+}

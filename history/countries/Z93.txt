@@ -1,0 +1,26 @@
+# Sikelia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 124
+1432.3.28 = {
+	monarch = {
+		name = "Diogenes"
+		birth_date = 1410.9.24
+		dynasty = "Manginos"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 124
+	add_treasury = 14
+	add_prestige = 155
+}

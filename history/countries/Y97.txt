@@ -1,0 +1,27 @@
+# Xigazê
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 676
+1400.7.9 = {
+	monarch = {
+		name = "Nanamsa"
+		birth_date = 1388.12.12
+		dynasty = "Purgyal"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 676
+	add_treasury = 32
+	add_prestige = 1582
+}

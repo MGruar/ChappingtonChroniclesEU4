@@ -1,0 +1,26 @@
+# Balabhatid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2038
+1391.7.1 = {
+	monarch = {
+		name = "Bhikhari"
+		birth_date = 1382.12.22
+		dynasty = "Balabhatid"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2038
+	add_treasury = 58
+	add_prestige = 914
+}

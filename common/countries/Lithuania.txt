@@ -1,0 +1,231 @@
+# Lithuania
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 81 0 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Dyre" "Beata" "Ingvar" "Åsa" "Kristina" "Ragnar" "Dan" "Håkan" "Ingfrid" "Alfhild" 
+	"Gyla" "Elisabet" "Niklas" "Hans" "Gurli" "Conan" "Sverker" "Alfridh" "Sigtrygg" "Gunnar" 
+	"Kol" "Ingeborg" "Bertil" "Astrid" "Aleta" "Maer" "Rikissa" "Olaf" "Tord" "Lillias" 
+	"Elin" "Gillespie" "Sigurd" "Sara" "Märta" "Asta" "Sven" "Åke" "Inge" "Jedvard" 
+	"Torsten" "Ylva" "Gunhild" "Johan" "Erik" "Hafrid" "Aulay" "Ingegerd" "Cecilia" "Anna" 
+	"Saga" "Greger" "Dag" "Sofia" "Mirren" "Ada" "Totil" "Algot" "Karin" "Linda" 
+	"Cirulis" "Algirdas" "Pliksov" "Vykantas" "Svajone" "Litto" "Klavess" "Milzas" "Golovke" "Jovirdas" 
+	"Ringaudas" "Gastile" "Jauguttis" "Sviendorog" "Skornand" "Yaropolk" "Sviatoslav" "Karatas" "Dangeruthe" "Yeremey" 
+	"Paksyut" "Gunvald" "Kaomeel" "Vaishvilkas" "Lonkogveni" "Alo" "Dardedze" "Kahus" "Niglas" "Aishno" 
+	"Ako" "Ankad" "Baise" "Balodis" "Bikshe" "Borut" "Bulei" "Butovit" "Darbeslave" "Dausprungas" 
+	"Davins" "Demas" "Dobre" "Dovyat" "Dzintis" "Elmede" "Erasts" "Erdzivil" "Galeine" "Gedere" 
+	"Gerden" "Gibedats" "Giemund" "Gotene" "Imanta" "Janis" "Jaunule" "Jedetus" "Juvage" "Kage" 
+	"Kaire" "Karijotas" "Karnak" "Kaupo" "Kerstigens" "Kiten" "Kodere" "Kuliens" "Kurlemuse" "Lammekinus" 
+	"Likiik" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Narvait" "Pukiik" "Pukuveras" "Rushky" "Rusins" 
+	"Sabe" "Sargun" "Scurdo" "Shutr" "Shvarnas" "Sprudeik" "Stegut" "Steikint" "Talivaldis" "Tautvila" 
+	"Traidenis" "Treniota" "Valikaila" "Vetseke" "Viesturs" "Visheiv" "Vishikut" "Vishly" "Yudki" }
+monarch_names = {
+	"Dyre #0" = 1
+	"Beata #0" = -1
+	"Ingvar #0" = 1
+	"Åsa #0" = -1
+	"Kristina #0" = -1
+	"Ragnar #0" = 1
+	"Dan #0" = 1
+	"Håkan #0" = 1
+	"Ingfrid #0" = -1
+	"Alfhild #0" = -1
+	"Gyla #0" = -1
+	"Elisabet #0" = -1
+	"Niklas #0" = 1
+	"Hans #0" = 1
+	"Gurli #0" = -1
+	"Conan #0" = 1
+	"Sverker #0" = 1
+	"Alfridh #0" = -1
+	"Sigtrygg #0" = 1
+	"Gunnar #0" = 1
+	"Kol #0" = 1
+	"Ingeborg #0" = -1
+	"Bertil #0" = 1
+	"Astrid #0" = -1
+	"Aleta #1" = -19
+	"Maer #0" = -1
+	"Rikissa #0" = -1
+	"Olaf #0" = 1
+	"Tord #1" = 21
+	"Lillias #0" = -1
+	"Elin #0" = -1
+	"Gillespie #0" = 1
+	"Sigurd #0" = 1
+	"Sara #0" = -1
+	"Märta #1" = -22
+	"Asta #0" = -1
+	"Sven #0" = 1
+	"Åke #0" = 1
+	"Inge #0" = 1
+	"Jedvard #0" = 1
+	"Torsten #0" = 1
+	"Ylva #0" = -1
+	"Gunhild #0" = -1
+	"Johan #0" = 1
+	"Erik #0" = 1
+	"Hafrid #0" = -1
+	"Aulay #0" = 1
+	"Ingegerd #0" = -1
+	"Cecilia #0" = -1
+	"Anna #0" = -1
+	"Saga #0" = -1
+	"Greger #0" = 1
+	"Dag #1" = 18
+	"Sofia #0" = -1
+	"Mirren #0" = -1
+	"Ada #0" = -1
+	"Totil #0" = 1
+	"Algot #0" = 1
+	"Karin #0" = -1
+	"Linda #0" = -1
+	"Cirulis #1" = 0
+	"Algirdas #1" = 0
+	"Pliksov #1" = 0
+	"Vykantas #2" = 0
+	"Svajone #1" = -1
+	"Litto #2" = 0
+	"Klavess #1" = 0
+	"Milzas #2" = 0
+	"Golovke #1" = 0
+	"Jovirdas #1" = 0
+	"Ringaudas #1" = 0
+	"Gastile #1" = 0
+	"Jauguttis #1" = 0
+	"Sviendorog #1" = 0
+	"Skornand #1" = 0
+	"Yaropolk #1" = 0
+	"Sviatoslav #1" = 0
+	"Karatas #1" = 0
+	"Dangeruthe #1" = 0
+	"Yeremey #1" = 0
+	"Paksyut #1" = 0
+	"Gunvald #1" = 0
+	"Kaomeel #1" = 0
+	"Vaishvilkas #1" = 0
+	"Lonkogveni #1" = 0
+	"Alo #1" = 0
+	"Dardedze #1" = -1
+	"Kahus #1" = 0
+	"Niglas #1" = 0
+	"Aishno #0" = 0
+	"Ako #0" = 0
+	"Ankad #0" = 0
+	"Baise #0" = 0
+	"Balodis #0" = 0
+	"Bikshe #0" = 0
+	"Borut #0" = 0
+	"Bulei #0" = 0
+	"Butovit #0" = 0
+	"Darbeslave #0" = 0
+	"Dausprungas #0" = 0
+	"Davins #0" = 0
+	"Demas #0" = 0
+	"Dobre #0" = 0
+	"Dovyat #0" = 0
+	"Dzintis #0" = 0
+	"Elmede #0" = 0
+	"Erasts #0" = 0
+	"Erdzivil #0" = 0
+	"Galeine #0" = 0
+	"Gedere #0" = 0
+	"Gerden #0" = 0
+	"Gibedats #0" = 0
+	"Giemund #0" = 0
+	"Gotene #0" = 0
+	"Imanta #0" = 0
+	"Janis #0" = 0
+	"Jaunule #0" = 0
+	"Jedetus #0" = 0
+	"Juvage #0" = 0
+	"Kage #0" = 0
+	"Kaire #0" = 0
+	"Karijotas #0" = 0
+	"Karnak #0" = 0
+	"Kaupo #0" = 0
+	"Kerstigens #0" = 0
+	"Kiten #0" = 0
+	"Kodere #0" = 0
+	"Kuliens #0" = 0
+	"Kurlemuse #0" = 0
+	"Lammekinus #0" = 0
+	"Likiik #0" = 0
+	"Manvydas #0" = 0
+	"Meinekinus #0" = 0
+	"Mendune #0" = 0
+	"Nameisis #0" = 0
+	"Narvait #0" = 0
+	"Pukiik #0" = 0
+	"Pukuveras #0" = 0
+	"Rushky #0" = 0
+	"Rusins #0" = 0
+	"Sabe #0" = 0
+	"Sargun #0" = 0
+	"Scurdo #0" = 0
+	"Shutr #0" = 0
+	"Shvarnas #0" = 0
+	"Sprudeik #0" = 0
+	"Stegut #0" = 0
+	"Steikint #0" = 0
+	"Talivaldis #0" = 0
+	"Tautvila #0" = 0
+	"Traidenis #0" = 0
+	"Treniota #0" = 0
+	"Valikaila #0" = 0
+	"Vetseke #0" = 0
+	"Viesturs #0" = 0
+	"Visheiv #0" = 0
+	"Vishikut #0" = 0
+	"Vishly #0" = 0
+	"Yudki #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

@@ -1,0 +1,145 @@
+# Mosulid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 121 196 2 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Sulayman" "Ghalib" "Idris" "Aram" "Adila" "Qamara" "Parand" "Rashida" "Zeyd" "Tanaz" 
+	"Yagana" "Jibril" "Fadl" "Asiya" "Sahba" "Amr" "Sa'id" "Nadr" "Jabir" "Khaireddin" 
+	"Aghecher" "Ajdir" "Isalcas" "Hafiz" "Abdul-Wahab" "Fadil" "Uways" "Theophylaktos" "Andreas" "Demetrios" 
+	"Pavlos" "Pantoleon" "Taghai" "Himerios" "Belisarios" "Damianos" "Sadiq" "Konstantinos" "Eirene" "Ioustinianos" 
+	"Manuel" "Thomas" "Yahya" "Ibrahim" "Bahir" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Aghlab" 
+	"Akin" "Alim" "Azam" "Burhanaddin" "Faruk" "Halil" "Husam" "Is'mail" "Isa" "Jalil" 
+	"Khalil" "Mahdi" "Mansur" "Mirza" "Mubarak" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" 
+	"Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sami" "Samir" "Shaiban" "Shamir" 
+	"Shujah" "Talib" "Ubayd" "Ya'qub" "Youkhanna" "Yusuf" }
+monarch_names = {
+	"Sulayman #2" = 24
+	"Ghalib #2" = 18
+	"Idris #0" = 1
+	"Aram #1" = 18
+	"Adila #0" = -1
+	"Qamara #0" = -1
+	"Parand #0" = -1
+	"Rashida #0" = -1
+	"Zeyd #0" = 1
+	"Tanaz #0" = -1
+	"Yagana #0" = -1
+	"Jibril #0" = 1
+	"Fadl #0" = 1
+	"Asiya #0" = -1
+	"Sahba #0" = -1
+	"Amr #1" = 0
+	"Sa'id #1" = 0
+	"Nadr #1" = 0
+	"Jabir #3" = 0
+	"Khaireddin #2" = 0
+	"Aghecher #1" = 0
+	"Ajdir #1" = 0
+	"Isalcas #1" = 0
+	"Hafiz #2" = 0
+	"Abdul-Wahab #1" = 0
+	"Fadil #2" = 0
+	"Uways #1" = 0
+	"Theophylaktos #1" = 0
+	"Andreas #1" = 0
+	"Demetrios #1" = 0
+	"Pavlos #1" = 0
+	"Pantoleon #1" = 0
+	"Taghai #1" = 0
+	"Himerios #1" = 0
+	"Belisarios #1" = 0
+	"Damianos #2" = 0
+	"Sadiq #1" = 0
+	"Konstantinos #1" = 0
+	"Eirene #1" = -1
+	"Ioustinianos #1" = 0
+	"Manuel #1" = 0
+	"Thomas #1" = 0
+	"Yahya #1" = 0
+	"Ibrahim #1" = 0
+	"Bahir #1" = 0
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Azam #0" = 0
+	"Burhanaddin #0" = 0
+	"Faruk #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jalil #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

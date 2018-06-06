@@ -1,0 +1,239 @@
+# Navarra
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 198 90 }
+historical_idea_groups = {
+	naval_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Edward" "Sorcha" "Ross" "Uisdean" "Roderick" "Ranald" "Richard" "Murron" "Paul" "Mirren" 
+	"Derilla" "Slaine" "Iain" "Alice" "Fingola" "Elspeth" "Mor" "Matthew" "Edgar" "Donald" 
+	"Kirstin" "Rory" "Aufrica" "Evander" "Sholto" "Maisie" "Waldeve" "Maoilios" "Dervorgilla" "Shona" 
+	"Eilionoir" "Ros" "Philip" "Constantine" "Mariota" "Martha" "Lillias" "Ada" "Hisham" "Hakam" 
+	"Chramnesind" "Berneri" "Karloman" "Seguin" "Rainald" "Baldewin" "Baldarich" "Kaspar" "Antsa" "Galindo" 
+	"Adalhard" "Donato" "Sigismund" "Adalbero" "Caradaig" "Margarita" "Khatir" "Yilig" "Stéphanie" "Kätyarikka" 
+	"Alphonse" "Adalbert" "Amédée" "Totoquihuaztli" "Refulfo" "Donazarius" "Aksel" "Gausbert" "Charles" "Abdul-Gafur" 
+	"Vela" "Samir" "Mundir" "Fatima" "Erramun" "Ximena" "Adam" "Alpin" "Alan" "Alastair" 
+	"Alexander" "Andrew" "Angus" "Archibald" "Arthur" "Arran" "Aulay" "Beathan" "Brian" "Brice" 
+	"Cailean" "Calum" "Carbrey" "Colban" "Colin" "Conall" "Conan" "David" "Dermid" "Douglas" 
+	"Duff" "Dugald" "Duncan" "Edwin" "Eric" "Ewan" "Farquhar" "Fergus" "Fingal" "Findlay" 
+	"Frang" "Gavin" "Gilbert" "Gilbride" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" 
+	"Godfrey" "Gregor" "Hamish" "Hector" "Henry" "Hugh" "Indulf" "James" "John" "Kenneth" 
+	"Kentigern" "Lachlan" "Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" 
+	"Malise" "Malmure" "Marcas" "Matad" "Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" 
+	"Neil" "Ninian" "Oscar" "Patrick" "Peter" "Radulf" "Robert" "Ronald" "Roy" "Shaw" 
+	"Simon" "Somerled" "Stephan" "Sweeny" "Tadhg" "Talore" "Thomas" "Torquil" "Uhtred" "Walan" 
+	"Walter" "William" }
+monarch_names = {
+	"Edward #0" = 1
+	"Sorcha #0" = -1
+	"Ross #0" = 1
+	"Uisdean #0" = 1
+	"Roderick #1" = 21
+	"Ranald #0" = 1
+	"Richard #0" = 1
+	"Murron #1" = -22
+	"Paul #0" = 1
+	"Mirren #0" = -1
+	"Derilla #0" = -1
+	"Slaine #0" = -1
+	"Iain #0" = 1
+	"Alice #0" = -1
+	"Fingola #0" = -1
+	"Elspeth #0" = -1
+	"Mor #1" = -25
+	"Matthew #0" = 1
+	"Edgar #1" = 18
+	"Donald #1" = 18
+	"Kirstin #0" = -1
+	"Rory #0" = 1
+	"Aufrica #0" = -1
+	"Evander #0" = 1
+	"Sholto #0" = -1
+	"Maisie #0" = -1
+	"Waldeve #0" = 1
+	"Maoilios #0" = 1
+	"Dervorgilla #0" = -1
+	"Shona #0" = -1
+	"Eilionoir #0" = -1
+	"Ros #0" = -1
+	"Philip #0" = 1
+	"Constantine #1" = 21
+	"Mariota #0" = -1
+	"Martha #0" = -1
+	"Lillias #0" = -1
+	"Ada #0" = -1
+	"Hisham #1" = 0
+	"Hakam #1" = 0
+	"Chramnesind #1" = 0
+	"Berneri #1" = 0
+	"Karloman #1" = 0
+	"Seguin #1" = 0
+	"Rainald #1" = 0
+	"Baldewin #1" = 0
+	"Baldarich #1" = 0
+	"Kaspar #1" = 0
+	"Antsa #1" = -1
+	"Galindo #1" = 0
+	"Adalhard #2" = 0
+	"Donato #1" = 0
+	"Sigismund #1" = 0
+	"Adalbero #1" = 0
+	"Caradaig #1" = 0
+	"Margarita #1" = -1
+	"Khatir #1" = 0
+	"Yilig #1" = 0
+	"Stéphanie #1" = -1
+	"Kätyarikka #1" = -1
+	"Alphonse #1" = 0
+	"Adalbert #1" = 0
+	"Amédée #1" = 0
+	"Totoquihuaztli #1" = 0
+	"Refulfo #1" = 0
+	"Donazarius #2" = 0
+	"Aksel #2" = 0
+	"Gausbert #1" = 0
+	"Charles #1" = 0
+	"Abdul-Gafur #1" = 0
+	"Vela #1" = 0
+	"Samir #1" = 0
+	"Mundir #2" = 0
+	"Fatima #1" = -1
+	"Erramun #1" = 0
+	"Ximena #1" = -1
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Radulf #0" = 0
+	"Robert #0" = 0
+	"Ronald #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Walan #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Atlántida "Conde de Evreux" "Conde de Foix" "Conde de Guenduláin" "Conde de Lerín"
+	"Don Jimeno" "Duque de Armagnac" "Duque de Champaña"
+	"El Agramontés" "El Beaomontés" "El Bearnés" "El Cruzado Navarro" "El Montañés" "El Navarro" "El Salvador" "El Trobador" "El Viñador" "Emperador Hispánico" Europa
+	"Mar de Navarra" "Nuestra Sra de Leyre" "Príncipe de Viana"
+	"Reina Juana" "Rey Enrique" "Rey García" "Rey Sancho" "Reyno de Navarra" "Reyno de Pamplona"
+	"San Agustín" "San Andrés" "San Antonio" "San Carlos" "San Enrique" "San Esteban" "San Fermín" "San Francisco" "San Francisco Xabier" "San Gregorio" "San Juan" "San León" "San Miguel Arcángel" "San Raimundo" "San Virila"
+	"Santa Ana" "Santa Catalina" "Santa Juana" "Santa Leonor" "Santísima Trinidad" "Señor de Tudela"
+	Vasconia
+}
+

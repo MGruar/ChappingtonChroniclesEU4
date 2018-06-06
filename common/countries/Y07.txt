@@ -1,0 +1,256 @@
+# Meshchera
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 110 115 45 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Vihavald" "Alo" "Asko" "Moksha" "Kardaz" "Virdyan" "Kunava" "Lagle" "Tikshayka" "Gunduz" 
+	"Mänär" "Lärkka" "Tul" "Poshayka" "Yeçtirek" "Shukshtoroyka" "Busir" "Baghatur" "Agul" "Virtyava" 
+	"Tetyava" "Chipaz" "Këlyamal" "Ayasun" "Tylmache" "Vandemeel" "Leetõiv" "Otelemb" "Ilme" "Tuul" 
+	"Urmas" "Aimo" "Tõll" "Varjelemb" "Sulev" "Atko" "Kaili" "Ihatõiv" "Sutepelg" "Aotõiv" 
+	"Ihalemb" "Mari" "Helbe" "Talvi" "Kaljuvald" "Kudres" "Lempi" "Salme" "Urho" "Aune" 
+	"Are" "Vello" "Tohmas" "Kristiina" "Elisabet" "Lill" "Ilona" "Tuuli" "Metta" "Valteri" 
+	"Loviisa" "Helmi" "Hertta" "Susi" "Ahma" "Inkeri" "Havu" "Chindyayka" "Syryava" "Valta" 
+	"Azra-Va" "Satajalka" "Megurka" "Henri" "Lalli" "Chenksa" "Surt" "Otso" "Azyren" "Kolli" 
+	"Terhi" "Sisko" "Saksa" "Erkki" "Vezhav" "Käpy" "Toivo" "Ravzhava" "Tyyni" "Uoti" 
+	"Kalevi" "Tapani" "Tuure" "Tuulitar" "Umay" "Kielo" "Mesi" "Nulzyava" "Usunbike" "Irge" 
+	"Terho" "Litava" "Rauha" "Maija" "Malyy" "Mahla" "Nyal'ka" "Paksyay" "Tyueykezhut" "Kichay" 
+	"Sirma" "Nalka" "Uchva" "Çat'n" "Noroava" "Çeçeppi" "Kundaçiq" "Tyushtya" "Purysho" "Parush" 
+	"Deryab" "Rostislava" "Gremislava" "Putyayka" "Ovtay" "Varvara" "Dobrynia" "Vsevolod" "Setyamka" "Pivtsay" 
+	"Dobrinya" "Aatos" "Viryas" "Nishkepaz" "Pokshayka" "Litto" "Rodislav" "Tekay" "Oshama" "Kezhapa" 
+	"Shindyay" "Murunza" "Kisa" "Ilik" "Kundaç" "Tutyra" "Slyugan'ka" "Andyamo" "Chichayka" "Chumbulat" 
+	"Dergun" "Erziya" "Inzhay" "Kezhay" "Kezhedey" "Kezhevat" "Kubrat" "Malyaka" "Meltsayka" "Mordvinko" 
+	"Nuyaksha" "Nuyanza" "Nuyat" "Pakstyan" "Paksyut" "Shoksha" "Syrka" "Varaka" "Vechkas" "Velmayka" 
+	"Viryay" "Atyamas" "Kinyak" "Koshel" "Naruchad" "Orunza" "Puresh" "Shkay" "Tunya" "Tylze" 
+	"Tyushten" "Uzhara" "Varmanpaz" }
+monarch_names = {
+	"Vihavald #0" = 1
+	"Alo #0" = 1
+	"Asko #0" = 1
+	"Moksha #1" = 18
+	"Kardaz #1" = 18
+	"Virdyan #2" = 18
+	"Kunava #0" = -1
+	"Lagle #0" = -1
+	"Tikshayka #1" = 18
+	"Gunduz #0" = -1
+	"Mänär #0" = 1
+	"Lärkka #0" = -1
+	"Tul #0" = 1
+	"Poshayka #1" = -22
+	"Yeçtirek #0" = 1
+	"Shukshtoroyka #0" = -1
+	"Busir #0" = 1
+	"Baghatur #0" = 1
+	"Agul #0" = 1
+	"Virtyava #0" = -1
+	"Tetyava #0" = -1
+	"Chipaz #1" = 18
+	"Këlyamal #0" = -1
+	"Ayasun #0" = -1
+	"Tylmache #1" = 18
+	"Vandemeel #0" = 1
+	"Leetõiv #0" = 1
+	"Otelemb #0" = 1
+	"Ilme #0" = -1
+	"Tuul #0" = 1
+	"Urmas #0" = 1
+	"Aimo #0" = -1
+	"Tõll #0" = 1
+	"Varjelemb #0" = 1
+	"Sulev #0" = 1
+	"Atko #0" = 1
+	"Kaili #0" = -1
+	"Ihatõiv #0" = 1
+	"Sutepelg #0" = 1
+	"Aotõiv #0" = 1
+	"Ihalemb #0" = 1
+	"Mari #0" = -1
+	"Helbe #0" = -1
+	"Talvi #0" = -1
+	"Kaljuvald #0" = 1
+	"Kudres #0" = 1
+	"Lempi #0" = -1
+	"Salme #0" = -1
+	"Urho #0" = 1
+	"Aune #0" = -1
+	"Are #0" = -1
+	"Vello #0" = 1
+	"Tohmas #0" = 1
+	"Kristiina #0" = -1
+	"Elisabet #0" = -1
+	"Lill #0" = -1
+	"Ilona #0" = -1
+	"Tuuli #0" = -1
+	"Metta #0" = -1
+	"Valteri #0" = 1
+	"Loviisa #0" = -1
+	"Helmi #0" = -1
+	"Hertta #0" = -1
+	"Susi #0" = 1
+	"Ahma #0" = 1
+	"Inkeri #0" = -1
+	"Havu #0" = 1
+	"Chindyayka #0" = -1
+	"Syryava #0" = -1
+	"Valta #0" = 1
+	"Azra-Va #0" = -1
+	"Satajalka #0" = 1
+	"Megurka #0" = -1
+	"Henri #0" = 1
+	"Lalli #1" = 21
+	"Chenksa #0" = -1
+	"Surt #0" = 1
+	"Otso #0" = 1
+	"Azyren #1" = 18
+	"Kolli #0" = 1
+	"Terhi #0" = -1
+	"Sisko #0" = -1
+	"Saksa #0" = 1
+	"Erkki #0" = 1
+	"Vezhav #0" = -1
+	"Käpy #0" = -1
+	"Toivo #0" = 1
+	"Ravzhava #0" = -1
+	"Tyyni #0" = -1
+	"Uoti #0" = 1
+	"Kalevi #0" = 1
+	"Tapani #0" = 1
+	"Tuure #0" = 1
+	"Tuulitar #0" = -1
+	"Umay #0" = -1
+	"Kielo #0" = -1
+	"Mesi #0" = -1
+	"Nulzyava #0" = -1
+	"Usunbike #0" = -1
+	"Irge #0" = -1
+	"Terho #0" = 1
+	"Litava #0" = -1
+	"Rauha #0" = -1
+	"Maija #0" = -1
+	"Malyy #0" = 1
+	"Mahla #0" = -1
+	"Nyal'ka #0" = -1
+	"Paksyay #0" = 1
+	"Tyueykezhut #0" = 1
+	"Kichay #0" = 1
+	"Sirma #0" = -1
+	"Nalka #0" = 1
+	"Uchva #0" = 1
+	"Çat'n #0" = 1
+	"Noroava #0" = -1
+	"Çeçeppi #0" = -1
+	"Kundaçiq #0" = 1
+	"Tyushtya #2" = 18
+	"Purysho #0" = 1
+	"Parush #1" = 0
+	"Deryab #1" = 0
+	"Rostislava #1" = -1
+	"Gremislava #1" = -1
+	"Putyayka #1" = 0
+	"Ovtay #1" = 0
+	"Varvara #1" = -1
+	"Dobrynia #1" = 0
+	"Vsevolod #1" = 0
+	"Setyamka #1" = 0
+	"Pivtsay #2" = 0
+	"Dobrinya #2" = 0
+	"Aatos #1" = 0
+	"Viryas #1" = 0
+	"Nishkepaz #1" = 0
+	"Pokshayka #1" = 0
+	"Litto #1" = 0
+	"Rodislav #1" = 0
+	"Tekay #1" = -1
+	"Oshama #2" = -1
+	"Kezhapa #1" = 0
+	"Shindyay #1" = 0
+	"Murunza #1" = 0
+	"Kisa #1" = 0
+	"Ilik #1" = 0
+	"Kundaç #1" = 0
+	"Tutyra #1" = 0
+	"Slyugan'ka #1" = -1
+	"Andyamo #0" = 0
+	"Chichayka #0" = 0
+	"Chumbulat #0" = 0
+	"Dergun #0" = 0
+	"Erziya #0" = 0
+	"Inzhay #0" = 0
+	"Kezhay #0" = 0
+	"Kezhedey #0" = 0
+	"Kezhevat #0" = 0
+	"Kubrat #0" = 0
+	"Malyaka #0" = 0
+	"Meltsayka #0" = 0
+	"Mordvinko #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyanza #0" = 0
+	"Nuyat #0" = 0
+	"Pakstyan #0" = 0
+	"Paksyut #0" = 0
+	"Shoksha #0" = 0
+	"Syrka #0" = 0
+	"Varaka #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Viryay #0" = 0
+	"Atyamas #0" = 0
+	"Kinyak #0" = 0
+	"Koshel #0" = 0
+	"Naruchad #0" = 0
+	"Orunza #0" = 0
+	"Puresh #0" = 0
+	"Shkay #0" = 0
+	"Tunya #0" = 0
+	"Tylze #0" = 0
+	"Tyushten #0" = 0
+	"Uzhara #0" = 0
+	"Varmanpaz #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

@@ -1,0 +1,18 @@
+government = celestial_empire
+government_rank = 3
+technology_group = chinese
+add_harmonized_religion = mahayana
+capital = 1821	# Nanjing
+
+primary_culture = khitan
+religion = confucianism
+1433.4.4 = {
+	monarch = {
+		name = "Shengzong"
+		birth_date = 1377.10.29
+		dynasty = "Yanchege"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}

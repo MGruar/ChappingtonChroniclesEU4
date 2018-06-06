@@ -1,0 +1,173 @@
+# Mallorca
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 68 126 72 }
+historical_idea_groups = {
+	aristocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Sweeny" "Gillespie" "Edwin" "Anna" "Sorcha" "Kirstin" "Lachlan" "Indulf" "William" "Sholto" 
+	"Hamish" "Angus" "Adam" "Ada" "Eimhir" "Saundra" "Murdoch" "Donella" "Maud" "Orabilia" 
+	"Gregor" "Stephan" "Hector" "Triya" "Marjory" "Simon" "Konstantinos" "Theodericho" "Christophoros" "Michael" 
+	"Niketas" "Liuvericho" "Pyrros" "Theodosios" "Aetios" "Gonterote" "Aikaterine" "Theodoros" "Berengario" "Markia" 
+	"Gosdantin" "Garçi" "Staurakios" "Vachagan" "Tatoul" "Sevag" "Almasd" "Philippos" "Zenon" "Ródán" 
+	"Murray" "Eilionoir" "Ronald" "Douglas" "Gennadios" "Mor" "Edgar" "Rory" "Evander" "Ross" 
+	"Maoilios" "Dervorgilla" "Paul" "Alfons" "Arnau" "Artau" "Berenguer" "Berenguer-Ramon" "Bernat" "Bernat-Guillem" 
+	"Dalmau" "Ermengol" "Felip" "Ferran" "Frederic" "Gausfred" "Gerard" "Gombau" "Guerau" "Guifré" 
+	"Guillem" "Guillem-Ramon" "Guislabert" "Hug" "Jaume" "Joan" "Jofré" "Ott" "Pere" "Ponç" 
+	"Ponç-Hug" "Ramon" "Ramon-Berenguer" "Ramon-Folc" "Roger" "Sanç" "Sunyer" "Udalard" }
+monarch_names = {
+	"Sweeny #0" = 1
+	"Gillespie #0" = 1
+	"Edwin #0" = 1
+	"Anna #0" = -1
+	"Sorcha #0" = -1
+	"Kirstin #0" = -1
+	"Lachlan #0" = 1
+	"Indulf #0" = 1
+	"William #0" = 1
+	"Sholto #0" = -1
+	"Hamish #0" = 1
+	"Angus #1" = 18
+	"Adam #0" = 1
+	"Ada #0" = -1
+	"Eimhir #0" = -1
+	"Saundra #0" = -1
+	"Murdoch #0" = 1
+	"Donella #0" = -1
+	"Maud #0" = -1
+	"Orabilia #0" = -1
+	"Gregor #0" = 1
+	"Stephan #0" = 1
+	"Hector #0" = 1
+	"Triya #0" = -1
+	"Marjory #0" = -1
+	"Simon #0" = 1
+	"Konstantinos #1" = 0
+	"Theodericho #2" = 0
+	"Christophoros #1" = 0
+	"Michael #1" = 0
+	"Niketas #1" = 0
+	"Liuvericho #1" = 0
+	"Pyrros #1" = 0
+	"Theodosios #1" = 0
+	"Aetios #1" = 0
+	"Gonterote #1" = -1
+	"Aikaterine #1" = -1
+	"Theodoros #1" = 0
+	"Berengario #1" = 0
+	"Markia #1" = -1
+	"Gosdantin #1" = 0
+	"Garçi #1" = 0
+	"Staurakios #1" = 0
+	"Vachagan #1" = 0
+	"Tatoul #1" = 0
+	"Sevag #1" = 0
+	"Almasd #1" = -1
+	"Philippos #1" = 0
+	"Zenon #1" = 0
+	"Ródán #1" = 0
+	"Murray #1" = 0
+	"Eilionoir #1" = -1
+	"Ronald #1" = 0
+	"Douglas #1" = 0
+	"Gennadios #1" = 0
+	"Mor #1" = -1
+	"Edgar #1" = 0
+	"Rory #1" = 0
+	"Evander #1" = 0
+	"Ross #3" = 0
+	"Maoilios #1" = 0
+	"Dervorgilla #1" = -1
+	"Paul #1" = 0
+	"Alfons #0" = 0
+	"Arnau #0" = 0
+	"Artau #0" = 0
+	"Berenguer #0" = 0
+	"Berenguer-Ramon #0" = 0
+	"Bernat #0" = 0
+	"Bernat-Guillem #0" = 0
+	"Dalmau #0" = 0
+	"Ermengol #0" = 0
+	"Felip #0" = 0
+	"Ferran #0" = 0
+	"Frederic #0" = 0
+	"Gausfred #0" = 0
+	"Gerard #0" = 0
+	"Gombau #0" = 0
+	"Guerau #0" = 0
+	"Guifré #0" = 0
+	"Guillem #0" = 0
+	"Guillem-Ramon #0" = 0
+	"Guislabert #0" = 0
+	"Hug #0" = 0
+	"Jaume #0" = 0
+	"Joan #0" = 0
+	"Jofré #0" = 0
+	"Ott #0" = 0
+	"Pere #0" = 0
+	"Ponç #0" = 0
+	"Ponç-Hug #0" = 0
+	"Ramon #0" = 0
+	"Ramon-Berenguer #0" = 0
+	"Ramon-Folc #0" = 0
+	"Roger #0" = 0
+	"Sanç #0" = 0
+	"Sunyer #0" = 0
+	"Udalard #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

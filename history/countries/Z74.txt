@@ -1,0 +1,26 @@
+# Venezia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 112
+1432.7.5 = {
+	monarch = {
+		name = "Salinguerra"
+		birth_date = 1398.4.20
+		dynasty = "Serra"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 112
+	add_treasury = 17
+	add_prestige = 54
+}

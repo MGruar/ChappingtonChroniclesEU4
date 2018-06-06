@@ -1,0 +1,26 @@
+# Hierosolyma
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 379
+1416.6.8 = {
+	monarch = {
+		name = "Serapion II"
+		birth_date = 1393.3.25
+		dynasty = "Amalfinos"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 379
+	add_treasury = 89
+	add_prestige = 343
+}

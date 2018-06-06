@@ -1,0 +1,26 @@
+# Smolensk
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 293
+1443.2.10 = {
+	monarch = {
+		name = "Nyal'ka"
+		birth_date = 1427.7.21
+		dynasty = "Semnos"
+		female = yes
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 293
+	add_treasury = 7
+	add_prestige = 77
+}

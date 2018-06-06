@@ -1,0 +1,143 @@
+# Cheremisa
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 225 165 4 }
+
+
+
+
+leader_names = {
+
+	"Yabghu" "Bulçan" "Ipekel" "Çeçeppi" "Chindyayka" "Nyayka" "Nyal'ka" "Mazava" "Inyava" "Siyamka" 
+	"Velmayka" "Erziya" "Shukshtoroyka" "Kezhevat" "Shonzhava" "Nuyanza" "Bashtwa" "Mala" "Yilig" "Tuzniq" 
+	"Sarikel" "Usunbike" "Yerneslu" "Gunes" "Samsam" "Bälgiçi" "Puyantay" "Savilay" "Asli" "Sartäç" 
+	"Simsam" "Tarmaç" "Gulay" "Çeçtilet" "Yavantey" "Pokshava" "Khatir" "Putyayka" "Kezhay" "Viryay" 
+	"Sinyava" "Seyamka" "Murunza" "Tikshayka" "Virdyan" "Paksyay" "Shkay" "Tylze" "Asrava" "Nezayka" 
+	"Vezhav" "Tundava" "Varaka" "Setyamka" "Nuyat" "Purysho" "Meltsayka" "Pivtsay" "Kubrat" "Tyushtya" 
+	"Rushky" "Kayghalagh" "Mënümarót" "Baghatur" "Çat'n" "Kundaç" "Itakh" "Kisa" "Kare" "Çat" 
+	"Mitrofan" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Deryab" "Dobrinya" "Inzhay" "Kezhapa" "Kezhedey" 
+	"Kichay" "Malyaka" "Malyy" "Mordvinko" "Moksha" "Nalka" "Nuyaksha" "Ovtay" "Pakstyan" "Paksyut" 
+	"Parush" "Pokshayka" "Shindyay" "Shoksha" "Syrka" "Tyueykezhut" "Uchva" "Vechkas" "Viryas" "Atyamas" 
+	"Azyren" "Chipaz" "Kardaz" "Kinyak" "Koshel" "Naruchad" "Nishkepaz" "Orunza" "Puresh" "Saksa" 
+	"Surt" "Tul" "Tunya" "Tutyra" "Tylmache" "Tyushten" "Uzhara" "Varmanpaz" }
+monarch_names = {
+	"Yabghu #0" = 1
+	"Bulçan #0" = 1
+	"Ipekel #0" = -1
+	"Çeçeppi #0" = -1
+	"Chindyayka #0" = -1
+	"Nyayka #0" = -1
+	"Nyal'ka #0" = -1
+	"Mazava #0" = -1
+	"Inyava #0" = -1
+	"Siyamka #0" = -1
+	"Velmayka #1" = 18
+	"Erziya #1" = 18
+	"Shukshtoroyka #0" = -1
+	"Kezhevat #1" = 18
+	"Shonzhava #1" = -22
+	"Nuyanza #0" = -1
+	"Bashtwa #0" = 1
+	"Mala #0" = -1
+	"Yilig #0" = 1
+	"Tuzniq #1" = 18
+	"Sarikel #0" = -1
+	"Usunbike #0" = -1
+	"Yerneslu #0" = 1
+	"Gunes #0" = -1
+	"Samsam #0" = 1
+	"Bälgiçi #1" = 18
+	"Puyantay #0" = -1
+	"Savilay #0" = -1
+	"Asli #0" = -1
+	"Sartäç #0" = 1
+	"Simsam #2" = 18
+	"Tarmaç #0" = 1
+	"Gulay #0" = -1
+	"Çeçtilet #0" = -1
+	"Yavantey #0" = 1
+	"Pokshava #0" = -1
+	"Khatir #0" = 1
+	"Putyayka #0" = 1
+	"Kezhay #0" = 1
+	"Viryay #1" = 18
+	"Sinyava #0" = -1
+	"Seyamka #0" = -1
+	"Murunza #1" = 18
+	"Tikshayka #0" = 1
+	"Virdyan #2" = 21
+	"Paksyay #0" = 1
+	"Shkay #1" = 18
+	"Tylze #1" = 18
+	"Asrava #0" = -1
+	"Nezayka #0" = -1
+	"Vezhav #0" = -1
+	"Tundava #0" = -1
+	"Varaka #1" = 0
+	"Setyamka #2" = 0
+	"Nuyat #3" = 0
+	"Purysho #1" = 0
+	"Meltsayka #2" = 0
+	"Pivtsay #2" = 0
+	"Kubrat #1" = 0
+	"Tyushtya #1" = 0
+	"Rushky #1" = 0
+	"Kayghalagh #1" = 0
+	"Mënümarót #1" = 0
+	"Baghatur #1" = 0
+	"Çat'n #1" = 0
+	"Kundaç #1" = 0
+	"Itakh #1" = 0
+	"Kisa #1" = 0
+	"Kare #1" = -1
+	"Çat #1" = 0
+	"Mitrofan #1" = 0
+	"Andyamo #0" = 0
+	"Chichayka #0" = 0
+	"Chumbulat #0" = 0
+	"Dergun #0" = 0
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Inzhay #0" = 0
+	"Kezhapa #0" = 0
+	"Kezhedey #0" = 0
+	"Kichay #0" = 0
+	"Malyaka #0" = 0
+	"Malyy #0" = 0
+	"Mordvinko #0" = 0
+	"Moksha #0" = 0
+	"Nalka #0" = 0
+	"Nuyaksha #0" = 0
+	"Ovtay #0" = 0
+	"Pakstyan #0" = 0
+	"Paksyut #0" = 0
+	"Parush #0" = 0
+	"Pokshayka #0" = 0
+	"Shindyay #0" = 0
+	"Shoksha #0" = 0
+	"Syrka #0" = 0
+	"Tyueykezhut #0" = 0
+	"Uchva #0" = 0
+	"Vechkas #0" = 0
+	"Viryas #0" = 0
+	"Atyamas #0" = 0
+	"Azyren #0" = 0
+	"Chipaz #0" = 0
+	"Kardaz #0" = 0
+	"Kinyak #0" = 0
+	"Koshel #0" = 0
+	"Naruchad #0" = 0
+	"Nishkepaz #0" = 0
+	"Orunza #0" = 0
+	"Puresh #0" = 0
+	"Saksa #0" = 0
+	"Surt #0" = 0
+	"Tul #0" = 0
+	"Tunya #0" = 0
+	"Tutyra #0" = 0
+	"Tylmache #0" = 0
+	"Tyushten #0" = 0
+	"Uzhara #0" = 0
+	"Varmanpaz #0" = 0
+}
+

@@ -1,0 +1,25 @@
+# Mordva
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 302
+1436.2.7 = {
+	monarch = {
+		name = "Yençepi"
+		birth_date = 1431.3.14
+		dynasty = "de Courtenay"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 302
+	add_treasury = 24
+	add_prestige = 9
+}

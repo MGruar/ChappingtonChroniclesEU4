@@ -1,0 +1,25 @@
+# Ladakh
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2074
+1435.10.7 = {
+	monarch = {
+		name = "Ayanna"
+		birth_date = 1424.1.11
+		dynasty = "Madra"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 2074
+	add_treasury = 56
+	add_prestige = 294
+}

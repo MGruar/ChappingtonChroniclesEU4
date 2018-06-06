@@ -1,0 +1,38 @@
+# Esto Lithuania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = latvian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1941
+1422.11.17 = {
+	monarch = {
+		name = "Eeri II"
+		birth_date = 1407.5.17
+		dynasty = "Vaiga"
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+	add_ruler_personality = drunkard_personality
+}
+1437.5.14 = {
+	heir = {
+		name = "Sabe"
+		monarch_name = "Sabe"
+		dynasty = "Vaiga"
+		birth_date = 1437.5.14
+		death_date = 1517.5.14
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1941
+	add_treasury = 13
+	add_prestige = 111
+}

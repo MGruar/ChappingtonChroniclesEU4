@@ -1,0 +1,25 @@
+# Mali
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1130
+1442.9.12 = {
+	monarch = {
+		name = "Maoilios"
+		birth_date = 1411.11.4
+		dynasty = "de Figuig"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 1130
+	add_treasury = 13
+	add_prestige = 409
+}

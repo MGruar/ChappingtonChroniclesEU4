@@ -1,0 +1,26 @@
+# Druk
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 565
+1430.6.22 = {
+	monarch = {
+		name = "Jing"
+		birth_date = 1409.10.16
+		dynasty = "Sakya"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 565
+	add_treasury = 12
+	add_prestige = 244
+}

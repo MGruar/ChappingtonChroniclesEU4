@@ -1,0 +1,26 @@
+# Thráke
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1764
+1428.10.6 = {
+	monarch = {
+		name = "Georgios"
+		birth_date = 1428.1.22
+		dynasty = "Mihranian"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 1764
+	add_treasury = 34
+	add_prestige = 152
+}

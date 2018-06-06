@@ -1,0 +1,194 @@
+# Varangian Guard
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 180 180 180 }
+
+
+
+
+leader_names = {
+
+	"Sigurðr" "Paschalis" "Botulfr" "Valdemar" "Ishkhan" "Hrane" "Nils" "Arnbjörn" "Neophytos" "Klas" 
+	"Guðfrið" "Åke" "Greger" "Evangelos" "Hrolfr" "Damianos" "Einarr" "Rögnvaldr" "Birger" "Niklas" 
+	"Totil" "Jon" "Gandalfr" "Halsten" "Bengt" "Hemming" "Bersi" "Ulfr" "Faste" "Alfgeir" 
+	"Ingólfr" "Knut" "Hjalmar" "Kjartan" "Tuzniq" "Falki" "Ragnarr" "Dyre" "Eskild" "Hakon" 
+	"Sumarliði" "Tryggve" "Öysteinn" "Hroðulfr" "Holmger" "Adam" "Alpin" "Alan" "Alastair" "Alexander" 
+	"Andrew" "Angus" "Archibald" "Arthur" "Arran" "Aulay" "Beathan" "Brian" "Brice" "Cailean" 
+	"Calum" "Carbrey" "Colban" "Colin" "Conall" "Conan" "Constantine" "David" "Dermid" "Donald" 
+	"Douglas" "Duff" "Dugald" "Duncan" "Edgar" "Edward" "Edwin" "Eric" "Evander" "Ewan" 
+	"Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbert" "Gilbride" "Gilchrist" "Gillespie" 
+	"Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" "Hector" "Henry" "Hugh" 
+	"Iain" "Indulf" "James" "John" "Kenneth" "Kentigern" "Lachlan" "Laurence" "Lennon" "Lulach" 
+	"Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" "Malmure" "Maoilios" "Marcas" "Matad" 
+	"Matthew" "Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Ninian" "Oscar" 
+	"Patrick" "Paul" "Peter" "Philip" "Radulf" "Ranald" "Richard" "Robert" "Roderick" "Ronald" 
+	"Rory" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Sweeny" "Tadhg" "Talore" 
+	"Thomas" "Torquil" "Uhtred" "Uisdean" "Walan" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Sigurðr #1" = 0
+	"Paschalis #1" = 0
+	"Botulfr #2" = 0
+	"Valdemar #1" = 0
+	"Ishkhan #1" = 0
+	"Hrane #1" = 0
+	"Nils #1" = 0
+	"Arnbjörn #1" = 0
+	"Neophytos #1" = 0
+	"Klas #3" = 0
+	"Guðfrið #2" = 0
+	"Åke #1" = 0
+	"Greger #3" = 0
+	"Evangelos #1" = 0
+	"Hrolfr #1" = 0
+	"Damianos #1" = 0
+	"Einarr #1" = 0
+	"Rögnvaldr #1" = 0
+	"Birger #1" = 0
+	"Niklas #1" = 0
+	"Totil #2" = 0
+	"Jon #2" = 0
+	"Gandalfr #1" = 0
+	"Halsten #1" = 0
+	"Bengt #2" = 0
+	"Hemming #1" = 0
+	"Bersi #1" = 0
+	"Ulfr #1" = 0
+	"Faste #1" = 0
+	"Alfgeir #1" = 0
+	"Ingólfr #1" = 0
+	"Knut #1" = 0
+	"Hjalmar #1" = 0
+	"Kjartan #1" = 0
+	"Tuzniq #1" = 0
+	"Falki #1" = 0
+	"Ragnarr #1" = 0
+	"Dyre #1" = 0
+	"Eskild #1" = 0
+	"Hakon #2" = 0
+	"Sumarliði #1" = 0
+	"Tryggve #1" = 0
+	"Öysteinn #1" = 0
+	"Hroðulfr #1" = 0
+	"Holmger #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"Constantine #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+
+
+	"Asa #0" = -1
+	"Ylva #0" = -1
+	"Helena #0" = -1
+	"Freyja #0" = -1
+	"Svanhildr #0" = -1
+}
+

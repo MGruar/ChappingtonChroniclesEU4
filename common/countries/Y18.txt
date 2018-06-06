@@ -1,0 +1,140 @@
+# Chud
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 138 154 94 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Tyushten" "Kirdyava" "Kezhedey" "Chitska" "Mazava" "Varmanpaz" "Ravzhava" "Dergun" "Kardaz" "Nalka" 
+	"Syrka" "Murunza" "Serzhay" "Shukshtoroyka" "Chichayka" "Ashava" "Siyamka" "Ordava" "Kubrat" "Nyal'ka" 
+	"Purysho" "Andyamo" "Puresh" "Virdyan" "Chumbulat" "Deryab" "Dobrinya" "Erziya" "Inzhay" "Kezhapa" 
+	"Kezhay" "Kezhevat" "Kichay" "Malyaka" "Malyy" "Meltsayka" "Mordvinko" "Moksha" "Nuyaksha" "Nuyanza" 
+	"Nuyat" "Ovtay" "Pakstyan" "Paksyay" "Paksyut" "Parush" "Pivtsay" "Pokshayka" "Putyayka" "Setyamka" 
+	"Shindyay" "Shoksha" "Tikshayka" "Tyueykezhut" "Uchva" "Varaka" "Vechkas" "Velmayka" "Viryas" "Viryay" 
+	"Atyamas" "Azyren" "Chipaz" "Kinyak" "Koshel" "Naruchad" "Nishkepaz" "Orunza" "Saksa" "Shkay" 
+	"Surt" "Tul" "Tunya" "Tutyra" "Tylmache" "Tylze" "Tyushtya" "Uzhara" }
+monarch_names = {
+	"Tyushten #0" = 1
+	"Kirdyava #0" = -1
+	"Kezhedey #0" = 1
+	"Chitska #0" = -1
+	"Mazava #0" = -1
+	"Varmanpaz #0" = 1
+	"Ravzhava #0" = -1
+	"Dergun #0" = 1
+	"Kardaz #0" = 1
+	"Nalka #0" = 1
+	"Syrka #0" = 1
+	"Murunza #0" = 1
+	"Serzhay #0" = -1
+	"Shukshtoroyka #0" = -1
+	"Chichayka #0" = -1
+	"Ashava #0" = -1
+	"Siyamka #0" = -1
+	"Ordava #0" = -1
+	"Kubrat #0" = 1
+	"Nyal'ka #0" = -1
+	"Purysho #0" = 1
+	"Andyamo #0" = 1
+	"Puresh #0" = 1
+	"Virdyan #0" = 1
+	"Chumbulat #0" = 0
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Erziya #0" = 0
+	"Inzhay #0" = 0
+	"Kezhapa #0" = 0
+	"Kezhay #0" = 0
+	"Kezhevat #0" = 0
+	"Kichay #0" = 0
+	"Malyaka #0" = 0
+	"Malyy #0" = 0
+	"Meltsayka #0" = 0
+	"Mordvinko #0" = 0
+	"Moksha #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyanza #0" = 0
+	"Nuyat #0" = 0
+	"Ovtay #0" = 0
+	"Pakstyan #0" = 0
+	"Paksyay #0" = 0
+	"Paksyut #0" = 0
+	"Parush #0" = 0
+	"Pivtsay #0" = 0
+	"Pokshayka #0" = 0
+	"Putyayka #0" = 0
+	"Setyamka #0" = 0
+	"Shindyay #0" = 0
+	"Shoksha #0" = 0
+	"Tikshayka #0" = 0
+	"Tyueykezhut #0" = 0
+	"Uchva #0" = 0
+	"Varaka #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Viryas #0" = 0
+	"Viryay #0" = 0
+	"Atyamas #0" = 0
+	"Azyren #0" = 0
+	"Chipaz #0" = 0
+	"Kinyak #0" = 0
+	"Koshel #0" = 0
+	"Naruchad #0" = 0
+	"Nishkepaz #0" = 0
+	"Orunza #0" = 0
+	"Saksa #0" = 0
+	"Shkay #0" = 0
+	"Surt #0" = 0
+	"Tul #0" = 0
+	"Tunya #0" = 0
+	"Tutyra #0" = 0
+	"Tylmache #0" = 0
+	"Tylze #0" = 0
+	"Tyushtya #0" = 0
+	"Uzhara #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

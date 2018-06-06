@@ -1,0 +1,523 @@
+# Courland
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 182 16 16 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Pliksov" "Hele" "Ilmi" "Väino" "Lill" "Kaaren" "Agul" "Pilve" "Meeli" "Aune" 
+	"Kaido" "Õie" "Uku" "Ankad" "Davins" "Viba" "Balodis" "Ausala" "Baise" "Butovit" 
+	"Jaunule" "Imanta" "Gedere" "Vetseke" "Kuliens" "Vykantas" "Galene" "Marite" "Cirulis" "Rusins" 
+	"Likiik" "Dose" "Traidenis" "Jedetus" "Shvarnas" "Kiten" "Brita" "Karijotas" "Gundega" "Weslikan" 
+	"Meinekinus" "Greze" "Balba" "Litto" "Golding" "Erasts" "Liga" "Dangeruthe" "Savna" "Sviendorog" 
+	"Prusas" "Golovke" "Kordula" "Grasus" "Betten" "Naula" "Kage" "Gauronas" "Agita" "Rasa" 
+	"Gunvald" "Scurdo" "Gotene" "Borut" "Bulei" "Galindas" "Nomedas" "Milzas" "Mendune" "Vishly" 
+	"Ieva" "Kurlemuse" "Ulinniks" "Bajoras" "Auctune" "Maija" "Gulbis" "Stegut" "Klavess" "Gelennis" 
+	"Zigne" "Jauguttis" "Imela" "Glande" "Darate" "Galeine" "Tuzniq" "Alvydas" "Klukis" "Svajone" 
+	"Erdzivil" "Dzeguze" "Sarunas" "Ulitis" "Jovirdas" "Visheiv" "Gawel" "Zivinbudas" "Dannila" "Budo" 
+	"Zvenislava" "Róza" "Mila" "Elmede" "Ziedas" "Ruta" "Arelis" "Orunza" "Zsuzsa" "Yudki" 
+	"Dagonis" "Ringaudas" "Ausra" "Jevna" "Aishno" "Milyuns" "Gerdautas" "Vezhav" "Gastile" "Walenty" 
+	"Tyushtya" "Anele" "Anava" "Vingoldas" "Vysheslav" "Audra" "Nándor" "Viacheslava" "Skornand" "Sergonis" 
+	"Saule" "Gerkus" "Csillag" "Rostislava" "Kenna" "Dardedze" "Dagas" "Ekkelis" "Narvait" "Trifon" 
+	"Kanyuva" "Beidras" "Lutuveras" "Malusha" "Azuolas" "Dobroslava" "Lasukas" "Birute" "Feodosia" "Vida" 
+	"Mindaugas" "Minigaila" "Iziaslav" "Algirdas" "Kantibutas" "Sprudeik" "Martyna" "Manvydas" "Arunas" "Bitens" 
+	"Vseslava" "Jaunutis" "Vilmos" "Daira" "Yevstafiy" "Karatas" "Vencel" "Agrafena" "Lajos" "Mikova" 
+	"Briachislav" "Ihavald" "Afanasiy" "Anastasia" "Zoltána" "Lech" "Päivä" "Dobre" "Rostislav" "Ako" 
+	"Branimir" "Sbyslava" "Predslava" "Tatyana" "Vishikut" "Oszkár" "Nezayka" "Karnak" "Ctibor" "Talivaldis" 
+	"Przybyslaw" "Nikita" "Kodere" "Branislava" "Lev" "Xenia" "Stanislaw" "Waclaw" "Mazava" "Juvage" 
+	"Kugis" "Vladimir" "Yaropolk" "Alexandra" "Mieszko" "Irina" "Yaroslava" "Pribislava" "Vasilisa" "Wratislaw" 
+	"Iliya" "Halina" "Gorislava" "Dausprungas" "Paksyut" "Swietoslaw" "Sviatoslav" "Puresh" "Yeremey" "Upurga" 
+	"Matylda" "Danuta" "Przemysl" "Swietopelk" "Volodar" "Yemelyan" "Dzintis" "Ulita" "Izabela" "Jaromir" 
+	"Bohumir" "Kamila" "Mstislav" "Pereyaslava" "Jadwiga" "Rogneda" "Dobrava" "Malgorzata" "Casimir" "Markéta" 
+	"Vladislava" "Kirill" "Sangasa" "Demid" "Marian" "Vasilko" "Pokshava" "Lammekinus" "Senda" "Vergava" 
+	"Wlodzimierz" "Chichayka" "Fedot" "Nalka" "Zabava" "Tundava" "Dovyat" "Vaishvilkas" "Potekay" "Syeju" 
+	"Chumbulat" "Oldrich" "Mastorava" "Erziya" "Varvara" "Mitrofan" "Voislav" "Auli" "Jolanta" "Nulzyava" 
+	"Styaka" "Krzeslaw" "Gibedats" "Verkhoslava" "Mordvinko" "Kornel" "Kunyavka" "Jalo" "Nabtiko" "Boleslava" 
+	"Tautvila" "Nenyts" "Otokar" "Pukuveras" "Gunda" "Ilme" "Kaire" "Tolik" "Sargun" "Atpälha" 
+	"Nyal'ka" "Smiechna" "Rauha" "Ordava" "Judyta" "Vilivald" "Liudmila" "Meigo" "Valikaila" "Yehudis" 
+	"Tada" "Shindyay" "Säde" "Vilja" "Galya" "Khatyako" "Sofia" "Ann" "Raho" "Ohetõiv" 
+	"Anni" "Koit" "Elo" "Koshel" "Hüüp" "Kunava" "Käbi" "Anna" "Varaka" "Chechama" 
+	"Lonkogveni" "Stanislawa" "Kezhapa" "Saksa" "Grzymislawa" "Tutyra" "Malyy" "Purysho" "Çilen" "Onni" 
+	"Tikshayka" "Adleta" "Elyuva" "Swietoslawa" "Yefimiy" "Dobieslaw" "Aulemb" "Radoslav" "Rodislav" "Yekaterina" 
+	"Piskla" "Giemund" "Davyd" "Lible" "Praskovya" "Päivi" "Ivan" "Aldona" "Nyayka" "Grigoriy" 
+	"Sviatopolk" "Kinga" "Nameisis" "Aimo" "Vladislav" "Daniil" "Hoovatõiv" "Kaupo" "Yefrosinia" "Dmitriy" 
+	"Saundra" "Olev" "Litova" "Illimar" "Ilo" "Manivald" "Arp" "Ihatõiv" "Niglas" "Rahuleid" 
+	"Helmi" "Tutkas" "Hintsa" "Õnne" "Õigemeel" "Taimi" "Kesgaila" "Vainius" "Aras" "Kaomeel" 
+	"Maru" "Urmas" "Päevalemb" "Ilmar" "Arvet" "Laima" "Aotõiv" "Kosk" "Kahus" "Urve" 
+	"Alexandr" "Alexei" "Andrei" "Boris" "Dobrynia" "Feodor" "Gavriil" "Gleb" "Iakov" "Igor" 
+	"Ingvar" "Konstantin" "Koz'ma" "Matfei" "Mikhail" "Oleg" "Pavel" "Putiata" "Rogvolod" "Roman" 
+	"Ruslan" "Stanislav" "Stepan" "Sudislav" "Svetozar" "Terentiy" "Vasiliy" "Viacheslav" "Vseslav" "Vsevolod" 
+	"Vyshata" "Yaroslav" "Yelisey" "Yuriy" }
+monarch_names = {
+	"Pliksov #2" = 27
+	"Hele #0" = -1
+	"Ilmi #0" = -1
+	"Väino #0" = 1
+	"Lill #0" = -1
+	"Kaaren #0" = 1
+	"Agul #1" = 18
+	"Pilve #0" = -1
+	"Meeli #0" = -1
+	"Aune #0" = -1
+	"Kaido #0" = 1
+	"Õie #0" = -1
+	"Uku #0" = 1
+	"Ankad #1" = 24
+	"Davins #0" = 1
+	"Viba #0" = -1
+	"Balodis #1" = 18
+	"Ausala #0" = -1
+	"Baise #0" = 1
+	"Butovit #0" = 1
+	"Jaunule #0" = 1
+	"Imanta #0" = 1
+	"Gedere #0" = 1
+	"Vetseke #0" = 1
+	"Kuliens #0" = 1
+	"Vykantas #2" = 24
+	"Galene #0" = -1
+	"Marite #0" = -1
+	"Cirulis #0" = 1
+	"Rusins #1" = 30
+	"Likiik #1" = 27
+	"Dose #0" = -1
+	"Traidenis #0" = 1
+	"Jedetus #0" = 1
+	"Shvarnas #1" = 24
+	"Kiten #0" = 1
+	"Brita #0" = -1
+	"Karijotas #1" = 18
+	"Gundega #0" = -1
+	"Weslikan #0" = -1
+	"Meinekinus #0" = 1
+	"Greze #0" = -1
+	"Balba #0" = -1
+	"Litto #1" = 24
+	"Golding #0" = 1
+	"Erasts #0" = 1
+	"Liga #0" = -1
+	"Dangeruthe #0" = 1
+	"Savna #0" = -1
+	"Sviendorog #0" = 1
+	"Prusas #0" = 1
+	"Golovke #0" = 1
+	"Kordula #0" = -1
+	"Grasus #0" = -1
+	"Betten #0" = -1
+	"Naula #0" = -1
+	"Kage #0" = 1
+	"Gauronas #0" = 1
+	"Agita #0" = -1
+	"Rasa #0" = -1
+	"Gunvald #1" = 24
+	"Scurdo #0" = 1
+	"Gotene #0" = 1
+	"Borut #0" = 1
+	"Bulei #0" = 1
+	"Galindas #1" = 39
+	"Nomedas #1" = 36
+	"Milzas #1" = 39
+	"Mendune #0" = 1
+	"Vishly #0" = 1
+	"Ieva #0" = -1
+	"Kurlemuse #0" = 1
+	"Ulinniks #0" = 1
+	"Bajoras #1" = 24
+	"Auctune #0" = 1
+	"Maija #0" = -1
+	"Gulbis #0" = -1
+	"Stegut #0" = 1
+	"Klavess #0" = 1
+	"Gelennis #0" = -1
+	"Zigne #0" = -1
+	"Jauguttis #0" = 1
+	"Imela #0" = -1
+	"Glande #1" = 33
+	"Darate #0" = -1
+	"Galeine #0" = 1
+	"Tuzniq #0" = 1
+	"Alvydas #2" = 36
+	"Klukis #0" = 1
+	"Svajone #0" = -1
+	"Erdzivil #0" = 1
+	"Dzeguze #0" = -1
+	"Sarunas #0" = 1
+	"Ulitis #1" = 24
+	"Jovirdas #0" = 1
+	"Visheiv #1" = 24
+	"Gawel #0" = 1
+	"Zivinbudas #0" = 1
+	"Dannila #0" = -1
+	"Budo #0" = 1
+	"Zvenislava #0" = -1
+	"Róza #0" = -1
+	"Mila #0" = -1
+	"Elmede #0" = 1
+	"Ziedas #0" = -1
+	"Ruta #0" = -1
+	"Arelis #0" = 1
+	"Orunza #0" = 1
+	"Zsuzsa #0" = -1
+	"Yudki #0" = 1
+	"Dagonis #0" = 1
+	"Ringaudas #0" = 1
+	"Ausra #0" = -1
+	"Jevna #0" = -1
+	"Aishno #0" = 1
+	"Milyuns #0" = -1
+	"Gerdautas #0" = 1
+	"Vezhav #0" = -1
+	"Gastile #0" = 1
+	"Walenty #0" = 1
+	"Tyushtya #0" = 1
+	"Anele #0" = -1
+	"Anava #0" = -1
+	"Vingoldas #0" = 1
+	"Vysheslav #0" = 1
+	"Audra #0" = -1
+	"Nándor #0" = 1
+	"Viacheslava #0" = -1
+	"Skornand #0" = 1
+	"Sergonis #0" = 1
+	"Saule #0" = -1
+	"Gerkus #0" = -1
+	"Csillag #0" = -1
+	"Rostislava #0" = -1
+	"Kenna #0" = -1
+	"Dardedze #0" = -1
+	"Dagas #0" = -1
+	"Ekkelis #0" = 1
+	"Narvait #0" = 1
+	"Trifon #0" = 1
+	"Kanyuva #0" = -1
+	"Beidras #0" = 1
+	"Lutuveras #1" = 18
+	"Malusha #0" = -1
+	"Azuolas #0" = 1
+	"Dobroslava #0" = -1
+	"Lasukas #0" = 1
+	"Birute #0" = -1
+	"Feodosia #0" = -1
+	"Vida #0" = -1
+	"Mindaugas #0" = 1
+	"Minigaila #0" = 1
+	"Iziaslav #0" = 1
+	"Algirdas #0" = 1
+	"Kantibutas #0" = 1
+	"Sprudeik #0" = 1
+	"Martyna #0" = -1
+	"Manvydas #1" = 18
+	"Arunas #0" = 1
+	"Bitens #0" = -1
+	"Vseslava #0" = -1
+	"Jaunutis #0" = 1
+	"Vilmos #0" = 1
+	"Daira #0" = -1
+	"Yevstafiy #0" = 1
+	"Karatas #1" = 30
+	"Vencel #0" = 1
+	"Agrafena #0" = -1
+	"Lajos #0" = 1
+	"Mikova #0" = -1
+	"Briachislav #0" = 1
+	"Ihavald #0" = 1
+	"Afanasiy #0" = 1
+	"Anastasia #0" = -1
+	"Zoltána #0" = -1
+	"Lech #0" = 1
+	"Päivä #0" = -1
+	"Dobre #0" = 1
+	"Rostislav #0" = 1
+	"Ako #0" = 1
+	"Branimir #0" = 1
+	"Sbyslava #0" = -1
+	"Predslava #0" = -1
+	"Tatyana #0" = -1
+	"Vishikut #0" = 1
+	"Oszkár #0" = 1
+	"Nezayka #0" = -1
+	"Karnak #0" = 1
+	"Ctibor #0" = 1
+	"Talivaldis #0" = 1
+	"Przybyslaw #0" = 1
+	"Nikita #0" = 1
+	"Kodere #0" = 1
+	"Branislava #0" = -1
+	"Lev #0" = 1
+	"Xenia #0" = -1
+	"Stanislaw #0" = 1
+	"Waclaw #0" = 1
+	"Mazava #0" = -1
+	"Juvage #0" = 1
+	"Kugis #1" = 21
+	"Vladimir #0" = 1
+	"Yaropolk #0" = 1
+	"Alexandra #0" = -1
+	"Mieszko #0" = 1
+	"Irina #0" = -1
+	"Yaroslava #0" = -1
+	"Pribislava #0" = -1
+	"Vasilisa #0" = -1
+	"Wratislaw #0" = 1
+	"Iliya #0" = 1
+	"Halina #0" = -1
+	"Gorislava #0" = -1
+	"Dausprungas #0" = 1
+	"Paksyut #0" = 1
+	"Swietoslaw #0" = 1
+	"Sviatoslav #0" = 1
+	"Puresh #0" = 1
+	"Yeremey #0" = 1
+	"Upurga #0" = -1
+	"Matylda #0" = -1
+	"Danuta #0" = -1
+	"Przemysl #0" = 1
+	"Swietopelk #0" = 1
+	"Volodar #0" = 1
+	"Yemelyan #0" = 1
+	"Dzintis #0" = 1
+	"Ulita #0" = -1
+	"Izabela #0" = -1
+	"Jaromir #0" = 1
+	"Bohumir #0" = 1
+	"Kamila #0" = -1
+	"Mstislav #0" = 1
+	"Pereyaslava #0" = -1
+	"Jadwiga #0" = -1
+	"Rogneda #0" = -1
+	"Dobrava #0" = -1
+	"Malgorzata #0" = -1
+	"Casimir #0" = 1
+	"Markéta #0" = -1
+	"Vladislava #0" = -1
+	"Kirill #0" = 1
+	"Sangasa #0" = -1
+	"Demid #0" = 1
+	"Marian #0" = 1
+	"Vasilko #0" = 1
+	"Pokshava #0" = -1
+	"Lammekinus #0" = 1
+	"Senda #0" = -1
+	"Vergava #0" = -1
+	"Wlodzimierz #0" = 1
+	"Chichayka #0" = -1
+	"Fedot #0" = 1
+	"Nalka #0" = 1
+	"Zabava #0" = -1
+	"Tundava #0" = -1
+	"Dovyat #0" = 1
+	"Vaishvilkas #0" = 1
+	"Potekay #0" = -1
+	"Syeju #0" = -1
+	"Chumbulat #0" = 1
+	"Oldrich #0" = 1
+	"Mastorava #0" = -1
+	"Erziya #0" = 1
+	"Varvara #0" = -1
+	"Mitrofan #0" = 1
+	"Voislav #0" = 1
+	"Auli #0" = -1
+	"Jolanta #0" = -1
+	"Nulzyava #0" = -1
+	"Styaka #0" = -1
+	"Krzeslaw #0" = 1
+	"Gibedats #0" = 1
+	"Verkhoslava #0" = -1
+	"Mordvinko #0" = 1
+	"Kornel #0" = 1
+	"Kunyavka #0" = -1
+	"Jalo #0" = 1
+	"Nabtiko #0" = 1
+	"Boleslava #0" = -1
+	"Tautvila #0" = 1
+	"Nenyts #0" = 1
+	"Otokar #0" = 1
+	"Pukuveras #0" = 1
+	"Gunda #0" = -1
+	"Ilme #0" = -1
+	"Kaire #0" = 1
+	"Tolik #0" = 1
+	"Sargun #0" = 1
+	"Atpälha #0" = -1
+	"Nyal'ka #0" = -1
+	"Smiechna #0" = -1
+	"Rauha #0" = -1
+	"Ordava #0" = -1
+	"Judyta #0" = -1
+	"Vilivald #0" = 1
+	"Liudmila #0" = -1
+	"Meigo #0" = 1
+	"Valikaila #0" = 1
+	"Yehudis #0" = -1
+	"Tada #0" = -1
+	"Shindyay #0" = 1
+	"Säde #0" = -1
+	"Vilja #0" = -1
+	"Galya #0" = -1
+	"Khatyako #0" = -1
+	"Sofia #0" = -1
+	"Ann #0" = -1
+	"Raho #0" = 1
+	"Ohetõiv #0" = 1
+	"Anni #0" = -1
+	"Koit #0" = 1
+	"Elo #0" = -1
+	"Koshel #0" = 1
+	"Hüüp #0" = -1
+	"Kunava #0" = -1
+	"Käbi #0" = -1
+	"Anna #0" = -1
+	"Varaka #0" = 1
+	"Chechama #0" = -1
+	"Lonkogveni #0" = 1
+	"Stanislawa #0" = -1
+	"Kezhapa #0" = 1
+	"Saksa #0" = 1
+	"Grzymislawa #0" = -1
+	"Tutyra #0" = 1
+	"Malyy #0" = 1
+	"Purysho #0" = 1
+	"Çilen #0" = -1
+	"Onni #0" = 1
+	"Tikshayka #0" = 1
+	"Adleta #0" = -1
+	"Elyuva #0" = -1
+	"Swietoslawa #0" = -1
+	"Yefimiy #0" = 1
+	"Dobieslaw #0" = 1
+	"Aulemb #0" = 1
+	"Radoslav #0" = 1
+	"Rodislav #0" = 1
+	"Yekaterina #0" = -1
+	"Piskla #0" = 1
+	"Giemund #0" = 1
+	"Davyd #0" = 1
+	"Lible #0" = 1
+	"Praskovya #0" = -1
+	"Päivi #0" = -1
+	"Ivan #0" = 1
+	"Aldona #0" = -1
+	"Nyayka #0" = -1
+	"Grigoriy #0" = 1
+	"Sviatopolk #0" = 1
+	"Kinga #0" = -1
+	"Nameisis #0" = 1
+	"Aimo #0" = -1
+	"Vladislav #0" = 1
+	"Daniil #0" = 1
+	"Hoovatõiv #0" = 1
+	"Kaupo #0" = 1
+	"Yefrosinia #0" = -1
+	"Dmitriy #0" = 1
+	"Saundra #0" = -1
+	"Olev #0" = 1
+	"Litova #0" = -1
+	"Illimar #0" = 1
+	"Ilo #0" = -1
+	"Manivald #0" = 1
+	"Arp #0" = 1
+	"Ihatõiv #0" = 1
+	"Niglas #1" = 21
+	"Rahuleid #0" = 1
+	"Helmi #0" = -1
+	"Tutkas #0" = 1
+	"Hintsa #0" = 1
+	"Õnne #0" = -1
+	"Õigemeel #0" = 1
+	"Taimi #0" = -1
+	"Kesgaila #1" = 0
+	"Vainius #1" = 0
+	"Aras #1" = 0
+	"Kaomeel #1" = 0
+	"Maru #1" = 0
+	"Urmas #1" = 0
+	"Päevalemb #1" = 0
+	"Ilmar #1" = 0
+	"Arvet #1" = 0
+	"Laima #1" = -1
+	"Aotõiv #1" = 0
+	"Kosk #1" = 0
+	"Kahus #1" = 0
+	"Urve #1" = -1
+	"Alexandr #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Dobrynia #0" = 0
+	"Feodor #0" = 0
+	"Gavriil #0" = 0
+	"Gleb #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Ingvar #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Terentiy #0" = 0
+	"Vasiliy #0" = 0
+	"Viacheslav #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Yaroslav #0" = 0
+	"Yelisey #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

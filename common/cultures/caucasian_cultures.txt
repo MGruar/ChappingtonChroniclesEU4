@@ -1,0 +1,10 @@
+caucasian = {
+	alan = {
+		primary = GEO
+		dynasty_names = { "Alauni" }
+	}
+	assyrian = {
+		primary = GEO
+		dynasty_names = { }
+	}
+}

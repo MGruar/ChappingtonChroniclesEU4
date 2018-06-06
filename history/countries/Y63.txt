@@ -1,0 +1,26 @@
+# Salivaahan
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2064
+1413.4.7 = {
+	monarch = {
+		name = "Bhoj II"
+		birth_date = 1396.10.4
+		dynasty = "Salivaahan"
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2064
+	add_treasury = 26
+	add_prestige = 366
+}

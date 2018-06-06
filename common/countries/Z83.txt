@@ -1,0 +1,332 @@
+# Ahavamallid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 93 196 2 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Ahavamalla" "Kundakadevi" "Rudramadevi" "Chandena" "Obayamma" "Ballaladeva" "Vijamba" "Revakanimmadi" "Ayanna" "Akkadevi" 
+	"Niravadyadhavala" "Mallikarjuna" "Vinayaditya" "Durgasimha" "Bhuvikrama" "Pertal" "Danamava" "Chandaladevi" "Gamakamba" "Achyutadeva" 
+	"Tundaka" "Katayavema" "Jagaraya" "Mahadevi" "Tailapa" "Bukka" "Gajankusha" "Mailaladevi" "Chandrabbalabbe" "Vishnugopa" 
+	"Tirumalaraya" "Srivikrama" "Krishna" "Gobburi" "Lakshmi" "Yachamanedu" "Hoysaladevi" "Singhana" "Bijjabbe" "Jagadhekamalla" 
+	"Kannama" "Ramadeva" "Sriranga" "Thirumalambike" "Shantaladevi" "Bhimasakti" "Vendakadri" "Nripakama" "Satyasraya" "Venkatadri" 
+	"Puvirâca" "Mangalesi" "Rajamati" "Krishnadevaraya" "Ganapathinayaka" "Gangambika" "Jayasimha" "Shivamara" "Vikramaditya" "Srimahadevi" 
+	"Chinnambike" "Viranarasimha" "Nihalray" "Govinda" "Uchita" "Bhavanaga" "Puppadevi" "Kashibai" "Nayapala" "Shivachitta" 
+	"Viraballala" "Polavira" "Sripurusha" "Sadashiva" "Vijayaditya" "Sharva" "Sankama" "Adikavi" "Narasimha" "Jagattunga" 
+	"Madhura" "Ramachandra" "Rachamalla" "Achugi" "Madhava" "Asaga" "Gangaraja" "Kiriyasaga" "Kambarasa" "Dashavarman" 
+	"Bijjama" "Popatraj" "Maharani" "Virupaksha" "Amoghavarsha" "Dinakarn" "Vaaraharaja" "Sovideva" "Gajasimha" "Kuladevi" 
+	"Mahidevi" "Bhumpala" "Prola" "Ranabhanja" "Karmavati" "Rudaladevi" "Hemavati" "Vakula" "Suhava" "Amma" 
+	"Damayanti" "Nrpakama" "Anantadevi" "Udayavarman" "Virsinghadeva" "Bhuyikadevi" "Narasanayaka" "Kakanvati" "Dehanagadevi" "Prabhavati" 
+	"Maya" "Dhruvadevi" "Neetimarga" "Durgaraja" "Sanyukta" "Tihunaka" "Mallugi" "Kalyanachandra" "Rahap" "Candrabhattarikadevi" 
+	"Kanchuka" "Maharana" "Rupadevi" "Ratnavati" "Shrimitradevi" "Allat" "Mahalakshmi" "Alsi" "Chellava" "Bhogavati" 
+	"Permanadi" "Vyaghrasena" "Nagipoti" "Bhima" "Dhruvasvamini" "Padmini" "Jahangir" "Sundaridevi" "Bhoja" "Akal" 
+	"Udayamati" "Solyana" "Vakulamahadevi" "Hirapal" "Kalayandevi" "Ereyanga" "Bhoo-Chand" "Sobhanaraja" "Utidavarsha" "Devavati" 
+	"Chamekamba" "Indrapal" "Abhayapala" "Gandharavati" "Silabhanja" "Dandi" "Tejapala" "Prasadhanadevi" "Kanwar" "Prthiviyaraja" 
+	"Delhanadevi" "Prahladana" "Lakshman" "Somalladevi" "Kubjavishnuvardhana" "Asvapala" "Anekonda" "Marasimha" "Devanayaka" "Mahadeva" 
+	"Ramaraya" "Sidhawa" "Harihara" "Yuddamalla" "Anitalli" "Dhruva" "Mallapa" "Prolayanayak" "Ganapathideva" "al-Julanda" 
+	"Azam" "Idris" "Hafiz" "Talib" "Sulayman" "Husam" "Is'mail" "Shamir" "Nasr" "Abdul-Gafur" 
+	"Melaku" "Semere" "Tesfaye" "Abai" "Mellesse" "Benaim" "Yacob" "Iskander" "Aarif" "Abdul-Jaleel" 
+	"Abdul-Qadir" "Abdul-Wahab" "Aghlab" "Akin" "Alim" "Aram" "Bahir" "Burhanaddin" "Fadil" "Fadl" 
+	"Faruk" "Ghalib" "Halil" "Ibrahim" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" 
+	"Mahdi" "Mansur" "Mirza" "Mubarak" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" 
+	"Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shujah" "Ubayd" 
+	"Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"Ahavamalla #0" = 1
+	"Kundakadevi #0" = -1
+	"Rudramadevi #0" = -1
+	"Chandena #0" = -1
+	"Obayamma #0" = -1
+	"Ballaladeva #0" = 1
+	"Vijamba #0" = -1
+	"Revakanimmadi #0" = -1
+	"Ayanna #1" = 30
+	"Akkadevi #0" = -1
+	"Niravadyadhavala #0" = 1
+	"Mallikarjuna #1" = 36
+	"Vinayaditya #0" = 1
+	"Durgasimha #0" = 1
+	"Bhuvikrama #0" = 1
+	"Pertal #0" = -1
+	"Danamava #0" = 1
+	"Chandaladevi #0" = -1
+	"Gamakamba #0" = -1
+	"Achyutadeva #0" = 1
+	"Tundaka #0" = -1
+	"Katayavema #0" = 1
+	"Jagaraya #0" = 1
+	"Mahadevi #0" = -1
+	"Tailapa #0" = 1
+	"Bukka #0" = 1
+	"Gajankusha #0" = 1
+	"Mailaladevi #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Vishnugopa #0" = 1
+	"Tirumalaraya #0" = 1
+	"Srivikrama #0" = 1
+	"Krishna #0" = 1
+	"Gobburi #0" = 1
+	"Lakshmi #0" = -1
+	"Yachamanedu #0" = 1
+	"Hoysaladevi #0" = -1
+	"Singhana #0" = 1
+	"Bijjabbe #0" = -1
+	"Jagadhekamalla #0" = 1
+	"Kannama #0" = 1
+	"Ramadeva #0" = 1
+	"Sriranga #0" = 1
+	"Thirumalambike #0" = -1
+	"Shantaladevi #0" = -1
+	"Bhimasakti #0" = 1
+	"Vendakadri #0" = 1
+	"Nripakama #0" = 1
+	"Satyasraya #0" = 1
+	"Venkatadri #0" = 1
+	"Puvirâca #0" = 1
+	"Mangalesi #0" = 1
+	"Rajamati #0" = -1
+	"Krishnadevaraya #0" = 1
+	"Ganapathinayaka #0" = 1
+	"Gangambika #0" = -1
+	"Jayasimha #0" = 1
+	"Shivamara #0" = 1
+	"Vikramaditya #0" = 1
+	"Srimahadevi #0" = -1
+	"Chinnambike #0" = -1
+	"Viranarasimha #0" = 1
+	"Nihalray #0" = 1
+	"Govinda #0" = 1
+	"Uchita #0" = 1
+	"Bhavanaga #0" = -1
+	"Puppadevi #0" = -1
+	"Kashibai #0" = -1
+	"Nayapala #0" = 1
+	"Shivachitta #0" = 1
+	"Viraballala #0" = 1
+	"Polavira #0" = 1
+	"Sripurusha #0" = 1
+	"Sadashiva #0" = 1
+	"Vijayaditya #0" = 1
+	"Sharva #0" = 1
+	"Sankama #0" = 1
+	"Adikavi #0" = 1
+	"Narasimha #0" = 1
+	"Jagattunga #0" = 1
+	"Madhura #0" = 1
+	"Ramachandra #0" = 1
+	"Rachamalla #0" = 1
+	"Achugi #0" = 1
+	"Madhava #0" = 1
+	"Asaga #0" = 1
+	"Gangaraja #0" = 1
+	"Kiriyasaga #0" = 1
+	"Kambarasa #0" = 1
+	"Dashavarman #0" = 1
+	"Bijjama #0" = 1
+	"Popatraj #0" = 1
+	"Maharani #0" = -1
+	"Virupaksha #0" = 1
+	"Amoghavarsha #0" = 1
+	"Dinakarn #0" = 1
+	"Vaaraharaja #0" = 1
+	"Sovideva #0" = 1
+	"Gajasimha #0" = 1
+	"Kuladevi #0" = -1
+	"Mahidevi #0" = -1
+	"Bhumpala #0" = 1
+	"Prola #0" = 1
+	"Ranabhanja #0" = 1
+	"Karmavati #0" = -1
+	"Rudaladevi #0" = -1
+	"Hemavati #0" = -1
+	"Vakula #0" = -1
+	"Suhava #0" = -1
+	"Amma #0" = 1
+	"Damayanti #0" = -1
+	"Nrpakama #0" = 1
+	"Anantadevi #0" = -1
+	"Udayavarman #0" = 1
+	"Virsinghadeva #0" = 1
+	"Bhuyikadevi #0" = -1
+	"Narasanayaka #0" = 1
+	"Kakanvati #0" = -1
+	"Dehanagadevi #0" = -1
+	"Prabhavati #0" = -1
+	"Maya #1" = -19
+	"Dhruvadevi #0" = -1
+	"Neetimarga #0" = 1
+	"Durgaraja #0" = 1
+	"Sanyukta #0" = -1
+	"Tihunaka #0" = -1
+	"Mallugi #0" = 1
+	"Kalyanachandra #0" = 1
+	"Rahap #0" = 1
+	"Candrabhattarikadevi #0" = -1
+	"Kanchuka #0" = -1
+	"Maharana #0" = 1
+	"Rupadevi #0" = -1
+	"Ratnavati #0" = -1
+	"Shrimitradevi #0" = -1
+	"Allat #0" = 1
+	"Mahalakshmi #0" = -1
+	"Alsi #0" = 1
+	"Chellava #0" = -1
+	"Bhogavati #0" = -1
+	"Permanadi #0" = 1
+	"Vyaghrasena #0" = 1
+	"Nagipoti #0" = -1
+	"Bhima #0" = 1
+	"Dhruvasvamini #0" = -1
+	"Padmini #0" = -1
+	"Jahangir #0" = 1
+	"Sundaridevi #0" = -1
+	"Bhoja #0" = 1
+	"Akal #0" = -1
+	"Udayamati #0" = -1
+	"Solyana #0" = 1
+	"Vakulamahadevi #0" = -1
+	"Hirapal #0" = 1
+	"Kalayandevi #0" = -1
+	"Ereyanga #0" = 1
+	"Bhoo-Chand #0" = 1
+	"Sobhanaraja #0" = 1
+	"Utidavarsha #0" = 1
+	"Devavati #0" = -1
+	"Chamekamba #0" = -1
+	"Indrapal #0" = 1
+	"Abhayapala #0" = 1
+	"Gandharavati #0" = -1
+	"Silabhanja #0" = 1
+	"Dandi #0" = -1
+	"Tejapala #0" = 1
+	"Prasadhanadevi #0" = -1
+	"Kanwar #0" = -1
+	"Prthiviyaraja #0" = 1
+	"Delhanadevi #0" = -1
+	"Prahladana #0" = 1
+	"Lakshman #0" = -1
+	"Somalladevi #0" = -1
+	"Kubjavishnuvardhana #0" = 1
+	"Asvapala #0" = 1
+	"Anekonda #0" = 1
+	"Marasimha #0" = 1
+	"Devanayaka #0" = 1
+	"Mahadeva #0" = 1
+	"Ramaraya #0" = 1
+	"Sidhawa #0" = -1
+	"Harihara #0" = 1
+	"Yuddamalla #0" = 1
+	"Anitalli #0" = -1
+	"Dhruva #0" = 1
+	"Mallapa #0" = 1
+	"Prolayanayak #0" = 1
+	"Ganapathideva #0" = 1
+	"al-Julanda #1" = 0
+	"Azam #1" = 0
+	"Idris #2" = 0
+	"Hafiz #1" = 0
+	"Talib #2" = 0
+	"Sulayman #1" = 0
+	"Husam #1" = 0
+	"Is'mail #1" = 0
+	"Shamir #1" = 0
+	"Nasr #1" = 0
+	"Abdul-Gafur #3" = 0
+	"Melaku #1" = 0
+	"Semere #1" = 0
+	"Tesfaye #2" = 0
+	"Abai #2" = 0
+	"Mellesse #1" = -1
+	"Benaim #1" = 0
+	"Yacob #1" = 0
+	"Iskander #2" = 0
+	"Aarif #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Halil #0" = 0
+	"Ibrahim #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shujah #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

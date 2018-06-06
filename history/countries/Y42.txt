@@ -1,0 +1,26 @@
+# Aswan
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = amhara
+religion = monophysite
+clear_scripted_personalities = yes
+capital = 4318
+1420.2.5 = {
+	monarch = {
+		name = "Gondar"
+		birth_date = 1410.10.11
+		dynasty = "Ogbae"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 4318
+	add_treasury = 9
+	add_prestige = 391
+}

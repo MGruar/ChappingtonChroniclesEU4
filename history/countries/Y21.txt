@@ -1,0 +1,26 @@
+# Dakia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 161
+1417.7.26 = {
+	monarch = {
+		name = "Symeon"
+		birth_date = 1417.4.16
+		dynasty = "Damaskenos"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 161
+	add_treasury = 130
+	add_prestige = 134
+}

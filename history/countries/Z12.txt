@@ -1,0 +1,25 @@
+# València
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 220
+1436.7.28 = {
+	monarch = {
+		name = "Angus"
+		birth_date = 1389.4.8
+		dynasty = "Cormaig"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = zealot_personality
+}
+1444.11.11 = {
+	capital = 220
+	add_treasury = 115
+	add_prestige = 303
+}

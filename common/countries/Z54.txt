@@ -1,0 +1,230 @@
+# Fareedid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 92 155 187 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Fareed" "Salman" "Amin" "Ferdows" "Rostam" "Hunoon" "Moinkhan" "Darab" "Mahdokht" "Farrukhzad" 
+	"Ardahan" "Tourandokht" "Irandokht" "Fariborz" "Shahzadeh" "Naveed" "Yasaman" "Parvin" "Bakhtiar" "Hurmat" 
+	"Aikaterine" "Pelagia" "Gavbarih" "Dabuya" "Farrukhan" "Dadhburzmihr" "Khurshid" "Sorkhab" "Al-Mansur" "Vandad Hormozd" 
+	"Harun al-Rashid" "Azam" "Idris" "Shaiban" "Vachagan" "Tatoul" "Sevag" "Almasd" "Philippos" "Zenon" 
+	"Eustathios" "Gerasimos" "Boethios" "Konstantios" "Davud" "Ešot" "Zand" "Azad" "Mesûd" "Hormoz" 
+	"Menûçihr" "Esfendiyar" "Keyghobad" "Ferîdun" "Faraz" "Aaban" "Aabdar" "Aalem" "Aakrama" "Aamir" 
+	"Aaqel" "Aarash" "Aarif" "Aazar" "Abas" "Abdiesus" "Abed" "Abu-zar" "Afzal" "Adel" 
+	"Afrooz" "Afsar" "Afshin" "Ajmal" "Akhtar" "Akram" "Alaudin" "Akbarkhan" "Almeida" "Amardad" 
+	"Amooz" "Anoushiravan" "Anwaaraddin" "Ariabood" "Armeen" "Aryo" "Arzhang" "Asadi" "Ashtak" "Azfaar" 
+	"Azoom" "Azyan" "Azzami" "Azzat" "Baddar" "Badeed" "Badih" "Badilayn" "Badrawi" "Baghish" 
+	"Bahiri" "Bahirun" "Bahlul" "Bahnam" "Dadvar" "Faireh" "Farjaad" "Farzaad" "Futtehkhan" "Gulraiz" 
+	"Gulrez" "Gulru" "Isfandiyar" "Jaah" "Jabroot" "Jammas" "Jansher" "Jehanzaib" "Kardaar" "Lodhi" 
+	"Maiwand" "Mateen" "Mehrang" "Mirwais" "Mohammadi" "Mukhtar" "Mursalin" "Musa" "Naseefa" "Nawaskhan" 
+	"Nouman" "Painda" "Parwaiz" "Pazir" "Poya" "Qammar" "Rayi" "Shahmeer" "Shahou" "Shahpar" 
+	"Shahpur" "Shahu" "Shehzad" "Soban" "Tabish" "Tabsheer" "Taimur" "Tajj" "Tashfeen" "Wamiq" 
+	"Yar" "Yesal" "Zadfar" "Zakariya" "Zarak" "Zartash" }
+monarch_names = {
+	"Fareed #1" = 18
+	"Salman #1" = 18
+	"Amin #1" = 21
+	"Ferdows #1" = 18
+	"Rostam #0" = 1
+	"Hunoon #0" = -1
+	"Moinkhan #0" = 1
+	"Darab #1" = 18
+	"Mahdokht #0" = -1
+	"Farrukhzad #0" = 1
+	"Ardahan #1" = 18
+	"Tourandokht #0" = -1
+	"Irandokht #0" = -1
+	"Fariborz #1" = 21
+	"Shahzadeh #0" = -1
+	"Naveed #0" = 1
+	"Yasaman #0" = -1
+	"Parvin #0" = -1
+	"Bakhtiar #0" = 1
+	"Hurmat #0" = -1
+	"Aikaterine #0" = -1
+	"Pelagia #0" = -1
+	"Gavbarih #1" = 0
+	"Dabuya #1" = 0
+	"Farrukhan #1" = 0
+	"Dadhburzmihr #1" = 0
+	"Khurshid #1" = 0
+	"Sorkhab #1" = 0
+	"Al-Mansur #1" = 0
+	"Vandad Hormozd #1" = 0
+	"Harun al-Rashid #1" = 0
+	"Azam #1" = 0
+	"Idris #2" = 0
+	"Shaiban #1" = 0
+	"Vachagan #1" = 0
+	"Tatoul #1" = 0
+	"Sevag #1" = 0
+	"Almasd #1" = -1
+	"Philippos #1" = 0
+	"Zenon #1" = 0
+	"Eustathios #1" = 0
+	"Gerasimos #1" = 0
+	"Boethios #1" = 0
+	"Konstantios #1" = 0
+	"Davud #1" = 0
+	"Ešot #1" = 0
+	"Zand #2" = 0
+	"Azad #1" = 0
+	"Mesûd #1" = 0
+	"Hormoz #1" = 0
+	"Menûçihr #1" = 0
+	"Esfendiyar #1" = 0
+	"Keyghobad #1" = 0
+	"Ferîdun #1" = 0
+	"Faraz #1" = 0
+	"Aaban #0" = 0
+	"Aabdar #0" = 0
+	"Aalem #0" = 0
+	"Aakrama #0" = 0
+	"Aamir #0" = 0
+	"Aaqel #0" = 0
+	"Aarash #0" = 0
+	"Aarif #0" = 0
+	"Aazar #0" = 0
+	"Abas #0" = 0
+	"Abdiesus #0" = 0
+	"Abed #0" = 0
+	"Abu-zar #0" = 0
+	"Afzal #0" = 0
+	"Adel #0" = 0
+	"Afrooz #0" = 0
+	"Afsar #0" = 0
+	"Afshin #0" = 0
+	"Ajmal #0" = 0
+	"Akhtar #0" = 0
+	"Akram #0" = 0
+	"Alaudin #0" = 0
+	"Akbarkhan #0" = 0
+	"Almeida #0" = 0
+	"Amardad #0" = 0
+	"Amooz #0" = 0
+	"Anoushiravan #0" = 0
+	"Anwaaraddin #0" = 0
+	"Ariabood #0" = 0
+	"Armeen #0" = 0
+	"Aryo #0" = 0
+	"Arzhang #0" = 0
+	"Asadi #0" = 0
+	"Ashtak #0" = 0
+	"Azfaar #0" = 0
+	"Azoom #0" = 0
+	"Azyan #0" = 0
+	"Azzami #0" = 0
+	"Azzat #0" = 0
+	"Baddar #0" = 0
+	"Badeed #0" = 0
+	"Badih #0" = 0
+	"Badilayn #0" = 0
+	"Badrawi #0" = 0
+	"Baghish #0" = 0
+	"Bahiri #0" = 0
+	"Bahirun #0" = 0
+	"Bahlul #0" = 0
+	"Bahnam #0" = 0
+	"Dadvar #0" = 0
+	"Faireh #0" = 0
+	"Farjaad #0" = 0
+	"Farzaad #0" = 0
+	"Futtehkhan #0" = 0
+	"Gulraiz #0" = 0
+	"Gulrez #0" = 0
+	"Gulru #0" = 0
+	"Isfandiyar #0" = 0
+	"Jaah #0" = 0
+	"Jabroot #0" = 0
+	"Jammas #0" = 0
+	"Jansher #0" = 0
+	"Jehanzaib #0" = 0
+	"Kardaar #0" = 0
+	"Lodhi #0" = 0
+	"Maiwand #0" = 0
+	"Mateen #0" = 0
+	"Mehrang #0" = 0
+	"Mirwais #0" = 0
+	"Mohammadi #0" = 0
+	"Mukhtar #0" = 0
+	"Mursalin #0" = 0
+	"Musa #0" = 0
+	"Naseefa #0" = 0
+	"Nawaskhan #0" = 0
+	"Nouman #0" = 0
+	"Painda #0" = 0
+	"Parwaiz #0" = 0
+	"Pazir #0" = 0
+	"Poya #0" = 0
+	"Qammar #0" = 0
+	"Rayi #0" = 0
+	"Shahmeer #0" = 0
+	"Shahou #0" = 0
+	"Shahpar #0" = 0
+	"Shahpur #0" = 0
+	"Shahu #0" = 0
+	"Shehzad #0" = 0
+	"Soban #0" = 0
+	"Tabish #0" = 0
+	"Tabsheer #0" = 0
+	"Taimur #0" = 0
+	"Tajj #0" = 0
+	"Tashfeen #0" = 0
+	"Wamiq #0" = 0
+	"Yar #0" = 0
+	"Yesal #0" = 0
+	"Zadfar #0" = 0
+	"Zakariya #0" = 0
+	"Zarak #0" = 0
+	"Zartash #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

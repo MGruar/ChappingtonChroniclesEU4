@@ -1,0 +1,232 @@
+# Kuyavia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 115 30 50 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Wlodzislaw" "Radomir" "Dytryk" "Bohuslava" "Ewa" "Mieszko" "Dorota" "Gracja" "Stanislaw" "Jadwiga" 
+	"Dragomira" "Radoslav" "Ludvik" "Dobieslaw" "Branislava" "Jaromar" "Agnieszka" "Mikolás" "Bozydar" "Lidia" 
+	"Strasz" "Judyta" "Václava" "Geira" "Bretislav" "Wera" "Wizlaw" "Miroslava" "Radoslava" "Jolanta" 
+	"Berta" "Salomea" "Stanislava" "Maria" "Izabela" "Witosz" "Swietopelk" "Mszczuj" "Lambert" "Przemyslaw" 
+	"Boncza" "Snowid" "Piskla" "Wincenty" "Zbyszko" "Sedziej" "Vítek" "Przybor" "Milena" "Kinga" 
+	"Kenna" "Stanislawa" "Kunegunda" "Swietoslawa" "Stoigniew" "Gosciwuj" "Gaudenty" "Ilvelemb" "Elmar" "Mati" 
+	"Ihalemb" "Aulemb" "Aotõiv" "Sulistryj" "Miroslaw" "Kamil" "Marian" "Jakub" "Aleksander" "Andrzej" 
+	"Antoni" "Aron" "Barnim" "Bartosz" "Bedrich" "Bezprzym" "Blazej" "Bogislaw" "Bohdan" "Bohumir" 
+	"Boleslaw" "Boriwoj" "Branimir" "Branislav" "Casimir" "Ctibor" "Dobromil" "Drosuk" "Frantisek" "Gawel" 
+	"Grzegorz" "Havel" "Jacenty" "Jakusz" "Janusz" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jindrich" 
+	"Jirí" "Jozef" "Juliusz" "Kajetan" "Karel" "Kasper" "Kazimierz" "Kliment" "Kolman" "Kornel" 
+	"Kresimir" "Krzeslaw" "Krzysztof" "Lech" "Leszek" "Lubomir" "Lucjan" "Marek" "Martin" "Mateusz" 
+	"Miloslaw" "Milosz" "Mscislaw" "Msciwoj" "Oldrich" "Ondrej" "Otokar" "Patryk" "Pawel" "Piotr" 
+	"Prendota" "Przemysl" "Przybyslaw" "Radomil" "Rostislav" "Ryszard" "Sambor" "Sobieslav" "Swietoslaw" "Szczepan" 
+	"Szczesny" "Szymon" "Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" 
+	"Wawrzyniec" "Wenceslaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
+monarch_names = {
+	"Wlodzislaw #0" = 1
+	"Radomir #0" = 1
+	"Dytryk #0" = 1
+	"Bohuslava #0" = -1
+	"Ewa #0" = -1
+	"Mieszko #1" = 24
+	"Dorota #0" = -1
+	"Gracja #0" = -1
+	"Stanislaw #0" = 1
+	"Jadwiga #0" = -1
+	"Dragomira #0" = -1
+	"Radoslav #0" = 1
+	"Ludvik #0" = 1
+	"Dobieslaw #1" = 18
+	"Branislava #0" = -1
+	"Jaromar #0" = 1
+	"Agnieszka #0" = -1
+	"Mikolás #0" = 1
+	"Bozydar #0" = 1
+	"Lidia #0" = -1
+	"Strasz #0" = 1
+	"Judyta #0" = -1
+	"Václava #0" = -1
+	"Geira #0" = -1
+	"Bretislav #0" = 1
+	"Wera #0" = -1
+	"Wizlaw #0" = 1
+	"Miroslava #0" = -1
+	"Radoslava #0" = -1
+	"Jolanta #0" = -1
+	"Berta #0" = -1
+	"Salomea #0" = -1
+	"Stanislava #0" = -1
+	"Maria #0" = -1
+	"Izabela #0" = -1
+	"Witosz #3" = 0
+	"Swietopelk #1" = 0
+	"Mszczuj #1" = 0
+	"Lambert #1" = 0
+	"Przemyslaw #1" = 0
+	"Boncza #1" = 0
+	"Snowid #1" = 0
+	"Piskla #4" = 0
+	"Wincenty #1" = 0
+	"Zbyszko #1" = 0
+	"Sedziej #1" = 0
+	"Vítek #1" = 0
+	"Przybor #1" = 0
+	"Milena #1" = -1
+	"Kinga #1" = -1
+	"Kenna #1" = -1
+	"Stanislawa #1" = -1
+	"Kunegunda #1" = -1
+	"Swietoslawa #1" = -1
+	"Stoigniew #1" = 0
+	"Gosciwuj #1" = 0
+	"Gaudenty #1" = 0
+	"Ilvelemb #1" = 0
+	"Elmar #1" = 0
+	"Mati #1" = 0
+	"Ihalemb #1" = 0
+	"Aulemb #1" = 0
+	"Aotõiv #1" = 0
+	"Sulistryj #1" = 0
+	"Miroslaw #1" = 0
+	"Kamil #1" = 0
+	"Marian #1" = 0
+	"Jakub #1" = 0
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Antoni #0" = 0
+	"Aron #0" = 0
+	"Barnim #0" = 0
+	"Bartosz #0" = 0
+	"Bedrich #0" = 0
+	"Bezprzym #0" = 0
+	"Blazej #0" = 0
+	"Bogislaw #0" = 0
+	"Bohdan #0" = 0
+	"Bohumir #0" = 0
+	"Boleslaw #0" = 0
+	"Boriwoj #0" = 0
+	"Branimir #0" = 0
+	"Branislav #0" = 0
+	"Casimir #0" = 0
+	"Ctibor #0" = 0
+	"Dobromil #0" = 0
+	"Drosuk #0" = 0
+	"Frantisek #0" = 0
+	"Gawel #0" = 0
+	"Grzegorz #0" = 0
+	"Havel #0" = 0
+	"Jacenty #0" = 0
+	"Jakusz #0" = 0
+	"Janusz #0" = 0
+	"Jaromil #0" = 0
+	"Jaromir #0" = 0
+	"Jaroslav #0" = 0
+	"Jedrzej #0" = 0
+	"Jindrich #0" = 0
+	"Jirí #0" = 0
+	"Jozef #0" = 0
+	"Juliusz #0" = 0
+	"Kajetan #0" = 0
+	"Karel #0" = 0
+	"Kasper #0" = 0
+	"Kazimierz #0" = 0
+	"Kliment #0" = 0
+	"Kolman #0" = 0
+	"Kornel #0" = 0
+	"Kresimir #0" = 0
+	"Krzeslaw #0" = 0
+	"Krzysztof #0" = 0
+	"Lech #0" = 0
+	"Leszek #0" = 0
+	"Lubomir #0" = 0
+	"Lucjan #0" = 0
+	"Marek #0" = 0
+	"Martin #0" = 0
+	"Mateusz #0" = 0
+	"Miloslaw #0" = 0
+	"Milosz #0" = 0
+	"Mscislaw #0" = 0
+	"Msciwoj #0" = 0
+	"Oldrich #0" = 0
+	"Ondrej #0" = 0
+	"Otokar #0" = 0
+	"Patryk #0" = 0
+	"Pawel #0" = 0
+	"Piotr #0" = 0
+	"Prendota #0" = 0
+	"Przemysl #0" = 0
+	"Przybyslaw #0" = 0
+	"Radomil #0" = 0
+	"Rostislav #0" = 0
+	"Ryszard #0" = 0
+	"Sambor #0" = 0
+	"Sobieslav #0" = 0
+	"Swietoslaw #0" = 0
+	"Szczepan #0" = 0
+	"Szczesny #0" = 0
+	"Szymon #0" = 0
+	"Tadeusz #0" = 0
+	"Tomasz #0" = 0
+	"Udalrich #0" = 0
+	"Urjasz #0" = 0
+	"Vojtech #0" = 0
+	"Waclaw #0" = 0
+	"Walenty #0" = 0
+	"Wratislaw #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wenceslaw #0" = 0
+	"Wladyslaw #0" = 0
+	"Wlodek #0" = 0
+	"Wlodzimierz #0" = 0
+	"Zbigniew #0" = 0
+	"Zdenek #0" = 0
+	"Zdislav #0" = 0
+	"Zygmunt #0" = 0
+}
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+

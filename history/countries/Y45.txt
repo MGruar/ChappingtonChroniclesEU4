@@ -1,0 +1,26 @@
+# Axum
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = monophysite
+clear_scripted_personalities = yes
+capital = 2787
+1414.4.21 = {
+	monarch = {
+		name = "Mengesha"
+		birth_date = 1384.7.21
+		dynasty = "Abebe"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2787
+	add_treasury = 79
+	add_prestige = 239
+}

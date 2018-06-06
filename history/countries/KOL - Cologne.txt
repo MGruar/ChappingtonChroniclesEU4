@@ -1,0 +1,26 @@
+# Cologne
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = cathar
+clear_scripted_personalities = yes
+capital = 85
+1413.3.19 = {
+	monarch = {
+		name = "Hubert"
+		birth_date = 1408.1.12
+		dynasty = "de Willemstad"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 85
+	add_treasury = 74
+	add_prestige = 89
+}

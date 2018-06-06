@@ -1,0 +1,230 @@
+# Alexandria
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 100 219 134 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Theodosios" "Germanos" "Sergia" "Artemios" "Hypatia" "Rhodanthe" "Adémar" "Alexandros" "Simonis" "Echive" 
+	"Gabriel" "Kosmas" "Pyrros" "Petra" "Philaretos" "Pantoleon" "Ioustinianos" "Theodoros" "Methodios" "Polykarpos" 
+	"Maria" "Dionysia" "Thomais" "Euphemios" "Markia" "Nikephoros" "Eudokia" "Theophilos" "Leontia" "Pulcheria" 
+	"Damianos" "Eudoxia" "Nikarete" "Eugenia" "Theochariste" "Nikolaos" "Arsenios" "Ioulianos" "Martha" "Tiberios" 
+	"Basillike" "Azenkwed" "Philotheos" "Leon" "Sabas" "Hypatios" "Hurmat" "Samuel" "Eusebia" "Stephania" 
+	"Konstantine" "Theophano" "Abdul-Aziz" "Dawud" "Mukhtar" "Uways" "Jabir" "Aghecher" "Isalcas" "Ajdir" 
+	"Khalil" "Yahya" "Akin" "Zeyd" "Mansur" "Nasr" "Abdul-Qadir" "Sulayman" "Mubarak" "Andronikos" 
+	"Anastasios" "Tryphon" "Ioustinos" "Helias" "Aaron" "Abanoub" "Abderahman" "Abdul-Haq" "Abdul-Madjid" "Abdul-Salaam" 
+	"Abianos" "Abisalom" "Ablarion" "Abraam" "Adnan" "Agathon" "Agathonikos" "Agathos" "Alam" "Amr" 
+	"Androus" "Anthinos" "Ashraf" "Asim" "Athanasios" "Badr" "Bashir" "Biktor" "Binyamin" "Bishoi" 
+	"Boutros" "Danyal" "Dawlat" "Da’oud" "Farhan" "Firuz" "Gabri’el" "Georgios" "Ghiyasaddin" "Habil" 
+	"Hakam" "Hammud" "Hanri" "Haroun" "Hisham" "Ibrahim" "Ilyas" "Is'mail" "Izzaddin" "Jalaaladdin" 
+	"Jawdat" "Jerjer" "Kemaladdin" "Krystafer" "Latif" "Lot" "Malik" "Matta" "Mehtar" "Mikail" 
+	"Mikhael" "Milad" "Mina" "Murad" "Murshid" "Musa" "Muzaffaraddin" "Nabil" "Nasir" "Nassib" 
+	"Nuraddin" "Pamin" "Qadir" "Ra'uf" "Rafiq" "Ridwan" "Sabah" "Salim" "Sha'ban" "Sharif" 
+	"Suhail" "Tadros" "Tajaddin" "Tayyib" "Touma" "Usama" "Walid" "Yared" "Yassir" "Youkhanna" 
+	"Youssef" "Zaia" "Zakariyah" }
+monarch_names = {
+	"Theodosios #0" = 1
+	"Germanos #0" = 1
+	"Sergia #0" = -1
+	"Artemios #0" = 1
+	"Hypatia #0" = -1
+	"Rhodanthe #0" = -1
+	"Adémar #0" = 1
+	"Alexandros #0" = 1
+	"Simonis #0" = -1
+	"Echive #0" = -1
+	"Gabriel #1" = 21
+	"Kosmas #1" = 21
+	"Pyrros #1" = 18
+	"Petra #0" = -1
+	"Philaretos #0" = 1
+	"Pantoleon #0" = 1
+	"Ioustinianos #0" = 1
+	"Theodoros #0" = 1
+	"Methodios #0" = 1
+	"Polykarpos #0" = 1
+	"Maria #0" = -1
+	"Dionysia #0" = -1
+	"Thomais #0" = -1
+	"Euphemios #0" = 1
+	"Markia #0" = -1
+	"Nikephoros #0" = 1
+	"Eudokia #0" = -1
+	"Theophilos #0" = 1
+	"Leontia #0" = -1
+	"Pulcheria #0" = -1
+	"Damianos #0" = 1
+	"Eudoxia #0" = -1
+	"Nikarete #0" = -1
+	"Eugenia #0" = -1
+	"Theochariste #0" = -1
+	"Nikolaos #0" = 1
+	"Arsenios #0" = 1
+	"Ioulianos #0" = 1
+	"Martha #0" = -1
+	"Tiberios #0" = 1
+	"Basillike #0" = -1
+	"Azenkwed #0" = 1
+	"Philotheos #0" = 1
+	"Leon #0" = 1
+	"Sabas #0" = 1
+	"Hypatios #0" = 1
+	"Hurmat #0" = -1
+	"Samuel #0" = 1
+	"Eusebia #0" = -1
+	"Stephania #0" = -1
+	"Konstantine #0" = -1
+	"Theophano #0" = -1
+	"Abdul-Aziz #1" = 0
+	"Dawud #1" = 0
+	"Mukhtar #1" = 0
+	"Uways #1" = 0
+	"Jabir #1" = 0
+	"Aghecher #2" = 0
+	"Isalcas #2" = 0
+	"Ajdir #1" = 0
+	"Khalil #1" = 0
+	"Yahya #2" = 0
+	"Akin #1" = 0
+	"Zeyd #1" = 0
+	"Mansur #1" = 0
+	"Nasr #2" = 0
+	"Abdul-Qadir #1" = 0
+	"Sulayman #1" = 0
+	"Mubarak #1" = 0
+	"Andronikos #1" = 0
+	"Anastasios #1" = 0
+	"Tryphon #2" = 0
+	"Ioustinos #1" = 0
+	"Helias #1" = 0
+	"Aaron #0" = 0
+	"Abanoub #0" = 0
+	"Abderahman #0" = 0
+	"Abdul-Haq #0" = 0
+	"Abdul-Madjid #0" = 0
+	"Abdul-Salaam #0" = 0
+	"Abianos #0" = 0
+	"Abisalom #0" = 0
+	"Ablarion #0" = 0
+	"Abraam #0" = 0
+	"Adnan #0" = 0
+	"Agathon #0" = 0
+	"Agathonikos #0" = 0
+	"Agathos #0" = 0
+	"Alam #0" = 0
+	"Amr #0" = 0
+	"Androus #0" = 0
+	"Anthinos #0" = 0
+	"Ashraf #0" = 0
+	"Asim #0" = 0
+	"Athanasios #0" = 0
+	"Badr #0" = 0
+	"Bashir #0" = 0
+	"Biktor #0" = 0
+	"Binyamin #0" = 0
+	"Bishoi #0" = 0
+	"Boutros #0" = 0
+	"Danyal #0" = 0
+	"Dawlat #0" = 0
+	"Da’oud #0" = 0
+	"Farhan #0" = 0
+	"Firuz #0" = 0
+	"Gabri’el #0" = 0
+	"Georgios #0" = 0
+	"Ghiyasaddin #0" = 0
+	"Habil #0" = 0
+	"Hakam #0" = 0
+	"Hammud #0" = 0
+	"Hanri #0" = 0
+	"Haroun #0" = 0
+	"Hisham #0" = 0
+	"Ibrahim #0" = 0
+	"Ilyas #0" = 0
+	"Is'mail #0" = 0
+	"Izzaddin #0" = 0
+	"Jalaaladdin #0" = 0
+	"Jawdat #0" = 0
+	"Jerjer #0" = 0
+	"Kemaladdin #0" = 0
+	"Krystafer #0" = 0
+	"Latif #0" = 0
+	"Lot #0" = 0
+	"Malik #0" = 0
+	"Matta #0" = 0
+	"Mehtar #0" = 0
+	"Mikail #0" = 0
+	"Mikhael #0" = 0
+	"Milad #0" = 0
+	"Mina #0" = 0
+	"Murad #0" = 0
+	"Murshid #0" = 0
+	"Musa #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nabil #0" = 0
+	"Nasir #0" = 0
+	"Nassib #0" = 0
+	"Nuraddin #0" = 0
+	"Pamin #0" = 0
+	"Qadir #0" = 0
+	"Ra'uf #0" = 0
+	"Rafiq #0" = 0
+	"Ridwan #0" = 0
+	"Sabah #0" = 0
+	"Salim #0" = 0
+	"Sha'ban #0" = 0
+	"Sharif #0" = 0
+	"Suhail #0" = 0
+	"Tadros #0" = 0
+	"Tajaddin #0" = 0
+	"Tayyib #0" = 0
+	"Touma #0" = 0
+	"Usama #0" = 0
+	"Walid #0" = 0
+	"Yared #0" = 0
+	"Yassir #0" = 0
+	"Youkhanna #0" = 0
+	"Youssef #0" = 0
+	"Zaia #0" = 0
+	"Zakariyah #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

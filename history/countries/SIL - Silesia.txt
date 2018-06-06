@@ -1,0 +1,26 @@
+# Silesia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = czech
+religion = jewish
+clear_scripted_personalities = yes
+capital = 2966
+1394.11.25 = {
+	monarch = {
+		name = "Hunfroi"
+		birth_date = 1389.3.1
+		dynasty = "de Nantes"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 2966
+	add_treasury = 34
+	add_prestige = 485
+}

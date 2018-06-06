@@ -1,0 +1,26 @@
+# Obotritia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 46
+1419.9.21 = {
+	monarch = {
+		name = "Radomir"
+		birth_date = 1396.2.21
+		dynasty = "Gniewosz"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 46
+	add_treasury = 17
+	add_prestige = 204
+}

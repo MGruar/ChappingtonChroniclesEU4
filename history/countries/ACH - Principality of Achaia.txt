@@ -1,0 +1,27 @@
+# Achaia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1773
+1419.3.21 = {
+	monarch = {
+		name = "Pulcheria"
+		birth_date = 1389.10.12
+		dynasty = "Skandales"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 1773
+	add_treasury = 90
+	add_prestige = 172
+}

@@ -1,0 +1,26 @@
+# Wag
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1224
+1422.7.3 = {
+	monarch = {
+		name = "Kelile"
+		birth_date = 1405.2.23
+		dynasty = "Abebe"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 1224
+	add_treasury = 11
+	add_prestige = 279
+}

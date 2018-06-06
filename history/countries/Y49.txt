@@ -1,0 +1,23 @@
+# Bailjar
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+1439.2.14 = {
+	monarch = {
+		name = "Bilge"
+		birth_date = 1402.4.25
+		dynasty = "Bailjar"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	add_treasury = 7
+	add_prestige = 23
+}

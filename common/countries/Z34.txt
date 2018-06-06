@@ -1,0 +1,199 @@
+# Mali
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 80 120 70 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"Michael" "Sweeny" "Giric" "Douglas" "Ramadan" "Colin" "David" "Eimhir" "Basilie" "Donella" 
+	"Maisie" "Cailean" "Ewan" "Dramane" "Akoi" "Mamoudou" "Dankaran" "Soundiata" "Salman" "Faga-Laye" 
+	"Takoi" "Yama" "Fodi" "Fuluku" "Malla" "Bakr" "Kinkin" "Bonga" "Koïzé" "Hargani" 
+	"Sakoura" "Majan" "Maammarou" "Ouati" "Kodama" "Bassarou" "Gane" "Kusoy" "Bintou" "Zenku" 
+	"Gao" "Cisse" "Lulach" "Adam" "Alpin" "Alan" "Alastair" "Alexander" "Andrew" "Angus" 
+	"Archibald" "Arthur" "Arran" "Aulay" "Beathan" "Brian" "Brice" "Calum" "Carbrey" "Colban" 
+	"Conall" "Conan" "Constantine" "Dermid" "Donald" "Duff" "Dugald" "Duncan" "Edgar" "Edward" 
+	"Edwin" "Eric" "Evander" "Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbert" 
+	"Gilbride" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Glenn" "Godfrey" "Gregor" "Hamish" "Hector" 
+	"Henry" "Hugh" "Iain" "Indulf" "James" "John" "Kenneth" "Kentigern" "Lachlan" "Laurence" 
+	"Lennon" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" "Malmure" "Maoilios" "Marcas" 
+	"Matad" "Matthew" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Ninian" "Oscar" 
+	"Patrick" "Paul" "Peter" "Philip" "Radulf" "Ranald" "Richard" "Robert" "Roderick" "Ronald" 
+	"Rory" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Tadhg" "Talore" "Thomas" 
+	"Torquil" "Uhtred" "Uisdean" "Walan" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Michael #1" = 24
+	"Sweeny #0" = 1
+	"Giric #0" = 1
+	"Douglas #0" = 1
+	"Ramadan #0" = 1
+	"Colin #0" = 1
+	"David #0" = 1
+	"Eimhir #0" = -1
+	"Basilie #0" = -1
+	"Donella #0" = -1
+	"Maisie #0" = -1
+	"Cailean #0" = 1
+	"Ewan #0" = 1
+	"Dramane #2" = 0
+	"Akoi #1" = 0
+	"Mamoudou #2" = 0
+	"Dankaran #1" = 0
+	"Soundiata #1" = 0
+	"Salman #1" = 0
+	"Faga-Laye #1" = 0
+	"Takoi #1" = 0
+	"Yama #1" = 0
+	"Fodi #2" = 0
+	"Fuluku #1" = 0
+	"Malla #2" = 0
+	"Bakr #2" = 0
+	"Kinkin #1" = 0
+	"Bonga #1" = 0
+	"Koïzé #2" = 0
+	"Hargani #2" = 0
+	"Sakoura #1" = 0
+	"Majan #1" = 0
+	"Maammarou #1" = 0
+	"Ouati #1" = 0
+	"Kodama #2" = 0
+	"Bassarou #1" = 0
+	"Gane #1" = 0
+	"Kusoy #3" = 0
+	"Bintou #1" = -1
+	"Zenku #1" = 0
+	"Gao #1" = 0
+	"Cisse #1" = 0
+	"Lulach #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"Constantine #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

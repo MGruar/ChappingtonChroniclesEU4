@@ -1,0 +1,275 @@
+# Khuttal
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 175 160 90 }
+
+
+
+
+leader_names = {
+
+	"Tsen" "Wangchuk" "Lha" "Toktokteng" "Dronmalön" "Magyal" "Tsendro" "Lhathrimo" "Bumphulwa" "Dringma" 
+	"Yondagmo" "Satyaraksite" "Tsangma" "Sundari" "Sanum" "Vajrapani" "Tarmawirñe" "Aryakose" "Siñcake" "Purike" 
+	"Uppal" "Santisene" "Jetavam" "Yasa" "Sinke" "Lekpa" "Tarma" "Tati" "Wiryasanti" "Roce" 
+	"Arjuna" "Puñaraksite" "Purohite" "Kunzang" "Alsamgya" "Armaiti" "Raktadewe" "Samgaka" "Yavalac" "Phurbulcam" 
+	"Tisyarakshita" "Gyaltsen" "Wasampile" "Getong" "Mutik" "Vidakai" "Dingtri" "Hvarda" "Kyi" "Tsogyal" 
+	"Räknaska" "Praniyata" "Maya" "Phoyongsa" "Palkye" "Shonnu" "Esho" "Tshistöng" "Thrimalö" "Devitara" 
+	"Pogong" "Drönma" "Chökyi" "Tricham" "Nyitri" "Methakan" "Pator" "Isho" "Tridra" "Dharmapala" 
+	"Kambiz" "Mozaffar" "Merzuban" "Efšer" "Drogön" "Khadrobum" "Khina" "Chöying" "Aglen" "Balpo" 
+	"Chakna" "Changchub" "Chatri" "Chokey" "Chögyal" "Chukpo" "Daktri" "Degyal" "Denöl" "Desho" 
+	"Detrin" "Detsen" "Detrul" "Deu" "Dickey" "Dompu" "Dondup" "Donyö" "Dorje" "Drag" 
+	"Dragpa" "Dranga" "Drigum" "Drongnyen" "Dusong" "Dzamling" "Gampo" "Gangkarwa" "Gesar" "Gön" 
+	"Gongpa" "Gongru" "Gunggyal" "Gungsong" "Gungtsen" "Gyagar" "Gyal" "Gyalpo" "Gyaltore" "Gyeltsen" 
+	"Jamyang" "Jekundag" "Jetsun" "Könchok" "Kyidé" "Kunga" "Langdarma" "Lek" "Lhanang" "Lingpa" 
+	"Lodrö" "Longtsen" "Löntsen" "Lotsen" "Lukhong" "Mangban" "Mangnyen" "Mangpoje" "Mangsham" "Mangsong" 
+	"Mangtsen" "Mertri" "Muné" "Mutri" "Muzu" "Nam" "Namdé" "Namkha" "Namri" "Namzhungtsen" 
+	"Ngawang" "Nyantsen" "Nyasig" "Nyigön" "Nyima" "Nyingpo" "Nytari" "Omade" "Öpoche" "Orgyen" 
+	"Ösung" "Pal" "Palden" "Palchen" "Pälkhortsän" "Phagpa" "Po" "Podé" "Pude" "Pungse" 
+	"Pungtsen" "Raksita" "Ramsha" "Ralpacan" "Rapsel" "Rinchen" "Sachen" "Sadnalegs" "Sambhota" "Selbar" 
+	"Senöl" "Shakya" "Shang" "Shanglon" "Shangnang" "Siptri" "Sönam" "Songtsen" "Sotri" "Sumnang" 
+	"Sutse" "Tagbu" "Takdra" "Taknang" "Taknye" "Taktsab" "Tawen" "Thönmi" "Thothori" "Thrikhyiding" 
+	"Tingngezin" "Tisho" "Tongtsen" "Tori" "Trashi" "Tridé" "Tridu" "Trimang" "Trinring" "Trinyen" 
+	"Trisong" "Trisu" "Trisumje" "Tritog" "Tritsen" "Tritsuk" "Tromo" "Trongzhi" "Tsemo" "Tsenpo" 
+	"Tsensong" "Tsentsän" "Tsenye" "Tsugru" "Tsuktsen" "Udumtsen" "Wangdu" "Yongten" "Yontan" "Yülsung" 
+	"Yumtän" "Zanam" "Zangtsa" "Zhangtsun" "Zhonnu" "Zimun" "Zindé" "Zungtsen" }
+monarch_names = {
+	"Tsen #2" = 21
+	"Wangchuk #0" = 1
+	"Lha #0" = -1
+	"Toktokteng #0" = -1
+	"Dronmalön #0" = -1
+	"Magyal #0" = -1
+	"Tsendro #0" = 1
+	"Lhathrimo #0" = -1
+	"Bumphulwa #0" = -1
+	"Dringma #0" = -1
+	"Yondagmo #1" = -19
+	"Satyaraksite #1" = 30
+	"Tsangma #0" = 1
+	"Sundari #0" = -1
+	"Sanum #0" = 1
+	"Vajrapani #0" = -1
+	"Tarmawirñe #0" = -1
+	"Aryakose #0" = -1
+	"Siñcake #0" = 1
+	"Purike #0" = -1
+	"Uppal #0" = -1
+	"Santisene #0" = -1
+	"Jetavam #0" = 1
+	"Yasa #0" = 1
+	"Sinke #0" = 1
+	"Lekpa #4" = 18
+	"Tarma #0" = -1
+	"Tati #0" = -1
+	"Wiryasanti #0" = 1
+	"Roce #0" = -1
+	"Arjuna #0" = -1
+	"Puñaraksite #0" = 1
+	"Purohite #0" = -1
+	"Kunzang #0" = -1
+	"Alsamgya #0" = -1
+	"Armaiti #0" = -1
+	"Raktadewe #0" = 1
+	"Samgaka #0" = 1
+	"Yavalac #0" = -1
+	"Phurbulcam #1" = -19
+	"Tisyarakshita #0" = -1
+	"Gyaltsen #3" = 27
+	"Wasampile #0" = 1
+	"Getong #0" = 1
+	"Mutik #0" = 1
+	"Vidakai #0" = 1
+	"Dingtri #0" = 1
+	"Hvarda #0" = 1
+	"Kyi #0" = -1
+	"Tsogyal #0" = -1
+	"Räknaska #0" = -1
+	"Praniyata #0" = -1
+	"Maya #0" = -1
+	"Phoyongsa #0" = -1
+	"Palkye #0" = 1
+	"Shonnu #0" = -1
+	"Esho #2" = 18
+	"Tshistöng #0" = -1
+	"Thrimalö #0" = -1
+	"Devitara #0" = -1
+	"Pogong #0" = -1
+	"Drönma #0" = -1
+	"Chökyi #0" = -1
+	"Tricham #0" = -1
+	"Nyitri #0" = -1
+	"Methakan #1" = 0
+	"Pator #1" = 0
+	"Isho #2" = 0
+	"Tridra #1" = 0
+	"Dharmapala #2" = 0
+	"Kambiz #1" = 0
+	"Mozaffar #1" = 0
+	"Merzuban #1" = 0
+	"Efšer #1" = 0
+	"Drogön #1" = 0
+	"Khadrobum #1" = -1
+	"Khina #1" = 0
+	"Chöying #1" = -1
+	"Aglen #0" = 0
+	"Balpo #0" = 0
+	"Chakna #0" = 0
+	"Changchub #0" = 0
+	"Chatri #0" = 0
+	"Chokey #0" = 0
+	"Chögyal #0" = 0
+	"Chukpo #0" = 0
+	"Daktri #0" = 0
+	"Degyal #0" = 0
+	"Denöl #0" = 0
+	"Desho #0" = 0
+	"Detrin #0" = 0
+	"Detsen #0" = 0
+	"Detrul #0" = 0
+	"Deu #0" = 0
+	"Dickey #0" = 0
+	"Dompu #0" = 0
+	"Dondup #0" = 0
+	"Donyö #0" = 0
+	"Dorje #0" = 0
+	"Drag #0" = 0
+	"Dragpa #0" = 0
+	"Dranga #0" = 0
+	"Drigum #0" = 0
+	"Drongnyen #0" = 0
+	"Dusong #0" = 0
+	"Dzamling #0" = 0
+	"Gampo #0" = 0
+	"Gangkarwa #0" = 0
+	"Gesar #0" = 0
+	"Gön #0" = 0
+	"Gongpa #0" = 0
+	"Gongru #0" = 0
+	"Gunggyal #0" = 0
+	"Gungsong #0" = 0
+	"Gungtsen #0" = 0
+	"Gyagar #0" = 0
+	"Gyal #0" = 0
+	"Gyalpo #0" = 0
+	"Gyaltore #0" = 0
+	"Gyeltsen #0" = 0
+	"Jamyang #0" = 0
+	"Jekundag #0" = 0
+	"Jetsun #0" = 0
+	"Könchok #0" = 0
+	"Kyidé #0" = 0
+	"Kunga #0" = 0
+	"Langdarma #0" = 0
+	"Lek #0" = 0
+	"Lhanang #0" = 0
+	"Lingpa #0" = 0
+	"Lodrö #0" = 0
+	"Longtsen #0" = 0
+	"Löntsen #0" = 0
+	"Lotsen #0" = 0
+	"Lukhong #0" = 0
+	"Mangban #0" = 0
+	"Mangnyen #0" = 0
+	"Mangpoje #0" = 0
+	"Mangsham #0" = 0
+	"Mangsong #0" = 0
+	"Mangtsen #0" = 0
+	"Mertri #0" = 0
+	"Muné #0" = 0
+	"Mutri #0" = 0
+	"Muzu #0" = 0
+	"Nam #0" = 0
+	"Namdé #0" = 0
+	"Namkha #0" = 0
+	"Namri #0" = 0
+	"Namzhungtsen #0" = 0
+	"Ngawang #0" = 0
+	"Nyantsen #0" = 0
+	"Nyasig #0" = 0
+	"Nyigön #0" = 0
+	"Nyima #0" = 0
+	"Nyingpo #0" = 0
+	"Nytari #0" = 0
+	"Omade #0" = 0
+	"Öpoche #0" = 0
+	"Orgyen #0" = 0
+	"Ösung #0" = 0
+	"Pal #0" = 0
+	"Palden #0" = 0
+	"Palchen #0" = 0
+	"Pälkhortsän #0" = 0
+	"Phagpa #0" = 0
+	"Po #0" = 0
+	"Podé #0" = 0
+	"Pude #0" = 0
+	"Pungse #0" = 0
+	"Pungtsen #0" = 0
+	"Raksita #0" = 0
+	"Ramsha #0" = 0
+	"Ralpacan #0" = 0
+	"Rapsel #0" = 0
+	"Rinchen #0" = 0
+	"Sachen #0" = 0
+	"Sadnalegs #0" = 0
+	"Sambhota #0" = 0
+	"Selbar #0" = 0
+	"Senöl #0" = 0
+	"Shakya #0" = 0
+	"Shang #0" = 0
+	"Shanglon #0" = 0
+	"Shangnang #0" = 0
+	"Siptri #0" = 0
+	"Sönam #0" = 0
+	"Songtsen #0" = 0
+	"Sotri #0" = 0
+	"Sumnang #0" = 0
+	"Sutse #0" = 0
+	"Tagbu #0" = 0
+	"Takdra #0" = 0
+	"Taknang #0" = 0
+	"Taknye #0" = 0
+	"Taktsab #0" = 0
+	"Tawen #0" = 0
+	"Thönmi #0" = 0
+	"Thothori #0" = 0
+	"Thrikhyiding #0" = 0
+	"Tingngezin #0" = 0
+	"Tisho #0" = 0
+	"Tongtsen #0" = 0
+	"Tori #0" = 0
+	"Trashi #0" = 0
+	"Tridé #0" = 0
+	"Tridu #0" = 0
+	"Trimang #0" = 0
+	"Trinring #0" = 0
+	"Trinyen #0" = 0
+	"Trisong #0" = 0
+	"Trisu #0" = 0
+	"Trisumje #0" = 0
+	"Tritog #0" = 0
+	"Tritsen #0" = 0
+	"Tritsuk #0" = 0
+	"Tromo #0" = 0
+	"Trongzhi #0" = 0
+	"Tsemo #0" = 0
+	"Tsenpo #0" = 0
+	"Tsensong #0" = 0
+	"Tsentsän #0" = 0
+	"Tsenye #0" = 0
+	"Tsugru #0" = 0
+	"Tsuktsen #0" = 0
+	"Udumtsen #0" = 0
+	"Wangdu #0" = 0
+	"Yongten #0" = 0
+	"Yontan #0" = 0
+	"Yülsung #0" = 0
+	"Yumtän #0" = 0
+	"Zanam #0" = 0
+	"Zangtsa #0" = 0
+	"Zhangtsun #0" = 0
+	"Zhonnu #0" = 0
+	"Zimun #0" = 0
+	"Zindé #0" = 0
+	"Zungtsen #0" = 0
+}
+

@@ -1,0 +1,26 @@
+# Meshchera
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+clear_scripted_personalities = yes
+capital = 301
+1430.2.26 = {
+	monarch = {
+		name = "Tylmache"
+		birth_date = 1419.10.26
+		dynasty = "Ingrija"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 301
+	add_treasury = 7
+	add_prestige = 151
+}

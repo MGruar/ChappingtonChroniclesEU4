@@ -1,0 +1,25 @@
+# Haute-Lorraine
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 189
+1438.3.26 = {
+	monarch = {
+		name = "Raymond II"
+		birth_date = 1394.10.13
+		dynasty = "Capet"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 189
+	add_treasury = 54
+	add_prestige = 376
+}

@@ -1,0 +1,271 @@
+# Smolensk
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 226 241 182 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Artemios" "Theodora" "Ioulia" "Dorothea" "Alexios" "Pemka" "Anastasia" "Dionysia" "Nyal'ka" "Theodosios" 
+	"Nikodemos" "Viviana" "Ioustina" "Iouliana" "Vidyava" "Stephania" "Barbara" "Evanthia" "Aikaterine" "Sebastianos" 
+	"Kallistos" "Eudoxios" "Meshulam" "Antonia" "Bolkhadar" "Zelekman" "Sergios" "Valerios" "Athanasia" "Markos" 
+	"Andronikos" "Gughlug" "Daniel" "Oronartai" "Georgia" "Petronia" "Sabas" "Stanislav" "Svetozar" "Gleb" 
+	"Ruslan" "Varvara" "Dobrynia" "Vseslav" "Vsevolod" "Setyamka" "Viacheslav" "Fedot" "Yemelyan" "Mordvinko" 
+	"Mokci" "Tyushten" "Syrka" "Viryas" "Aishno" "Taghai" "Vaishvilkas" "Jamugha" "Shirgugetu" "Bujeg" 
+	"Dagun" "Guyug" "Chigu" "Anastasios" "Aare" "Agul" "Ahas" "Aho" "Ahti" "Ahvo" 
+	"Alar" "Alo" "Alur" "Aopelg" "Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" 
+	"Aulemb" "Eeri" "Elmar" "Hain" "Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" 
+	"Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" "Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" 
+	"Ihavald" "Illimar" "Ilmalemb" "Ilmar" "Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" 
+	"Kahru" "Kahrulemb" "Kahus" "Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" 
+	"Kaugemeel" "Kaupo" "Kaur" "Kiur" "Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" 
+	"Lembit" "Leppetõiv" "Lible" "Lättelemb" "Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" 
+	"Mehis" "Meigo" "Neeme" "Niglas" "Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" 
+	"Pihl" "Piho" "Pikne" "Päevalemb" "Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" 
+	"Sutemeel" "Sutepelg" "Tambet" "Tarva" "Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" 
+	"Tuul" "Tõeleid" "Tõiv" "Tõivulemb" "Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" 
+	"Vambola" "Vandemeel" "Varjelemb" "Veli" "Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" 
+	"Vilitõiv" "Vilivald" "Vootele" "Väino" "Värvo" "Õigemeel" "Ülo" }
+monarch_names = {
+	"Artemios #0" = 1
+	"Theodora #0" = -1
+	"Ioulia #0" = -1
+	"Dorothea #0" = -1
+	"Alexios #0" = 1
+	"Pemka #0" = -1
+	"Anastasia #0" = -1
+	"Dionysia #0" = -1
+	"Nyal'ka #1" = -19
+	"Theodosios #0" = 1
+	"Nikodemos #1" = 18
+	"Viviana #0" = -1
+	"Ioustina #0" = -1
+	"Iouliana #0" = -1
+	"Vidyava #0" = -1
+	"Stephania #0" = -1
+	"Barbara #0" = -1
+	"Evanthia #0" = -1
+	"Aikaterine #0" = -1
+	"Sebastianos #0" = 1
+	"Kallistos #0" = 1
+	"Eudoxios #0" = 1
+	"Meshulam #0" = 1
+	"Antonia #0" = -1
+	"Bolkhadar #1" = 18
+	"Zelekman #0" = 1
+	"Sergios #0" = 1
+	"Valerios #0" = 1
+	"Athanasia #0" = -1
+	"Markos #0" = 1
+	"Andronikos #1" = 18
+	"Gughlug #0" = 1
+	"Daniel #0" = 1
+	"Oronartai #0" = 1
+	"Georgia #0" = -1
+	"Petronia #0" = -1
+	"Sabas #0" = 1
+	"Stanislav #1" = 0
+	"Svetozar #1" = 0
+	"Gleb #1" = 0
+	"Ruslan #1" = 0
+	"Varvara #1" = -1
+	"Dobrynia #1" = 0
+	"Vseslav #1" = 0
+	"Vsevolod #1" = 0
+	"Setyamka #1" = 0
+	"Viacheslav #1" = 0
+	"Fedot #1" = 0
+	"Yemelyan #1" = 0
+	"Mordvinko #1" = 0
+	"Mokci #1" = 0
+	"Tyushten #1" = 0
+	"Syrka #1" = 0
+	"Viryas #1" = 0
+	"Aishno #1" = 0
+	"Taghai #1" = 0
+	"Vaishvilkas #1" = 0
+	"Jamugha #1" = 0
+	"Shirgugetu #1" = 0
+	"Bujeg #1" = 0
+	"Dagun #1" = 0
+	"Guyug #1" = 0
+	"Chigu #2" = 0
+	"Anastasios #1" = 0
+	"Aare #0" = 0
+	"Agul #0" = 0
+	"Ahas #0" = 0
+	"Aho #0" = 0
+	"Ahti #0" = 0
+	"Ahvo #0" = 0
+	"Alar #0" = 0
+	"Alo #0" = 0
+	"Alur #0" = 0
+	"Aopelg #0" = 0
+	"Aotõiv #0" = 0
+	"Arp #0" = 0
+	"Arvet #0" = 0
+	"Arvo #0" = 0
+	"Atko #0" = 0
+	"Aul #0" = 0
+	"Aulemb #0" = 0
+	"Eeri #0" = 0
+	"Elmar #0" = 0
+	"Hain #0" = 0
+	"Haljas #0" = 0
+	"Heameel #0" = 0
+	"Heatõiv #0" = 0
+	"Hoovatõiv #0" = 0
+	"Hurmas #0" = 0
+	"Hurmetõiv #0" = 0
+	"Hõimulemb #0" = 0
+	"Hüvalemb #0" = 0
+	"Hüvameel #0" = 0
+	"Hüvatõiv #0" = 0
+	"Igalemb #0" = 0
+	"Igapäiv #0" = 0
+	"Ihalemb #0" = 0
+	"Ihameel #0" = 0
+	"Ihar #0" = 0
+	"Ihatõiv #0" = 0
+	"Ihavald #0" = 0
+	"Illimar #0" = 0
+	"Ilmalemb #0" = 0
+	"Ilmar #0" = 0
+	"Ilvelemb #0" = 0
+	"Jaolemb #0" = 0
+	"Kaalep #0" = 0
+	"Kaarel #0" = 0
+	"Kaaren #0" = 0
+	"Kahar #0" = 0
+	"Kahru #0" = 0
+	"Kahrulemb #0" = 0
+	"Kahus #0" = 0
+	"Kaido #0" = 0
+	"Kalev #0" = 0
+	"Kalju #0" = 0
+	"Kaljuvald #0" = 0
+	"Kalle #0" = 0
+	"Kaomeel #0" = 0
+	"Karuvald #0" = 0
+	"Kaugemeel #0" = 0
+	"Kaupo #0" = 0
+	"Kaur #0" = 0
+	"Kiur #0" = 0
+	"Kiurupelg #0" = 0
+	"Koit #0" = 0
+	"Kosk #0" = 0
+	"Kudres #0" = 0
+	"Küllelemb #0" = 0
+	"Leetõiv #0" = 0
+	"Lembit #0" = 0
+	"Leppetõiv #0" = 0
+	"Lible #0" = 0
+	"Lättelemb #0" = 0
+	"Manivald #0" = 0
+	"Mart #0" = 0
+	"Maru #0" = 0
+	"Mati #0" = 0
+	"Mats #0" = 0
+	"Meelis #0" = 0
+	"Mehis #0" = 0
+	"Meigo #0" = 0
+	"Neeme #0" = 0
+	"Niglas #0" = 0
+	"Ohetõiv #0" = 0
+	"Ohevald #0" = 0
+	"Olev #0" = 0
+	"Onni #0" = 0
+	"Otelemb #0" = 0
+	"Ott #0" = 0
+	"Pihl #0" = 0
+	"Piho #0" = 0
+	"Pikne #0" = 0
+	"Päevalemb #0" = 0
+	"Pärt #0" = 0
+	"Raak #0" = 0
+	"Raho #0" = 0
+	"Rahuleid #0" = 0
+	"Sulev #0" = 0
+	"Susi #0" = 0
+	"Sutemeel #0" = 0
+	"Sutepelg #0" = 0
+	"Tambet #0" = 0
+	"Tarva #0" = 0
+	"Tarvet #0" = 0
+	"Tasulemb #0" = 0
+	"Toivo #0" = 0
+	"Toom #0" = 0
+	"Tunne #0" = 0
+	"Tutkas #0" = 0
+	"Tuul #0" = 0
+	"Tõeleid #0" = 0
+	"Tõiv #0" = 0
+	"Tõivulemb #0" = 0
+	"Tõll #0" = 0
+	"Tõnn #0" = 0
+	"Uku #0" = 0
+	"Urmas #0" = 0
+	"Uru #0" = 0
+	"Valdur #0" = 0
+	"Vambola #0" = 0
+	"Vandemeel #0" = 0
+	"Varjelemb #0" = 0
+	"Veli #0" = 0
+	"Vello #0" = 0
+	"Venno #0" = 0
+	"Vesse #0" = 0
+	"Vihavald #0" = 0
+	"Vililemb #0" = 0
+	"Vilimeel #0" = 0
+	"Vilitõiv #0" = 0
+	"Vilivald #0" = 0
+	"Vootele #0" = 0
+	"Väino #0" = 0
+	"Värvo #0" = 0
+	"Õigemeel #0" = 0
+	"Ülo #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

@@ -1,0 +1,41 @@
+# Gallia
+government = feudal_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = western
+primary_culture = breton
+religion = cathar
+clear_scripted_personalities = yes
+capital = 80
+1410.5.23 = {
+	monarch = {
+		name = "Seva"
+		birth_date = 1408.12.26
+		dynasty = "de Porhoët"
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1429.12.23 = {
+	heir = {
+		name = "Mari"
+		monarch_name = "Mari"
+		dynasty = "de Porhoët"
+		birth_date = 1429.12.23
+		death_date = 1509.12.23
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 80
+	add_treasury = 23
+	add_prestige = 597
+}

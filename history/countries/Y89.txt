@@ -1,0 +1,26 @@
+# Dege
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 2133
+1407.5.6 = {
+	monarch = {
+		name = "Tori"
+		birth_date = 1395.12.18
+		dynasty = "Lig"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 2133
+	add_treasury = 49
+	add_prestige = 708
+}

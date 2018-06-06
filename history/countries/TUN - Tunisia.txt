@@ -1,0 +1,25 @@
+# Tunis
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = cathar
+clear_scripted_personalities = yes
+capital = 341
+1438.11.1 = {
+	monarch = {
+		name = "Rorgues"
+		birth_date = 1421.8.16
+		dynasty = "Chappington"
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 341
+	add_treasury = 104
+	add_prestige = 1599
+}

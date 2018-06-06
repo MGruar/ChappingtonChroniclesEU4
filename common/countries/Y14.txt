@@ -1,0 +1,106 @@
+# Mordva
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 148 165 45 }
+
+
+
+
+leader_names = {
+
+	"Bogorchu" "Yençepi" "Uzhara" "Malyaka" "Kardaz" "Meltsayka" "Kezhevat" "Setyamka" "Pivtsay" "Virdyan" 
+	"Tyushtya" "Viryas" "Lalli" "Uoti" "Dobrinya" "Aatos" "Varmanpaz" "Nuyanza" "Mënümarót" "Çat'n" 
+	"Kundaç" "Ögedei" "Puresh" "Mordvinko" "Orunza" "Shoksha" "Tikshayka" "Parush" "Naruchad" "Vidyava" 
+	"Nikodemos" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Deryab" "Erziya" "Inzhay" "Kezhapa" "Kezhay" 
+	"Kezhedey" "Kichay" "Kubrat" "Malyy" "Moksha" "Nalka" "Nuyaksha" "Nuyat" "Ovtay" "Pakstyan" 
+	"Paksyay" "Paksyut" "Pokshayka" "Putyayka" "Shindyay" "Syrka" "Tyueykezhut" "Uchva" "Varaka" "Vechkas" 
+	"Velmayka" "Viryay" "Atyamas" "Azyren" "Chipaz" "Kinyak" "Koshel" "Murunza" "Nishkepaz" "Purysho" 
+	"Saksa" "Shkay" "Surt" "Tul" "Tunya" "Tutyra" "Tylmache" "Tylze" "Tyushten" }
+monarch_names = {
+	"Bogorchu #1" = 18
+	"Yençepi #1" = 18
+	"Uzhara #1" = 0
+	"Malyaka #1" = 0
+	"Kardaz #2" = 0
+	"Meltsayka #1" = 0
+	"Kezhevat #1" = 0
+	"Setyamka #1" = 0
+	"Pivtsay #1" = 0
+	"Virdyan #2" = 0
+	"Tyushtya #1" = 0
+	"Viryas #1" = 0
+	"Lalli #1" = 0
+	"Uoti #1" = 0
+	"Dobrinya #1" = 0
+	"Aatos #1" = 0
+	"Varmanpaz #1" = 0
+	"Nuyanza #1" = 0
+	"Mënümarót #1" = 0
+	"Çat'n #1" = 0
+	"Kundaç #1" = 0
+	"Ögedei #1" = 0
+	"Puresh #1" = 0
+	"Mordvinko #1" = 0
+	"Orunza #1" = 0
+	"Shoksha #2" = 0
+	"Tikshayka #1" = 0
+	"Parush #1" = 0
+	"Naruchad #2" = 0
+	"Vidyava #1" = -1
+	"Nikodemos #1" = 0
+	"Andyamo #0" = 0
+	"Chichayka #0" = 0
+	"Chumbulat #0" = 0
+	"Dergun #0" = 0
+	"Deryab #0" = 0
+	"Erziya #0" = 0
+	"Inzhay #0" = 0
+	"Kezhapa #0" = 0
+	"Kezhay #0" = 0
+	"Kezhedey #0" = 0
+	"Kichay #0" = 0
+	"Kubrat #0" = 0
+	"Malyy #0" = 0
+	"Moksha #0" = 0
+	"Nalka #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyat #0" = 0
+	"Ovtay #0" = 0
+	"Pakstyan #0" = 0
+	"Paksyay #0" = 0
+	"Paksyut #0" = 0
+	"Pokshayka #0" = 0
+	"Putyayka #0" = 0
+	"Shindyay #0" = 0
+	"Syrka #0" = 0
+	"Tyueykezhut #0" = 0
+	"Uchva #0" = 0
+	"Varaka #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Viryay #0" = 0
+	"Atyamas #0" = 0
+	"Azyren #0" = 0
+	"Chipaz #0" = 0
+	"Kinyak #0" = 0
+	"Koshel #0" = 0
+	"Murunza #0" = 0
+	"Nishkepaz #0" = 0
+	"Purysho #0" = 0
+	"Saksa #0" = 0
+	"Shkay #0" = 0
+	"Surt #0" = 0
+	"Tul #0" = 0
+	"Tunya #0" = 0
+	"Tutyra #0" = 0
+	"Tylmache #0" = 0
+	"Tylze #0" = 0
+	"Tyushten #0" = 0
+
+
+	"Mélisende #0" = -1
+	"Constance #0" = -1
+	"Adalmode #0" = -1
+	"Mafalda #0" = -1
+}
+

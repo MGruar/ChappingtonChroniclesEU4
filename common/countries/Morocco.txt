@@ -1,0 +1,414 @@
+# Marrakech
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 43 150 32 }
+historical_idea_groups = {
+	aristocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Angus" "Baraah" "Lalla" "Arnulf" "Ada" "Malina" "Tazirit" "Basilie" "Tinhinan" "Morna" 
+	"Catriona" "Durriyya" "Matad" "Immeghar" "Ibrahim" "Duncan" "Massinissa" "Asirem" "Wnissa" "Tawzalt" 
+	"Itri" "Yattuy" "Tafsut" "Gwejda" "Kahina" "R'uza" "Tinzert" "Uqess'un" "Badra" "Dali" 
+	"Iccaam" "Zaghwa" "D'r'ifa" "Selblaith" "Richard" "Peter" "Beathoc" "Mazigh" "Khidr" "Amin" 
+	"Taffounnout" "Urz'ig" "Refulfo" "Uways" "Sami" "Quidemiro" "Abdul-Wahab" "Todegogia" "Rendericus" "Gulusa" 
+	"Annaber" "Totoquihuaztli" "Cenfus" "Haidar" "Agellid" "Salla" "Gaya" "Cucung" "Hussamaddin" "Amr" 
+	"Farquhar" "Euna" "Michael" "Murray" "Yusuf" "Maldred" "Bride" "Alexander" "Ghalib" "Matthew" 
+	"Gilchrist" "Abakada" "Abazza" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abidin" "Adal" "Adam" 
+	"Aderbal" "Adergazuz" "Adherbal" "Admer" "Adrir" "Adum" "Afaghis" "Afalawas" "Afalku" "Afer" 
+	"Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Aggur" "Aghali" "Aghecher" "Aghilas" "Agwillul" 
+	"Ahamatu" "Aheyyad" "Ajdir" "Ajeddig" "Akaday" "Akateiaji" "Akli" "Akorakor" "Aksel" "Aksil" 
+	"Akutla" "Akzer" "Al'a'addin" "Alyamas" "Amawal" "Amayas" "Amaz'uz'" "Ambay" "Amdegh" "Amellal" 
+	"Amennay" "Ameska" "Amessan" "Amma" "Ammuc" "Amray" "Amri" "Amud" "Anaba" "Antalas" 
+	"Anwa" "Aras" "Asad" "Asaru" "Aszellay" "Atissi" "Awdia" "Awgustin" "Awinagh" "Awlagh" 
+	"Awzal" "Aylal" "Ayt'ere" "Az'ar" "Az'regh" "Azenkwed" "Azim" "Azrur" "Badda" "Badis" 
+	"Bagay" "Barakat" "Beddis" "Berkan" "Bezz'i" "Br'ir'uc" "Bukkus" "Buwayh" "Buxtuc" "Capussa" 
+	"Fahd" "Fath" "Fella" "Firhun" "Firmus" "Frawsen" "Gaia" "Galussa" "Gauda" "Ghani" 
+	"Ghanim" "Ghaysan" "Ghumer" "Gildun" "H'emmu" "Hamad" "Hashim" "Hiba" "Hiempsal" "Himmi" 
+	"Hotha" "Ibiza" "Ifni" "Ifser" "Ighlaf" "Igider" "Igmi" "Iher" "Iken" "Ilyas" 
+	"Immel" "Irgen" "Is'mail" "Isalcas" "Ishaq" "Isli" "Issam" "It'ij" "Itber" "Ixfensen" 
+	"Ixzi" "Izri" "Jaffar" "Jamal" "Kadidu" "Kamal" "Karidenna" "Kawsen" "Kenan" "Keraja" 
+	"Khalid" "Khanchla" "Khenchela" "Kussil" "Lacumaces" "Laweye" "Lewnis" "Luki" "Madidu" "Magsen" 
+	"Mahtar" "Malik" "Marwan" "Masgaba" "Masgava" "Masinissa" "Masmud" "Masnsen" "Massiva" "Massnsen" 
+	"Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" "Medjan" "Mellal" "Mennad" "Menzu" "Meq'wran" 
+	"Mez'yan" "Mezwar" "Micipsa" "Misagenes" "Misibsen" "Mu'izz" "Muh'end" "Mukhtar" "Mula" "Murad" 
+	"Musa" "Mustafa" "Muzaffaraddin" "N'Guna" "Nasr" "Nazar" "Niptasan" "Nizamaddin" "Ptolemee" "Qutaiba" 
+	"Rashid" "Sa'id" "Salah" "Salomon" "Sammer" "Sayyid" "Seghada" "Sekla" "Shamsaddin" "Sifaks" 
+	"Sifal" "Sinbad" "Sisso" "Stembanos" "Suggut" "Sultan" "T'ar'iq" "Tabat" "Tacfin" "Tahir" 
+	"Takfarinas" "Tanan" "Tariq" "Tegama" "Thabitah" "Tifan" "Tiljad" "Ugdada" "Ugwistan" "Umar" 
+	"Uregh" "Urtilian" "Uzmir" "Uzza" "Wahab" "Watt'as" "Xamida" "Yabdas" "Yaghmurasen" "Yahya" 
+	"Yeften" "Yeh'lem" "Yiliyen" "Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yuva" "Z'effun" 
+	"Zafir" "Zalelsan" "Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
+monarch_names = {
+	"Angus #1" = 21
+	"Baraah #0" = -1
+	"Lalla #0" = -1
+	"Arnulf #1" = 18
+	"Ada #0" = -1
+	"Malina #0" = -1
+	"Tazirit #0" = -1
+	"Basilie #0" = -1
+	"Tinhinan #0" = -1
+	"Morna #0" = -1
+	"Catriona #0" = -1
+	"Durriyya #0" = -1
+	"Matad #0" = 1
+	"Immeghar #0" = 1
+	"Ibrahim #0" = 1
+	"Duncan #1" = 18
+	"Massinissa #0" = 1
+	"Asirem #0" = 1
+	"Wnissa #0" = -1
+	"Tawzalt #0" = -1
+	"Itri #0" = 1
+	"Yattuy #0" = 1
+	"Tafsut #0" = -1
+	"Gwejda #0" = -1
+	"Kahina #0" = -1
+	"R'uza #0" = -1
+	"Tinzert #0" = -1
+	"Uqess'un #0" = 1
+	"Badra #0" = -1
+	"Dali #2" = 21
+	"Iccaam #0" = 1
+	"Zaghwa #0" = -1
+	"D'r'ifa #0" = -1
+	"Selblaith #0" = -1
+	"Richard #0" = 1
+	"Peter #0" = 1
+	"Beathoc #0" = -1
+	"Mazigh #1" = 0
+	"Khidr #1" = 0
+	"Amin #2" = 0
+	"Taffounnout #2" = 0
+	"Urz'ig #1" = 0
+	"Refulfo #1" = 0
+	"Uways #1" = 0
+	"Sami #1" = 0
+	"Quidemiro #1" = 0
+	"Abdul-Wahab #1" = 0
+	"Todegogia #1" = 0
+	"Rendericus #1" = 0
+	"Gulusa #1" = 0
+	"Annaber #1" = 0
+	"Totoquihuaztli #1" = 0
+	"Cenfus #1" = 0
+	"Haidar #2" = 0
+	"Agellid #1" = 0
+	"Salla #1" = 0
+	"Gaya #2" = 0
+	"Cucung #1" = 0
+	"Hussamaddin #1" = 0
+	"Amr #1" = 0
+	"Farquhar #1" = 0
+	"Euna #1" = -1
+	"Michael #2" = 0
+	"Murray #1" = 0
+	"Yusuf #1" = 0
+	"Maldred #1" = 0
+	"Bride #1" = -1
+	"Alexander #1" = 0
+	"Ghalib #1" = 0
+	"Matthew #1" = 0
+	"Gilchrist #1" = 0
+	"Abakada #0" = 0
+	"Abazza #0" = 0
+	"Abdul-Azeem #0" = 0
+	"Abdul-Haleem #0" = 0
+	"Abdul-Kareem #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abidin #0" = 0
+	"Adal #0" = 0
+	"Adam #0" = 0
+	"Aderbal #0" = 0
+	"Adergazuz #0" = 0
+	"Adherbal #0" = 0
+	"Admer #0" = 0
+	"Adrir #0" = 0
+	"Adum #0" = 0
+	"Afaghis #0" = 0
+	"Afalawas #0" = 0
+	"Afalku #0" = 0
+	"Afer #0" = 0
+	"Afulay #0" = 0
+	"Agafay #0" = 0
+	"Agama #0" = 0
+	"Agdada #0" = 0
+	"Agdun #0" = 0
+	"Aggur #0" = 0
+	"Aghali #0" = 0
+	"Aghecher #0" = 0
+	"Aghilas #0" = 0
+	"Agwillul #0" = 0
+	"Ahamatu #0" = 0
+	"Aheyyad #0" = 0
+	"Ajdir #0" = 0
+	"Ajeddig #0" = 0
+	"Akaday #0" = 0
+	"Akateiaji #0" = 0
+	"Akli #0" = 0
+	"Akorakor #0" = 0
+	"Aksel #0" = 0
+	"Aksil #0" = 0
+	"Akutla #0" = 0
+	"Akzer #0" = 0
+	"Al'a'addin #0" = 0
+	"Alyamas #0" = 0
+	"Amawal #0" = 0
+	"Amayas #0" = 0
+	"Amaz'uz' #0" = 0
+	"Ambay #0" = 0
+	"Amdegh #0" = 0
+	"Amellal #0" = 0
+	"Amennay #0" = 0
+	"Ameska #0" = 0
+	"Amessan #0" = 0
+	"Amma #0" = 0
+	"Ammuc #0" = 0
+	"Amray #0" = 0
+	"Amri #0" = 0
+	"Amud #0" = 0
+	"Anaba #0" = 0
+	"Antalas #0" = 0
+	"Anwa #0" = 0
+	"Aras #0" = 0
+	"Asad #0" = 0
+	"Asaru #0" = 0
+	"Aszellay #0" = 0
+	"Atissi #0" = 0
+	"Awdia #0" = 0
+	"Awgustin #0" = 0
+	"Awinagh #0" = 0
+	"Awlagh #0" = 0
+	"Awzal #0" = 0
+	"Aylal #0" = 0
+	"Ayt'ere #0" = 0
+	"Az'ar #0" = 0
+	"Az'regh #0" = 0
+	"Azenkwed #0" = 0
+	"Azim #0" = 0
+	"Azrur #0" = 0
+	"Badda #0" = 0
+	"Badis #0" = 0
+	"Bagay #0" = 0
+	"Barakat #0" = 0
+	"Beddis #0" = 0
+	"Berkan #0" = 0
+	"Bezz'i #0" = 0
+	"Br'ir'uc #0" = 0
+	"Bukkus #0" = 0
+	"Buwayh #0" = 0
+	"Buxtuc #0" = 0
+	"Capussa #0" = 0
+	"Fahd #0" = 0
+	"Fath #0" = 0
+	"Fella #0" = 0
+	"Firhun #0" = 0
+	"Firmus #0" = 0
+	"Frawsen #0" = 0
+	"Gaia #0" = 0
+	"Galussa #0" = 0
+	"Gauda #0" = 0
+	"Ghani #0" = 0
+	"Ghanim #0" = 0
+	"Ghaysan #0" = 0
+	"Ghumer #0" = 0
+	"Gildun #0" = 0
+	"H'emmu #0" = 0
+	"Hamad #0" = 0
+	"Hashim #0" = 0
+	"Hiba #0" = 0
+	"Hiempsal #0" = 0
+	"Himmi #0" = 0
+	"Hotha #0" = 0
+	"Ibiza #0" = 0
+	"Ifni #0" = 0
+	"Ifser #0" = 0
+	"Ighlaf #0" = 0
+	"Igider #0" = 0
+	"Igmi #0" = 0
+	"Iher #0" = 0
+	"Iken #0" = 0
+	"Ilyas #0" = 0
+	"Immel #0" = 0
+	"Irgen #0" = 0
+	"Is'mail #0" = 0
+	"Isalcas #0" = 0
+	"Ishaq #0" = 0
+	"Isli #0" = 0
+	"Issam #0" = 0
+	"It'ij #0" = 0
+	"Itber #0" = 0
+	"Ixfensen #0" = 0
+	"Ixzi #0" = 0
+	"Izri #0" = 0
+	"Jaffar #0" = 0
+	"Jamal #0" = 0
+	"Kadidu #0" = 0
+	"Kamal #0" = 0
+	"Karidenna #0" = 0
+	"Kawsen #0" = 0
+	"Kenan #0" = 0
+	"Keraja #0" = 0
+	"Khalid #0" = 0
+	"Khanchla #0" = 0
+	"Khenchela #0" = 0
+	"Kussil #0" = 0
+	"Lacumaces #0" = 0
+	"Laweye #0" = 0
+	"Lewnis #0" = 0
+	"Luki #0" = 0
+	"Madidu #0" = 0
+	"Magsen #0" = 0
+	"Mahtar #0" = 0
+	"Malik #0" = 0
+	"Marwan #0" = 0
+	"Masgaba #0" = 0
+	"Masgava #0" = 0
+	"Masinissa #0" = 0
+	"Masmud #0" = 0
+	"Masnsen #0" = 0
+	"Massiva #0" = 0
+	"Massnsen #0" = 0
+	"Mastan #0" = 0
+	"Mastanabal #0" = 0
+	"Matiya #0" = 0
+	"Maysar #0" = 0
+	"Maziba #0" = 0
+	"Medjan #0" = 0
+	"Mellal #0" = 0
+	"Mennad #0" = 0
+	"Menzu #0" = 0
+	"Meq'wran #0" = 0
+	"Mez'yan #0" = 0
+	"Mezwar #0" = 0
+	"Micipsa #0" = 0
+	"Misagenes #0" = 0
+	"Misibsen #0" = 0
+	"Mu'izz #0" = 0
+	"Muh'end #0" = 0
+	"Mukhtar #0" = 0
+	"Mula #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Mustafa #0" = 0
+	"Muzaffaraddin #0" = 0
+	"N'Guna #0" = 0
+	"Nasr #0" = 0
+	"Nazar #0" = 0
+	"Niptasan #0" = 0
+	"Nizamaddin #0" = 0
+	"Ptolemee #0" = 0
+	"Qutaiba #0" = 0
+	"Rashid #0" = 0
+	"Sa'id #0" = 0
+	"Salah #0" = 0
+	"Salomon #0" = 0
+	"Sammer #0" = 0
+	"Sayyid #0" = 0
+	"Seghada #0" = 0
+	"Sekla #0" = 0
+	"Shamsaddin #0" = 0
+	"Sifaks #0" = 0
+	"Sifal #0" = 0
+	"Sinbad #0" = 0
+	"Sisso #0" = 0
+	"Stembanos #0" = 0
+	"Suggut #0" = 0
+	"Sultan #0" = 0
+	"T'ar'iq #0" = 0
+	"Tabat #0" = 0
+	"Tacfin #0" = 0
+	"Tahir #0" = 0
+	"Takfarinas #0" = 0
+	"Tanan #0" = 0
+	"Tariq #0" = 0
+	"Tegama #0" = 0
+	"Thabitah #0" = 0
+	"Tifan #0" = 0
+	"Tiljad #0" = 0
+	"Ugdada #0" = 0
+	"Ugwistan #0" = 0
+	"Umar #0" = 0
+	"Uregh #0" = 0
+	"Urtilian #0" = 0
+	"Uzmir #0" = 0
+	"Uzza #0" = 0
+	"Wahab #0" = 0
+	"Watt'as #0" = 0
+	"Xamida #0" = 0
+	"Yabdas #0" = 0
+	"Yaghmurasen #0" = 0
+	"Yahya #0" = 0
+	"Yeften #0" = 0
+	"Yeh'lem #0" = 0
+	"Yiliyen #0" = 0
+	"Yuba #0" = 0
+	"Yugerten #0" = 0
+	"Yugurthen #0" = 0
+	"Youkhanna #0" = 0
+	"Yunes #0" = 0
+	"Yuva #0" = 0
+	"Z'effun #0" = 0
+	"Zafir #0" = 0
+	"Zalelsan #0" = 0
+	"Zayar #0" = 0
+	"Zer'wal #0" = 0
+	"Zigza #0" = 0
+	"Ziri #0" = 0
+	"Zubeyr #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

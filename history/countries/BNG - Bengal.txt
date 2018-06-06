@@ -1,0 +1,23 @@
+# Bengal Empire
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 563
+1440.9.28 = {
+	monarch = {
+		name = "Gopal II"
+		birth_date = 1439.11.23
+		dynasty = "Nyang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 563
+	add_treasury = 197
+	add_prestige = 238
+}

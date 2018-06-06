@@ -1,0 +1,26 @@
+# Ummayyads
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 429
+1411.11.7 = {
+	monarch = {
+		name = "Faramarz"
+		birth_date = 1394.4.7
+		dynasty = "Ummayyads"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 429
+	add_treasury = 38
+	add_prestige = 461
+}

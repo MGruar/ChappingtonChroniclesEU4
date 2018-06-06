@@ -1,0 +1,25 @@
+# Westmuir
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 4121
+1437.6.15 = {
+	monarch = {
+		name = "Temnén"
+		birth_date = 1421.3.15
+		dynasty = "Cerdicing"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 4121
+	add_treasury = 78
+	add_prestige = 188
+}

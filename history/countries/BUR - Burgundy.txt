@@ -1,0 +1,25 @@
+# Burgundy
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = breton
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 165
+1443.5.26 = {
+	monarch = {
+		name = "Catnimed"
+		birth_date = 1410.9.26
+		dynasty = "de Porhoët"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 165
+	add_treasury = 9
+	add_prestige = 326
+}

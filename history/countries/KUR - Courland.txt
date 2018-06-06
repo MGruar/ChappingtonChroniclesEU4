@@ -1,0 +1,26 @@
+# Courland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 261
+1419.5.27 = {
+	monarch = {
+		name = "Agul"
+		birth_date = 1400.12.27
+		dynasty = "Penikis"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fertile_personality
+}
+1444.11.11 = {
+	capital = 261
+	add_treasury = 35
+	add_prestige = 670
+}

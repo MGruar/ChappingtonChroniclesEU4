@@ -1,0 +1,26 @@
+# Greater Poland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = pommeranian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 255
+1427.1.15 = {
+	monarch = {
+		name = "Strasz"
+		birth_date = 1395.2.27
+		dynasty = "Rawicz"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 255
+	add_treasury = 27
+	add_prestige = 118
+}

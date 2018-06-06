@@ -1,0 +1,26 @@
+# Berry
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 179
+1422.8.25 = {
+	monarch = {
+		name = "Jaspert"
+		birth_date = 1413.11.7
+		dynasty = "d'Abzac"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 179
+	add_treasury = 45
+	add_prestige = 58
+}

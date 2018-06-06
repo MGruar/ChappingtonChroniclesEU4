@@ -1,0 +1,26 @@
+# Lancaster
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = cathar
+clear_scripted_personalities = yes
+capital = 244
+1429.12.25 = {
+	monarch = {
+		name = "Wulfstan II"
+		birth_date = 1403.6.6
+		dynasty = "Mac Eógain"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 244
+	add_treasury = 93
+	add_prestige = 157
+}

@@ -1,0 +1,25 @@
+# Sumparu
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 2129
+1443.10.17 = {
+	monarch = {
+		name = "Tsendro III"
+		birth_date = 1393.1.1
+		dynasty = "Poyul"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 2129
+	add_treasury = 54
+	add_prestige = 185
+}

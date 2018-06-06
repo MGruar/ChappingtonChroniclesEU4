@@ -1,0 +1,26 @@
+# East Éiremuir
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 373
+1415.12.4 = {
+	monarch = {
+		name = "Sigismond"
+		birth_date = 1414.2.16
+		dynasty = "Chappington"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+}
+1444.11.11 = {
+	capital = 373
+	add_treasury = 62
+	add_prestige = 1430
+}

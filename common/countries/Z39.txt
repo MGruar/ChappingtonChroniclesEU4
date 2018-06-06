@@ -1,0 +1,142 @@
+# Kola
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 230 70 15 }
+historical_idea_groups = {
+	aristocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ingólfr" "Suonjar" "Hasaba" "Num" "Eilionoir" "Nabtiko" "Laptsui" "Kontäw" "Leammá" "Sigrid" 
+	"Ylva" "Biellá" "Áigesárri" "Gerðr" "Henes" "Auli" "Nyalku" "Mandak" "Baeivi" "Viggu" 
+	"Ruigi" "Speaidna" "Oaván" "Járre" "Yadne" "Ngënoh" "Yurak" "Kako" "Hroðgar" "Lágon" 
+	"Mihka" "Rástos" "Jeansa" "Ivor" "Bodil" "Giste" "Erling" "Mokci" "Godwyn" "Ingjald" 
+	"Murray" "Beileag" "Sveinn" "Alexander" "Archibald" "Brice" "Peter" "Duff" "Alik" "Kharuchi" 
+	"Kolik" "Nenyts" "Nga" "Noumea" "Panay" "Pudak" "Salinder" "Samatu" "Sarak" "Sirtya" 
+	"Somatu" "Syudbya" "Tatva" "Tolik" "Vesei" "Wayngachi" "Xëryuchi" "Yapti" "Yar" "Yavlad" }
+monarch_names = {
+	"Ingólfr #0" = 1
+	"Suonjar #1" = -19
+	"Hasaba #1" = 18
+	"Num #0" = 1
+	"Eilionoir #0" = -1
+	"Nabtiko #0" = 1
+	"Laptsui #0" = -1
+	"Kontäw #0" = -1
+	"Leammá #0" = 1
+	"Sigrid #0" = -1
+	"Ylva #0" = -1
+	"Biellá #0" = -1
+	"Áigesárri #1" = 18
+	"Gerðr #0" = -1
+	"Henes #0" = 1
+	"Auli #0" = -1
+	"Nyalku #0" = 1
+	"Mandak #0" = 1
+	"Baeivi #2" = 0
+	"Viggu #1" = 0
+	"Ruigi #1" = 0
+	"Speaidna #1" = 0
+	"Oaván #1" = 0
+	"Járre #1" = 0
+	"Yadne #1" = 0
+	"Ngënoh #1" = 0
+	"Yurak #2" = 0
+	"Kako #2" = 0
+	"Hroðgar #1" = 0
+	"Lágon #1" = 0
+	"Mihka #2" = 0
+	"Rástos #1" = 0
+	"Jeansa #1" = 0
+	"Ivor #1" = 0
+	"Bodil #1" = -1
+	"Giste #1" = -1
+	"Erling #1" = 0
+	"Mokci #1" = 0
+	"Godwyn #1" = 0
+	"Ingjald #1" = 0
+	"Murray #1" = 0
+	"Beileag #1" = -1
+	"Sveinn #1" = 0
+	"Alexander #1" = 0
+	"Archibald #1" = 0
+	"Brice #1" = 0
+	"Peter #1" = 0
+	"Duff #1" = 0
+	"Alik #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Noumea #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Wayngachi #0" = 0
+	"Xëryuchi #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

@@ -1,0 +1,27 @@
+# Mesopotamia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2306
+1430.9.23 = {
+	monarch = {
+		name = "Barbara"
+		birth_date = 1407.4.1
+		dynasty = "Phalkon"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2306
+	add_treasury = 42
+	add_prestige = 126
+}

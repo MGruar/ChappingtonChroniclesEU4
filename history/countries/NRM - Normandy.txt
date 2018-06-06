@@ -1,0 +1,25 @@
+# Normandy
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 168
+1436.6.23 = {
+	monarch = {
+		name = "Gillespie"
+		birth_date = 1418.3.8
+		dynasty = "Chappington"
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 168
+	add_treasury = 34
+	add_prestige = 1409
+}

@@ -1,0 +1,26 @@
+# Palmyra
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 405
+1428.5.1 = {
+	monarch = {
+		name = "Polykarpos II"
+		birth_date = 1404.5.28
+		dynasty = "Leontares"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 405
+	add_treasury = 75
+	add_prestige = 543
+}

@@ -1,0 +1,298 @@
+# Samogitia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 150 70 70 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Hjalmar" "Klas" "Ylva" "Kristina" "Birgitta" "Arnbjörn" "Einarr" "Guðrun" "Ingjald" "Helena" 
+	"Hemming" "Èuvje" "Bodil" "Guðfrið" "Astrid" "Naná" "Mihka" "Biergá" "Uksáhkká" "Linda" 
+	"Lleuca" "Skule" "Elin" "Håvard" "Maelcwn" "Ellyn" "Giste" "Erling" "Mokci" "Gwydol" 
+	"Gwenhwyfar" "Catrin" "Gerallt" "Yar" "Margred" "Fyrsil" "Godwyn" "Ross" "Llear" "Ffwdwr" 
+	"Eldrid" "Ilme" "Cynfran" "Agnes" "Jean" "Gwenllian" "Hunydd" "Llyr" "Casnar" "Tudur" 
+	"Senyllt" "Tadane" "Alastair" "Guret" "Afrella" "Num" "Öysteinn" "Þordr" "Skuld" "Rhys" 
+	"Gamon" "Rhiaindrech" "Cerie" "Aelwyd" "Malmure" "Morien" "Findlay" "Flora" "Elisabet" "Gwenasedd" 
+	"Njáves" "Idwallon" "Arthfael" "Julia" "Sáráhkká" "Newlyna" "Sigrid" "Dyddgu" "Sumarliði" "Maria" 
+	"Morag" "Beileag" "Ingólfr" "Peredyr" "Gunnarr" "Non" "Innes" "Gáivvas" "Dan" "Ámmot" 
+	"Sofia" "Beitris" "Beata" "Maer" "Sif" "Sturla" "Erik" "Oajá" "Hans" "Björn" 
+	"Nils" "Valdemar" "Åke" "Biellá" "Asta" "Járre" "Rikissa" "Seará" "Karl" "Östen" 
+	"Baeivi" "Saga" "Faste" "Kettil" "Alvör" "Henes" "Sheena" "Sigtrygg" "Soabá" "Speaidna" 
+	"Inga" "Biejan" "Vykantas" "Sviendorog" "Pliksov" "Golovke" "Galene" "Alvydas" "Ringaudas" "Aras" 
+	"Gauronas" "Glande" "Ulinniks" "Galindas" "Milzas" "Vladislav" "Jaunule" "Gerdautas" "Prusas" "Kugis" 
+	"Bajoras" "Arelis" "Putiata" "Arvo" "Alo" "Dardedze" "Kahus" "Neeme" "Niglas" "Aleta" 
+	"Simon" "Marjory" "Catriona" "Albrikt" "Alf" "Algot" "Anders" "Arne" "Arnfast" "Astrad" 
+	"Azur" "Bengt" "Bertil" "Birger" "Bo" "Borkvard" "Botulf" "Bror" "Brynjolf" "Dag" 
+	"Dyre" "Einar" "Eskild" "Fredrik" "Filip" "Folke" "Georg" "Greger" "Grim" "Gunnar" 
+	"Gustav" "Halsten" "Harald" "Helgi" "Henrik" "Holmger" "Håkan" "Inge" "Ingemar" "Ingvar" 
+	"Jedvard" "Johan" "Kettilmund" "Knut" "Kol" "Kolbjörn" "Lars" "Magnus" "Markus" "Mats" 
+	"Niklas" "Olaf" "Peder" "Ragnar" "Rolf" "Rörek" "Ragnvald" "Sigurd" "Sten" "Sune" 
+	"Sven" "Sverker" "Sölvi" "Thomas" "Tord" "Torkel" "Torolf" "Torsten" "Totil" "Ulf" }
+monarch_names = {
+	"Hjalmar #1" = 24
+	"Klas #0" = 1
+	"Ylva #1" = -25
+	"Kristina #0" = -1
+	"Birgitta #0" = -1
+	"Arnbjörn #0" = 1
+	"Einarr #0" = 1
+	"Guðrun #0" = -1
+	"Ingjald #0" = 1
+	"Helena #0" = -1
+	"Hemming #0" = 1
+	"Èuvje #0" = -1
+	"Bodil #0" = -1
+	"Guðfrið #0" = 1
+	"Astrid #0" = -1
+	"Naná #0" = -1
+	"Mihka #0" = 1
+	"Biergá #0" = -1
+	"Uksáhkká #0" = -1
+	"Linda #0" = -1
+	"Lleuca #0" = -1
+	"Skule #0" = 1
+	"Elin #0" = -1
+	"Håvard #0" = 1
+	"Maelcwn #0" = 1
+	"Ellyn #0" = -1
+	"Giste #0" = -1
+	"Erling #0" = 1
+	"Mokci #0" = 1
+	"Gwydol #0" = 1
+	"Gwenhwyfar #0" = -1
+	"Catrin #0" = -1
+	"Gerallt #0" = 1
+	"Yar #0" = 1
+	"Margred #0" = -1
+	"Fyrsil #0" = 1
+	"Godwyn #0" = 1
+	"Ross #0" = 1
+	"Llear #0" = -1
+	"Ffwdwr #0" = 1
+	"Eldrid #0" = -1
+	"Ilme #0" = -1
+	"Cynfran #0" = 1
+	"Agnes #0" = -1
+	"Jean #0" = -1
+	"Gwenllian #0" = -1
+	"Hunydd #0" = -1
+	"Llyr #0" = 1
+	"Casnar #0" = 1
+	"Tudur #0" = 1
+	"Senyllt #0" = 1
+	"Tadane #0" = -1
+	"Alastair #0" = 1
+	"Guret #0" = 1
+	"Afrella #0" = -1
+	"Num #0" = 1
+	"Öysteinn #0" = 1
+	"Þordr #0" = 1
+	"Skuld #0" = -1
+	"Rhys #0" = 1
+	"Gamon #0" = 1
+	"Rhiaindrech #0" = -1
+	"Cerie #0" = -1
+	"Aelwyd #0" = -1
+	"Malmure #0" = -1
+	"Morien #0" = -1
+	"Findlay #0" = 1
+	"Flora #0" = -1
+	"Elisabet #0" = -1
+	"Gwenasedd #0" = -1
+	"Njáves #0" = -1
+	"Idwallon #0" = 1
+	"Arthfael #0" = 1
+	"Julia #0" = -1
+	"Sáráhkká #0" = -1
+	"Newlyna #0" = -1
+	"Sigrid #0" = -1
+	"Dyddgu #0" = -1
+	"Sumarliði #0" = 1
+	"Maria #0" = -1
+	"Morag #0" = -1
+	"Beileag #0" = -1
+	"Ingólfr #0" = 1
+	"Peredyr #0" = 1
+	"Gunnarr #0" = 1
+	"Non #0" = -1
+	"Innes #0" = -1
+	"Gáivvas #0" = 1
+	"Dan #0" = 1
+	"Ámmot #0" = 1
+	"Sofia #0" = -1
+	"Beitris #0" = -1
+	"Beata #0" = -1
+	"Maer #0" = -1
+	"Sif #0" = -1
+	"Sturla #0" = 1
+	"Erik #0" = 1
+	"Oajá #0" = -1
+	"Hans #0" = 1
+	"Björn #0" = 1
+	"Nils #0" = 1
+	"Valdemar #0" = 1
+	"Åke #0" = 1
+	"Biellá #0" = -1
+	"Asta #0" = -1
+	"Járre #0" = 1
+	"Rikissa #0" = -1
+	"Seará #0" = -1
+	"Karl #0" = 1
+	"Östen #0" = 1
+	"Baeivi #0" = 1
+	"Saga #0" = -1
+	"Faste #0" = 1
+	"Kettil #0" = 1
+	"Alvör #0" = -1
+	"Henes #0" = 1
+	"Sheena #0" = -1
+	"Sigtrygg #0" = 1
+	"Soabá #0" = -1
+	"Speaidna #0" = 1
+	"Inga #0" = -1
+	"Biejan #0" = 1
+	"Vykantas #2" = 0
+	"Sviendorog #1" = 0
+	"Pliksov #1" = 0
+	"Golovke #1" = 0
+	"Galene #1" = -1
+	"Alvydas #2" = 0
+	"Ringaudas #1" = 0
+	"Aras #1" = 0
+	"Gauronas #2" = 0
+	"Glande #2" = 0
+	"Ulinniks #1" = 0
+	"Galindas #1" = 0
+	"Milzas #2" = 0
+	"Vladislav #1" = 0
+	"Jaunule #1" = 0
+	"Gerdautas #1" = 0
+	"Prusas #1" = 0
+	"Kugis #1" = 0
+	"Bajoras #1" = 0
+	"Arelis #1" = 0
+	"Putiata #1" = 0
+	"Arvo #1" = 0
+	"Alo #1" = 0
+	"Dardedze #1" = -1
+	"Kahus #1" = 0
+	"Neeme #1" = 0
+	"Niglas #1" = 0
+	"Aleta #1" = -1
+	"Simon #1" = 0
+	"Marjory #1" = -1
+	"Catriona #1" = -1
+	"Albrikt #0" = 0
+	"Alf #0" = 0
+	"Algot #0" = 0
+	"Anders #0" = 0
+	"Arne #0" = 0
+	"Arnfast #0" = 0
+	"Astrad #0" = 0
+	"Azur #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulf #0" = 0
+	"Bror #0" = 0
+	"Brynjolf #0" = 0
+	"Dag #0" = 0
+	"Dyre #0" = 0
+	"Einar #0" = 0
+	"Eskild #0" = 0
+	"Fredrik #0" = 0
+	"Filip #0" = 0
+	"Folke #0" = 0
+	"Georg #0" = 0
+	"Greger #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Gustav #0" = 0
+	"Halsten #0" = 0
+	"Harald #0" = 0
+	"Helgi #0" = 0
+	"Henrik #0" = 0
+	"Holmger #0" = 0
+	"Håkan #0" = 0
+	"Inge #0" = 0
+	"Ingemar #0" = 0
+	"Ingvar #0" = 0
+	"Jedvard #0" = 0
+	"Johan #0" = 0
+	"Kettilmund #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Lars #0" = 0
+	"Magnus #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Niklas #0" = 0
+	"Olaf #0" = 0
+	"Peder #0" = 0
+	"Ragnar #0" = 0
+	"Rolf #0" = 0
+	"Rörek #0" = 0
+	"Ragnvald #0" = 0
+	"Sigurd #0" = 0
+	"Sten #0" = 0
+	"Sune #0" = 0
+	"Sven #0" = 0
+	"Sverker #0" = 0
+	"Sölvi #0" = 0
+	"Thomas #0" = 0
+	"Tord #0" = 0
+	"Torkel #0" = 0
+	"Torolf #0" = 0
+	"Torsten #0" = 0
+	"Totil #0" = 0
+	"Ulf #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

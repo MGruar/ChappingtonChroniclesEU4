@@ -1,0 +1,26 @@
+# Lesser Poland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 259
+1400.10.2 = {
+	monarch = {
+		name = "Usciech"
+		birth_date = 1399.4.13
+		dynasty = "Bodzeta"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = naive_personality
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 259
+	add_treasury = 10
+	add_prestige = 234
+}

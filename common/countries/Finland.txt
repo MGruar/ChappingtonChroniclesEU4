@@ -1,0 +1,227 @@
+# Finland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 130 73 20 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Mats" "Kiur" "Lennon" "Roderick" "Eilionoir" "Edwin" "Michael" "Nuala" "Saundra" "Marjory" 
+	"Ewan" "Conall" "Gilchrist" "Christina" "Constantine" "Euna" "Deirdre" "Pihl" "Ninni" "Ilo" 
+	"Eha" "Helve" "Kosk" "Hertta" "Ülane" "Olev" "Otelemb" "Kolli" "Helbe" "Mielikki" 
+	"Aul" "Kivutar" "Aldi" "Kiire" "Ahma" "Armas" "Kaupo" "Pilvi" "Neeme" "Leek" 
+	"Vesa" "Tuuli" "Unzhutka" "Viryas" "Mastorava" "Erkki" "Satatieto" "Tuulikki" "Chindyapa" "Tyushtya" 
+	"Helena" "Kristiina" "Serzhay" "Kettilmund" "Sara" "Knut" "Torkel" "Tommo" "Lorna" "Forflissa" 
+	"Robert" "Loviisa" "Maud" "Muir" "Effie" "Morag" "Cecilia" "Angus" "Malise" "Beathan" 
+	"Mirren" "Talore" "Galiena" "Philip" "Alexander" "Mungo" "Uhtred" "Albrikt" "Alf" "Algot" 
+	"Anders" "Arnbjörn" "Arne" "Arnfast" "Astrad" "Azur" "Bengt" "Bertil" "Birger" "Björn" 
+	"Bo" "Borkvard" "Botulf" "Bror" "Brynjolf" "Dag" "Dan" "Dyre" "Einar" "Erik" 
+	"Eskild" "Faste" "Fredrik" "Filip" "Folke" "Georg" "Greger" "Grim" "Gunnar" "Gustav" 
+	"Halsten" "Hans" "Harald" "Helgi" "Henrik" "Hjalmar" "Holmger" "Håkan" "Inge" "Ingemar" 
+	"Ingvar" "Jedvard" "Johan" "Karl" "Kettil" "Klas" "Kol" "Kolbjörn" "Lars" "Magnus" 
+	"Markus" "Nils" "Niklas" "Olaf" "Peder" "Ragnar" "Rolf" "Rörek" "Ragnvald" "Sigtrygg" 
+	"Sigurd" "Sten" "Sune" "Sven" "Sverker" "Sölvi" "Thomas" "Tord" "Torolf" "Torsten" 
+	"Totil" "Ulf" "Valdemar" "Åke" "Östen" }
+monarch_names = {
+	"Mats #0" = 1
+	"Kiur #0" = 1
+	"Lennon #1" = 18
+	"Roderick #0" = 1
+	"Eilionoir #0" = -1
+	"Edwin #0" = 1
+	"Michael #5" = 27
+	"Nuala #0" = -1
+	"Saundra #0" = -1
+	"Marjory #0" = -1
+	"Ewan #0" = 1
+	"Conall #0" = 1
+	"Gilchrist #0" = 1
+	"Christina #0" = -1
+	"Constantine #0" = 1
+	"Euna #0" = -1
+	"Deirdre #0" = -1
+	"Pihl #0" = 1
+	"Ninni #0" = -1
+	"Ilo #0" = -1
+	"Eha #0" = -1
+	"Helve #0" = -1
+	"Kosk #0" = 1
+	"Hertta #0" = -1
+	"Ülane #0" = -1
+	"Olev #0" = 1
+	"Otelemb #0" = 1
+	"Kolli #0" = 1
+	"Helbe #0" = -1
+	"Mielikki #0" = -1
+	"Aul #0" = 1
+	"Kivutar #0" = -1
+	"Aldi #0" = -1
+	"Kiire #0" = -1
+	"Ahma #0" = 1
+	"Armas #0" = 1
+	"Kaupo #0" = 1
+	"Pilvi #0" = -1
+	"Neeme #0" = 1
+	"Leek #0" = -1
+	"Vesa #0" = 1
+	"Tuuli #0" = -1
+	"Unzhutka #0" = -1
+	"Viryas #0" = 1
+	"Mastorava #0" = -1
+	"Erkki #0" = 1
+	"Satatieto #0" = 1
+	"Tuulikki #0" = -1
+	"Chindyapa #0" = -1
+	"Tyushtya #0" = 1
+	"Helena #0" = -1
+	"Kristiina #0" = -1
+	"Serzhay #0" = -1
+	"Kettilmund #0" = 1
+	"Sara #0" = -1
+	"Knut #0" = 1
+	"Torkel #0" = 1
+	"Tommo #0" = 1
+	"Lorna #0" = -1
+	"Forflissa #0" = -1
+	"Robert #1" = 21
+	"Loviisa #0" = -1
+	"Maud #0" = -1
+	"Muir #0" = 1
+	"Effie #0" = -1
+	"Morag #0" = -1
+	"Cecilia #0" = -1
+	"Angus #0" = 1
+	"Malise #0" = 1
+	"Beathan #0" = 1
+	"Mirren #0" = -1
+	"Talore #0" = 1
+	"Galiena #0" = -1
+	"Philip #0" = 1
+	"Alexander #1" = 0
+	"Mungo #1" = 0
+	"Uhtred #1" = 0
+	"Albrikt #0" = 0
+	"Alf #0" = 0
+	"Algot #0" = 0
+	"Anders #0" = 0
+	"Arnbjörn #0" = 0
+	"Arne #0" = 0
+	"Arnfast #0" = 0
+	"Astrad #0" = 0
+	"Azur #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulf #0" = 0
+	"Bror #0" = 0
+	"Brynjolf #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Fredrik #0" = 0
+	"Filip #0" = 0
+	"Folke #0" = 0
+	"Georg #0" = 0
+	"Greger #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Gustav #0" = 0
+	"Halsten #0" = 0
+	"Hans #0" = 0
+	"Harald #0" = 0
+	"Helgi #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holmger #0" = 0
+	"Håkan #0" = 0
+	"Inge #0" = 0
+	"Ingemar #0" = 0
+	"Ingvar #0" = 0
+	"Jedvard #0" = 0
+	"Johan #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Lars #0" = 0
+	"Magnus #0" = 0
+	"Markus #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Olaf #0" = 0
+	"Peder #0" = 0
+	"Ragnar #0" = 0
+	"Rolf #0" = 0
+	"Rörek #0" = 0
+	"Ragnvald #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurd #0" = 0
+	"Sten #0" = 0
+	"Sune #0" = 0
+	"Sven #0" = 0
+	"Sverker #0" = 0
+	"Sölvi #0" = 0
+	"Thomas #0" = 0
+	"Tord #0" = 0
+	"Torolf #0" = 0
+	"Torsten #0" = 0
+	"Totil #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Östen #0" = 0
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+

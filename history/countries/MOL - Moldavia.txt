@@ -1,0 +1,27 @@
+# Moldau
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 282
+1382.12.2 = {
+	monarch = {
+		name = "Sophia"
+		birth_date = 1379.11.5
+		dynasty = "Karabitziotes"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 282
+	add_treasury = 65
+	add_prestige = 156
+}

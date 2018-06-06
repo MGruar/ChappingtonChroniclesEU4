@@ -1,0 +1,27 @@
+# Samogitia
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = swedish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1930
+1431.9.25 = {
+	monarch = {
+		name = "Ylva"
+		birth_date = 1401.7.1
+		dynasty = "Lade"
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 1930
+	add_treasury = 27
+	add_prestige = 327
+}

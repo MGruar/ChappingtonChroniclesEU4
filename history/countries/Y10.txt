@@ -1,0 +1,25 @@
+# Merya
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+clear_scripted_personalities = yes
+capital = 294
+1442.10.20 = {
+	monarch = {
+		name = "Vechkas"
+		birth_date = 1405.2.27
+		dynasty = "Nuyatid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 294
+	add_treasury = 17
+	add_prestige = 102
+}

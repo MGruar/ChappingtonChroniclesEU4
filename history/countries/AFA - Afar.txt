@@ -1,0 +1,25 @@
+# Afar
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = monophysite
+clear_scripted_personalities = yes
+capital = 1211
+1442.12.11 = {
+	monarch = {
+		name = "Tessema II"
+		birth_date = 1434.8.25
+		dynasty = "Kelile"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 1211
+	add_treasury = 89
+	add_prestige = 37
+}

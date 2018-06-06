@@ -1,0 +1,25 @@
+# Pecha
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+capital = 287
+1439.8.11 = {
+	monarch = {
+		name = "Begter"
+		birth_date = 1402.10.21
+		dynasty = "Pecha"
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 287
+	add_treasury = 40
+	add_prestige = 95
+}

@@ -1,0 +1,36 @@
+# Mongol Empire
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+capital = 298
+1441.3.2 = {
+	monarch = {
+		name = "Arkhai"
+		birth_date = 1402.8.22
+		dynasty = "Mönkh-Erdene"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Yesugei"
+		monarch_name = "Yesugei II"
+		dynasty = "Mönkh-Erdene"
+		birth_date = 1423.6.2
+		death_date = 1503.6.2
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 298
+	add_treasury = 7
+	add_prestige = 155
+}

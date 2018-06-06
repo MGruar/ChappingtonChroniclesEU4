@@ -1,0 +1,39 @@
+# Serbia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1827
+1424.2.24 = {
+	monarch = {
+		name = "Eudoxios"
+		birth_date = 1407.6.9
+		dynasty = "Peteinakes"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = cruel_personality
+}
+1427.1.7 = {
+	heir = {
+		name = "Ioulianos"
+		monarch_name = "Ioulianos"
+		dynasty = "Peteinakes"
+		birth_date = 1427.1.7
+		death_date = 1507.1.7
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1827
+	add_treasury = 9
+	add_prestige = 559
+}

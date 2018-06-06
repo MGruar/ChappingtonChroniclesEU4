@@ -1,0 +1,26 @@
+# Atropatene
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 421
+1425.4.4 = {
+	monarch = {
+		name = "Theoktistos"
+		birth_date = 1400.6.3
+		dynasty = "Su"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 421
+	add_treasury = 52
+	add_prestige = 298
+}

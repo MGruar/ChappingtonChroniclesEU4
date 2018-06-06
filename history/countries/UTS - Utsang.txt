@@ -1,0 +1,27 @@
+# Lhasa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 677
+1401.7.12 = {
+	monarch = {
+		name = "Ahiavadevi"
+		birth_date = 1401.4.24
+		dynasty = "Lig"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 677
+	add_treasury = 17
+	add_prestige = 670
+}

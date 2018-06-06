@@ -1,0 +1,26 @@
+# Ahavamallid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 398
+1425.11.9 = {
+	monarch = {
+		name = "Ayanna"
+		birth_date = 1416.4.7
+		dynasty = "Ahavamallid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 398
+	add_treasury = 142
+	add_prestige = 344
+}

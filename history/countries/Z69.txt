@@ -1,0 +1,27 @@
+# Kýpros
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 321
+1430.5.12 = {
+	monarch = {
+		name = "Eulalia"
+		birth_date = 1419.4.8
+		dynasty = "Heraclides"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+}
+1444.11.11 = {
+	capital = 321
+	add_treasury = 32
+	add_prestige = 96
+}

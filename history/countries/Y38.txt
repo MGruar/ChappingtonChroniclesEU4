@@ -1,0 +1,26 @@
+# Shewa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1213
+1428.8.17 = {
+	monarch = {
+		name = "Melaku V"
+		birth_date = 1404.8.7
+		dynasty = "Zabid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 1213
+	add_treasury = 22
+	add_prestige = 331
+}

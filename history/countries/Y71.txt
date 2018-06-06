@@ -1,0 +1,26 @@
+# Sisupalid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 526
+1406.1.20 = {
+	monarch = {
+		name = "Harshapala II"
+		birth_date = 1381.6.21
+		dynasty = "Sisupalid"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = 4
+	add_prestige = 639
+}

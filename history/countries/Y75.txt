@@ -1,0 +1,26 @@
+# Gauda
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2044
+1414.5.1 = {
+	monarch = {
+		name = "Jadu II"
+		birth_date = 1398.3.1
+		dynasty = "Nyang"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2044
+	add_treasury = 31
+	add_prestige = 650
+}

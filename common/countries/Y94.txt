@@ -1,0 +1,53 @@
+# Muztau
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 125 160 240 }
+
+
+
+
+leader_names = {
+
+	"Bishe" "Abaoji" "Bei" "Biegute" "Dashi" "Deguang" "Dilie" "Duolubu" "Fuguzhi" "Gou'er" 
+	"Hongji" "Hougu" "Jing" "Ketuyu" "Rian" "Ruan" "Suogu" "Tiande" "Wenshunu" "Wolila" 
+	"Wuge" "Wuyu" "Xian" "Xiuge" "Yanchege" "Yanxi" "Yilie" "Zhilugu" "Zhongyuan" "Zongzhen" }
+monarch_names = {
+	"Bishe #0" = 1
+	"Abaoji #0" = 0
+	"Bei #0" = 0
+	"Biegute #0" = 0
+	"Dashi #0" = 0
+	"Deguang #0" = 0
+	"Dilie #0" = 0
+	"Duolubu #0" = 0
+	"Fuguzhi #0" = 0
+	"Gou'er #0" = 0
+	"Hongji #0" = 0
+	"Hougu #0" = 0
+	"Jing #0" = 0
+	"Ketuyu #0" = 0
+	"Rian #0" = 0
+	"Ruan #0" = 0
+	"Suogu #0" = 0
+	"Tiande #0" = 0
+	"Wenshunu #0" = 0
+	"Wolila #0" = 0
+	"Wuge #0" = 0
+	"Wuyu #0" = 0
+	"Xian #0" = 0
+	"Xiuge #0" = 0
+	"Yanchege #0" = 0
+	"Yanxi #0" = 0
+	"Yilie #0" = 0
+	"Zhilugu #0" = 0
+	"Zhongyuan #0" = 0
+	"Zongzhen #0" = 0
+
+
+	"Saige #0" = -1
+	"Xiao-Wen #0" = -1
+	"Taoge #0" = -1
+	"Xiao #0" = -1
+	"Dianni #0" = -1
+}
+

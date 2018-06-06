@@ -1,0 +1,26 @@
+# Northmuir
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 4363
+1419.7.26 = {
+	monarch = {
+		name = "Cian"
+		birth_date = 1383.11.17
+		dynasty = "de  Argyll"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 4363
+	add_treasury = 27
+	add_prestige = 22
+}

@@ -1,0 +1,265 @@
+# Ostlandet
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 80 120 215 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Dyre" "Beata" "Ingvar" "Åsa" "Kristina" "Ragnar" "Dan" "Håkan" "Ingfrid" "Alfhild" 
+	"Gyla" "Elisabet" "Niklas" "Hans" "Gurli" "Conan" "Sverker" "Alfridh" "Sigtrygg" "Gunnar" 
+	"Kol" "Ingeborg" "Bertil" "Astrid" "Aleta" "Maer" "Rikissa" "Olaf" "Tord" "Lillias" 
+	"Elin" "Gillespie" "Sigurd" "Sara" "Märta" "Asta" "Sven" "Åke" "Inge" "Jedvard" 
+	"Torsten" "Ylva" "Gunhild" "Johan" "Erik" "Hafrid" "Aulay" "Ingegerd" "Cecilia" "Anna" 
+	"Saga" "Greger" "Dag" "Sofia" "Mirren" "Ada" "Totil" "Algot" "Karin" "Linda" 
+	"Halfdan" "Bozydar" "Ormr" "Ulfr" "Hrafn" "Refil" "Haraldr" "Oddr" "Jon" "Hrane" 
+	"Paul" "Jean" "Alan" "Rhydderch" "Siwan" "Cynfyn" "Ffion" "Tadhg" "Maisie" "Ruatirch" 
+	"Crup" "Ru" "Addiena" "Caltram" "James" "Marcas" "Alexander" "Maud" "Mungo" "Waldeve" 
+	"Borkvard" "Eskild" "Adam" "Alpin" "Alastair" "Andrew" "Angus" "Archibald" "Arthur" "Arran" 
+	"Beathan" "Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Colin" "Conall" "Constantine" 
+	"David" "Dermid" "Donald" "Douglas" "Duff" "Dugald" "Duncan" "Edgar" "Edward" "Edwin" 
+	"Eric" "Evander" "Ewan" "Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbert" 
+	"Gilbride" "Gilchrist" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" "Hector" 
+	"Henry" "Hugh" "Iain" "Indulf" "John" "Kenneth" "Kentigern" "Lachlan" "Laurence" "Lennon" 
+	"Lulach" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" "Malmure" "Maoilios" "Matad" 
+	"Matthew" "Michael" "Morgan" "Muir" "Murdoch" "Murray" "Neil" "Ninian" "Oscar" "Patrick" 
+	"Peter" "Philip" "Radulf" "Ranald" "Richard" "Robert" "Roderick" "Ronald" "Rory" "Ross" 
+	"Roy" "Shaw" "Simon" "Somerled" "Stephan" "Sweeny" "Talore" "Thomas" "Torquil" "Uhtred" 
+	"Uisdean" "Walan" "Walter" "William" }
+monarch_names = {
+	"Dyre #0" = 1
+	"Beata #0" = -1
+	"Ingvar #0" = 1
+	"Åsa #0" = -1
+	"Kristina #0" = -1
+	"Ragnar #0" = 1
+	"Dan #0" = 1
+	"Håkan #0" = 1
+	"Ingfrid #0" = -1
+	"Alfhild #0" = -1
+	"Gyla #0" = -1
+	"Elisabet #0" = -1
+	"Niklas #0" = 1
+	"Hans #0" = 1
+	"Gurli #0" = -1
+	"Conan #1" = 18
+	"Sverker #0" = 1
+	"Alfridh #0" = -1
+	"Sigtrygg #1" = 18
+	"Gunnar #0" = 1
+	"Kol #0" = 1
+	"Ingeborg #0" = -1
+	"Bertil #0" = 1
+	"Astrid #0" = -1
+	"Aleta #1" = -19
+	"Maer #0" = -1
+	"Rikissa #0" = -1
+	"Olaf #0" = 1
+	"Tord #0" = 1
+	"Lillias #0" = -1
+	"Elin #0" = -1
+	"Gillespie #0" = 1
+	"Sigurd #0" = 1
+	"Sara #0" = -1
+	"Märta #0" = -1
+	"Asta #0" = -1
+	"Sven #1" = 27
+	"Åke #0" = 1
+	"Inge #1" = 21
+	"Jedvard #0" = 1
+	"Torsten #0" = 1
+	"Ylva #0" = -1
+	"Gunhild #0" = -1
+	"Johan #0" = 1
+	"Erik #0" = 1
+	"Hafrid #0" = -1
+	"Aulay #1" = 18
+	"Ingegerd #0" = -1
+	"Cecilia #0" = -1
+	"Anna #0" = -1
+	"Saga #0" = -1
+	"Greger #0" = 1
+	"Dag #0" = 1
+	"Sofia #0" = -1
+	"Mirren #0" = -1
+	"Ada #0" = -1
+	"Totil #0" = 1
+	"Algot #0" = 1
+	"Karin #0" = -1
+	"Linda #0" = -1
+	"Halfdan #1" = 0
+	"Bozydar #1" = 0
+	"Ormr #2" = 0
+	"Ulfr #1" = 0
+	"Hrafn #1" = 0
+	"Refil #1" = 0
+	"Haraldr #1" = 0
+	"Oddr #1" = 0
+	"Jon #1" = 0
+	"Hrane #1" = 0
+	"Paul #1" = 0
+	"Jean #1" = -1
+	"Alan #1" = 0
+	"Rhydderch #1" = 0
+	"Siwan #1" = -1
+	"Cynfyn #1" = 0
+	"Ffion #1" = -1
+	"Tadhg #1" = 0
+	"Maisie #1" = -1
+	"Ruatirch #1" = 0
+	"Crup #1" = 0
+	"Ru #1" = 0
+	"Addiena #1" = -1
+	"Caltram #1" = 0
+	"James #2" = 0
+	"Marcas #1" = 0
+	"Alexander #1" = 0
+	"Maud #1" = -1
+	"Mungo #1" = 0
+	"Waldeve #1" = 0
+	"Borkvard #1" = 0
+	"Eskild #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alastair #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Constantine #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

@@ -1,0 +1,26 @@
+# Toledo
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 217
+1426.7.10 = {
+	monarch = {
+		name = "Mungo"
+		birth_date = 1416.2.12
+		dynasty = "Mac Léoit"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 217
+	add_treasury = 54
+	add_prestige = 59
+}

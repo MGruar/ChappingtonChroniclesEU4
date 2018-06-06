@@ -1,0 +1,26 @@
+# Gotland
+government = administrative_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2
+1418.4.16 = {
+	monarch = {
+		name = "Talore"
+		birth_date = 1383.11.7
+		dynasty = "Mac Coistela"
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2
+	add_treasury = 194
+	add_prestige = 362
+}

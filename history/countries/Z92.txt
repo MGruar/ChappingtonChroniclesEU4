@@ -1,0 +1,36 @@
+# Sikelia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2750
+1441.8.10 = {
+	monarch = {
+		name = "Ioseph"
+		birth_date = 1395.3.4
+		dynasty = "Koresis"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Apollonios"
+		monarch_name = "Apollonios"
+		dynasty = "Koresis"
+		birth_date = 1412.8.20
+		death_date = 1492.8.20
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2750
+	add_treasury = 33
+	add_prestige = 571
+}

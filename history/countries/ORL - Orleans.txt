@@ -1,0 +1,26 @@
+# Orleans
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = cathar
+clear_scripted_personalities = yes
+capital = 184
+1406.8.3 = {
+	monarch = {
+		name = "Géraud II"
+		birth_date = 1392.5.3
+		dynasty = "Stephanid"
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 184
+	add_treasury = 35
+	add_prestige = 644
+}

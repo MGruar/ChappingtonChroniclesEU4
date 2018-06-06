@@ -1,0 +1,26 @@
+# Khuttal
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1968
+1435.6.14 = {
+	monarch = {
+		name = "Yondagmo"
+		birth_date = 1434.5.20
+		dynasty = "Kyichu"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 1968
+	add_treasury = 70
+	add_prestige = 172
+}

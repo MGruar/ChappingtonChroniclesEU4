@@ -1,0 +1,26 @@
+# Volhinia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1940
+1427.2.10 = {
+	monarch = {
+		name = "Oljaitu"
+		birth_date = 1377.6.15
+		dynasty = "Oljaitu"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = zealot_personality
+}
+1444.11.11 = {
+	capital = 1940
+	add_treasury = 10
+	add_prestige = 206
+}

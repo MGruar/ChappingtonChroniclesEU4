@@ -1,0 +1,10 @@
+israelite = {
+	ashkenazi = {
+		primary = ISR
+		dynasty_names = { "Ben Aharon" "Ben David" "of Bahraich" "of Kosoba" "of Beaune" "of Anegundi" "of Luzech" "Ben Reuben" "of Lödöse" "of Puisserguier" "of Kushk" }
+	}
+	sephardi = {
+		primary = ISR
+		dynasty_names = { "of Aguelhok" }
+	}
+}

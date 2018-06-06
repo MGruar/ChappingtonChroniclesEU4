@@ -1,0 +1,37 @@
+# Hellas
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 417
+1437.5.15 = {
+	monarch = {
+		name = "Gabriel"
+		birth_date = 1382.7.7
+		dynasty = "Pyrrogenes"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = conqueror_personality
+}
+1440.3.1 = {
+	heir = {
+		name = "Akakios"
+		monarch_name = "Akakios"
+		dynasty = "Pyrrogenes"
+		birth_date = 1440.3.1
+		death_date = 1520.3.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 417
+	add_treasury = 44
+	add_prestige = 894
+}

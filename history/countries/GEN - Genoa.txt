@@ -1,0 +1,25 @@
+# Genoa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 101
+1442.12.13 = {
+	monarch = {
+		name = "Roderick"
+		birth_date = 1417.12.19
+		dynasty = "a Scóine"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 101
+	add_treasury = 1
+	add_prestige = 93
+}

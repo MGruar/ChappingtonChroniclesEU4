@@ -1,0 +1,25 @@
+# Gafurid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = coptic
+clear_scripted_personalities = yes
+capital = 361
+1437.9.16 = {
+	monarch = {
+		name = "Abdul-Gafur"
+		birth_date = 1403.8.17
+		dynasty = "Gafurid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 361
+	add_treasury = 84
+	add_prestige = 108
+}

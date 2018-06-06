@@ -1,0 +1,36 @@
+# Abyssinia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1224
+1437.1.24 = {
+	monarch = {
+		name = "Yacob"
+		birth_date = 1406.1.26
+		dynasty = "Mekonnen"
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Abai"
+		monarch_name = "Abai II"
+		dynasty = "Mekonnen"
+		birth_date = 1422.12.8
+		death_date = 1502.12.8
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1224
+	add_treasury = 16
+	add_prestige = 72
+}

@@ -1,0 +1,25 @@
+# Bononia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 3000
+1443.4.7 = {
+	monarch = {
+		name = "Basileios"
+		birth_date = 1398.6.16
+		dynasty = "Proteuon"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 3000
+	add_treasury = 8
+	add_prestige = 69
+}

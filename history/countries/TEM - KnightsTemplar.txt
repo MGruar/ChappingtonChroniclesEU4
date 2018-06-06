@@ -1,0 +1,25 @@
+# Knights Templar
+government = monastic_order_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cosmopolitan_french
+religion = cathar
+clear_scripted_personalities = yes
+capital = 475
+1440.10.21 = {
+	monarch = {
+		name = "Murdoch"
+		birth_date = 1394.4.12
+		dynasty = "Mac Amlaigh"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 475
+	add_treasury = 400
+	add_prestige = 378
+}

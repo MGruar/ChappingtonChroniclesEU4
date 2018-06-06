@@ -1,0 +1,248 @@
+# Northmuir
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 6 42 127 }
+historical_idea_groups = {
+	aristocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Loarn" "Fergus" "Domangart" "Comgall" "Gabrán" "Conall" "Áedán" "Connad" "Eochaid" "Domnall" 
+	"Ferchar" "Dúnchad" "Máel-Dúin" "Ainbcellach" "Fiannamail" "Béc" "Selbach" "Dúngal" "Muiredach" "Alpín" 
+	"Eógan" "Indrechtach" "Diarmait" "Áed" "Flaithbertach" "Michael" "Allan" "Achiuir" "Canan" "Auust" 
+	"Girom" "Iuan" "Uudrost" "Uuen" "Seonaid" "Conmacc" "Cairbre" "Iestan" "Gormacán" "Ardgar" 
+	"Ailbrenn" "Faílenn" "Felic" "Mór" "Dianaim" "Caissín" "Gunhilda" "Cenræd" "Paul" "Maisie" 
+	"Eadhild" "Sweeny" "Murray" "Walter" "Frang" "Bruatur" "Conchenn" "Dubgenn" "Fogartach" "Mor" 
+	"Cian" "Adam" "Alpin" "Alan" "Alastair" "Alexander" "Andrew" "Angus" "Archibald" "Arthur" 
+	"Arran" "Aulay" "Beathan" "Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Colin" 
+	"Conan" "Constantine" "David" "Dermid" "Donald" "Douglas" "Duff" "Dugald" "Duncan" "Edgar" 
+	"Edward" "Edwin" "Eric" "Evander" "Ewan" "Farquhar" "Fingal" "Findlay" "Gavin" "Gilbert" 
+	"Gilbride" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" 
+	"Hector" "Henry" "Hugh" "Iain" "Indulf" "James" "John" "Kenneth" "Kentigern" "Lachlan" 
+	"Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" "Malmure" 
+	"Maoilios" "Marcas" "Matad" "Matthew" "Morgan" "Muir" "Mungo" "Murdoch" "Neil" "Ninian" 
+	"Oscar" "Patrick" "Peter" "Philip" "Radulf" "Ranald" "Richard" "Robert" "Roderick" "Ronald" 
+	"Rory" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Tadhg" "Talore" "Thomas" 
+	"Torquil" "Uhtred" "Uisdean" "Walan" "Waldeve" "William" }
+monarch_names = {
+	"Loarn #1" = 0
+	"Fergus #1" = 0
+	"Domangart #2" = 0
+	"Comgall #1" = 0
+	"Gabrán #1" = 0
+	"Conall #2" = 0
+	"Áedán #2" = 0
+	"Connad #1" = 0
+	"Eochaid #3" = 0
+	"Domnall #2" = 0
+	"Ferchar #2" = 0
+	"Dúnchad #2" = 0
+	"Máel-Dúin #2" = 0
+	"Ainbcellach #1" = 0
+	"Fiannamail #1" = 0
+	"Béc #1" = 0
+	"Selbach #1" = 0
+	"Dúngal #1" = 0
+	"Muiredach #1" = 0
+	"Alpín #1" = 0
+	"Eógan #1" = 0
+	"Indrechtach #1" = 0
+	"Diarmait #1" = 0
+	"Áed #1" = 0
+	"Flaithbertach #1" = 0
+	"Michael #2" = 0
+	"Allan #1" = 0
+	"Achiuir #1" = 0
+	"Canan #1" = 0
+	"Auust #1" = 0
+	"Girom #1" = 0
+	"Iuan #1" = 0
+	"Uudrost #1" = 0
+	"Uuen #1" = 0
+	"Seonaid #1" = -1
+	"Conmacc #2" = 0
+	"Cairbre #1" = 0
+	"Iestan #1" = 0
+	"Gormacán #1" = 0
+	"Ardgar #1" = 0
+	"Ailbrenn #1" = 0
+	"Faílenn #2" = -1
+	"Felic #1" = 0
+	"Mór #1" = -1
+	"Dianaim #1" = -1
+	"Caissín #1" = 0
+	"Gunhilda #1" = -1
+	"Cenræd #1" = 0
+	"Paul #1" = 0
+	"Maisie #1" = -1
+	"Eadhild #1" = -1
+	"Sweeny #1" = 0
+	"Murray #1" = 0
+	"Walter #1" = 0
+	"Frang #1" = 0
+	"Bruatur #1" = 0
+	"Conchenn #1" = 0
+	"Dubgenn #1" = 0
+	"Fogartach #1" = 0
+	"Mor #1" = -1
+	"Cian #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conan #0" = 0
+	"Constantine #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

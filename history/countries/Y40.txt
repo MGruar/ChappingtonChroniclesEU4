@@ -1,0 +1,23 @@
+# Nubia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = amhara
+religion = monophysite
+capital = 4316
+1442.3.21 = {
+	monarch = {
+		name = "Gabra"
+		birth_date = 1436.6.27
+		dynasty = "Teka"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 4316
+	add_treasury = 0
+	add_prestige = 61
+}

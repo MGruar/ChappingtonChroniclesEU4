@@ -1,0 +1,26 @@
+# Nabataea
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4270
+1429.7.17 = {
+	monarch = {
+		name = "Apollonios"
+		birth_date = 1407.12.3
+		dynasty = "Triphyllios"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 4270
+	add_treasury = 21
+	add_prestige = 64
+}

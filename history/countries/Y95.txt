@@ -1,0 +1,36 @@
+# Aqtöbe
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+capital = 476
+1443.12.13 = {
+	monarch = {
+		name = "Khubilai"
+		birth_date = 1368.8.20
+		dynasty = "Aqtöbe"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = malevolent_personality
+	heir = {
+		name = "Khubilai"
+		monarch_name = "Khubilai II"
+		dynasty = "Aqtöbe"
+		birth_date = 1415.6.8
+		death_date = 1495.6.8
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 476
+	add_treasury = 2
+	add_prestige = 121
+}

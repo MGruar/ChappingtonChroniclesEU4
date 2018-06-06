@@ -1,0 +1,26 @@
+# Bavaria
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 285
+1396.12.12 = {
+	monarch = {
+		name = "Polykarpos"
+		birth_date = 1390.6.5
+		dynasty = "Koresses"
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 285
+	add_treasury = 19
+	add_prestige = 504
+}

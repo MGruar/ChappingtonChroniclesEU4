@@ -1,0 +1,39 @@
+# Arabia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = amhara
+religion = monophysite
+clear_scripted_personalities = yes
+capital = 393
+1429.6.13 = {
+	monarch = {
+		name = "Hagos II"
+		birth_date = 1423.4.13
+		dynasty = "Bworo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1443.8.15 = {
+	heir = {
+		name = "Semere"
+		monarch_name = "Semere II"
+		dynasty = "Bworo"
+		birth_date = 1443.8.15
+		death_date = 1523.8.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 393
+	add_treasury = 30
+	add_prestige = 408
+}

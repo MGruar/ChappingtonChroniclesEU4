@@ -1,0 +1,25 @@
+# Hijaz
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = amhara
+religion = monophysite
+clear_scripted_personalities = yes
+capital = 2329
+1439.9.20 = {
+	monarch = {
+		name = "Loua"
+		birth_date = 1412.2.4
+		dynasty = "Destid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2329
+	add_treasury = 54
+	add_prestige = 147
+}

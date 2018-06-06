@@ -1,0 +1,25 @@
+# Portucale
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = cathar
+clear_scripted_personalities = yes
+capital = 231
+1435.1.27 = {
+	monarch = {
+		name = "Angelbert II"
+		birth_date = 1424.10.25
+		dynasty = "Chappington"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 231
+	add_treasury = 8
+	add_prestige = 1672
+}

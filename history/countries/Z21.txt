@@ -1,0 +1,26 @@
+# York
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = cathar
+clear_scripted_personalities = yes
+capital = 237
+1411.7.19 = {
+	monarch = {
+		name = "Fingal"
+		birth_date = 1398.7.13
+		dynasty = "de Derby"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	add_ruler_personality = babbling_buffoon_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 237
+	add_treasury = 56
+	add_prestige = 476
+}

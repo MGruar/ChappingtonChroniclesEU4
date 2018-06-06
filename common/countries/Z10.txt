@@ -1,0 +1,237 @@
+# Lowland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 245 100 20 }
+historical_idea_groups = {
+	trade_ideas
+	exploration_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Gregor" "Malmure" "Morcar" "Gilbert" "Marcas" "Neil" "Agnes" "Derilla" "Mungo" "Morgan" 
+	"Maura" "Murron" "David" "Ela" "John" "Gormelia" "Mary" "Forflissa" "Somerled" "Lennon" 
+	"Ulfcytel" "Edna" "Ninian" "Edgar" "Torquil" "Oscar" "Innes" "Malise" "Effie" "Rory" 
+	"Gilpatrick" "Orabilia" "Waldeve" "Martha" "Nuala" "Eleanor" "Alice" "Sorcha" "Tziporah" "Cynegyth" 
+	"Brian" "Aldgisl" "Radboud" "Poppo" "Gundebold" "Ingomer" "Willem" "Simon" "Burgflæd" "Cuthburg" 
+	"Balderik" "Sebastiaen" "Aliken" "Berengar" "Richara" "Gunzelin" "Mathilde" "Mojmír" "Bozena" "Barsbek" 
+	"Ado" "Jacques" "Michael" "Alexander" "Paul" "Maisie" "Matthew" "Archibald" "Murray" "Morag" 
+	"Duff" "Alpin" "Sheena" "Péronelle" "Adam" "Alan" "Alastair" "Andrew" "Angus" "Arthur" 
+	"Arran" "Aulay" "Beathan" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Colin" "Conall" 
+	"Conan" "Constantine" "Dermid" "Donald" "Douglas" "Dugald" "Duncan" "Edward" "Edwin" "Eric" 
+	"Evander" "Ewan" "Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbride" "Gilchrist" 
+	"Gillespie" "Gilroy" "Giric" "Glenn" "Godfrey" "Hamish" "Hector" "Henry" "Hugh" "Iain" 
+	"Indulf" "James" "Kenneth" "Kentigern" "Lachlan" "Laurence" "Lulach" "Macbeth" "Magnus" "Malcolm" 
+	"Maldoven" "Maldred" "Maoilios" "Matad" "Muir" "Murdoch" "Patrick" "Peter" "Philip" "Radulf" 
+	"Ranald" "Richard" "Robert" "Roderick" "Ronald" "Ross" "Roy" "Shaw" "Stephan" "Sweeny" 
+	"Tadhg" "Talore" "Thomas" "Uhtred" "Uisdean" "Walan" "Walter" "William" }
+monarch_names = {
+	"Gregor #0" = 1
+	"Malmure #0" = 1
+	"Morcar #0" = 1
+	"Gilbert #1" = 18
+	"Marcas #1" = 27
+	"Neil #0" = 1
+	"Agnes #0" = -1
+	"Derilla #0" = -1
+	"Mungo #0" = 1
+	"Morgan #0" = 1
+	"Maura #0" = -1
+	"Murron #0" = -1
+	"David #0" = 1
+	"Ela #0" = -1
+	"John #0" = 1
+	"Gormelia #0" = -1
+	"Mary #0" = -1
+	"Forflissa #0" = -1
+	"Somerled #1" = 18
+	"Lennon #0" = 1
+	"Ulfcytel #0" = 1
+	"Edna #0" = -1
+	"Ninian #0" = 1
+	"Edgar #1" = 21
+	"Torquil #0" = 1
+	"Oscar #1" = 21
+	"Innes #0" = -1
+	"Malise #1" = 21
+	"Effie #0" = -1
+	"Rory #0" = 1
+	"Gilpatrick #0" = 1
+	"Orabilia #0" = -1
+	"Waldeve #0" = 1
+	"Martha #0" = -1
+	"Nuala #0" = -1
+	"Eleanor #0" = -1
+	"Alice #0" = -1
+	"Sorcha #0" = -1
+	"Tziporah #0" = -1
+	"Cynegyth #0" = -1
+	"Brian #0" = 1
+	"Aldgisl #2" = 0
+	"Radboud #2" = 0
+	"Poppo #1" = 0
+	"Gundebold #1" = 0
+	"Ingomer #1" = 0
+	"Willem #1" = 0
+	"Simon #1" = 0
+	"Burgflæd #1" = -1
+	"Cuthburg #1" = -1
+	"Balderik #1" = 0
+	"Sebastiaen #2" = 0
+	"Aliken #1" = -1
+	"Berengar #1" = 0
+	"Richara #1" = -1
+	"Gunzelin #2" = 0
+	"Mathilde #1" = -1
+	"Mojmír #1" = 0
+	"Bozena #1" = -1
+	"Barsbek #1" = 0
+	"Ado #1" = 0
+	"Jacques #1" = 0
+	"Michael #4" = 0
+	"Alexander #3" = 0
+	"Paul #1" = 0
+	"Maisie #1" = -1
+	"Matthew #1" = 0
+	"Archibald #1" = 0
+	"Murray #1" = 0
+	"Morag #1" = -1
+	"Duff #1" = 0
+	"Alpin #1" = 0
+	"Sheena #1" = -1
+	"Péronelle #1" = -1
+	"Adam #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"Constantine #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Maoilios #0" = 0
+	"Matad #0" = 0
+	"Muir #0" = 0
+	"Murdoch #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Adelaar Ajax Alkmaar Amelia Amsterdam Atalanta
+	Bantam Batavia Beschermer Brederode Brouwer Brutus
+	Campen Cerberus Comeestar
+	Daphne Delfland Delft "Den Swarten Raven" Delphin Deventer Duyfken
+	Eendracht Eenhorn Embuscade Engel Erasmus
+	Gaesterland "Gekroende Liefde" Gelijkheid Gouda "Gouden Arend" "Gouden Leeuw" "Groot Frisia" "Groote Sint Joris" "Grote Zon"
+	Haarlem Heldin Hercules "De Halve Maen" Hollandia "Hollandsche Tuyn" "Huis te Oosterwijk" "Huis te Zwieten" "Huys van Nassau"
+	"Jong Prins te Paard" Jupiter "Kleine Zon"
+	"Kleene Sint Joris" Komeeetster "Kronede Arend"
+	Leyden "Liefde van Hoorn"
+	"Maagd van Dordrecht" Mars Mauritius Middelburg Minerva Moon Monnikendam Muiderberg
+	Nassau "Nieuw Vlissingen" 
+	Olifant Onrust Ooievaar Oranje
+	Patientia Posthorn "Prins Friso" "Prins Willem" 
+	Rotterdam Rozendaal
+	Schakerloo Schermer Spiegel Staten-Generaal Statenlande Ster "St. Iago de Victoria" "St. Marten" "St. Matthuis"
+	Tholen Tyger 
+	"Vereenigde Provincieën" Vlissingen Vrede Vrijheid
+	Waakzaamheid "Walcheren" "Wapen van Holland" "Wapen van Medenblik" Wassenaar Winhond "Witte Leeuw" Woerden Zeerijp
+	"Zeven Provincien" Zierikzee Zon Zuidholland "Zwarte Leeuw" 
+}
+

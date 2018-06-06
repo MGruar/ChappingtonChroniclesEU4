@@ -1,0 +1,26 @@
+# Kamarupanagara
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 562
+1426.11.17 = {
+	monarch = {
+		name = "Khsetravridha II"
+		birth_date = 1420.6.25
+		dynasty = "Balabhatid"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 562
+	add_treasury = 33
+	add_prestige = 234
+}

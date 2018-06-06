@@ -1,0 +1,195 @@
+# Chud
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 131 146 86 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Shindyay" "Malyaka" "Meltsayka" "Mazava" "Deryab" "Pekshayka" "Tyushtya" "Serzhay" "Mstislav" "Naruchad" 
+	"Murunza" "Pivtsay" "Chindyayka" "Kezhapa" "Atyamas" "Slyugan'ka" "Yalgava" "Tutyra" "Mordvinko" "Yavantey" 
+	"Kanyuva" "Virtyava" "Agafya" "Orunza" "Sinyava" "Nishkepaz" "Sofia" "Kubrat" "Kichay" "Uchva" 
+	"Chinzhay" "Tyueykezhut" "Sochava" "Kirdyava" "Utyayka" "Kezhay" "Tyushten" "Shurkka" "Syrka" "Toyaksha" 
+	"Syryava" "Valdava" "Poshayka" "Kezhedey" "Tikshayka" "Vechkas" "Olota" "Nyal'ka" "Shoksha" "Tekay" 
+	"Nezayka" "Nuyanza" "Velmayka" "Sernyava" "Kinyak" "Puresh" "Vergava" "Malyy" "Litova" "Parava" 
+	"Kezhevat" "Nuyat" "Azyren" "Setyamka" "Kanyava" "Aimo" "Rodislav" "Kardaz" "Nalka" "Irene" 
+	"Jurva" "Satajalka" "Pekko" "Kauro" "Susi" "Valteri" "Andyamo" "Ögedei" "Alp" "Araslan" 
+	"Bagha" "Baghatur" "Bälgiçi" "Barjik" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" 
+	"Bulan" "Bulçan" "Busir" "Buzer" "Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" 
+	"Kamaj" "Karadakh" "Kayghalagh" "Khatir" "Khuterkin" "Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" 
+	"Mänäs" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" "Sartäç" "Simsam" "Täbär" "Tabghaç" "Tarkhan" 
+	"Tarmaç" "Tuzniq" "Vakrim" "Yabghu" "Yençepi" "Yerneslu" "Yeçtirek" "Yilig" }
+monarch_names = {
+	"Shindyay #1" = 21
+	"Malyaka #0" = 1
+	"Meltsayka #1" = 30
+	"Mazava #0" = -1
+	"Deryab #0" = 1
+	"Pekshayka #1" = -22
+	"Tyushtya #0" = 1
+	"Serzhay #0" = -1
+	"Mstislav #0" = 1
+	"Naruchad #0" = 1
+	"Murunza #0" = 1
+	"Pivtsay #0" = 1
+	"Chindyayka #0" = -1
+	"Kezhapa #2" = 21
+	"Atyamas #0" = 1
+	"Slyugan'ka #0" = -1
+	"Yalgava #2" = -22
+	"Tutyra #3" = 18
+	"Mordvinko #0" = 1
+	"Yavantey #0" = 1
+	"Kanyuva #0" = -1
+	"Virtyava #0" = -1
+	"Agafya #0" = -1
+	"Orunza #1" = 21
+	"Sinyava #0" = -1
+	"Nishkepaz #2" = 24
+	"Sofia #0" = -1
+	"Kubrat #0" = 1
+	"Kichay #0" = 1
+	"Uchva #2" = 24
+	"Chinzhay #0" = -1
+	"Tyueykezhut #0" = 1
+	"Sochava #0" = -1
+	"Kirdyava #0" = -1
+	"Utyayka #0" = -1
+	"Kezhay #1" = 18
+	"Tyushten #1" = 18
+	"Shurkka #0" = -1
+	"Syrka #0" = 1
+	"Toyaksha #0" = -1
+	"Syryava #0" = -1
+	"Valdava #1" = -22
+	"Poshayka #0" = -1
+	"Kezhedey #0" = 1
+	"Tikshayka #0" = -1
+	"Vechkas #0" = 1
+	"Olota #0" = -1
+	"Nyal'ka #0" = -1
+	"Shoksha #0" = 1
+	"Tekay #0" = -1
+	"Nezayka #0" = -1
+	"Nuyanza #0" = 1
+	"Velmayka #1" = 18
+	"Sernyava #0" = -1
+	"Kinyak #0" = 1
+	"Puresh #0" = 1
+	"Vergava #0" = -1
+	"Malyy #0" = 1
+	"Litova #0" = -1
+	"Parava #1" = -22
+	"Kezhevat #0" = 1
+	"Nuyat #1" = 18
+	"Azyren #1" = 18
+	"Setyamka #0" = 1
+	"Kanyava #0" = -1
+	"Aimo #1" = 0
+	"Rodislav #1" = 0
+	"Kardaz #2" = 0
+	"Nalka #1" = 0
+	"Irene #1" = -1
+	"Jurva #1" = 0
+	"Satajalka #1" = 0
+	"Pekko #1" = 0
+	"Kauro #1" = 0
+	"Susi #1" = 0
+	"Valteri #2" = 0
+	"Andyamo #1" = 0
+	"Ögedei #1" = 0
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Bälgiçi #0" = 0
+	"Barjik #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Bulçan #0" = 0
+	"Busir #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

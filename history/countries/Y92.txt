@@ -1,0 +1,26 @@
+# Kumul
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tocharian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2123
+1424.7.10 = {
+	monarch = {
+		name = "Donyö"
+		birth_date = 1418.9.27
+		dynasty = "Virabahu"
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 2123
+	add_treasury = 31
+	add_prestige = 105
+}

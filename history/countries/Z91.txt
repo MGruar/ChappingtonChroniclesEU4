@@ -1,0 +1,37 @@
+# Sardegna e Corsica
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2986
+1425.1.18 = {
+	monarch = {
+		name = "Fausto II"
+		birth_date = 1391.6.19
+		dynasty = "di Posada"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Fausto"
+		monarch_name = "Fausto III"
+		dynasty = "di Posada"
+		birth_date = 1415.5.24
+		death_date = 1495.5.24
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 2986
+	add_treasury = 35
+	add_prestige = 270
+}

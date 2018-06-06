@@ -1,0 +1,26 @@
+# Serbija
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 50
+1436.1.23 = {
+	monarch = {
+		name = "Branislava"
+		birth_date = 1434.8.26
+		dynasty = "Jastrzebiec"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 50
+	add_treasury = 16
+	add_prestige = 67
+}

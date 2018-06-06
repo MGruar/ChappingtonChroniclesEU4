@@ -1,0 +1,169 @@
+# Hijaz
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 150 249 43 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Desta" "Tessema" "Amare" "Merille" "Ezana" "Sisay" "Retta" "Loua" "Jinxian" "Hakym" 
+	"Jazarah" "Lebna" "Atoberhan" "Mengesha" "Yonas" "Genat" "Gebereal" "Abrihet" "Hagos" "Shinasha" 
+	"Melesse" "Zula" "Kaleb" "Aman" "Zala" "Alaworld" "Berihun" "Afework" "Daniachew" "Louama" 
+	"Abdul-Gafur" "Abdul-Jaleel" "Husam" "Aghlab" "Fadil" "Aghecher" "Shaiban" "Abdul-Qadir" "Sulayman" "Shamir" 
+	"Azam" "Sadiq" "Teka" "Fethee" "Rahad" "Kifle" "Dahnay" "Jima" "Adanech" "Gabra" 
+	"Melaku" "Semer" "Lema" "Uways" "Benaim" "Negasi" "Teruworq" "Tekle" "Berhanu" "Tewodros" 
+	"Zauditu" "Ogbae" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" "Abebe" "Assefa" "Azmera" 
+	"Bekele" "Berhanua" "Berta" "Bworo" "Dawit" "Demissie" "Eremias" "Fasilidas" "Gebre" "Gondar" 
+	"Hackeem" "Haeran" "Hakeem" "Hakiem" "Hakim" "Iskander" "Iyasu" "Kafa" "Kelile" "Kelyle" 
+	"Mamo" "Mekonnen" "Miruts" "Negash" "Negus" "Ogbai" "Oromo" "Selassie" "Semere" "Tamirat" 
+	"Tariku" "Taye" "Tefere" "Teferi" "Tengene" "Tesfaye" "Yacob" "Yohannas" }
+monarch_names = {
+	"Desta #0" = 1
+	"Tessema #0" = 1
+	"Amare #0" = 1
+	"Merille #0" = 1
+	"Ezana #1" = 21
+	"Sisay #0" = 1
+	"Retta #0" = -1
+	"Loua #1" = 21
+	"Jinxian #0" = -1
+	"Hakym #1" = 18
+	"Jazarah #0" = -1
+	"Lebna #1" = 18
+	"Atoberhan #0" = 1
+	"Mengesha #1" = 18
+	"Yonas #0" = 1
+	"Genat #0" = -1
+	"Gebereal #0" = 1
+	"Abrihet #0" = -1
+	"Hagos #0" = 1
+	"Shinasha #0" = -1
+	"Melesse #0" = -1
+	"Zula #0" = 1
+	"Kaleb #2" = 18
+	"Aman #0" = 1
+	"Zala #0" = -1
+	"Alaworld #0" = -1
+	"Berihun #0" = 1
+	"Afework #2" = 18
+	"Daniachew #0" = 1
+	"Louama #0" = -1
+	"Abdul-Gafur #2" = 0
+	"Abdul-Jaleel #1" = 0
+	"Husam #1" = 0
+	"Aghlab #1" = 0
+	"Fadil #1" = 0
+	"Aghecher #1" = 0
+	"Shaiban #1" = 0
+	"Abdul-Qadir #1" = 0
+	"Sulayman #1" = 0
+	"Shamir #1" = 0
+	"Azam #1" = 0
+	"Sadiq #1" = 0
+	"Teka #1" = 0
+	"Fethee #1" = 0
+	"Rahad #1" = 0
+	"Kifle #1" = -1
+	"Dahnay #1" = 0
+	"Jima #1" = 0
+	"Adanech #1" = -1
+	"Gabra #1" = 0
+	"Melaku #1" = 0
+	"Semer #1" = 0
+	"Lema #1" = 0
+	"Uways #1" = 0
+	"Benaim #1" = 0
+	"Negasi #1" = 0
+	"Teruworq #1" = 0
+	"Tekle #1" = 0
+	"Berhanu #1" = 0
+	"Tewodros #1" = 0
+	"Zauditu #1" = -1
+	"Ogbae #1" = 0
+	"Getachew #0" = 0
+	"Geteye #0" = 0
+	"Girma #0" = 0
+	"Iskinder #0" = 0
+	"Abai #0" = 0
+	"Abebe #0" = 0
+	"Assefa #0" = 0
+	"Azmera #0" = 0
+	"Bekele #0" = 0
+	"Berhanua #0" = 0
+	"Berta #0" = 0
+	"Bworo #0" = 0
+	"Dawit #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Fasilidas #0" = 0
+	"Gebre #0" = 0
+	"Gondar #0" = 0
+	"Hackeem #0" = 0
+	"Haeran #0" = 0
+	"Hakeem #0" = 0
+	"Hakiem #0" = 0
+	"Hakim #0" = 0
+	"Iskander #0" = 0
+	"Iyasu #0" = 0
+	"Kafa #0" = 0
+	"Kelile #0" = 0
+	"Kelyle #0" = 0
+	"Mamo #0" = 0
+	"Mekonnen #0" = 0
+	"Miruts #0" = 0
+	"Negash #0" = 0
+	"Negus #0" = 0
+	"Ogbai #0" = 0
+	"Oromo #0" = 0
+	"Selassie #0" = 0
+	"Semere #0" = 0
+	"Tamirat #0" = 0
+	"Tariku #0" = 0
+	"Taye #0" = 0
+	"Tefere #0" = 0
+	"Teferi #0" = 0
+	"Tengene #0" = 0
+	"Tesfaye #0" = 0
+	"Yacob #0" = 0
+	"Yohannas #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

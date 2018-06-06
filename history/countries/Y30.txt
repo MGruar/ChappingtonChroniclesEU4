@@ -1,0 +1,36 @@
+# Bhirrid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4264
+1437.5.29 = {
+	monarch = {
+		name = "Subetei"
+		birth_date = 1406.3.3
+		dynasty = "Bhirrid"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Bughu"
+		monarch_name = "Bughu"
+		dynasty = "Bhirrid"
+		birth_date = 1426.3.16
+		death_date = 1506.3.16
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 4264
+	add_treasury = 12
+	add_prestige = 134
+}

@@ -1,0 +1,37 @@
+# Eskanderid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 428
+1435.3.19 = {
+	monarch = {
+		name = "Shahab"
+		birth_date = 1422.6.13
+		dynasty = "Eskanderid"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = drunkard_personality
+}
+1441.7.12 = {
+	heir = {
+		name = "Shahab"
+		monarch_name = "Shahab II"
+		dynasty = "Eskanderid"
+		birth_date = 1441.7.12
+		death_date = 1521.7.12
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 428
+	add_treasury = 0
+	add_prestige = 51
+}

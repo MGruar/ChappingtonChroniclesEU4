@@ -1,0 +1,25 @@
+# Iceland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = cathar
+clear_scripted_personalities = yes
+capital = 370
+1442.10.27 = {
+	monarch = {
+		name = "Ronald II"
+		birth_date = 1413.3.18
+		dynasty = "Bese"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 370
+	add_treasury = 4
+	add_prestige = 82
+}

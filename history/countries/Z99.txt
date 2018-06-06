@@ -1,0 +1,39 @@
+# Mikrá Asía
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 323
+1405.7.14 = {
+	monarch = {
+		name = "Anthemios II"
+		birth_date = 1403.6.4
+		dynasty = "de Vasconia"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = craven_personality
+}
+1430.4.17 = {
+	heir = {
+		name = "Polykarpos"
+		monarch_name = "Polykarpos III"
+		dynasty = "de Vasconia"
+		birth_date = 1430.4.17
+		death_date = 1510.4.17
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 323
+	add_treasury = 29
+	add_prestige = 936
+}

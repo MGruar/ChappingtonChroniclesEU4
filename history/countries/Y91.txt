@@ -1,0 +1,23 @@
+# Su-lig
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = khitan
+religion = confucianism
+capital = 4207
+1437.12.13 = {
+	monarch = {
+		name = "Purandelapala II"
+		birth_date = 1437.8.12
+		dynasty = "Virabahu"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4207
+	add_treasury = 55
+	add_prestige = 52
+}

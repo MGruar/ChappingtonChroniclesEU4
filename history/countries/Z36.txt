@@ -1,0 +1,26 @@
+# East Anglia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1860
+1398.1.2 = {
+	monarch = {
+		name = "Richard"
+		birth_date = 1362.7.13
+		dynasty = "de Derby"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 1860
+	add_treasury = 393
+	add_prestige = 748
+}

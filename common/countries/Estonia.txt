@@ -1,0 +1,323 @@
+# Estonia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 150 75 75 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Vihavald" "Alo" "Asko" "Moksha" "Kardaz" "Virdyan" "Kunava" "Lagle" "Tikshayka" "Gunduz" 
+	"Mänär" "Lärkka" "Tul" "Poshayka" "Yeçtirek" "Shukshtoroyka" "Busir" "Baghatur" "Agul" "Virtyava" 
+	"Tetyava" "Chipaz" "Këlyamal" "Ayasun" "Tylmache" "Vandemeel" "Leetõiv" "Otelemb" "Ilme" "Tuul" 
+	"Urmas" "Aimo" "Tõll" "Varjelemb" "Sulev" "Atko" "Kaili" "Ihatõiv" "Sutepelg" "Aotõiv" 
+	"Ihalemb" "Mari" "Helbe" "Talvi" "Kaljuvald" "Kudres" "Lempi" "Salme" "Urho" "Aune" 
+	"Are" "Vello" "Tohmas" "Kristiina" "Elisabet" "Lill" "Ilona" "Tuuli" "Metta" "Valteri" 
+	"Loviisa" "Helmi" "Hertta" "Susi" "Ahma" "Inkeri" "Havu" "Chindyayka" "Syryava" "Valta" 
+	"Azra-Va" "Satajalka" "Megurka" "Henri" "Lalli" "Chenksa" "Surt" "Otso" "Azyren" "Kolli" 
+	"Terhi" "Sisko" "Saksa" "Erkki" "Vezhav" "Käpy" "Toivo" "Ravzhava" "Tyyni" "Uoti" 
+	"Kalevi" "Tapani" "Tuure" "Tuulitar" "Umay" "Kielo" "Mesi" "Nulzyava" "Usunbike" "Irge" 
+	"Terho" "Litava" "Rauha" "Maija" "Malyy" "Mahla" "Nyal'ka" "Paksyay" "Tyueykezhut" "Kichay" 
+	"Sirma" "Nalka" "Uchva" "Çat'n" "Noroava" "Çeçeppi" "Kundaçiq" "Tyushtya" "Purysho" "Kaupo" 
+	"Ahti" "Raho" "Ahas" "Tutkas" "Meigo" "Stanislav" "Putiata" "Trifon" "Ilvelemb" "Elmar" 
+	"Ilmar" "Eeri" "Hurmetõiv" "Karatas" "Kornel" "Volodar" "Gunvald" "Kaomeel" "Neeme" "Vilitõiv" 
+	"Niglas" "Aare" "Tõeleid" "Duncan" "Alastair" "Raak" "Pihl" "Aulemb" "Archibald" "Vakrim" 
+	"Aho" "Ahvo" "Alar" "Alur" "Aopelg" "Arp" "Arvet" "Arvo" "Aul" "Hain" 
+	"Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" "Igalemb" 
+	"Igapäiv" "Ihameel" "Ihar" "Ihavald" "Illimar" "Ilmalemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" 
+	"Kahar" "Kahru" "Kahrulemb" "Kahus" "Kaido" "Kalev" "Kalju" "Kalle" "Karuvald" "Kaugemeel" 
+	"Kaur" "Kiur" "Kiurupelg" "Koit" "Kosk" "Küllelemb" "Lembit" "Leppetõiv" "Lible" "Lättelemb" 
+	"Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Ohetõiv" "Ohevald" "Olev" 
+	"Onni" "Ott" "Piho" "Pikne" "Päevalemb" "Pärt" "Rahuleid" "Sutemeel" "Tambet" "Tarva" 
+	"Tarvet" "Tasulemb" "Toom" "Tunne" "Tõiv" "Tõivulemb" "Tõnn" "Uku" "Uru" "Valdur" 
+	"Vambola" "Veli" "Venno" "Vesse" "Vililemb" "Vilimeel" "Vilivald" "Vootele" "Väino" "Värvo" 
+	"Õigemeel" "Ülo" }
+monarch_names = {
+	"Vihavald #0" = 1
+	"Alo #0" = 1
+	"Asko #1" = 21
+	"Moksha #0" = 1
+	"Kardaz #0" = 1
+	"Virdyan #0" = 1
+	"Kunava #0" = -1
+	"Lagle #0" = -1
+	"Tikshayka #0" = 1
+	"Gunduz #0" = -1
+	"Mänär #0" = 1
+	"Lärkka #0" = -1
+	"Tul #0" = 1
+	"Poshayka #0" = -1
+	"Yeçtirek #0" = 1
+	"Shukshtoroyka #0" = -1
+	"Busir #0" = 1
+	"Baghatur #0" = 1
+	"Agul #0" = 1
+	"Virtyava #0" = -1
+	"Tetyava #0" = -1
+	"Chipaz #0" = 1
+	"Këlyamal #0" = -1
+	"Ayasun #0" = -1
+	"Tylmache #0" = 1
+	"Vandemeel #1" = 18
+	"Leetõiv #0" = 1
+	"Otelemb #0" = 1
+	"Ilme #0" = -1
+	"Tuul #0" = 1
+	"Urmas #0" = 1
+	"Aimo #0" = -1
+	"Tõll #0" = 1
+	"Varjelemb #0" = 1
+	"Sulev #0" = 1
+	"Atko #0" = 1
+	"Kaili #0" = -1
+	"Ihatõiv #0" = 1
+	"Sutepelg #1" = 18
+	"Aotõiv #0" = 1
+	"Ihalemb #0" = 1
+	"Mari #0" = -1
+	"Helbe #0" = -1
+	"Talvi #0" = -1
+	"Kaljuvald #0" = 1
+	"Kudres #0" = 1
+	"Lempi #0" = -1
+	"Salme #0" = -1
+	"Urho #0" = 1
+	"Aune #0" = -1
+	"Are #0" = -1
+	"Vello #0" = 1
+	"Tohmas #0" = 1
+	"Kristiina #0" = -1
+	"Elisabet #0" = -1
+	"Lill #0" = -1
+	"Ilona #0" = -1
+	"Tuuli #0" = -1
+	"Metta #0" = -1
+	"Valteri #0" = 1
+	"Loviisa #0" = -1
+	"Helmi #0" = -1
+	"Hertta #0" = -1
+	"Susi #0" = 1
+	"Ahma #0" = 1
+	"Inkeri #0" = -1
+	"Havu #0" = 1
+	"Chindyayka #0" = -1
+	"Syryava #0" = -1
+	"Valta #0" = 1
+	"Azra-Va #0" = -1
+	"Satajalka #0" = 1
+	"Megurka #0" = -1
+	"Henri #0" = 1
+	"Lalli #0" = 1
+	"Chenksa #0" = -1
+	"Surt #0" = 1
+	"Otso #0" = 1
+	"Azyren #0" = 1
+	"Kolli #0" = 1
+	"Terhi #0" = -1
+	"Sisko #0" = -1
+	"Saksa #0" = 1
+	"Erkki #0" = 1
+	"Vezhav #0" = -1
+	"Käpy #0" = -1
+	"Toivo #0" = 1
+	"Ravzhava #0" = -1
+	"Tyyni #0" = -1
+	"Uoti #0" = 1
+	"Kalevi #0" = 1
+	"Tapani #0" = 1
+	"Tuure #0" = 1
+	"Tuulitar #0" = -1
+	"Umay #0" = -1
+	"Kielo #0" = -1
+	"Mesi #0" = -1
+	"Nulzyava #0" = -1
+	"Usunbike #0" = -1
+	"Irge #0" = -1
+	"Terho #0" = 1
+	"Litava #0" = -1
+	"Rauha #0" = -1
+	"Maija #0" = -1
+	"Malyy #0" = 1
+	"Mahla #0" = -1
+	"Nyal'ka #0" = -1
+	"Paksyay #0" = 1
+	"Tyueykezhut #0" = 1
+	"Kichay #0" = 1
+	"Sirma #0" = -1
+	"Nalka #0" = 1
+	"Uchva #0" = 1
+	"Çat'n #0" = 1
+	"Noroava #0" = -1
+	"Çeçeppi #0" = -1
+	"Kundaçiq #0" = 1
+	"Tyushtya #0" = 1
+	"Purysho #0" = 1
+	"Kaupo #1" = 0
+	"Ahti #2" = 0
+	"Raho #1" = 0
+	"Ahas #1" = 0
+	"Tutkas #1" = 0
+	"Meigo #1" = 0
+	"Stanislav #2" = 0
+	"Putiata #1" = 0
+	"Trifon #1" = 0
+	"Ilvelemb #2" = 0
+	"Elmar #1" = 0
+	"Ilmar #1" = 0
+	"Eeri #2" = 0
+	"Hurmetõiv #2" = 0
+	"Karatas #1" = 0
+	"Kornel #1" = 0
+	"Volodar #1" = 0
+	"Gunvald #1" = 0
+	"Kaomeel #2" = 0
+	"Neeme #1" = 0
+	"Vilitõiv #1" = 0
+	"Niglas #1" = 0
+	"Aare #1" = 0
+	"Tõeleid #1" = 0
+	"Duncan #1" = 0
+	"Alastair #1" = 0
+	"Raak #1" = 0
+	"Pihl #1" = 0
+	"Aulemb #1" = 0
+	"Archibald #1" = 0
+	"Vakrim #1" = 0
+	"Aho #0" = 0
+	"Ahvo #0" = 0
+	"Alar #0" = 0
+	"Alur #0" = 0
+	"Aopelg #0" = 0
+	"Arp #0" = 0
+	"Arvet #0" = 0
+	"Arvo #0" = 0
+	"Aul #0" = 0
+	"Hain #0" = 0
+	"Haljas #0" = 0
+	"Heameel #0" = 0
+	"Heatõiv #0" = 0
+	"Hoovatõiv #0" = 0
+	"Hurmas #0" = 0
+	"Hõimulemb #0" = 0
+	"Hüvalemb #0" = 0
+	"Hüvameel #0" = 0
+	"Hüvatõiv #0" = 0
+	"Igalemb #0" = 0
+	"Igapäiv #0" = 0
+	"Ihameel #0" = 0
+	"Ihar #0" = 0
+	"Ihavald #0" = 0
+	"Illimar #0" = 0
+	"Ilmalemb #0" = 0
+	"Jaolemb #0" = 0
+	"Kaalep #0" = 0
+	"Kaarel #0" = 0
+	"Kaaren #0" = 0
+	"Kahar #0" = 0
+	"Kahru #0" = 0
+	"Kahrulemb #0" = 0
+	"Kahus #0" = 0
+	"Kaido #0" = 0
+	"Kalev #0" = 0
+	"Kalju #0" = 0
+	"Kalle #0" = 0
+	"Karuvald #0" = 0
+	"Kaugemeel #0" = 0
+	"Kaur #0" = 0
+	"Kiur #0" = 0
+	"Kiurupelg #0" = 0
+	"Koit #0" = 0
+	"Kosk #0" = 0
+	"Küllelemb #0" = 0
+	"Lembit #0" = 0
+	"Leppetõiv #0" = 0
+	"Lible #0" = 0
+	"Lättelemb #0" = 0
+	"Manivald #0" = 0
+	"Mart #0" = 0
+	"Maru #0" = 0
+	"Mati #0" = 0
+	"Mats #0" = 0
+	"Meelis #0" = 0
+	"Mehis #0" = 0
+	"Ohetõiv #0" = 0
+	"Ohevald #0" = 0
+	"Olev #0" = 0
+	"Onni #0" = 0
+	"Ott #0" = 0
+	"Piho #0" = 0
+	"Pikne #0" = 0
+	"Päevalemb #0" = 0
+	"Pärt #0" = 0
+	"Rahuleid #0" = 0
+	"Sutemeel #0" = 0
+	"Tambet #0" = 0
+	"Tarva #0" = 0
+	"Tarvet #0" = 0
+	"Tasulemb #0" = 0
+	"Toom #0" = 0
+	"Tunne #0" = 0
+	"Tõiv #0" = 0
+	"Tõivulemb #0" = 0
+	"Tõnn #0" = 0
+	"Uku #0" = 0
+	"Uru #0" = 0
+	"Valdur #0" = 0
+	"Vambola #0" = 0
+	"Veli #0" = 0
+	"Venno #0" = 0
+	"Vesse #0" = 0
+	"Vililemb #0" = 0
+	"Vilimeel #0" = 0
+	"Vilivald #0" = 0
+	"Vootele #0" = 0
+	"Väino #0" = 0
+	"Värvo #0" = 0
+	"Õigemeel #0" = 0
+	"Ülo #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

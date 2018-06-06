@@ -1,0 +1,38 @@
+# Chud
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+clear_scripted_personalities = yes
+capital = 314
+1430.3.25 = {
+	monarch = {
+		name = "Dergun"
+		birth_date = 1417.10.9
+		dynasty = "Tyushten"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
+}
+1438.12.19 = {
+	heir = {
+		name = "Andyamo"
+		monarch_name = "Andyamo"
+		dynasty = "Tyushten"
+		birth_date = 1438.12.19
+		death_date = 1518.12.19
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 314
+	add_treasury = 44
+	add_prestige = 25
+}

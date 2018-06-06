@@ -1,0 +1,26 @@
+# Andalus
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 221
+1429.9.19 = {
+	monarch = {
+		name = "Ross"
+		birth_date = 1394.12.12
+		dynasty = "a Scóine"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 221
+	add_treasury = 184
+	add_prestige = 439
+}

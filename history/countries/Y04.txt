@@ -1,0 +1,26 @@
+# Cibyrrhaeot
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2298
+1431.8.11 = {
+	monarch = {
+		name = "Nikolaos III"
+		birth_date = 1411.12.8
+		dynasty = "Nikoulitzes"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 2298
+	add_treasury = 99
+	add_prestige = 166
+}

@@ -1,0 +1,213 @@
+# Saxony
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 155 147 180 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Oscar" "Beathoc" "Richard" "Jeanne" "Ronald" "Effie" "Iona" "Brice" "Anna" "David" 
+	"Barabal" "Hector" "Catriona" "Forflissa" "Deirdre" "Marcas" "Frang" "Muriel" "Thomas" "Edwin" 
+	"Malise" "Maud" "Angus" "Cecilia" "Una" "Talore" "Ranald" "Kentigerna" "Duncan" "Beathan" 
+	"Patrick" "Colin" "Duff" "Theoderic" "Erp" "Baldewin" "Manfred" "Hardrad" "Hartwig" "Hugo" 
+	"Engelbert" "Agnes" "Gotthard" "Loup" "Mélisende" "Renaud" "Sanne" "Esclarmonde" "Gottschalk" "Babur" 
+	"Kresimir" "Kazimierz" "Werner" "Manegold" "Sheena" "Adam" "Alpin" "Alan" "Alastair" "Alexander" 
+	"Andrew" "Archibald" "Arthur" "Arran" "Aulay" "Brian" "Cailean" "Calum" "Carbrey" "Colban" 
+	"Conall" "Conan" "Constantine" "Dermid" "Donald" "Douglas" "Dugald" "Edgar" "Edward" "Eric" 
+	"Evander" "Ewan" "Farquhar" "Fergus" "Fingal" "Findlay" "Gavin" "Gilbert" "Gilbride" "Gilchrist" 
+	"Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" "Henry" "Hugh" 
+	"Iain" "Indulf" "James" "John" "Kenneth" "Kentigern" "Lachlan" "Laurence" "Lennon" "Lulach" 
+	"Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malmure" "Maoilios" "Matad" "Matthew" "Michael" 
+	"Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Ninian" "Paul" "Peter" "Philip" 
+	"Radulf" "Robert" "Roderick" "Rory" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" 
+	"Sweeny" "Tadhg" "Torquil" "Uhtred" "Uisdean" "Walan" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Oscar #2" = 24
+	"Beathoc #0" = -1
+	"Richard #2" = 24
+	"Jeanne #0" = -1
+	"Ronald #0" = 1
+	"Effie #0" = -1
+	"Iona #0" = -1
+	"Brice #0" = 1
+	"Anna #0" = -1
+	"David #0" = 1
+	"Barabal #0" = -1
+	"Hector #0" = 1
+	"Catriona #0" = -1
+	"Forflissa #0" = -1
+	"Deirdre #0" = -1
+	"Marcas #0" = 1
+	"Frang #0" = 1
+	"Muriel #0" = -1
+	"Thomas #0" = 1
+	"Edwin #0" = 1
+	"Malise #0" = 1
+	"Maud #0" = -1
+	"Angus #0" = 1
+	"Cecilia #0" = -1
+	"Una #0" = -1
+	"Talore #0" = 1
+	"Ranald #0" = 1
+	"Kentigerna #0" = -1
+	"Duncan #0" = 1
+	"Beathan #0" = 1
+	"Patrick #0" = 1
+	"Colin #0" = 1
+	"Duff #0" = 1
+	"Theoderic #1" = 0
+	"Erp #1" = 0
+	"Baldewin #1" = 0
+	"Manfred #1" = 0
+	"Hardrad #1" = 0
+	"Hartwig #2" = 0
+	"Hugo #1" = 0
+	"Engelbert #1" = 0
+	"Agnes #1" = -1
+	"Gotthard #1" = 0
+	"Loup #1" = 0
+	"Mélisende #1" = -1
+	"Renaud #1" = 0
+	"Sanne #1" = -1
+	"Esclarmonde #2" = -1
+	"Gottschalk #2" = 0
+	"Babur #2" = 0
+	"Kresimir #1" = 0
+	"Kazimierz #1" = 0
+	"Werner #1" = 0
+	"Manegold #1" = 0
+	"Sheena #1" = -1
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Brian #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"Constantine #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Dugald #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

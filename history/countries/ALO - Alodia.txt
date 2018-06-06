@@ -1,0 +1,25 @@
+# Alodia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = monophysite
+clear_scripted_personalities = yes
+capital = 1222
+1435.3.2 = {
+	monarch = {
+		name = "Tewodros"
+		birth_date = 1410.2.17
+		dynasty = "Bworo"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1222
+	add_treasury = 158
+	add_prestige = 390
+}

@@ -1,0 +1,26 @@
+# Jharkand
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 563
+1428.6.1 = {
+	monarch = {
+		name = "Laxman Sen"
+		birth_date = 1397.7.27
+		dynasty = " Damin-i-koh"
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 563
+	add_treasury = 64
+	add_prestige = 190
+}

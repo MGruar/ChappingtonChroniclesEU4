@@ -1,0 +1,26 @@
+# Kent
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = cathar
+clear_scripted_personalities = yes
+capital = 235
+1443.11.1 = {
+	monarch = {
+		name = "Gunhilda"
+		birth_date = 1423.2.26
+		dynasty = "de Faversham"
+		female = yes
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 235
+	add_treasury = 91
+	add_prestige = 12
+}

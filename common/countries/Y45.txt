@@ -1,0 +1,167 @@
+# Axum
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 186 135 70 }
+
+
+
+
+leader_names = {
+
+	"Abebe" "Mekonnen" "Zena" "Mengesha" "Gondar" "Louama" "Berhane" "Berta" "Sulayman" "Desse" 
+	"Ogbai" "Zenia" "Selassie" "Ayana" "Ogbae" "Kelile" "Tsage" "Kelyle" "Negasi" "Azmera" 
+	"Tessema" "Abeba" "Merille" "Fethee" "Senalat" "Magdala" "Mamo" "Yehudit" "Maharene" "Seble" 
+	"Zala" "Tariku" "Habesha" "Zula" "Bekele" "Bathsheba" "Falashina" "Teru" "Mandera" "Negus" 
+	"Fannah" "Dahnay" "Fana" "Aman" "Hackeem" "Iskinder" "Yonas" "Dilla" "Teka" "Debtera" 
+	"Kafa" "Abrihet" "Zauditu" "Jima" "Hakeem" "Semhar" "Berhanu" "Yohannas" "Cheren" "Berihun" 
+	"Melaku" "Alitash" "Debre" "Tavavich" "Girma" "Atoberhan" "Jazarah" "Gebereal" "Adina" "Nyala" 
+	"Retta" "China" "Makeda" "Berhanua" "Kayla" "Kifle" "Hakim" "Amare" "Dawit" "Totit" 
+	"Benaim" "Teferi" "Amhara" "Assefa" "Kess" "Taye" "Desta" "Jahzara" "Sisay" "Oromo" 
+	"Rahad" "Daniachew" "Hakiem" "Gebre" "Sela" "Degna Mikael" "Bahr Ikela" "Gum" "Asgwomgum" "Letem" 
+	"Talatem" "Oda Gosh" "Rema Armah" "Teruworq" "Baraka" "Kadhafo" "Husam" "Ezana" "Tesfaye" "Hagos" 
+	"Orna" "Petros" "Kurillos" "Tengene" "Lebna" "Miruts" "Afework" "Fasilidas" "Geteye" "Getachew" 
+	"Abai" "Bworo" "Demissie" "Eremias" "Gabra" "Haeran" "Hakym" "Iskander" "Iyasu" "Kaleb" 
+	"Lema" "Loua" "Negash" "Semer" "Semere" "Tamirat" "Tefere" "Tekle" "Tewodros" "Yacob" }
+monarch_names = {
+	"Abebe #1" = 18
+	"Mekonnen #0" = 1
+	"Zena #0" = -1
+	"Mengesha #1" = 21
+	"Gondar #0" = 1
+	"Louama #0" = -1
+	"Berhane #1" = -22
+	"Berta #0" = 1
+	"Sulayman #0" = 1
+	"Desse #0" = -1
+	"Ogbai #0" = 1
+	"Zenia #0" = -1
+	"Selassie #0" = 1
+	"Ayana #0" = -1
+	"Ogbae #0" = 1
+	"Kelile #0" = 1
+	"Tsage #0" = -1
+	"Kelyle #0" = -1
+	"Negasi #0" = 1
+	"Azmera #0" = 1
+	"Tessema #0" = 1
+	"Abeba #0" = -1
+	"Merille #0" = 1
+	"Fethee #0" = 1
+	"Senalat #1" = -19
+	"Magdala #0" = -1
+	"Mamo #0" = 1
+	"Yehudit #0" = -1
+	"Maharene #0" = -1
+	"Seble #0" = -1
+	"Zala #0" = -1
+	"Tariku #2" = 21
+	"Habesha #0" = -1
+	"Zula #1" = 21
+	"Bekele #1" = -28
+	"Bathsheba #1" = -25
+	"Falashina #0" = -1
+	"Teru #0" = -1
+	"Mandera #0" = -1
+	"Negus #0" = 1
+	"Fannah #0" = -1
+	"Dahnay #0" = 1
+	"Fana #0" = -1
+	"Aman #0" = 1
+	"Hackeem #0" = 1
+	"Iskinder #0" = 1
+	"Yonas #1" = 18
+	"Dilla #0" = -1
+	"Teka #1" = 21
+	"Debtera #0" = -1
+	"Kafa #0" = 1
+	"Abrihet #0" = -1
+	"Zauditu #0" = -1
+	"Jima #0" = 1
+	"Hakeem #0" = 1
+	"Semhar #0" = -1
+	"Berhanu #0" = 1
+	"Yohannas #1" = 24
+	"Cheren #0" = -1
+	"Berihun #0" = 1
+	"Melaku #1" = 21
+	"Alitash #0" = -1
+	"Debre #0" = -1
+	"Tavavich #0" = -1
+	"Girma #0" = 1
+	"Atoberhan #2" = 18
+	"Jazarah #0" = -1
+	"Gebereal #0" = 1
+	"Adina #0" = -1
+	"Nyala #0" = -1
+	"Retta #0" = -1
+	"China #0" = -1
+	"Makeda #0" = -1
+	"Berhanua #0" = 1
+	"Kayla #1" = -19
+	"Kifle #0" = -1
+	"Hakim #0" = 1
+	"Amare #0" = 1
+	"Dawit #0" = 1
+	"Totit #1" = -19
+	"Benaim #1" = 18
+	"Teferi #0" = 1
+	"Amhara #0" = -1
+	"Assefa #1" = 21
+	"Kess #1" = -19
+	"Taye #1" = 18
+	"Desta #0" = -1
+	"Jahzara #0" = -1
+	"Sisay #0" = -1
+	"Oromo #1" = 18
+	"Rahad #0" = 1
+	"Daniachew #0" = 1
+	"Hakiem #0" = 1
+	"Gebre #0" = 1
+	"Sela #0" = -1
+	"Degna Mikael #1" = 0
+	"Bahr Ikela #1" = 0
+	"Gum #1" = 0
+	"Asgwomgum #1" = 0
+	"Letem #1" = 0
+	"Talatem #1" = 0
+	"Oda Gosh #1" = 0
+	"Rema Armah #1" = 0
+	"Teruworq #1" = 0
+	"Baraka #1" = 0
+	"Kadhafo #1" = 0
+	"Husam #1" = 0
+	"Ezana #1" = 0
+	"Tesfaye #1" = 0
+	"Hagos #3" = 0
+	"Orna #1" = 0
+	"Petros #1" = 0
+	"Kurillos #1" = 0
+	"Tengene #3" = 0
+	"Lebna #1" = 0
+	"Miruts #2" = 0
+	"Afework #1" = 0
+	"Fasilidas #1" = 0
+	"Geteye #1" = 0
+	"Getachew #0" = 0
+	"Abai #0" = 0
+	"Bworo #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Gabra #0" = 0
+	"Haeran #0" = 0
+	"Hakym #0" = 0
+	"Iskander #0" = 0
+	"Iyasu #0" = 0
+	"Kaleb #0" = 0
+	"Lema #0" = 0
+	"Loua #0" = 0
+	"Negash #0" = 0
+	"Semer #0" = 0
+	"Semere #0" = 0
+	"Tamirat #0" = 0
+	"Tefere #0" = 0
+	"Tekle #0" = 0
+	"Tewodros #0" = 0
+	"Yacob #0" = 0
+}
+

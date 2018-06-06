@@ -1,0 +1,26 @@
+# Tver
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+clear_scripted_personalities = yes
+capital = 294
+1427.11.30 = {
+	monarch = {
+		name = "Yeçtirek"
+		birth_date = 1414.9.2
+		dynasty = "Ingrija"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 294
+	add_treasury = 46
+	add_prestige = 115
+}

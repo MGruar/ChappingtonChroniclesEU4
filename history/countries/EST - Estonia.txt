@@ -1,0 +1,26 @@
+# Estonia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 36
+1399.5.5 = {
+	monarch = {
+		name = "Asko"
+		birth_date = 1373.10.27
+		dynasty = "Ingrija"
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 36
+	add_treasury = 23
+	add_prestige = 284
+}

@@ -1,0 +1,25 @@
+# Merv
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 445
+1443.4.15 = {
+	monarch = {
+		name = "Ramadeva II"
+		birth_date = 1418.6.11
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 445
+	add_treasury = 17
+	add_prestige = 760
+}

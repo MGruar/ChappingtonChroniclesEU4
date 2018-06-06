@@ -1,0 +1,25 @@
+# Brythonia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 242
+1436.3.7 = {
+	monarch = {
+		name = "Eric II"
+		birth_date = 1406.7.26
+		dynasty = "Bese"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 242
+	add_treasury = 97
+	add_prestige = 244
+}

@@ -1,0 +1,233 @@
+# Genoa
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 244 141 120 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Edward" "Sorcha" "Ross" "Uisdean" "Roderick" "Ranald" "Richard" "Murron" "Paul" "Mirren" 
+	"Derilla" "Slaine" "Iain" "Alice" "Fingola" "Elspeth" "Mor" "Matthew" "Edgar" "Donald" 
+	"Kirstin" "Rory" "Aufrica" "Evander" "Sholto" "Maisie" "Waldeve" "Maoilios" "Dervorgilla" "Shona" 
+	"Eilionoir" "Ros" "Philip" "Constantine" "Mariota" "Martha" "Lillias" "Ada" "Desiderius" "Ademaro" 
+	"Artavasdas" "Gisulf" "Erchempert" "Agilof" "Pemmo" "Liutward" "Hilderic" "Nordepert" "Landenulf" "Ingoald" 
+	"Wido" "Sico" "Laidulf" "Liutprand" "Gastone" "Fortunato" "Bertold" "Kalevi" "Goffredo" "Kettilmund" 
+	"Gottschalk" "Igino" "Iacopo" "Jacques" "Géraud" "Tibaldo" "Geraldo" "Bonaventura" "Michelangelo" "Nazareno" 
+	"Buonconte" "Pancrazio" "Adam" "Alpin" "Alan" "Alastair" "Alexander" "Andrew" "Angus" "Archibald" 
+	"Arthur" "Arran" "Aulay" "Beathan" "Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" 
+	"Colin" "Conall" "Conan" "David" "Dermid" "Douglas" "Duff" "Dugald" "Duncan" "Edwin" 
+	"Eric" "Ewan" "Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbert" "Gilbride" 
+	"Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" "Hector" 
+	"Henry" "Hugh" "Indulf" "James" "John" "Kenneth" "Kentigern" "Lachlan" "Laurence" "Lennon" 
+	"Lulach" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" "Malmure" "Marcas" "Matad" 
+	"Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Ninian" "Oscar" "Patrick" 
+	"Peter" "Radulf" "Robert" "Ronald" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Sweeny" 
+	"Tadhg" "Talore" "Thomas" "Torquil" "Uhtred" "Walan" "Walter" "William" }
+monarch_names = {
+	"Edward #0" = 1
+	"Sorcha #0" = -1
+	"Ross #3" = 27
+	"Uisdean #0" = 1
+	"Roderick #1" = 21
+	"Ranald #0" = 1
+	"Richard #0" = 1
+	"Murron #0" = -1
+	"Paul #1" = 24
+	"Mirren #0" = -1
+	"Derilla #0" = -1
+	"Slaine #0" = -1
+	"Iain #0" = 1
+	"Alice #0" = -1
+	"Fingola #0" = -1
+	"Elspeth #0" = -1
+	"Mor #0" = -1
+	"Matthew #0" = 1
+	"Edgar #0" = 1
+	"Donald #0" = 1
+	"Kirstin #0" = -1
+	"Rory #0" = 1
+	"Aufrica #0" = -1
+	"Evander #0" = 1
+	"Sholto #0" = -1
+	"Maisie #0" = -1
+	"Waldeve #0" = 1
+	"Maoilios #1" = 18
+	"Dervorgilla #1" = -19
+	"Shona #0" = -1
+	"Eilionoir #0" = -1
+	"Ros #0" = -1
+	"Philip #0" = 1
+	"Constantine #0" = 1
+	"Mariota #0" = -1
+	"Martha #0" = -1
+	"Lillias #0" = -1
+	"Ada #0" = -1
+	"Desiderius #2" = 0
+	"Ademaro #1" = 0
+	"Artavasdas #1" = 0
+	"Gisulf #1" = 0
+	"Erchempert #1" = 0
+	"Agilof #2" = 0
+	"Pemmo #1" = 0
+	"Liutward #1" = 0
+	"Hilderic #1" = 0
+	"Nordepert #1" = 0
+	"Landenulf #1" = 0
+	"Ingoald #1" = 0
+	"Wido #1" = 0
+	"Sico #1" = 0
+	"Laidulf #1" = 0
+	"Liutprand #1" = 0
+	"Gastone #1" = 0
+	"Fortunato #1" = 0
+	"Bertold #1" = 0
+	"Kalevi #1" = 0
+	"Goffredo #1" = 0
+	"Kettilmund #1" = 0
+	"Gottschalk #1" = 0
+	"Igino #2" = 0
+	"Iacopo #1" = 0
+	"Jacques #1" = 0
+	"Géraud #1" = 0
+	"Tibaldo #1" = 0
+	"Geraldo #3" = 0
+	"Bonaventura #1" = 0
+	"Michelangelo #1" = 0
+	"Nazareno #1" = 0
+	"Buonconte #1" = 0
+	"Pancrazio #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Radulf #0" = 0
+	"Robert #0" = 0
+	"Ronald #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Walan #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
+}
+

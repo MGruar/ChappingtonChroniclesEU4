@@ -1,0 +1,253 @@
+# Bhirrid
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 187 156 76 }
+
+
+
+
+leader_names = {
+
+	"Tolui" "Badai" "Töregene" "Akakios" "Temulun" "Inancha" "Khachi" "Elaiodora" "Subetei" "Bala" 
+	"Bulughan" "Ioannes" "Yildiz" "Khojin" "Gulçiçäk" "Kyriakos" "Zenobios" "Kisa" "Pelagios" "Hogelun" 
+	"Theophano" "Yesui" "Alan" "Bughu" "Kyrillos" "Khagatai" "Nikarete" "Iturgen" "Barsbek" "Kogsegu" 
+	"Oronartai" "Georgios" "Puyantay" "Chabi" "Çiçäk" "Oghul" "Polykarpos" "Theoktiste" "Barjik" "Tura" 
+	"Alchi" "Khutulun" "Temuge" "Checheyigen" "Chakha" "Bashtwa" "Ötemis" "Yartilek" "Tarmaç" "Kamaj" 
+	"Çeçki" "Hoelun" "Yokhunan" "Godan" "Khorilartai" "Mandukhai" "Chanai" "Altani" "Khachigun" "Akhutai" 
+	"Guyug" "Ibakha" "Holuikhan" "Barghujin" "Alagh" "Mongke" "Arasen" "Jebe" "Odchigin" "Alchidai" 
+	"Chiledu" "Belgunutei" "Duua" "Ebegei" "Bogorchu" "Orbei" "Germanos" "Helias" "Borte" "Ambaghai" 
+	"Khorijin" "Toghtoga" "Khadagan" "Gughlug" "Nayaga" "Sergios" "Khabichi" "Bodonchar" "Yesugun" "Chagur" 
+	"Khulan" "Adrianos" "Al-Alta" "Konstantinos" "Euphemia" "Stephania" "Viviana" "Botokhui" "Ghunan" "Luitgard" 
+	"Azra-Va" "Chotan" "Loukas" "Anthemios" "Arsenios" "Valeria" "Hypatia" "Anastasia" "Anthe" "Anthousa" 
+	"Dionysios" "Bastu" "Romanos" "Buzer" "Khogaghchin" "Savkëlti" "Eulalia" "Nikoletta" "Ioulia" "Isaias" 
+	"Chrysanthos" "Ayasun" "Simsam" "Chrysogone" "Yençepi" "Hektorios" "Abagha" "Achigh" "Aguchu" "Ajai" 
+	"Ajinai" "Altan" "Arkhai" "Babur" "Bagaridai" "Bartan" "Batu" "Bedugun" "Begter" "Belgutei" 
+	"Bilge" "Berke" "Bogen" "Bolkhadar" "Borjigidai" "Boroghul" "Bugidai" "Bugunutei" "Bujeg" "Bukha" 
+	"Buri" "Burkhan" "Burundai" "Chagatai" "Chaghagan" "Chigu" "Chidukhul" "Chilagun" "Chormakhan" "Chulgetei" 
+	"Dagun" "Daritai" "Dayir" "Dodai" "Eljigedei" "Ghazan" "Guchu" "Harghasun" "Horkhudagh" "Hulegu" 
+	"Husun" "Inalchi" "Jajiradai" "Jamugha" "Jochi" "Jurchedei" "Khadagh" "Khaidu" "Khal" "Khorchi" 
+	"Khubilai" "Khudu" "Khutula" "Khuyildar" "Kokochu" "Megetu" "Megujin" "Menggei" "Morokha" "Munglig" 
+	"Nakhu" "Narin" "Nogai" "Ogodei" "Okhotur" "Oljaitu" "Shiraghul" "Shirgugetu" "Suyiketu" "Taghai" 
+	"Tamachi" "Targhutai" "Temujin" "Temur" "Todogen" "Toghoril" "Tokhtamis" "Torolchi" "Tumen" "Uighurtai" 
+	"Ukhuna" "Usun" "Yedi" "Yegu" "Yeke" "Yesugei" "Yesunge" "Kadan" }
+monarch_names = {
+	"Tolui #1" = 18
+	"Badai #0" = 1
+	"Töregene #0" = -1
+	"Akakios #0" = 1
+	"Temulun #0" = -1
+	"Inancha #0" = 1
+	"Khachi #0" = 1
+	"Elaiodora #0" = -1
+	"Subetei #1" = 18
+	"Bala #1" = 27
+	"Bulughan #0" = -1
+	"Ioannes #0" = 1
+	"Yildiz #0" = -1
+	"Khojin #0" = -1
+	"Gulçiçäk #0" = -1
+	"Kyriakos #0" = 1
+	"Zenobios #0" = 1
+	"Kisa #0" = 1
+	"Pelagios #0" = 1
+	"Hogelun #0" = -1
+	"Theophano #0" = -1
+	"Yesui #0" = -1
+	"Alan #0" = -1
+	"Bughu #0" = 1
+	"Kyrillos #0" = 1
+	"Khagatai #1" = 18
+	"Nikarete #0" = -1
+	"Iturgen #0" = 1
+	"Barsbek #0" = 1
+	"Kogsegu #0" = 1
+	"Oronartai #0" = 1
+	"Georgios #0" = 1
+	"Puyantay #0" = -1
+	"Chabi #0" = -1
+	"Çiçäk #0" = -1
+	"Oghul #0" = -1
+	"Polykarpos #0" = 1
+	"Theoktiste #0" = -1
+	"Barjik #0" = 1
+	"Tura #0" = -1
+	"Alchi #0" = 1
+	"Khutulun #0" = -1
+	"Temuge #0" = 1
+	"Checheyigen #0" = -1
+	"Chakha #0" = -1
+	"Bashtwa #0" = 1
+	"Ötemis #0" = 1
+	"Yartilek #0" = -1
+	"Tarmaç #0" = 1
+	"Kamaj #0" = 1
+	"Çeçki #0" = -1
+	"Hoelun #0" = -1
+	"Yokhunan #0" = 1
+	"Godan #0" = 1
+	"Khorilartai #1" = 27
+	"Mandukhai #0" = -1
+	"Chanai #0" = 1
+	"Altani #0" = -1
+	"Khachigun #0" = 1
+	"Akhutai #0" = 1
+	"Guyug #0" = 1
+	"Ibakha #0" = -1
+	"Holuikhan #0" = -1
+	"Barghujin #1" = 21
+	"Alagh #0" = 1
+	"Mongke #1" = 21
+	"Arasen #2" = 30
+	"Jebe #1" = 18
+	"Odchigin #1" = 18
+	"Alchidai #0" = 1
+	"Chiledu #0" = 1
+	"Belgunutei #0" = 1
+	"Duua #0" = 1
+	"Ebegei #0" = -1
+	"Bogorchu #0" = 1
+	"Orbei #0" = -1
+	"Germanos #0" = 1
+	"Helias #0" = 1
+	"Borte #0" = -1
+	"Ambaghai #0" = 1
+	"Khorijin #0" = -1
+	"Toghtoga #1" = 18
+	"Khadagan #0" = -1
+	"Gughlug #0" = 1
+	"Nayaga #0" = 1
+	"Sergios #0" = 1
+	"Khabichi #0" = 1
+	"Bodonchar #0" = 1
+	"Yesugun #0" = -1
+	"Chagur #0" = -1
+	"Khulan #0" = -1
+	"Adrianos #0" = 1
+	"Al-Alta #0" = -1
+	"Konstantinos #0" = 1
+	"Euphemia #0" = -1
+	"Stephania #0" = -1
+	"Viviana #0" = -1
+	"Botokhui #0" = -1
+	"Ghunan #1" = 21
+	"Luitgard #0" = -1
+	"Azra-Va #0" = -1
+	"Chotan #0" = -1
+	"Loukas #0" = 1
+	"Anthemios #0" = 1
+	"Arsenios #0" = 1
+	"Valeria #0" = -1
+	"Hypatia #0" = -1
+	"Anastasia #0" = -1
+	"Anthe #0" = -1
+	"Anthousa #0" = -1
+	"Dionysios #0" = 1
+	"Bastu #0" = 1
+	"Romanos #0" = 1
+	"Buzer #0" = 1
+	"Khogaghchin #0" = -1
+	"Savkëlti #0" = -1
+	"Eulalia #0" = -1
+	"Nikoletta #0" = -1
+	"Ioulia #0" = -1
+	"Isaias #0" = 1
+	"Chrysanthos #0" = 1
+	"Ayasun #0" = -1
+	"Simsam #0" = 1
+	"Chrysogone #0" = -1
+	"Yençepi #0" = 1
+	"Hektorios #0" = 1
+	"Abagha #0" = 0
+	"Achigh #0" = 0
+	"Aguchu #0" = 0
+	"Ajai #0" = 0
+	"Ajinai #0" = 0
+	"Altan #0" = 0
+	"Arkhai #0" = 0
+	"Babur #0" = 0
+	"Bagaridai #0" = 0
+	"Bartan #0" = 0
+	"Batu #0" = 0
+	"Bedugun #0" = 0
+	"Begter #0" = 0
+	"Belgutei #0" = 0
+	"Bilge #0" = 0
+	"Berke #0" = 0
+	"Bogen #0" = 0
+	"Bolkhadar #0" = 0
+	"Borjigidai #0" = 0
+	"Boroghul #0" = 0
+	"Bugidai #0" = 0
+	"Bugunutei #0" = 0
+	"Bujeg #0" = 0
+	"Bukha #0" = 0
+	"Buri #0" = 0
+	"Burkhan #0" = 0
+	"Burundai #0" = 0
+	"Chagatai #0" = 0
+	"Chaghagan #0" = 0
+	"Chigu #0" = 0
+	"Chidukhul #0" = 0
+	"Chilagun #0" = 0
+	"Chormakhan #0" = 0
+	"Chulgetei #0" = 0
+	"Dagun #0" = 0
+	"Daritai #0" = 0
+	"Dayir #0" = 0
+	"Dodai #0" = 0
+	"Eljigedei #0" = 0
+	"Ghazan #0" = 0
+	"Guchu #0" = 0
+	"Harghasun #0" = 0
+	"Horkhudagh #0" = 0
+	"Hulegu #0" = 0
+	"Husun #0" = 0
+	"Inalchi #0" = 0
+	"Jajiradai #0" = 0
+	"Jamugha #0" = 0
+	"Jochi #0" = 0
+	"Jurchedei #0" = 0
+	"Khadagh #0" = 0
+	"Khaidu #0" = 0
+	"Khal #0" = 0
+	"Khorchi #0" = 0
+	"Khubilai #0" = 0
+	"Khudu #0" = 0
+	"Khutula #0" = 0
+	"Khuyildar #0" = 0
+	"Kokochu #0" = 0
+	"Megetu #0" = 0
+	"Megujin #0" = 0
+	"Menggei #0" = 0
+	"Morokha #0" = 0
+	"Munglig #0" = 0
+	"Nakhu #0" = 0
+	"Narin #0" = 0
+	"Nogai #0" = 0
+	"Ogodei #0" = 0
+	"Okhotur #0" = 0
+	"Oljaitu #0" = 0
+	"Shiraghul #0" = 0
+	"Shirgugetu #0" = 0
+	"Suyiketu #0" = 0
+	"Taghai #0" = 0
+	"Tamachi #0" = 0
+	"Targhutai #0" = 0
+	"Temujin #0" = 0
+	"Temur #0" = 0
+	"Todogen #0" = 0
+	"Toghoril #0" = 0
+	"Tokhtamis #0" = 0
+	"Torolchi #0" = 0
+	"Tumen #0" = 0
+	"Uighurtai #0" = 0
+	"Ukhuna #0" = 0
+	"Usun #0" = 0
+	"Yedi #0" = 0
+	"Yegu #0" = 0
+	"Yeke #0" = 0
+	"Yesugei #0" = 0
+	"Yesunge #0" = 0
+	"Kadan #0" = 0
+}
+

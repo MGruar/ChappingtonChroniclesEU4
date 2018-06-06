@@ -1,0 +1,265 @@
+# Moldau
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 223 202 145 }
+
+
+
+
+leader_names = {
+
+	"Photios" "Sophia" "Ioulia" "Christophoros" "Phokas" "Nikoletta" "Theophano" "Germanos" "Rhodanthe" "Kyrillos" 
+	"Stephania" "Eupraxia" "Valeria" "Apollonios" "Hierotheos" "Eirenaios" "Wulfhilde" "Theodoulos" "Kosmas" "Ioustina" 
+	"Niketas" "Nikodemos" "Margarita" "Leon" "Eusebia" "Gerasimos" "Basileios" "Anthe" "Isaakios" "Neophytos" 
+	"Prokopios" "Hektorios" "Nikolaos" "Dionysia" "Kyra" "Leontios" "Symeon" "Ioannes" "Helene" "Alexandros" 
+	"Pantoleon" "Aikaterine" "Adrianos" "Melissa" "Thomais" "Hippolytos" "Dionysios" "Evangelos" "Barbara" "Theoktiste" 
+	"Philippa" "Kubrat" "Batbayan" "Asparukh" "Tervel" "Kelbir" "Sabin" "Telerig" "Kardam" "Barjik" 
+	"Dukum" "Araslan" "Umor" "Sati" "Almish" "Peksen" "Krovat" "Yerneslu" "Barsbek" "Çorpan" 
+	"Iakobos" "Kaisarios" "Chrysanthos" "Konstantinos" "Markos" "Makarios" "Niphon" "Adriane" "Stephanos" "Diogenes" 
+	"Alp" "Alzek" "Anzi" "Apskhih" "Bagha" "Baghatur" "Balambär" "Bars" "Bashtwa" "Bastu" 
+	"Bataul" "Batoya" "Batulia" "Bayan" "Belkermak" "Bezmer" "Bihor" "Boyan" "Bugha" "Bughra" 
+	"Bulan" "Bulger" "Bulçan" "Busir" "Buzan" "Buzer" "Bälgiçi" "Böri" "Chepa" "Chinialush" 
+	"Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Elemag" "Ellak" "Ernakh" "Eskhakh" "Goleda" 
+	"Gostun" "Guar" "Hudbad" "Iani" "Ilik" "Iltäbär" "Irnek" "Isbul" "Islivan" "Isperikh" 
+	"Ispor" "Itakh" "Kamaj" "Kano" "Karadakh" "Karan" "Karaton" "Kayghalagh" "Kharaton" "Khatir" 
+	"Khinialon" "Khudbard" "Khuterkin" "Kibar" "Kisa" "Kordil" "Kormesiy" "Kormisosh" "Kotrag" "Krum" 
+	"Kuber" "Kundaç" "Kundaçiq" "Kurt" "Kutrigur" "Kälaç" "Labertam" "Magotin" "Malamir" "Mugel" 
+	"Mänär" "Mänäs" "Mënümarót" "Odolgan" "Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" 
+	"Organa" "Ornag" "Oshi" "Ostro" "Pagan" "Pakhtiyar" "Papaçyz" "Paväl" "Praksa" "Rassate" 
+	"Rugila" "Samsam" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" "Simsam" 
+	"Sondoke" "Tabghaç" "Tarasiy" "Taridin" "Tarkhan" "Tarmaç" "Tatra" "Telec" "Timër" "Timëreç" 
+	"Timërpälat" "Tingiz" "Tiradin" "Toghan" "Toghrïl" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" 
+	"Tuzniq" "Täbär" "Tähtaman" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yabghu" "Yani" 
+	"Yavantey" "Yençepi" "Yeçtirek" "Yilig" "Zabergan" "Zenti" "Çat" "Çat'n" "Ötemis" }
+monarch_names = {
+	"Photios #0" = 1
+	"Sophia #1" = -25
+	"Ioulia #0" = -1
+	"Christophoros #0" = 1
+	"Phokas #0" = 1
+	"Nikoletta #0" = -1
+	"Theophano #0" = -1
+	"Germanos #0" = 1
+	"Rhodanthe #0" = -1
+	"Kyrillos #0" = 1
+	"Stephania #1" = -22
+	"Eupraxia #0" = -1
+	"Valeria #0" = -1
+	"Apollonios #0" = 1
+	"Hierotheos #0" = 1
+	"Eirenaios #0" = 1
+	"Wulfhilde #0" = -1
+	"Theodoulos #0" = 1
+	"Kosmas #0" = 1
+	"Ioustina #0" = -1
+	"Niketas #0" = 1
+	"Nikodemos #0" = 1
+	"Margarita #0" = -1
+	"Leon #0" = 1
+	"Eusebia #0" = -1
+	"Gerasimos #0" = 1
+	"Basileios #0" = 1
+	"Anthe #0" = -1
+	"Isaakios #0" = 1
+	"Neophytos #0" = 1
+	"Prokopios #2" = 18
+	"Hektorios #0" = 1
+	"Nikolaos #0" = 1
+	"Dionysia #0" = -1
+	"Kyra #0" = -1
+	"Leontios #0" = 1
+	"Symeon #0" = 1
+	"Ioannes #0" = 1
+	"Helene #0" = -1
+	"Alexandros #1" = 18
+	"Pantoleon #0" = 1
+	"Aikaterine #0" = -1
+	"Adrianos #0" = 1
+	"Melissa #0" = -1
+	"Thomais #0" = -1
+	"Hippolytos #0" = 1
+	"Dionysios #1" = 18
+	"Evangelos #0" = 1
+	"Barbara #0" = -1
+	"Theoktiste #0" = -1
+	"Philippa #0" = -1
+	"Kubrat #1" = 0
+	"Batbayan #1" = 0
+	"Asparukh #1" = 0
+	"Tervel #2" = 0
+	"Kelbir #1" = 0
+	"Sabin #1" = 0
+	"Telerig #2" = 0
+	"Kardam #1" = 0
+	"Barjik #1" = 0
+	"Dukum #1" = 0
+	"Araslan #1" = 0
+	"Umor #1" = 0
+	"Sati #1" = -1
+	"Almish #1" = 0
+	"Peksen #1" = -1
+	"Krovat #1" = 0
+	"Yerneslu #2" = 0
+	"Barsbek #1" = 0
+	"Çorpan #1" = 0
+	"Iakobos #2" = 0
+	"Kaisarios #1" = 0
+	"Chrysanthos #1" = 0
+	"Konstantinos #1" = 0
+	"Markos #1" = 0
+	"Makarios #1" = 0
+	"Niphon #3" = 0
+	"Adriane #1" = -1
+	"Stephanos #1" = 0
+	"Diogenes #1" = 0
+	"Alp #0" = 0
+	"Alzek #0" = 0
+	"Anzi #0" = 0
+	"Apskhih #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Balambär #0" = 0
+	"Bars #0" = 0
+	"Bashtwa #0" = 0
+	"Bastu #0" = 0
+	"Bataul #0" = 0
+	"Batoya #0" = 0
+	"Batulia #0" = 0
+	"Bayan #0" = 0
+	"Belkermak #0" = 0
+	"Bezmer #0" = 0
+	"Bihor #0" = 0
+	"Boyan #0" = 0
+	"Bugha #0" = 0
+	"Bughra #0" = 0
+	"Bulan #0" = 0
+	"Bulger #0" = 0
+	"Bulçan #0" = 0
+	"Busir #0" = 0
+	"Buzan #0" = 0
+	"Buzer #0" = 0
+	"Bälgiçi #0" = 0
+	"Böri #0" = 0
+	"Chepa #0" = 0
+	"Chinialush #0" = 0
+	"Dengizikh #0" = 0
+	"Dizeng #0" = 0
+	"Dometa #0" = 0
+	"Dristar #0" = 0
+	"Drong #0" = 0
+	"Elemag #0" = 0
+	"Ellak #0" = 0
+	"Ernakh #0" = 0
+	"Eskhakh #0" = 0
+	"Goleda #0" = 0
+	"Gostun #0" = 0
+	"Guar #0" = 0
+	"Hudbad #0" = 0
+	"Iani #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Irnek #0" = 0
+	"Isbul #0" = 0
+	"Islivan #0" = 0
+	"Isperikh #0" = 0
+	"Ispor #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Kano #0" = 0
+	"Karadakh #0" = 0
+	"Karan #0" = 0
+	"Karaton #0" = 0
+	"Kayghalagh #0" = 0
+	"Kharaton #0" = 0
+	"Khatir #0" = 0
+	"Khinialon #0" = 0
+	"Khudbard #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kordil #0" = 0
+	"Kormesiy #0" = 0
+	"Kormisosh #0" = 0
+	"Kotrag #0" = 0
+	"Krum #0" = 0
+	"Kuber #0" = 0
+	"Kundaç #0" = 0
+	"Kundaçiq #0" = 0
+	"Kurt #0" = 0
+	"Kutrigur #0" = 0
+	"Kälaç #0" = 0
+	"Labertam #0" = 0
+	"Magotin #0" = 0
+	"Malamir #0" = 0
+	"Mugel #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Odolgan #0" = 0
+	"Okhsi #0" = 0
+	"Okhsun #0" = 0
+	"Okors #0" = 0
+	"Omurtag #0" = 0
+	"Onegavon #0" = 0
+	"Organ #0" = 0
+	"Organa #0" = 0
+	"Ornag #0" = 0
+	"Oshi #0" = 0
+	"Ostro #0" = 0
+	"Pagan #0" = 0
+	"Pakhtiyar #0" = 0
+	"Papaçyz #0" = 0
+	"Paväl #0" = 0
+	"Praksa #0" = 0
+	"Rassate #0" = 0
+	"Rugila #0" = 0
+	"Samsam #0" = 0
+	"Sandil #0" = 0
+	"Sandilkh #0" = 0
+	"Sarkhan #0" = 0
+	"Sartäç #0" = 0
+	"Savin #0" = 0
+	"Sevar #0" = 0
+	"Shilki #0" = 0
+	"Simsam #0" = 0
+	"Sondoke #0" = 0
+	"Tabghaç #0" = 0
+	"Tarasiy #0" = 0
+	"Taridin #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tatra #0" = 0
+	"Telec #0" = 0
+	"Timër #0" = 0
+	"Timëreç #0" = 0
+	"Timërpälat #0" = 0
+	"Tingiz #0" = 0
+	"Tiradin #0" = 0
+	"Toghan #0" = 0
+	"Toghrïl #0" = 0
+	"Tokhtaman #0" = 0
+	"Toktu #0" = 0
+	"Tsog #0" = 0
+	"Tsul #0" = 0
+	"Tuk #0" = 0
+	"Tuzniq #0" = 0
+	"Täbär #0" = 0
+	"Tähtaman #0" = 0
+	"Uturgur #0" = 0
+	"Vakrim #0" = 0
+	"Venda #0" = 0
+	"Vetam #0" = 0
+	"Vinekh #0" = 0
+	"Yabghu #0" = 0
+	"Yani #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
+	"Zabergan #0" = 0
+	"Zenti #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Ötemis #0" = 0
+}
+

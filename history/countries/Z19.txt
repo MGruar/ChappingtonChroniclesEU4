@@ -1,0 +1,25 @@
+# Deheubarth
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 4369
+1441.7.11 = {
+	monarch = {
+		name = "Cailean"
+		birth_date = 1431.6.1
+		dynasty = "Bese"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 4369
+	add_treasury = 100
+	add_prestige = 67
+}

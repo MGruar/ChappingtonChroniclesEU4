@@ -1,0 +1,26 @@
+# Thrakesioi
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4309
+1420.8.26 = {
+	monarch = {
+		name = "Kyros II"
+		birth_date = 1391.4.2
+		dynasty = "Leontares"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 4309
+	add_treasury = 8
+	add_prestige = 599
+}

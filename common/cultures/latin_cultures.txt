@@ -1,0 +1,10 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "Torda" "Pettiti" "Romano" "degli Ubaldini" "Adorno" "Borromeo" "Castracani" "da Baggio" "Cenci" "Colleoni" "Colombo" "Colonna" "Concini" "da Carmagnola" "d'Appiano" "della Scala" "Serra" "Sfondrati" "di Gattinara" "Torchitorio" "di Rienzi" "di Cascina" "di Lombardy" "di Ardara" "di Cagliari" "di Russi" "di Posada" "Pilloni" "di Commacchio" "di Voghera" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { }
+	}
+}

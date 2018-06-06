@@ -1,0 +1,26 @@
+# Cechy
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = czech
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1953
+1431.6.30 = {
+	monarch = {
+		name = "Robartach"
+		birth_date = 1402.7.21
+		dynasty = "Mac Mathgamna"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 1953
+	add_treasury = 17
+	add_prestige = 142
+}

@@ -1,0 +1,6 @@
+altaic = {
+	khitan = {
+		primary = KHA
+		dynasty_names = { "Yanchege" "Ruan" "Yumenquan" "Fuguzhi" "Yanxi" "Yanchege" "Zhongyuan" "Xiuge" "Duolubu" "Altayid" }
+	}
+}

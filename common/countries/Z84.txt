@@ -1,0 +1,562 @@
+# Merv
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 163 241 28 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Katunkon" "Akkadevi" "Jayasimha" "Vinayaditya" "Anuradha" "Shudhamati" "Chandrabbalabbe" "Krishnadevaraya" "Bijjabbe" "Chavundaraya" 
+	"Shantaladevi" "Obayamma" "Ramadeva" "Kundakadevi" "Maya" "Chinnambike" "Shivamara" "Vendakadri" "Thimma" "Vikramaditya" 
+	"Narendranarayan" "Jogama" "Hoysaladevi" "Lakshmi" "Vijamba" "Bhavanaga" "Jayajirao" "Govinda" "Satyasraya" "Mailaladevi" 
+	"Dharendranarayan" "Bhuvikrama" "Dhruva" "Polavira" "Chandaladevi" "Nanasaheb" "Thirumalambike" "Tirumalaraya" "Harihara" "Sagunabai" 
+	"Dantidurga" "Chhadvaideva" "Sriranga" "Praudharaya" "Gobburi" "Pertal" "Revakanimmadi" "Ereganga" "Sripadaraya" "Kambarasa" 
+	"Ramaraya" "Kesarbai" "Mâravarman" "Celiyancentan" "Cayantavarman" "Arikêcari" "Ranatîran" "Irâcacimman" "Parântaka" "Âccinataratippan" 
+	"Piratamâtevi" "Vellantânkinân" "Eccumantai" "Kâmuttiri" "Naltêviyâr" "Arulmolitêvar" "Mañcavi" "Virâcakecaripanmar" "Varakunavarman" "Cantirâdêvi" 
+	"Utaiya" "Pavitram" "Tânatonkiyâr" "Mariamma" "Accattêvi" "Mârkantaiyan" "Têvânrâl" "Uttama" "Kunavîra" "Nakarattâl" 
+	"Nâcciyâlvi" "Accamma" "Sharva" "Atitta" "Narayanrao" "Cîvallapan" "Jagaraya" "Sayajirao" "Pâlarâvâyan" "Tiruvênkatam" 
+	"Munnûrruvappattan" "Durga" "Abaji" "Vennâval" "Naivarman" "Tayânitiyâr" "Bhandanaditya" "Kalakampa" "Ariñcikaippirâttiyâr" "Kadeyaraja" 
+	"Bukka" "Âyirattalipattan" "Aiyyârratikal" "Tiruccirrampalapattan" "Tundaka" "Chandena" "Pammava" "Nâtittañcâttan" "Chellava" "Taturântakiyâr" 
+	"Rajaraja" "Mânikkam" "Cinkapâku" "Cadayan" "Gamakamba" "Nagipoti" "Cekarâcacêkaran" "Asaga" "Prataparudra" "Karnpal" 
+	"Nirupatunkavarman" "Rudramadevi" "Cataiyavarman" "Namaiyâr" "Nîliyâr" "Tirumûlattânam" "Prolayavema" "Eluvattûr" "Mangalesi" "Anavota" 
+	"Hariharamba" "Nrpakama" "Permanadi" "Cimmavisnu" "Kuñciramalli" "Ânûrrenmanpiccan" "Karka" "Chamekamba" "Kulôttunka" "Srimahadevi" 
+	"Irâcarâca" "Appûtaiyân" "Kavatiyakkan" "Pâkkilân" "Kannapparaciyâr" "Sadmarkar" "Gangambika" "Mangiyuvaraja" "Rudramba" "Durgasimha" 
+	"Vishnuvardhana" "Durgaraja" "Kannama" "Ranojirao" "Nantirinankai" "Mahadevi" "Karunandan" "Corappaiyâr" "Tunaiyiruntâlcâni" "Sudha" 
+	"Dhondu" "Devanayaka" "Chennappa" "Sovidevi" "Avutaiyâlccâni" "Arulmolinankaiyâr" "Gandharavati" "Laxmibai" "Prasadhanadevi" "Shahuji" 
+	"Vijayaditya" "Kammanayaka" "Dhangadeva" "Prabhavati" "Murarirao" "Rajamati" "Yachamanedu" "Venkatapathi" "Surajpala" "Harivarman" 
+	"Permadi" "Mallugi" "Kaucalaiyâr" "Pûvânti" "Sanyukta" "Mallapa" "Kirtiraja" "Shevanti" "Sankama" "Dhruvadevi" 
+	"Rangraj" "Peranankai" "Rachamalla" "Kamaladevi" "Sadashiva" "Niravadyadhavala" "Yuddamalla" "Narasanayaka" "Kaapayanayaka" "Kirtivarman" 
+	"Mallikarjuna" "Amoghavarsha" "Avinita" "Madhava" "Anekonda" "Butuga" "Kubjavishnuvardhana" "Bijjama" "Beta" "Venkatadri" 
+	"Yachama" "Somesvara" "Sovideva" "Achugi" "Neetimarga" "Uchita" "Durvinita" "Marasimha" "Bishwas Devi" "Achyutadeva" 
+	"Mushkara" "Krishna" "Srimanta" "Ahavamalla" "Basudevnayaran" "Nripakama" "Gangaraja" "Bhimsingha" "Viravijaya" "Syamadevi" 
+	"Khottiga" "Ladahachandra" "Devavati" "Purandaradasa" "Pulakesi" "Rani" "Bhogavati" "Mukhtar" "Marulaganga" "Ayanna" 
+	"Himadrija" "Viranarasimha" "Nattadevi" "Gajankusha" "Ahilyabai" "Malavyadevi" "Jhanjha" "Sunita" "Homayd" "Shaiban" 
+	"Fadl" "Akab" "Abdul-Wahad" "Nasraddin" "Wahid" "Yahya" "Gzi" "Ruhollah" "Shujah" "Yuanshi" 
+	"Aarif" "Mahdi" "Yan" "Tugor" "Nanaki" "Podé" "Basileios" "Kallinikos" "Iakobos" "Nikodemos" 
+	"Yuyi" "Chödron" "Togli" "Thönmi" "Nard" "Tahmasb" "Zand" "Behrad" "Divashtich" "Xisheng" 
+	"Youqiu" "Farzad" "Tori" "Tsen" "Pungse" "Dusong" "Mutik" "Palchen" "Tingngezin" "Gyaltsen" 
+	"Afshar" "Ehsan" "Aglen" "Balpo" "Chakna" "Changchub" "Chatri" "Chokey" "Chögyal" "Chukpo" 
+	"Daktri" "Degyal" "Denöl" "Desho" "Detrin" "Detsen" "Detrul" "Deu" "Dharmapala" "Dickey" 
+	"Dingtri" "Dompu" "Dondup" "Donyö" "Dorje" "Drag" "Dragpa" "Dranga" "Drigum" "Drogön" 
+	"Drongnyen" "Dzamling" "Esho" "Gampo" "Gangkarwa" "Gesar" "Getong" "Gön" "Gongpa" "Gongru" 
+	"Gunggyal" "Gungsong" "Gungtsen" "Gyagar" "Gyal" "Gyalpo" "Gyaltore" "Gyeltsen" "Isho" "Jamyang" 
+	"Jekundag" "Jetsun" "Könchok" "Kyidé" "Kunga" "Langdarma" "Lek" "Lekpa" "Lha" "Lhanang" 
+	"Lingpa" "Lodrö" "Longtsen" "Löntsen" "Lotsen" "Lukhong" "Mangban" "Mangnyen" "Mangpoje" "Mangsham" 
+	"Mangsong" "Mangtsen" "Mertri" "Muné" "Mutri" "Muzu" "Nam" "Namdé" "Namkha" "Namri" 
+	"Namzhungtsen" "Ngawang" "Nyantsen" "Nyasig" "Nyigön" "Nyima" "Nyingpo" "Nytari" "Omade" "Öpoche" 
+	"Orgyen" "Ösung" "Pal" "Palden" "Pälkhortsän" "Palkye" "Phagpa" "Po" "Pude" "Pungtsen" 
+	"Raksita" "Ramsha" "Ralpacan" "Rapsel" "Rinchen" "Sachen" "Sadnalegs" "Sambhota" "Selbar" "Senöl" 
+	"Shakya" "Shang" "Shanglon" "Shangnang" "Siptri" "Sönam" "Songtsen" "Sotri" "Sumnang" "Sutse" 
+	"Tagbu" "Takdra" "Taknang" "Taknye" "Taktsab" "Tawen" "Thothori" "Thrikhyiding" "Tisho" "Tongtsen" 
+	"Trashi" "Tridé" "Tridra" "Tridu" "Trimang" "Trinring" "Trinyen" "Trisong" "Trisu" "Trisumje" 
+	"Tritog" "Tritsen" "Tritsuk" "Tromo" "Trongzhi" "Tsangma" "Tsemo" "Tsendro" "Tsenpo" "Tsensong" 
+	"Tsentsän" "Tsenye" "Tsugru" "Tsuktsen" "Udumtsen" "Wangchuk" "Wangdu" "Yongten" "Yontan" "Yülsung" 
+	"Yumtän" "Zanam" "Zangtsa" "Zhangtsun" "Zhonnu" "Zimun" "Zindé" "Zungtsen" }
+monarch_names = {
+	"Katunkon #0" = 1
+	"Akkadevi #0" = -1
+	"Jayasimha #0" = 1
+	"Vinayaditya #0" = 1
+	"Anuradha #0" = -1
+	"Shudhamati #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Krishnadevaraya #0" = 1
+	"Bijjabbe #0" = -1
+	"Chavundaraya #0" = 1
+	"Shantaladevi #0" = -1
+	"Obayamma #0" = -1
+	"Ramadeva #2" = 33
+	"Kundakadevi #0" = -1
+	"Maya #0" = -1
+	"Chinnambike #0" = -1
+	"Shivamara #0" = 1
+	"Vendakadri #0" = 1
+	"Thimma #0" = 1
+	"Vikramaditya #0" = 1
+	"Narendranarayan #0" = 1
+	"Jogama #1" = 30
+	"Hoysaladevi #0" = -1
+	"Lakshmi #0" = -1
+	"Vijamba #0" = -1
+	"Bhavanaga #0" = -1
+	"Jayajirao #0" = 1
+	"Govinda #0" = 1
+	"Satyasraya #0" = 1
+	"Mailaladevi #0" = -1
+	"Dharendranarayan #0" = 1
+	"Bhuvikrama #0" = 1
+	"Dhruva #0" = 1
+	"Polavira #0" = 1
+	"Chandaladevi #0" = -1
+	"Nanasaheb #0" = 1
+	"Thirumalambike #0" = -1
+	"Tirumalaraya #0" = 1
+	"Harihara #0" = 1
+	"Sagunabai #0" = -1
+	"Dantidurga #0" = 1
+	"Chhadvaideva #0" = 1
+	"Sriranga #0" = 1
+	"Praudharaya #0" = 1
+	"Gobburi #0" = 1
+	"Pertal #0" = -1
+	"Revakanimmadi #0" = -1
+	"Ereganga #0" = 1
+	"Sripadaraya #0" = 1
+	"Kambarasa #0" = 1
+	"Ramaraya #0" = 1
+	"Kesarbai #0" = -1
+	"Mâravarman #0" = 1
+	"Celiyancentan #0" = 1
+	"Cayantavarman #0" = 1
+	"Arikêcari #0" = 1
+	"Ranatîran #0" = 1
+	"Irâcacimman #0" = 1
+	"Parântaka #0" = 1
+	"Âccinataratippan #0" = 1
+	"Piratamâtevi #0" = -1
+	"Vellantânkinân #0" = 1
+	"Eccumantai #0" = -1
+	"Kâmuttiri #0" = -1
+	"Naltêviyâr #0" = -1
+	"Arulmolitêvar #0" = 1
+	"Mañcavi #0" = -1
+	"Virâcakecaripanmar #0" = 1
+	"Varakunavarman #0" = 1
+	"Cantirâdêvi #0" = -1
+	"Utaiya #0" = 1
+	"Pavitram #0" = -1
+	"Tânatonkiyâr #0" = -1
+	"Mariamma #0" = -1
+	"Accattêvi #0" = -1
+	"Mârkantaiyan #0" = 1
+	"Têvânrâl #0" = -1
+	"Uttama #0" = 1
+	"Kunavîra #0" = 1
+	"Nakarattâl #0" = -1
+	"Nâcciyâlvi #0" = -1
+	"Accamma #0" = -1
+	"Sharva #0" = 1
+	"Atitta #0" = 1
+	"Narayanrao #0" = 1
+	"Cîvallapan #0" = 1
+	"Jagaraya #0" = 1
+	"Sayajirao #0" = 1
+	"Pâlarâvâyan #0" = 1
+	"Tiruvênkatam #0" = -1
+	"Munnûrruvappattan #0" = 1
+	"Durga #0" = -1
+	"Abaji #0" = 1
+	"Vennâval #0" = -1
+	"Naivarman #0" = 1
+	"Tayânitiyâr #0" = -1
+	"Bhandanaditya #0" = 1
+	"Kalakampa #0" = 1
+	"Ariñcikaippirâttiyâr #0" = -1
+	"Kadeyaraja #0" = 1
+	"Bukka #0" = 1
+	"Âyirattalipattan #0" = 1
+	"Aiyyârratikal #0" = -1
+	"Tiruccirrampalapattan #0" = 1
+	"Tundaka #0" = -1
+	"Chandena #0" = -1
+	"Pammava #0" = -1
+	"Nâtittañcâttan #0" = 1
+	"Chellava #0" = -1
+	"Taturântakiyâr #0" = -1
+	"Rajaraja #0" = 1
+	"Mânikkam #0" = -1
+	"Cinkapâku #0" = 1
+	"Cadayan #0" = 1
+	"Gamakamba #0" = -1
+	"Nagipoti #0" = -1
+	"Cekarâcacêkaran #0" = 1
+	"Asaga #0" = 1
+	"Prataparudra #0" = 1
+	"Karnpal #0" = 1
+	"Nirupatunkavarman #0" = 1
+	"Rudramadevi #0" = -1
+	"Cataiyavarman #0" = 1
+	"Namaiyâr #0" = -1
+	"Nîliyâr #0" = -1
+	"Tirumûlattânam #0" = -1
+	"Prolayavema #0" = 1
+	"Eluvattûr #0" = -1
+	"Mangalesi #0" = 1
+	"Anavota #0" = 1
+	"Hariharamba #0" = -1
+	"Nrpakama #0" = 1
+	"Permanadi #0" = 1
+	"Cimmavisnu #0" = 1
+	"Kuñciramalli #0" = -1
+	"Ânûrrenmanpiccan #0" = 1
+	"Karka #0" = 1
+	"Chamekamba #0" = -1
+	"Kulôttunka #0" = 1
+	"Srimahadevi #0" = -1
+	"Irâcarâca #0" = 1
+	"Appûtaiyân #0" = 1
+	"Kavatiyakkan #0" = -1
+	"Pâkkilân #0" = 1
+	"Kannapparaciyâr #0" = -1
+	"Sadmarkar #0" = -1
+	"Gangambika #0" = -1
+	"Mangiyuvaraja #0" = 1
+	"Rudramba #0" = -1
+	"Durgasimha #0" = 1
+	"Vishnuvardhana #0" = 1
+	"Durgaraja #0" = 1
+	"Kannama #0" = 1
+	"Ranojirao #0" = 1
+	"Nantirinankai #0" = -1
+	"Mahadevi #0" = -1
+	"Karunandan #0" = 1
+	"Corappaiyâr #0" = -1
+	"Tunaiyiruntâlcâni #0" = -1
+	"Sudha #0" = -1
+	"Dhondu #0" = 1
+	"Devanayaka #0" = 1
+	"Chennappa #0" = 1
+	"Sovidevi #0" = -1
+	"Avutaiyâlccâni #0" = -1
+	"Arulmolinankaiyâr #0" = -1
+	"Gandharavati #0" = -1
+	"Laxmibai #0" = -1
+	"Prasadhanadevi #0" = -1
+	"Shahuji #0" = 1
+	"Vijayaditya #0" = 1
+	"Kammanayaka #0" = 1
+	"Dhangadeva #0" = 1
+	"Prabhavati #0" = -1
+	"Murarirao #0" = 1
+	"Rajamati #0" = -1
+	"Yachamanedu #0" = 1
+	"Venkatapathi #0" = 1
+	"Surajpala #0" = 1
+	"Harivarman #0" = 1
+	"Permadi #0" = 1
+	"Mallugi #0" = 1
+	"Kaucalaiyâr #0" = -1
+	"Pûvânti #0" = -1
+	"Sanyukta #0" = -1
+	"Mallapa #0" = 1
+	"Kirtiraja #0" = 1
+	"Shevanti #0" = -1
+	"Sankama #0" = 1
+	"Dhruvadevi #0" = -1
+	"Rangraj #0" = 1
+	"Peranankai #0" = -1
+	"Rachamalla #0" = 1
+	"Kamaladevi #0" = -1
+	"Sadashiva #0" = 1
+	"Niravadyadhavala #0" = 1
+	"Yuddamalla #0" = 1
+	"Narasanayaka #0" = 1
+	"Kaapayanayaka #0" = 1
+	"Kirtivarman #0" = 1
+	"Mallikarjuna #0" = 1
+	"Amoghavarsha #0" = 1
+	"Avinita #0" = 1
+	"Madhava #0" = 1
+	"Anekonda #1" = 42
+	"Butuga #0" = 1
+	"Kubjavishnuvardhana #0" = 1
+	"Bijjama #0" = 1
+	"Beta #0" = 1
+	"Venkatadri #0" = 1
+	"Yachama #0" = 1
+	"Somesvara #0" = 1
+	"Sovideva #0" = 1
+	"Achugi #0" = 1
+	"Neetimarga #0" = 1
+	"Uchita #0" = 1
+	"Durvinita #0" = 1
+	"Marasimha #0" = 1
+	"Bishwas Devi #0" = -1
+	"Achyutadeva #0" = 1
+	"Mushkara #0" = 1
+	"Krishna #0" = 1
+	"Srimanta #0" = 1
+	"Ahavamalla #0" = 1
+	"Basudevnayaran #0" = 1
+	"Nripakama #0" = 1
+	"Gangaraja #0" = 1
+	"Bhimsingha #0" = 1
+	"Viravijaya #0" = 1
+	"Syamadevi #0" = -1
+	"Khottiga #0" = 1
+	"Ladahachandra #0" = 1
+	"Devavati #0" = -1
+	"Purandaradasa #0" = 1
+	"Pulakesi #0" = 1
+	"Rani #0" = -1
+	"Bhogavati #0" = -1
+	"Mukhtar #0" = 1
+	"Marulaganga #0" = 1
+	"Ayanna #0" = 1
+	"Himadrija #0" = -1
+	"Viranarasimha #0" = 1
+	"Nattadevi #0" = -1
+	"Gajankusha #0" = 1
+	"Ahilyabai #0" = -1
+	"Malavyadevi #0" = -1
+	"Jhanjha #0" = 1
+	"Sunita #0" = -1
+	"Homayd #1" = 0
+	"Shaiban #2" = 0
+	"Fadl #1" = 0
+	"Akab #1" = 0
+	"Abdul-Wahad #1" = 0
+	"Nasraddin #1" = 0
+	"Wahid #1" = 0
+	"Yahya #1" = 0
+	"Gzi #1" = 0
+	"Ruhollah #1" = 0
+	"Shujah #1" = 0
+	"Yuanshi #1" = 0
+	"Aarif #1" = 0
+	"Mahdi #1" = 0
+	"Yan #1" = 0
+	"Tugor #1" = 0
+	"Nanaki #1" = -1
+	"Podé #1" = 0
+	"Basileios #1" = 0
+	"Kallinikos #1" = 0
+	"Iakobos #1" = 0
+	"Nikodemos #1" = 0
+	"Yuyi #1" = -1
+	"Chödron #1" = -1
+	"Togli #1" = 0
+	"Thönmi #2" = 0
+	"Nard #1" = 0
+	"Tahmasb #1" = 0
+	"Zand #1" = 0
+	"Behrad #1" = 0
+	"Divashtich #1" = 0
+	"Xisheng #1" = 0
+	"Youqiu #1" = 0
+	"Farzad #1" = 0
+	"Tori #1" = 0
+	"Tsen #1" = 0
+	"Pungse #1" = 0
+	"Dusong #1" = 0
+	"Mutik #1" = 0
+	"Palchen #1" = 0
+	"Tingngezin #1" = 0
+	"Gyaltsen #1" = 0
+	"Afshar #1" = 0
+	"Ehsan #1" = 0
+	"Aglen #0" = 0
+	"Balpo #0" = 0
+	"Chakna #0" = 0
+	"Changchub #0" = 0
+	"Chatri #0" = 0
+	"Chokey #0" = 0
+	"Chögyal #0" = 0
+	"Chukpo #0" = 0
+	"Daktri #0" = 0
+	"Degyal #0" = 0
+	"Denöl #0" = 0
+	"Desho #0" = 0
+	"Detrin #0" = 0
+	"Detsen #0" = 0
+	"Detrul #0" = 0
+	"Deu #0" = 0
+	"Dharmapala #0" = 0
+	"Dickey #0" = 0
+	"Dingtri #0" = 0
+	"Dompu #0" = 0
+	"Dondup #0" = 0
+	"Donyö #0" = 0
+	"Dorje #0" = 0
+	"Drag #0" = 0
+	"Dragpa #0" = 0
+	"Dranga #0" = 0
+	"Drigum #0" = 0
+	"Drogön #0" = 0
+	"Drongnyen #0" = 0
+	"Dzamling #0" = 0
+	"Esho #0" = 0
+	"Gampo #0" = 0
+	"Gangkarwa #0" = 0
+	"Gesar #0" = 0
+	"Getong #0" = 0
+	"Gön #0" = 0
+	"Gongpa #0" = 0
+	"Gongru #0" = 0
+	"Gunggyal #0" = 0
+	"Gungsong #0" = 0
+	"Gungtsen #0" = 0
+	"Gyagar #0" = 0
+	"Gyal #0" = 0
+	"Gyalpo #0" = 0
+	"Gyaltore #0" = 0
+	"Gyeltsen #0" = 0
+	"Isho #0" = 0
+	"Jamyang #0" = 0
+	"Jekundag #0" = 0
+	"Jetsun #0" = 0
+	"Könchok #0" = 0
+	"Kyidé #0" = 0
+	"Kunga #0" = 0
+	"Langdarma #0" = 0
+	"Lek #0" = 0
+	"Lekpa #0" = 0
+	"Lha #0" = 0
+	"Lhanang #0" = 0
+	"Lingpa #0" = 0
+	"Lodrö #0" = 0
+	"Longtsen #0" = 0
+	"Löntsen #0" = 0
+	"Lotsen #0" = 0
+	"Lukhong #0" = 0
+	"Mangban #0" = 0
+	"Mangnyen #0" = 0
+	"Mangpoje #0" = 0
+	"Mangsham #0" = 0
+	"Mangsong #0" = 0
+	"Mangtsen #0" = 0
+	"Mertri #0" = 0
+	"Muné #0" = 0
+	"Mutri #0" = 0
+	"Muzu #0" = 0
+	"Nam #0" = 0
+	"Namdé #0" = 0
+	"Namkha #0" = 0
+	"Namri #0" = 0
+	"Namzhungtsen #0" = 0
+	"Ngawang #0" = 0
+	"Nyantsen #0" = 0
+	"Nyasig #0" = 0
+	"Nyigön #0" = 0
+	"Nyima #0" = 0
+	"Nyingpo #0" = 0
+	"Nytari #0" = 0
+	"Omade #0" = 0
+	"Öpoche #0" = 0
+	"Orgyen #0" = 0
+	"Ösung #0" = 0
+	"Pal #0" = 0
+	"Palden #0" = 0
+	"Pälkhortsän #0" = 0
+	"Palkye #0" = 0
+	"Phagpa #0" = 0
+	"Po #0" = 0
+	"Pude #0" = 0
+	"Pungtsen #0" = 0
+	"Raksita #0" = 0
+	"Ramsha #0" = 0
+	"Ralpacan #0" = 0
+	"Rapsel #0" = 0
+	"Rinchen #0" = 0
+	"Sachen #0" = 0
+	"Sadnalegs #0" = 0
+	"Sambhota #0" = 0
+	"Selbar #0" = 0
+	"Senöl #0" = 0
+	"Shakya #0" = 0
+	"Shang #0" = 0
+	"Shanglon #0" = 0
+	"Shangnang #0" = 0
+	"Siptri #0" = 0
+	"Sönam #0" = 0
+	"Songtsen #0" = 0
+	"Sotri #0" = 0
+	"Sumnang #0" = 0
+	"Sutse #0" = 0
+	"Tagbu #0" = 0
+	"Takdra #0" = 0
+	"Taknang #0" = 0
+	"Taknye #0" = 0
+	"Taktsab #0" = 0
+	"Tawen #0" = 0
+	"Thothori #0" = 0
+	"Thrikhyiding #0" = 0
+	"Tisho #0" = 0
+	"Tongtsen #0" = 0
+	"Trashi #0" = 0
+	"Tridé #0" = 0
+	"Tridra #0" = 0
+	"Tridu #0" = 0
+	"Trimang #0" = 0
+	"Trinring #0" = 0
+	"Trinyen #0" = 0
+	"Trisong #0" = 0
+	"Trisu #0" = 0
+	"Trisumje #0" = 0
+	"Tritog #0" = 0
+	"Tritsen #0" = 0
+	"Tritsuk #0" = 0
+	"Tromo #0" = 0
+	"Trongzhi #0" = 0
+	"Tsangma #0" = 0
+	"Tsemo #0" = 0
+	"Tsendro #0" = 0
+	"Tsenpo #0" = 0
+	"Tsensong #0" = 0
+	"Tsentsän #0" = 0
+	"Tsenye #0" = 0
+	"Tsugru #0" = 0
+	"Tsuktsen #0" = 0
+	"Udumtsen #0" = 0
+	"Wangchuk #0" = 0
+	"Wangdu #0" = 0
+	"Yongten #0" = 0
+	"Yontan #0" = 0
+	"Yülsung #0" = 0
+	"Yumtän #0" = 0
+	"Zanam #0" = 0
+	"Zangtsa #0" = 0
+	"Zhangtsun #0" = 0
+	"Zhonnu #0" = 0
+	"Zimun #0" = 0
+	"Zindé #0" = 0
+	"Zungtsen #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

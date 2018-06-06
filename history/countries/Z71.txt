@@ -1,0 +1,39 @@
+# Lombardia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 104
+1428.5.18 = {
+	monarch = {
+		name = "Buonconte"
+		birth_date = 1405.1.5
+		dynasty = "di Commacchio"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = martial_educator_personality
+}
+1443.11.11 = {
+	heir = {
+		name = "Giuditta"
+		monarch_name = "Giuditta"
+		dynasty = "di Commacchio"
+		birth_date = 1443.11.11
+		death_date = 1523.11.11
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 104
+	add_treasury = 4
+	add_prestige = 497
+}
