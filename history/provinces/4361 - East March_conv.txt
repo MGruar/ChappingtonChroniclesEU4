@@ -5,6 +5,7 @@ add_core = Z00
 culture = scottish
 religion = cathar
 citysize = 2000
+capital = "Dùn Bar"
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
