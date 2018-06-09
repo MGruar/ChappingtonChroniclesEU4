@@ -1,5 +1,5 @@
 # Gotland
-government = administrative_republic
+government = merchant_republic
 government_rank = 1
 mercantilism = 0.1
 technology_group = western

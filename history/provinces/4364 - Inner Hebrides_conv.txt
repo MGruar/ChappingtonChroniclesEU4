@@ -5,7 +5,6 @@ add_core = Z00
 culture = scottish
 religion = cathar
 citysize = 2000
-add_core = Z23
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
