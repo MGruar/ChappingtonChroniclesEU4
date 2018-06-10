@@ -1,8 +1,8 @@
 # Mali
 government = feudal_monarchy
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
-technology_group = sub_saharan
+technology_group = western
 primary_culture = scottish
 religion = cathar
 clear_scripted_personalities = yes
