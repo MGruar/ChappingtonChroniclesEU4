@@ -1,0 +1,25 @@
+# Gran Atlassia
+government = administrative_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 2461
+1444.1.1 = {
+	monarch = {
+		name = "Aileen"
+		birth_date = 1418.10.9
+		dynasty = "Chappington"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2461
+	add_treasury = 100
+	add_prestige = 400
+}

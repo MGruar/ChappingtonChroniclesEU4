@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z00
-controller = Z00
-add_core = Z00
+owner = Z27
+controller = Z27
+add_core = Z27
 culture = bedouin_arabic
 religion = cathar
 citysize = 2000
