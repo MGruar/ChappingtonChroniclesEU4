@@ -1,4 +1,4 @@
-# Mali
+# Maliland
 government = feudal_monarchy
 government_rank = 2
 mercantilism = 0.1

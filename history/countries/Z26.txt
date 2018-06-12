@@ -16,6 +16,16 @@ capital = 1
 		dip = 3
 		mil = 3
 	}
+	heir = {
+		name = "Ross"
+		monarch_name = "Ross"
+		dynasty = "Chappington"
+		birth_date = 1435.3.26
+		death_date = 1515.3.26
+		adm = 3
+		dip = 2
+		mil = 3
+	}
 }
 1444.11.11 = {
 	capital = 1
