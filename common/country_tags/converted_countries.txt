@@ -1,12 +1,8 @@
 Z00 = countries/Z00GreatMuirland.txt
 Z01 = countries/Z01Andalus.txt
-Z02 = countries/Z02Svedland.txt
 Z04 = countries/Z04Angsaxland.txt
 Z05 = countries/Z05Atlassia.txt
-Z06 = countries/Z06Daneland.txt
-Z07 = countries/Z07Gotland.txt
 Z08 = countries/Z08Africa.txt
-Z09 = countries/Z09Norseland.txt
 Z10 = countries/Z10Lowland.txt
 Z11 = countries/Z11Brythonia.txt
 Z12 = countries/Z12Valencia.txt
