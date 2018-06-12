@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z00
-controller = Z00
-add_core = Z00
+owner = Z26
+controller = Z26
+add_core = Z26
 culture = norse
 religion = catholic
 citysize = 2000
@@ -737,8 +737,8 @@ discovered_by = Y95
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z00
-	controller = Z00
+	owner = Z26
+	controller = Z26
 	culture = norse
 	religion = catholic
 }

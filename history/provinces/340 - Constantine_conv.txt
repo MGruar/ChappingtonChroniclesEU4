@@ -6,6 +6,7 @@ culture = berber
 religion = cathar
 citysize = 2000
 add_core = Z05
+add_core = Z08
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

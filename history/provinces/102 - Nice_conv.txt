@@ -7,7 +7,6 @@ religion = cathar
 citysize = 2000
 add_permanent_claim = BUR
 add_permanent_claim = Z48
-add_core = Z01
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

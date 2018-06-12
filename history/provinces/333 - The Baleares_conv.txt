@@ -6,6 +6,7 @@ culture = catalan
 religion = cathar
 citysize = 2000
 add_core = Z01
+add_core = Z12
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

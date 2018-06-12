@@ -6,6 +6,7 @@ culture = scottish
 religion = catholic
 citysize = 2000
 add_core = Z02
+add_core = Z07
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
