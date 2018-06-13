@@ -6,7 +6,6 @@ culture = tibetan
 religion = buddhism
 citysize = 2000
 add_permanent_claim = NPL
-add_core = Y67
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

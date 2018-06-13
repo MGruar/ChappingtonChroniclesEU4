@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z51
-controller = Z51
-add_core = Z51
+owner = GRE
+controller = GRE
+add_core = GRE
 culture = cosmopolitan_french
 religion = catholic
 citysize = 2000
@@ -34,7 +34,6 @@ discovered_by = Y95
 	remove_core = BYZ
 	remove_core = BUL
 	remove_core = CRO
-	remove_core = GRE
 	remove_core = SER
 	remove_core = HUN
 	remove_core = TUR
@@ -738,8 +737,8 @@ discovered_by = Y95
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z51
-	controller = Z51
+	owner = GRE
+	controller = GRE
 	culture = cosmopolitan_french
 	religion = catholic
 }

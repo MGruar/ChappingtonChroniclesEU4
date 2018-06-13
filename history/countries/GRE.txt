@@ -6,7 +6,7 @@ technology_group = muslim
 primary_culture = greek
 religion = orthodox
 clear_scripted_personalities = yes
-capital = 417
+capital = 146
 1437.5.15 = {
 	monarch = {
 		name = "Gabriel"
@@ -31,7 +31,7 @@ capital = 417
 	}
 }
 1444.11.11 = {
-	capital = 417
+	capital = 146
 	add_treasury = 44
 	add_prestige = 894
 }

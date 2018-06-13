@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z44
-controller = Z44
-add_core = Z44
+owner = GER
+controller = GER
+add_core = GER
 culture = scottish
 religion = cathar
 citysize = 2000
@@ -737,8 +737,8 @@ discovered_by = Y95
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z44
-	controller = Z44
+	owner = GER
+	controller = GER
 	culture = scottish
 	religion = cathar
 }

@@ -1,5 +1,5 @@
 vassal = {
-	first = Z51
+	first = GRE
 	second = Z52
 	start_date = 1444.11.11
 	end_date = 1900.1.1
