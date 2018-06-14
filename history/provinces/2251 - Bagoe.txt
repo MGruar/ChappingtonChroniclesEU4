@@ -1,0 +1,5 @@
+# Bagoe - Wasteland province
+discovered_by = sub_saharan
+discovered_by = Z00
+discovered_by = Z27
+discovered_by = Z34
