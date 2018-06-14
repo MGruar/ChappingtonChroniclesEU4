@@ -15,6 +15,9 @@ discovered_by = Y29
 discovered_by = Y30
 discovered_by = Y47
 discovered_by = Y95
+
+fort_15th = yes
+
 1444.11.11 = {
 	hre = no
 	base_tax = 6
