@@ -3,7 +3,7 @@ country_decisions = {
 	valencian_protectorate = {
 		major = yes
 		potential = {
-			tag = X00
+			tag = Z00
 			# Owns Valencia (TODO)
 			
 		}
