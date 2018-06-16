@@ -4,16 +4,53 @@ country_decisions = {
 		major = yes
 		potential = {
 			tag = Z00
-			# Owns Madrid (TODO)
-			
+			# Owns Madrid
+			owns = 217
 		}
 		provinces_to_highlight = {
-			# Provinces going to Iberia (TODO)
-			
+			OR = {
+				province_id = 222
+				province_id = 223
+				province_id = 226
+				province_id = 1749
+				province_id = 224
+				province_id = 225
+				province_id = 1748
+				province_id = 228
+				province_id = 232
+				province_id = 217
+				province_id = 211
+				province_id = 214
+				province_id = 2990
+				province_id = 2755
+				province_id = 215
+				province_id = 1746
+				province_id = 1851
+				province_id = 206
+				province_id = 209
+				province_id = 210
+				province_id = 2989
+				province_id = 2751
+				province_id = 219
+				province_id = 2754
+				province_id = 221
+				province_id = 231
+				province_id = 207
+				province_id = 230
+				province_id = 229
+				province_id = 4150
+				province_id = 227
+				province_id = 218
+				province_id = 1747
+				province_id = 216
+				province_id = 208
+				province_id = 1745
+			}
+			owned_by = ROOT
 		}
 		allow = {
-			# Owns Madrid (TODO)
-			
+			# Owns Madrid
+			owns = 217
 		}
 		effect = {
 			# Give provinces to Iberia, make Iberia a vassal (TODO)

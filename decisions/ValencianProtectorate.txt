@@ -5,15 +5,24 @@ country_decisions = {
 		potential = {
 			tag = Z00
 			# Owns Valencia (TODO)
-			
+			owns = 220
 		}
 		provinces_to_highlight = {
-			# Provinces going to Valencia (TODO)
-			
+			OR = {
+				province_id = 220
+				province_id = 1750
+				province_id = 2988
+				province_id = 213
+				province_id = 2987
+				province_id = 212
+				province_id = 197
+				province_id = 333
+			}
+			owned_by = ROOT
 		}
 		allow = {
 			# Owns Valencia (TODO)
-			
+			owns = 220
 		}
 		effect = {
 			# Give provinces to Valencia, make Valencia a vassal (TODO)
