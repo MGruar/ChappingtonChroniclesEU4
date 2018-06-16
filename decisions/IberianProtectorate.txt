@@ -1,0 +1,24 @@
+country_decisions = {
+
+	iberian_protectorate = {
+		major = yes
+		potential = {
+			tag = X00
+			# Owns Madrid (TODO)
+			
+		}
+		provinces_to_highlight = {
+			# Provinces going to Iberia (TODO)
+			
+		}
+		allow = {
+			# Owns Madrid (TODO)
+			
+		}
+		effect = {
+			# Give provinces to Iberia, make Iberia a vassal (TODO)
+			
+		}
+	}
+
+}

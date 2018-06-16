@@ -1,0 +1,24 @@
+country_decisions = {
+
+	valencian_protectorate = {
+		major = yes
+		potential = {
+			tag = X00
+			# Owns Valencia (TODO)
+			
+		}
+		provinces_to_highlight = {
+			# Provinces going to Valencia (TODO)
+			
+		}
+		allow = {
+			# Owns Valencia (TODO)
+			
+		}
+		effect = {
+			# Give provinces to Valencia, make Valencia a vassal (TODO)
+			
+		}
+	}
+
+}
