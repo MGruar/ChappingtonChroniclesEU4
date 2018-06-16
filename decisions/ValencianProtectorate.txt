@@ -6,26 +6,37 @@ country_decisions = {
 			tag = Z00
 			# Owns Valencia (TODO)
 			owns = 220
+			NOT = { exists = Z12 }
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 220
-				province_id = 1750
-				province_id = 2988
-				province_id = 213
-				province_id = 2987
-				province_id = 212
 				province_id = 197
+				province_id = 212
+				province_id = 213
+				province_id = 220
 				province_id = 333
+				province_id = 1750
+				province_id = 2987
+				province_id = 2988
 			}
 			owned_by = ROOT
 		}
 		allow = {
-			# Owns Valencia (TODO)
+			# Owns Valencia
 			owns = 220
 		}
 		effect = {
-			# Give provinces to Valencia, make Valencia a vassal (TODO)
+			# Give provinces to Valencia, make Valencia a vassal
+			197 = { cede_province = Z12 }
+			212 = { cede_province = Z12 }
+			213 = { cede_province = Z12 }
+			220 = { cede_province = Z12 }
+			333 = { cede_province = Z12 }
+			1750 = { cede_province = Z12 }
+			2987 = { cede_province = Z12 }
+			2988 = { cede_province = Z12 }
+			create_vassal = Z12
+			# Reduce Unrest, Liberty Desire, etc. (TODO)
 			
 		}
 	}

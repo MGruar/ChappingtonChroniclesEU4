@@ -6,6 +6,7 @@ country_decisions = {
 			tag = Z00
 			# Owns Madrid
 			owns = 217
+			NOT = { exists = Z02 }
 		}
 		provinces_to_highlight = {
 			OR = {
