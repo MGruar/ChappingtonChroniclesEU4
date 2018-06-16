@@ -10,42 +10,42 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 222
-				province_id = 223
-				province_id = 226
-				province_id = 1749
-				province_id = 224
-				province_id = 225
-				province_id = 1748
-				province_id = 228
-				province_id = 232
-				province_id = 217
-				province_id = 211
-				province_id = 214
-				province_id = 2990
-				province_id = 2755
-				province_id = 215
-				province_id = 1746
-				province_id = 1851
 				province_id = 206
+				province_id = 207
+				province_id = 208
 				province_id = 209
 				province_id = 210
-				province_id = 2989
-				province_id = 2751
-				province_id = 219
-				province_id = 2754
-				province_id = 221
-				province_id = 231
-				province_id = 207
-				province_id = 230
-				province_id = 229
-				province_id = 4150
-				province_id = 227
-				province_id = 218
-				province_id = 1747
+				province_id = 211
+				province_id = 214
+				province_id = 215
 				province_id = 216
-				province_id = 208
+				province_id = 217
+				province_id = 218
+				province_id = 219
+				province_id = 221
+				province_id = 222
+				province_id = 223
+				province_id = 224
+				province_id = 225
+				province_id = 226
+				province_id = 227
+				province_id = 228
+				province_id = 229
+				province_id = 230
+				province_id = 231
+				province_id = 232
 				province_id = 1745
+				province_id = 1746
+				province_id = 1747
+				province_id = 1748
+				province_id = 1749
+				province_id = 1851
+				province_id = 2751
+				province_id = 2754
+				province_id = 2755
+				province_id = 2989
+				province_id = 2990
+				province_id = 4150
 			}
 			owned_by = ROOT
 		}
@@ -54,7 +54,47 @@ country_decisions = {
 			owns = 217
 		}
 		effect = {
-			# Give provinces to Iberia, make Iberia a vassal (TODO)
+			# Give provinces to Iberia, make Iberia a vassal
+			206 = { cede_province = Z02 }
+			207 = { cede_province = Z02 }
+			208 = { cede_province = Z02 }
+			209 = { cede_province = Z02 }
+			210 = { cede_province = Z02 }
+			211 = { cede_province = Z02 }
+			214 = { cede_province = Z02 }
+			215 = { cede_province = Z02 }
+			216 = { cede_province = Z02 }
+			217 = { cede_province = Z02 }
+			218 = { cede_province = Z02 }
+			219 = { cede_province = Z02 }
+			221 = { cede_province = Z02 }
+			222 = { cede_province = Z02 }
+			223 = { cede_province = Z02 }
+			224 = { cede_province = Z02 }
+			225 = { cede_province = Z02 }
+			226 = { cede_province = Z02 }
+			227 = { cede_province = Z02 }
+			228 = { cede_province = Z02 }
+			229 = { cede_province = Z02 }
+			230 = { cede_province = Z02 }
+			231 = { cede_province = Z02 }
+			232 = { cede_province = Z02 }
+			1745 = { cede_province = Z02 }
+			1746 = { cede_province = Z02 }
+			1747 = { cede_province = Z02 }
+			1748 = { cede_province = Z02 }
+			1749 = { cede_province = Z02 }
+			1851 = { cede_province = Z02 }
+			2751 = { cede_province = Z02 }
+			2754 = { cede_province = Z02 }
+			2755 = { cede_province = Z02 }
+			2989 = { cede_province = Z02 }
+			2990 = { cede_province = Z02 }
+			4150 = { cede_province = Z02 }
+			create_vassal = Z02
+			# Reduce Unrest, Liberty Desire, etc. (TODO)
+			
+			# Set leader (TODO)
 			
 		}
 	}

@@ -4,7 +4,7 @@ country_decisions = {
 		major = yes
 		potential = {
 			tag = Z00
-			# Owns Valencia (TODO)
+			# Owns Valencia
 			owns = 220
 			NOT = { exists = Z12 }
 		}
@@ -37,6 +37,8 @@ country_decisions = {
 			2988 = { cede_province = Z12 }
 			create_vassal = Z12
 			# Reduce Unrest, Liberty Desire, etc. (TODO)
+			
+			# Set leader (TODO)
 			
 		}
 	}
