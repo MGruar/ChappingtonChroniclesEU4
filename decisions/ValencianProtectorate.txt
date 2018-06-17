@@ -27,17 +27,65 @@ country_decisions = {
 		}
 		effect = {
 			# Give provinces to Valencia, make Valencia a vassal
-			197 = { cede_province = Z12 }
-			212 = { cede_province = Z12 }
-			213 = { cede_province = Z12 }
-			220 = { cede_province = Z12 }
-			333 = { cede_province = Z12 }
-			1750 = { cede_province = Z12 }
-			2987 = { cede_province = Z12 }
-			2988 = { cede_province = Z12 }
-			create_vassal = Z12
+			197 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			212 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			213 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			220 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			333 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			1750 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			2987 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			2988 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z12
+				}
+				else = { add_core = Z12 }
+			}
+			Z00 = { vassalize = Z12 }
 			# Reduce Unrest, Liberty Desire, etc. (TODO)
-			
+			Z12 = { add_liberty_desire = -25 }
 			# Set leader (TODO)
 			
 		}

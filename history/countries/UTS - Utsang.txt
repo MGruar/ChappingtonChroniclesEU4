@@ -1,27 +1,36 @@
-# Lhasa
+# Ü-Tsang
 government = feudal_monarchy
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
 technology_group = chinese
 primary_culture = tibetan
-religion = confucianism
+religion = hinduism
 clear_scripted_personalities = yes
 capital = 677
-1401.7.12 = {
+1434.9.2 = {
 	monarch = {
-		name = "Ahiavadevi"
-		birth_date = 1401.4.24
-		dynasty = "Lig"
-		female = yes
-		adm = 3
-		dip = 3
+		name = "Tridra IV"
+		birth_date = 1421.5.27
+		dynasty = "Sakya"
+		adm = 1
+		dip = 2
 		mil = 4
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = fierce_negotiator_personality
+	heir = {
+		name = "Lha"
+		monarch_name = "Lha II"
+		dynasty = "Sakya"
+		birth_date = 1433.5.3
+		death_date = 1513.5.3
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
 	capital = 677
-	add_treasury = 17
-	add_prestige = 670
+	add_treasury = 27
+	add_prestige = -17
 }

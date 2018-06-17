@@ -55,45 +55,261 @@ country_decisions = {
 		}
 		effect = {
 			# Give provinces to Iberia, make Iberia a vassal
-			206 = { cede_province = Z02 }
-			207 = { cede_province = Z02 }
-			208 = { cede_province = Z02 }
-			209 = { cede_province = Z02 }
-			210 = { cede_province = Z02 }
-			211 = { cede_province = Z02 }
-			214 = { cede_province = Z02 }
-			215 = { cede_province = Z02 }
-			216 = { cede_province = Z02 }
-			217 = { cede_province = Z02 }
-			218 = { cede_province = Z02 }
-			219 = { cede_province = Z02 }
-			221 = { cede_province = Z02 }
-			222 = { cede_province = Z02 }
-			223 = { cede_province = Z02 }
-			224 = { cede_province = Z02 }
-			225 = { cede_province = Z02 }
-			226 = { cede_province = Z02 }
-			227 = { cede_province = Z02 }
-			228 = { cede_province = Z02 }
-			229 = { cede_province = Z02 }
-			230 = { cede_province = Z02 }
-			231 = { cede_province = Z02 }
-			232 = { cede_province = Z02 }
-			1745 = { cede_province = Z02 }
-			1746 = { cede_province = Z02 }
-			1747 = { cede_province = Z02 }
-			1748 = { cede_province = Z02 }
-			1749 = { cede_province = Z02 }
-			1851 = { cede_province = Z02 }
-			2751 = { cede_province = Z02 }
-			2754 = { cede_province = Z02 }
-			2755 = { cede_province = Z02 }
-			2989 = { cede_province = Z02 }
-			2990 = { cede_province = Z02 }
-			4150 = { cede_province = Z02 }
-			create_vassal = Z02
+			206 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			207 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			208 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			209 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			210 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			211 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			214 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			215 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			216 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			217 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			218 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			219 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			221 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			222 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			223 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			224 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			225 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			226 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			227 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			228 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			229 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			230 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			231 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			232 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			1745 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			1746 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			1747 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			1748 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			1749 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			1851 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			2751 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			2754 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			2755 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			2989 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			2990 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			4150 = {
+				if = {
+					limit = { owned_by = Z00 }
+					cede_province = Z02
+				}
+				else = { add_core = Z02 }
+			}
+			Z00 = { vassalize = Z02 }
 			# Reduce Unrest, Liberty Desire, etc. (TODO)
-			
+			Z02 = { add_liberty_desire = -25 }
 			# Set leader (TODO)
 			
 		}
