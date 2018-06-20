@@ -1,0 +1,346 @@
+great_muirland_continental_conquest = {
+	slot = 1
+	generic = no
+	ai = yes
+	
+	potential_on_load = {
+		has_dlc = "Rule Britannia"
+	}
+	potential = {
+		tag = Z00
+		has_dlc = "Rule Britannia"
+	}
+	has_country_shield = yes
+	
+	# Conquer Brittany
+	great_muirland_conquer_brittany = {
+		icon = mission_rb_conquer_brittany
+		required_missions = { }
+		position = 1
+		
+		provinces_to_highlight = {
+			area = brittany_area
+			NOT = { owned_by = ROOT }
+		}
+		
+		trigger = {
+			brittany_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		
+		effect = {
+			# Special Effect - TODO
+			
+			# New Claims
+			173 = { add_permanent_claim = ROOT }
+			174 = { add_permanent_claim = ROOT }
+			175 = { add_permanent_claim = ROOT }
+			176 = { add_permanent_claim = ROOT }
+			179 = { add_permanent_claim = ROOT }
+			180 = { add_permanent_claim = ROOT }
+			194 = { add_permanent_claim = ROOT }
+			195 = { add_permanent_claim = ROOT }
+			4111 = { add_permanent_claim = ROOT }
+			4112 = { add_permanent_claim = ROOT }
+			4387 = { add_permanent_claim = ROOT }
+			4389 = { add_permanent_claim = ROOT }
+		}
+	}
+	
+	# Conquer the Atlantic Coast of Francia
+	great_muirland_conquer_atlantic_francia = {
+		icon = mission_assemble_an_army
+		required_missions = { great_muirland_conquer_brittany }
+		position = 2
+		
+		provinces_to_highlight = {
+			OR = {
+				province_id = 173
+				province_id = 174
+				province_id = 175
+				province_id = 176
+				province_id = 179
+				province_id = 180
+				province_id = 194
+				province_id = 195
+				province_id = 4111
+				province_id = 4112
+				province_id = 4387
+				province_id = 4389
+			}
+			NOT = { owned_by = ROOT }
+		}
+		
+		trigger = {
+			owns = 173
+			owns = 174
+			owns = 175
+			owns = 176
+			owns = 179
+			owns = 180
+			owns = 194
+			owns = 195
+			owns = 4111
+			owns = 4112
+			owns = 4387
+			owns = 4389
+		}
+		
+		effect = {
+			# Special Effect - TODO
+			
+			# New Claims
+			196 = { add_permanent_claim = ROOT }
+			198 = { add_permanent_claim = ROOT }
+			200 = { add_permanent_claim = ROOT }
+			203 = { add_permanent_claim = ROOT }
+			204 = { add_permanent_claim = ROOT }
+			180 = { add_permanent_claim = ROOT }
+			194 = { add_permanent_claim = ROOT }
+			195 = { add_permanent_claim = ROOT }
+			2753 = { add_permanent_claim = ROOT }
+			4391 = { add_permanent_claim = ROOT }
+		}
+	}
+	
+	# Conquer the South of Francia
+	great_muirland_conquer_south_francia = {
+		icon = mission_assemble_an_army
+		required_missions = { great_muirland_conquer_atlantic_francia }
+		position = 3
+		
+		provinces_to_highlight = {
+			OR = {
+				province_id = 196
+				province_id = 198
+				province_id = 200
+				province_id = 203
+				province_id = 204
+				province_id = 2753
+				province_id = 4391
+			}
+			NOT = { owned_by = ROOT }
+		}
+		
+		trigger = {
+			owns = 196
+			owns = 198
+			owns = 200
+			owns = 203
+			owns = 204
+			owns = 2753
+			owns = 4391
+		}
+		
+		effect = {
+			# Special Effect - TODO
+			
+			# New Claims
+			185 = { add_permanent_claim = ROOT }
+			187 = { add_permanent_claim = ROOT }
+			189 = { add_permanent_claim = ROOT }
+			191 = { add_permanent_claim = ROOT }
+			192 = { add_permanent_claim = ROOT }
+			193 = { add_permanent_claim = ROOT }
+			1877 = { add_permanent_claim = ROOT }
+			4390 = { add_permanent_claim = ROOT }
+			4392 = { add_permanent_claim = ROOT }
+		}
+	}
+	
+	# Conquer Austrasia
+	great_muirland_conquer_west_germany = {
+		icon = mission_assemble_an_army
+		required_missions = { great_muirland_conquer_south_francia }
+		position = 4
+		
+		provinces_to_highlight = {
+			OR = {
+				province_id = 185
+				province_id = 187
+				province_id = 189
+				province_id = 191
+				province_id = 192
+				province_id = 193
+				province_id = 1877
+				province_id = 4390
+				province_id = 4392 
+			}
+			NOT = { owned_by = ROOT }
+		}
+		
+		trigger = {
+			owns = 185
+			owns = 187
+			owns = 189
+			owns = 191
+			owns = 192
+			owns = 193
+			owns = 1877
+			owns = 4390
+			owns = 4392 
+		}
+		
+		effect = {
+			# Special Effect - TODO
+			
+			# New Claims
+			118 = { add_permanent_claim = ROOT }
+		}
+	}
+	
+	# Conquer Rome!
+	great_muirland_conquer_rome = {
+		icon = mission_rb_mediterranean_authority
+		required_missions = { great_muirland_conquer_west_germany }
+		position = 5
+		
+		provinces_to_highlight = {
+			province_id = 118
+			NOT = { owned_by = ROOT }
+		}
+		
+		trigger = {
+			owns = 118
+		}
+		
+		effect = {
+			# Special Effect - TODO
+		}
+	}
+}
+
+great_muirland_western_colonization = {
+	slot = 5
+	generic = no
+	ai = yes
+	
+	potential_on_load = {
+		has_dlc = "Rule Britannia"
+	}
+	potential = {
+		tag = Z00
+		has_dlc = "Rule Britannia"
+	}
+	has_country_shield = yes
+	
+	# Find "America"
+	great_muirland_discover_america = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 4
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = miss_discover_eastern_america
+				colonial_eastern_america = { has_discovered = ROOT }
+			}
+			custom_trigger_tooltip = {
+				tooltip = miss_discover_caribbean
+				colonial_the_carribean = { has_discovered = ROOT }
+			}
+		}
+		
+		effect = {
+			# Special Effect - TODO
+		}
+	}
+	
+	# Settle Greenland
+	great_muirland_greenland = {
+		icon = mission_rb_settle_the_north
+		required_missions = { great_muirland_discover_america }
+		position = 5
+		
+		provinces_to_highlight = {
+			area = greenland_area
+			NOT = { owned_by = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = miss_discover_greenland
+				greenland_area = {
+					has_discovered = ROOT
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = miss_colonize_greenland
+				greenland_area = { 
+					type = all
+					owned_by = ROOT
+					is_city = yes
+				}
+			}
+		}
+		
+		effect = {
+			# Special Effect - TODO
+		}
+	}
+	
+	# Then Canada
+	great_muirland_canada = {
+		icon = mission_rb_colonise_canada
+		required_missions = { great_muirland_greenland }
+		position = 6
+		
+		provinces_to_highlight = {
+			colonial_region = colonial_canada
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = miss_discover_canada
+				colonial_canada = {
+					has_discovered = ROOT
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = miss_colonize_canada
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 1
+					colonial_region = colonial_canada
+					is_city = yes
+				}
+			}
+		}
+		
+		effect = {
+			# Special Effect - TODO
+		}
+	}
+	
+	# Further Down the Coast
+	great_muirland_further_south = {
+		icon = mission_rb_the_thirteen_colonies
+		required_missions = { great_muirland_canada }
+		position = 7
+		
+		provinces_to_highlight = {
+			colonial_region = colonial_eastern_america
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = eng_rb_own_thirteen_colonies.tooltip
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 15
+					colonial_region = colonial_eastern_america
+					is_city = yes
+				}
+			}
+		}
+		
+		effect = {
+			# Special Effect - TODO
+		}
+	}
+}
