@@ -1,0 +1,47 @@
+# Iberian Revolution Events - c. 1450-1500
+
+namespace = chapchron_iberian_revolution
+
+# Murmurs of Unrest
+country_event = {
+	id = chapchron_iberian_revolution.1
+	title = "chapchron_iberian_revolution.EVTNAME1"
+	desc = "chapchron_iberian_revolution.EVTDESC1"
+	picture = ECONOMY_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = Z00
+		year = 1450
+		NOT = { year = 1500 }
+		# Owns Madrid or Valencia
+		OR = {
+			owns = 217
+			owns = 220
+		}
+		# Either Iberia or Valencia do not exist
+		OR = {
+			NOT = { exists = Z02 }
+			NOT = { exists = Z12 }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	# Grant further autonomy to the parts of Iberia we control
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA1"
+		# TODO
+		
+	}
+	
+	# Don't give in - increase unrest
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTB1"
+		# TODO
+		
+	}
+}
