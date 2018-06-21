@@ -1,14 +1,10 @@
-great_muirland_continental_conquest = {
+great_muirland_western_continental_conquest = {
 	slot = 1
 	generic = no
 	ai = yes
 	
-	potential_on_load = {
-		has_dlc = "Rule Britannia"
-	}
 	potential = {
 		tag = Z00
-		has_dlc = "Rule Britannia"
 	}
 	has_country_shield = yes
 	
@@ -91,7 +87,7 @@ great_muirland_continental_conquest = {
 		effect = {
 			# Special Effect - TODO
 			
-			# New Claims
+			# New Claims on South Francia
 			190 = { add_permanent_claim = ROOT }
 			196 = { add_permanent_claim = ROOT }
 			198 = { add_permanent_claim = ROOT }
@@ -101,6 +97,8 @@ great_muirland_continental_conquest = {
 			204 = { add_permanent_claim = ROOT }
 			2753 = { add_permanent_claim = ROOT }
 			4391 = { add_permanent_claim = ROOT }
+			# New Claims on Inner Lowlands - TODO
+			
 		}
 	}
 	
@@ -209,6 +207,64 @@ great_muirland_continental_conquest = {
 		
 		effect = {
 			# Special Effect - TODO
+			
+		}
+	}
+}
+
+great_muirland_eastern_continental_conquest = {
+	slot = 2
+	generic = no
+	ai = yes
+	
+	potential = {
+		tag = Z00
+	}
+	has_country_shield = yes
+	
+	# Inner Lowlands
+	great_muirland_conquer_inner_lowlands = {
+		icon = mission_assemble_an_army
+		required_missions = { great_muirland_conquer_atlantic_francia }
+		position = 6
+		
+		provinces_to_highlight = {
+			# TODO
+			
+		}
+		
+		trigger = {
+			# TODO
+			
+		}
+		
+		effect = {
+			# Special Effect - TODO
+			
+			# Claims on Saxony
+			
+		}
+	}
+	
+	# Saxony
+	great_muirland_conquer_saxony = {
+		icon = mission_assemble_an_army
+		required_missions = { great_muirland_conquer_inner_lowlands }
+		position = 7
+		
+		provinces_to_highlight = {
+			# TODO
+			
+		}
+		
+		trigger = {
+			# TODO
+			
+		}
+		
+		effect = {
+			# Special Effect - TODO
+			
 		}
 	}
 }
@@ -218,12 +274,8 @@ great_muirland_western_colonization = {
 	generic = no
 	ai = yes
 	
-	potential_on_load = {
-		has_dlc = "Rule Britannia"
-	}
 	potential = {
 		tag = Z00
-		has_dlc = "Rule Britannia"
 	}
 	has_country_shield = yes
 	
@@ -246,6 +298,7 @@ great_muirland_western_colonization = {
 		
 		effect = {
 			# Special Effect - TODO
+			
 		}
 	}
 	
@@ -280,6 +333,7 @@ great_muirland_western_colonization = {
 		
 		effect = {
 			# Special Effect - TODO
+			
 		}
 	}
 	
@@ -314,6 +368,7 @@ great_muirland_western_colonization = {
 		
 		effect = {
 			# Special Effect - TODO
+			
 		}
 	}
 	
@@ -342,6 +397,7 @@ great_muirland_western_colonization = {
 		
 		effect = {
 			# Special Effect - TODO
+			
 		}
 	}
 }
