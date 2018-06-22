@@ -45,3 +45,23 @@ country_event = {
 		
 	}
 }
+
+# Revolt of Santiago
+
+
+# Revolt of Madrid
+
+
+# Revolt of Lisboa
+
+
+# Revolt of Granada
+
+
+# Revolt of Valencia
+
+
+# Revolt of Barcelona
+
+
+# Letter of Grievances
