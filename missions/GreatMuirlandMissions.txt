@@ -98,7 +98,14 @@ great_muirland_western_continental_conquest = {
 			2753 = { add_permanent_claim = ROOT }
 			4391 = { add_permanent_claim = ROOT }
 			# New Claims on Inner Lowlands - TODO
-			
+			80 = { add_permanent_claim = ROOT }
+			93 = { add_permanent_claim = ROOT }
+			94 = { add_permanent_claim = ROOT }
+			1742 = { add_permanent_claim = ROOT }
+			1760 = { add_permanent_claim = ROOT }
+			1866 = { add_permanent_claim = ROOT }
+			1878 = { add_permanent_claim = ROOT }
+			2974 = { add_permanent_claim = ROOT }
 		}
 	}
 	
@@ -229,20 +236,43 @@ great_muirland_eastern_continental_conquest = {
 		position = 6
 		
 		provinces_to_highlight = {
-			# TODO
-			
+			OR = {
+				province_id = 80
+				province_id = 93
+				province_id = 94
+				province_id = 1742
+				province_id = 1760
+				province_id = 1866
+				province_id = 1878
+				province_id = 2974
+			}
+			NOT = { owned_by = ROOT }
 		}
 		
 		trigger = {
-			# TODO
-			
+			owns = 80
+			owns = 93
+			owns = 94
+			owns = 1742
+			owns = 1760
+			owns = 1866
+			owns = 1878
+			owns = 2974
 		}
 		
 		effect = {
 			# Special Effect - TODO
 			
 			# Claims on Saxony
-			
+			55 = { add_permanent_claim = ROOT }
+			57 = { add_permanent_claim = ROOT }
+			81 = { add_permanent_claim = ROOT }
+			82 = { add_permanent_claim = ROOT }
+			83 = { add_permanent_claim = ROOT }
+			86 = { add_permanent_claim = ROOT }
+			1762 = { add_permanent_claim = ROOT }
+			2971 = { add_permanent_claim = ROOT }
+			2972 = { add_permanent_claim = ROOT }
 		}
 	}
 	
@@ -253,13 +283,30 @@ great_muirland_eastern_continental_conquest = {
 		position = 7
 		
 		provinces_to_highlight = {
-			# TODO
-			
+			OR = {
+				province_id = 55
+				province_id = 57
+				province_id = 81
+				province_id = 82
+				province_id = 83
+				province_id = 86
+				province_id = 1762
+				province_id = 2971
+				province_id = 2972 
+			}
+			NOT = { owned_by = ROOT }
 		}
 		
 		trigger = {
-			# TODO
-			
+			owns = 55
+			owns = 57
+			owns = 81
+			owns = 82
+			owns = 83
+			owns = 86
+			owns = 1762
+			owns = 2971
+			owns = 2972
 		}
 		
 		effect = {
