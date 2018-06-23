@@ -1,3 +1,38 @@
-namespace = chapchron_events
+namespace = chapchron_misc_events
 
 # Breton Border Conflict
+country_event = {
+	id = chapchron_misc_events.1
+	title = "chapchron_misc_events.EVTNAME1"
+	desc = "chapchron_misc_events.EVTDESC1"
+	picture = ACCUSATION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = Z00
+		year = 1444
+		OR = {
+			# Does not own Anywhere in Brittany
+			NOT { owns = 0 } # TODO
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	# Grant claims & negative relations
+	option = {
+		name = "chapchron_misc_events.EVTOPTA1"
+		# TODO
+		
+	}
+	
+	# Give up claims, get positive relations
+	option = {
+		name = "chapchron_misc_events.EVTOPTB1"
+		# TODO
+		
+	}
+}

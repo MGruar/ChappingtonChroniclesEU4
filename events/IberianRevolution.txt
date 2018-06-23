@@ -7,7 +7,7 @@ country_event = {
 	id = chapchron_iberian_revolution.1
 	title = "chapchron_iberian_revolution.EVTNAME1"
 	desc = "chapchron_iberian_revolution.EVTDESC1"
-	picture = ECONOMY_eventPicture
+	picture = RELIGIOUS_TURMOIL_eventPicture
 	
 	fire_only_once = yes
 	
@@ -47,21 +47,225 @@ country_event = {
 }
 
 # Revolt of Santiago
+country_event = {
+	id = chapchron_iberian_revolution.2
+	title = "chapchron_iberian_revolution.EVTNAME2"
+	desc = "chapchron_iberian_revolution.EVTDESC2"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
 
+	trigger = {
+		tag = Z00
+		year = 1458
+		NOT = { year = 1500 }
+		# Owns Santiago
+		owns = 0 # TODO
+		# Iberia does not exist
+		NOT = { exists = Z02 }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA2"
+		# TODO
+		
+	}
+}
 
 # Revolt of Madrid
+country_event = {
+	id = chapchron_iberian_revolution.3
+	title = "chapchron_iberian_revolution.EVTNAME3"
+	desc = "chapchron_iberian_revolution.EVTDESC3"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
 
+	trigger = {
+		tag = Z00
+		year = 1460
+		NOT = { year = 1500 }
+		# Owns Madrid
+		owns = 217
+		# Iberia does not exist
+		NOT = { exists = Z02 }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA3"
+		# TODO
+		
+	}
+}
 
 # Revolt of Lisboa
+country_event = {
+	id = chapchron_iberian_revolution.4
+	title = "chapchron_iberian_revolution.EVTNAME4"
+	desc = "chapchron_iberian_revolution.EVTDESC4"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
 
+	trigger = {
+		tag = Z00
+		year = 1461
+		NOT = { year = 1500 }
+		# Owns Lisboa
+		owns = 0 # TODO
+		# Iberia does not exist
+		NOT = { exists = Z02 }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA4"
+		# TODO
+		
+	}
+}
 
 # Revolt of Granada
+country_event = {
+	id = chapchron_iberian_revolution.5
+	title = "chapchron_iberian_revolution.EVTNAME5"
+	desc = "chapchron_iberian_revolution.EVTDESC5"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
 
+	trigger = {
+		tag = Z00
+		year = 1462
+		NOT = { year = 1500 }
+		# Owns Granada
+		owns = 0 # TODO
+		# Iberia does not exist
+		NOT = { exists = Z02 }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA5"
+		# TODO
+		
+	}
+}
 
 # Revolt of Valencia
+country_event = {
+	id = chapchron_iberian_revolution.6
+	title = "chapchron_iberian_revolution.EVTNAME6"
+	desc = "chapchron_iberian_revolution.EVTDESC6"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
 
+	trigger = {
+		tag = Z00
+		year = 1463
+		NOT = { year = 1500 }
+		# Owns Valencia
+		owns = 220
+		# Valencia does not exist
+		NOT = { exists = Z12 }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA6"
+		# TODO
+		
+	}
+}
 
 # Revolt of Barcelona
+country_event = {
+	id = chapchron_iberian_revolution.7
+	title = "chapchron_iberian_revolution.EVTNAME7"
+	desc = "chapchron_iberian_revolution.EVTDESC7"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
 
+	trigger = {
+		tag = Z00
+		year = 1464
+		NOT = { year = 1500 }
+		# Owns Barcelona
+		owns = 0 # TODO
+		# Valencia does not exist
+		NOT = { exists = Z12 }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA7"
+		# TODO
+		
+	}
+}
 
 # Letter of Grievances
+country_event = {
+	id = chapchron_iberian_revolution.8
+	title = "chapchron_iberian_revolution.EVTNAME8"
+	desc = "chapchron_iberian_revolution.EVTDESC8"
+	picture = REFORM_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = Z00
+		year = 1465
+		NOT = { year = 1500 }
+		# Owns Madrid or Valencia
+		OR = {
+			owns = 217
+			owns = 220
+		}
+		# Either Iberia or Valencia do not exist
+		OR = {
+			NOT = { exists = Z02 }
+			NOT = { exists = Z12 }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	# Grant further autonomy to the parts of Iberia we control
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTA8"
+		# TODO
+		
+	}
+	
+	# Don't give in - revolt!
+	option = {
+		name = "chapchron_iberian_revolution.EVTOPTB8"
+		# TODO
+		
+	}
+}
