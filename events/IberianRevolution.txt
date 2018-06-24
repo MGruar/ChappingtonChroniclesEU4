@@ -60,7 +60,7 @@ country_event = {
 		year = 1458
 		NOT = { year = 1500 }
 		# Owns Santiago
-		owns = 0 # TODO
+		owns = 206
 		# Iberia does not exist
 		NOT = { exists = Z02 }
 	}
@@ -120,7 +120,7 @@ country_event = {
 		year = 1461
 		NOT = { year = 1500 }
 		# Owns Lisboa
-		owns = 0 # TODO
+		owns = 227
 		# Iberia does not exist
 		NOT = { exists = Z02 }
 	}
@@ -150,7 +150,7 @@ country_event = {
 		year = 1462
 		NOT = { year = 1500 }
 		# Owns Granada
-		owns = 0 # TODO
+		owns = 223
 		# Iberia does not exist
 		NOT = { exists = Z02 }
 	}
@@ -210,7 +210,7 @@ country_event = {
 		year = 1464
 		NOT = { year = 1500 }
 		# Owns Barcelona
-		owns = 0 # TODO
+		owns = 213
 		# Valencia does not exist
 		NOT = { exists = Z12 }
 	}
