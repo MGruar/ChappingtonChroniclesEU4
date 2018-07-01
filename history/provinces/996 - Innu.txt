@@ -1,0 +1,15 @@
+#996 - Skrælingjarland
+owner = Z03
+controller = Z03
+add_core = Z03
+culture = norse
+religion = norse_pagan_reformed
+capital = "Skrælingjarland"
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+
+
+
+discovered_by = north_american
