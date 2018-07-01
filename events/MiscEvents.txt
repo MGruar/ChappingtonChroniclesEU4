@@ -13,8 +13,12 @@ country_event = {
 		tag = Z00
 		year = 1444
 		OR = {
-			# Does not own Anywhere in Brittany
-			NOT { owns = 0 } # TODO
+			# Does not own anywhere in Brittany
+			NOT { owns = 169 }
+			NOT { owns = 170 }
+			NOT { owns = 171 }
+			NOT { owns = 172 }
+			NOT { owns = 4384 }
 		}
 	}
 	
@@ -25,14 +29,32 @@ country_event = {
 	# Grant claims & negative relations
 	option = {
 		name = "chapchron_misc_events.EVTOPTA1"
-		# TODO
+		169 = { add_permanent_claim = ROOT }
+		170 = { add_permanent_claim = ROOT }
+		171 = { add_permanent_claim = ROOT }
+		172 = { add_permanent_claim = ROOT }
+		4384 = { add_permanent_claim = ROOT }
 		
+		170 = {
+			owner = {
+				add_opinion = {
+					who = Z00
+					modifier = opinion_angry
+				}
+			}
+		}
 	}
 	
 	# Give up claims, get positive relations
 	option = {
 		name = "chapchron_misc_events.EVTOPTB1"
-		# TODO
-		
+		170 = {
+			owner = {
+				add_opinion = {
+					who = Z00
+					modifier = opinion_grateful
+				}
+			}
+		}
 	}
 }

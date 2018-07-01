@@ -34,15 +34,25 @@ country_event = {
 	# Grant further autonomy to the parts of Iberia we control
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA1"
-		# TODO
-		
+		iberia_region = {
+			limit = {
+				NOT = { province_id = 197 } # Exclude French Basque Territory
+				owned_by = ROOT
+			}
+			add_local_autonomy = 10
+		}
 	}
 	
 	# Don't give in - increase unrest
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTB1"
-		# TODO
-		
+		iberia_region = {
+			limit = {
+				NOT = { province_id = 197 } # Exclude French Basque Territory
+				owned_by = ROOT
+			}
+			add_unrest = 4
+		}
 	}
 }
 
@@ -71,8 +81,7 @@ country_event = {
 	
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA2"
-		# TODO
-		
+		206 = { create_revolt = 40 }
 	}
 }
 
@@ -101,8 +110,7 @@ country_event = {
 	
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA3"
-		# TODO
-		
+		217 = { create_revolt = 40 }
 	}
 }
 
@@ -131,8 +139,7 @@ country_event = {
 	
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA4"
-		# TODO
-		
+		227 = { create_revolt = 40 }
 	}
 }
 
@@ -161,8 +168,7 @@ country_event = {
 	
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA5"
-		# TODO
-		
+		223 = { create_revolt = 40 }
 	}
 }
 
@@ -191,8 +197,7 @@ country_event = {
 	
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA6"
-		# TODO
-		
+		220 = { create_revolt = 40 }
 	}
 }
 
@@ -221,8 +226,7 @@ country_event = {
 	
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA7"
-		# TODO
-		
+		213 = { create_revolt = 40 }
 	}
 }
 
@@ -258,14 +262,23 @@ country_event = {
 	# Grant further autonomy to the parts of Iberia we control
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA8"
-		# TODO
-		
+		iberia_region = {
+			limit = {
+				NOT = { province_id = 197 } # Exclude French Basque Territory
+				owned_by = ROOT
+			}
+			add_local_autonomy = 10
+		}
 	}
 	
 	# Don't give in - revolt!
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTB8"
-		# TODO
-		
+		206 = { create_revolt = 30 }
+		217 = { create_revolt = 30 }
+		227 = { create_revolt = 30 }
+		223 = { create_revolt = 30 }
+		220 = { create_revolt = 30 }
+		213 = { create_revolt = 30 }
 	}
 }

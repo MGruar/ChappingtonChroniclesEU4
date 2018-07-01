@@ -27,8 +27,17 @@ great_muirland_western_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Development in Brittany
+			169 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			170 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
 			# New Claims
 			173 = { add_permanent_claim = ROOT }
 			174 = { add_permanent_claim = ROOT }
@@ -85,8 +94,12 @@ great_muirland_western_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			174 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 			# New Claims on South Francia
 			190 = { add_permanent_claim = ROOT }
 			196 = { add_permanent_claim = ROOT }
@@ -141,8 +154,12 @@ great_muirland_western_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			200 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 			# New Claims
 			185 = { add_permanent_claim = ROOT }
 			187 = { add_permanent_claim = ROOT }
@@ -190,8 +207,12 @@ great_muirland_western_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			4390 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 			# New Claims
 			118 = { add_permanent_claim = ROOT }
 		}
@@ -213,8 +234,12 @@ great_muirland_western_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			118 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 		}
 	}
 }
@@ -261,8 +286,12 @@ great_muirland_eastern_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			93 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 			# Claims on Saxony
 			55 = { add_permanent_claim = ROOT }
 			57 = { add_permanent_claim = ROOT }
@@ -310,8 +339,12 @@ great_muirland_eastern_continental_conquest = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			55 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 		}
 	}
 }
@@ -379,8 +412,17 @@ great_muirland_western_colonization = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			# Extra Development
+			1104 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
+			1105 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
 		}
 	}
 	
@@ -414,8 +456,10 @@ great_muirland_western_colonization = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			add_country_modifier = {
+				name = "eng_rb_established_shipping"
+				duration = 7300
+			}
 		}
 	}
 	
@@ -443,8 +487,10 @@ great_muirland_western_colonization = {
 		}
 		
 		effect = {
-			# Special Effect - TODO
-			
+			add_country_modifier = {
+				name = "eng_rb_thirteen_colonies_mod"
+				duration = -1
+			}
 		}
 	}
 }

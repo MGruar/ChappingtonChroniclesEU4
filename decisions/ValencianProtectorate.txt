@@ -84,10 +84,8 @@ country_decisions = {
 				else = { add_core = Z12 }
 			}
 			Z00 = { vassalize = Z12 }
-			# Reduce Unrest, Liberty Desire, etc. (TODO)
+			# Reduce Liberty Desire
 			Z12 = { add_liberty_desire = -25 }
-			# Set leader (TODO)
-			
 		}
 	}
 
