@@ -58,6 +58,7 @@ country_decisions = {
 			206 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -65,6 +66,7 @@ country_decisions = {
 			207 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -72,6 +74,7 @@ country_decisions = {
 			208 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -79,6 +82,7 @@ country_decisions = {
 			209 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -86,6 +90,7 @@ country_decisions = {
 			210 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -93,6 +98,7 @@ country_decisions = {
 			211 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -100,6 +106,7 @@ country_decisions = {
 			214 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -107,6 +114,7 @@ country_decisions = {
 			215 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -114,6 +122,7 @@ country_decisions = {
 			216 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -121,6 +130,7 @@ country_decisions = {
 			217 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -128,6 +138,7 @@ country_decisions = {
 			218 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -135,6 +146,7 @@ country_decisions = {
 			219 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -142,6 +154,7 @@ country_decisions = {
 			221 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -149,6 +162,7 @@ country_decisions = {
 			222 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -156,6 +170,7 @@ country_decisions = {
 			223 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -163,6 +178,7 @@ country_decisions = {
 			224 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -170,6 +186,7 @@ country_decisions = {
 			225 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -177,6 +194,7 @@ country_decisions = {
 			226 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -184,6 +202,7 @@ country_decisions = {
 			227 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -191,6 +210,7 @@ country_decisions = {
 			228 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -198,6 +218,7 @@ country_decisions = {
 			229 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -205,6 +226,7 @@ country_decisions = {
 			230 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -212,6 +234,7 @@ country_decisions = {
 			231 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -219,6 +242,7 @@ country_decisions = {
 			232 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -226,6 +250,7 @@ country_decisions = {
 			1745 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -233,6 +258,7 @@ country_decisions = {
 			1746 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -240,6 +266,7 @@ country_decisions = {
 			1747 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -247,6 +274,7 @@ country_decisions = {
 			1748 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -254,6 +282,7 @@ country_decisions = {
 			1749 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -261,6 +290,7 @@ country_decisions = {
 			1851 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -268,6 +298,7 @@ country_decisions = {
 			2751 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -275,6 +306,7 @@ country_decisions = {
 			2754 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -282,6 +314,7 @@ country_decisions = {
 			2755 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -289,6 +322,7 @@ country_decisions = {
 			2989 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -296,6 +330,7 @@ country_decisions = {
 			2990 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
@@ -303,6 +338,7 @@ country_decisions = {
 			4150 = {
 				if = {
 					limit = { owned_by = Z00 }
+					add_unrest = -4
 					cede_province = Z02
 				}
 				else = { add_core = Z02 }
