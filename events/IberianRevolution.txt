@@ -35,6 +35,7 @@ country_event = {
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA1"
 		iberia_region = {
+			type = all
 			limit = {
 				NOT = { province_id = 197 } # Exclude French Basque Territory
 				owned_by = ROOT
@@ -47,6 +48,7 @@ country_event = {
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTB1"
 		iberia_region = {
+			type = all
 			limit = {
 				NOT = { province_id = 197 } # Exclude French Basque Territory
 				owned_by = ROOT
@@ -263,6 +265,7 @@ country_event = {
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTA8"
 		iberia_region = {
+			type = all
 			limit = {
 				NOT = { province_id = 197 } # Exclude French Basque Territory
 				owned_by = ROOT
