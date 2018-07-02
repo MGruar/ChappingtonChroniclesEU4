@@ -13,8 +13,8 @@ country_event = {
 	
 	trigger = {
 		tag = Z00
-		year = 1450
-		NOT = { year = 1500 }
+		is_year = 1450
+		NOT = { is_year = 1500 }
 		# Owns Madrid or Valencia
 		OR = {
 			owns = 217
@@ -69,8 +69,8 @@ country_event = {
 
 	trigger = {
 		tag = Z00
-		year = 1458
-		NOT = { year = 1500 }
+		is_year = 1458
+		NOT = { is_year = 1500 }
 		# Owns Santiago
 		owns = 206
 		# Iberia does not exist
@@ -98,8 +98,8 @@ country_event = {
 
 	trigger = {
 		tag = Z00
-		year = 1460
-		NOT = { year = 1500 }
+		is_year = 1460
+		NOT = { is_year = 1500 }
 		# Owns Madrid
 		owns = 217
 		# Iberia does not exist
@@ -127,8 +127,8 @@ country_event = {
 
 	trigger = {
 		tag = Z00
-		year = 1461
-		NOT = { year = 1500 }
+		is_year = 1461
+		NOT = { is_year = 1500 }
 		# Owns Lisboa
 		owns = 227
 		# Iberia does not exist
@@ -156,8 +156,8 @@ country_event = {
 
 	trigger = {
 		tag = Z00
-		year = 1462
-		NOT = { year = 1500 }
+		is_year = 1462
+		NOT = { is_year = 1500 }
 		# Owns Granada
 		owns = 223
 		# Iberia does not exist
@@ -185,8 +185,8 @@ country_event = {
 
 	trigger = {
 		tag = Z00
-		year = 1463
-		NOT = { year = 1500 }
+		is_year = 1463
+		NOT = { is_year = 1500 }
 		# Owns Valencia
 		owns = 220
 		# Valencia does not exist
@@ -214,8 +214,8 @@ country_event = {
 
 	trigger = {
 		tag = Z00
-		year = 1464
-		NOT = { year = 1500 }
+		is_year = 1464
+		NOT = { is_year = 1500 }
 		# Owns Barcelona
 		owns = 213
 		# Valencia does not exist
@@ -243,8 +243,8 @@ country_event = {
 	
 	trigger = {
 		tag = Z00
-		year = 1465
-		NOT = { year = 1500 }
+		is_year = 1465
+		NOT = { is_year = 1500 }
 		# Owns Madrid or Valencia
 		OR = {
 			owns = 217

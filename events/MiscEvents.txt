@@ -11,7 +11,7 @@ country_event = {
 	
 	trigger = {
 		tag = Z00
-		year = 1444
+		is_year = 1444
 		OR = {
 			# Does not own anywhere in Brittany
 			NOT { owns = 169 }
