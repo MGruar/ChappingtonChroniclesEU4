@@ -1,11 +1,12 @@
-#923 - Pensacola
+#928 - Apalachee
 owner = Z06
 controller = Z06
 add_core = Z06
 culture = aztek
 religion = nahuatl
-capital = "Pensacola"
+capital = "Apalachee"
 trade_goods = cotton
+hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
