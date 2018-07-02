@@ -4,6 +4,7 @@ Z02 = countries/Z02Iberia.txt
 Z03 = countries/Z03Vinland.txt
 Z04 = countries/Z04Angsaxland.txt
 Z05 = countries/Z05Atlassia.txt
+Z06 = countries/Z06Acatl.txt
 Z08 = countries/Z08Africa.txt
 Z10 = countries/Z10Lowland.txt
 Z11 = countries/Z11Brythonia.txt

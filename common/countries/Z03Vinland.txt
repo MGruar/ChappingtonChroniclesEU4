@@ -1,6 +1,6 @@
 # Vinland
 graphical_culture = westerngfx
-color = { 170 170 210 }
+color = { 48 64 126 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas

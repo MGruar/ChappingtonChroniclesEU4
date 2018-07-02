@@ -1,0 +1,15 @@
+# No previous file for Mayaimi
+owner = Z06
+controller = Z06
+add_core = Z06
+culture = aztek
+religion = nahuatl
+capital = "Mayaimi"
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+
+
+
+discovered_by = north_american
