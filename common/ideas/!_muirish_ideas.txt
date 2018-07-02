@@ -1,0 +1,37 @@
+muirish_ideas = {
+	start = {
+		may_recruit_female_generals = yes
+		max_states = 6
+	}
+	
+	bonus = {
+		administrative_efficiency = 0.1
+	}
+	
+	trigger = {
+		tag = Z00
+	}
+	free = yes
+	
+	muirish_naval_transportation = {
+		transport_cost = -0.1
+	}
+	muirish_equal_opportunity_cabinet = {
+		female_advisor_chance = 0.4
+	}
+	muirish_assimilation = {
+		culture_conversion_cost = -0.15
+	}
+	muirish_navy = {
+		naval_forcelimit_modifier = 0.15
+	}
+	muirish_institution_spread = {
+		global_institution_spread = 0.1
+	}
+	muirish_land_siege = {
+		siege_ability = 0.1
+	}
+	muirish_naval_siege = {
+		siege_blockade_progress = 1
+	}
+}
