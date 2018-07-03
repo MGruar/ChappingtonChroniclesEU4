@@ -21,5 +21,5 @@
  great_muirland_canada_desc: "We should exert control over this new continent - Canada would be the best place to start."
  great_muirland_further_south_title: "Venture South"
  great_muirland_further_south_desc: "Further south are much more fertile and promising lands - a substantial colonisation effort would be an excellent idea."
- miss_discover_eastern_america:0 "§Y[Root.GetName]§! has discovered any province in the West Atlantic colonial region."
- miss_colonize_eastern_america:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the West Atlantic colonial region."
+ miss_discover_eastern_america:1 "§Y[Root.GetName]§! has discovered any province in the West Atlantic colonial region."
+ miss_colonize_eastern_america:1 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the West Atlantic colonial region."

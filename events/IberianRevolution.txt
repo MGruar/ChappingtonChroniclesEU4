@@ -277,11 +277,41 @@ country_event = {
 	# Don't give in - revolt!
 	option = {
 		name = "chapchron_iberian_revolution.EVTOPTB8"
-		206 = { create_revolt = 30 }
-		217 = { create_revolt = 30 }
-		227 = { create_revolt = 30 }
-		223 = { create_revolt = 30 }
-		220 = { create_revolt = 30 }
-		213 = { create_revolt = 30 }
+		206 = {
+			if = {
+				limit = { owned_by = Z00 }
+				create_revolt = 30
+			}
+		}
+		217 = {
+			if = {
+				limit = { owned_by = Z00 }
+				create_revolt = 30
+			}
+		}
+		227 = {
+			if = {
+				limit = { owned_by = Z00 }
+				create_revolt = 30
+			}
+		}
+		223 = {
+			if = {
+				limit = { owned_by = Z00 }
+				create_revolt = 30
+			}
+		}
+		220 = {
+			if = {
+				limit = { owned_by = Z00 }
+				create_revolt = 30
+			}
+		}
+		213 = {
+			if = {
+				limit = { owned_by = Z00 }
+				create_revolt = 30
+			}
+		}
 	}
 }
