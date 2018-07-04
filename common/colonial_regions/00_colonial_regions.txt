@@ -349,6 +349,57 @@ colonial_canada = {
 		}
 		name = "COLONIAL_CANADA_Nova_Hollandia"
 	}
+	names = {
+		trigger = {
+			OR = {
+				tag = BRI
+				primary_culture = breton
+			}
+		}
+		name = "COLONIAL_CANADA_Nova_Brittania"
+	}
+	names = {
+		trigger = {
+			primary_culture = turkish
+		}
+		name = "COLONIAL_CANADA_buz_arazi"
+	}
+	names = {
+		trigger = {
+			primary_culture = korean
+		}
+		name = "COLONIAL_CANADA_eol_eum_ui_ttang"
+	}
+	names = {
+		trigger = {
+				tag = SPA
+			}
+			name = "COLONIAL_CANADA_Fría_España"
+	}
+	names = {
+		trigger = {
+				tag = CAS
+		}
+		name = "COLONIAL_CANADA_Fría_Castilla"
+	}
+	names = {
+		trigger = {
+			culture_group = irish
+		}
+		name = "COLONIAL_CANADA_Ceanada"
+	}
+	names = {
+		trigger = {
+			culture_group = russian
+		}
+		name = "COLONIAL_CANADA_Kanada"
+	}
+	names = {
+		trigger = {
+				tag = HSA
+		}
+		name = "COLONIAL_CANADA_Kanadahof"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_CANADA_Root_Culture_GetName_Canada"
@@ -543,6 +594,30 @@ colonial_eastern_america = {
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Nova_Catalunya"
 	}
+	names = {
+		trigger = {
+			tag = HSA
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Westkontor"
+	}
+	names = {
+		trigger = {
+			culture_group = scandinavian
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nygard"
+	}	
+	names = {
+		trigger = {
+				tag = POR
+			}
+		name = "COLONIAL_EASTERN_AMERICA_Novo_Sebastião"
+	}	
+	names = {
+		trigger = {
+				tag = TUR
+			}
+		name = "COLONIAL_EASTERN_AMERICA_Dogu_Amerika"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_REGION_New_Root_GetName"
@@ -734,6 +809,74 @@ colonial_louisiana = {
 			}
 		}
 		name = "COLONIAL_LOUISIANA_Jacobinia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = NED
+				tag = HOL
+				primary_culture = dutch
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Orangia"
+	}
+	names = {
+		trigger = {
+				culture_group = german
+		}
+		name = "COLONIAL_LOUISIANA_Wilhelmia"
+	}
+	names = {
+		trigger = {
+				culture_group = scandinavian
+		}
+		name = "COLONIAL_LOUISIANA_Konugard"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = IRE
+				culture_group = celtic
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Abhainn_Mhór"
+	}
+	names = {
+		trigger = {
+				tag = TUR
+			}
+		name = "COLONIAL_LOUISIANA_güçlü_nehir"
+	}
+	names = {
+		trigger = {
+				tag = POR
+			}
+		name = "COLONIAL_LOUISIANA_rio_da_vida"
+	}	
+	names = {
+		trigger = {
+				tag = SCO
+			}
+		name = "COLONIAL_LOUISIANA_Lowlands"
+	}	
+	names = {
+		trigger = {
+			OR = {
+				tag = GBR
+				tag = ENG
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Great_Plains"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = SPA
+				tag = CAS
+				tag = ARA
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Isabellania"
 	}
 	# Generic
 	names = {
@@ -963,6 +1106,54 @@ colonial_california = {
 		}
 		name = "COLONIAL_CALIFORNIA_Nova_Valencia"
 	}
+	names = {
+		trigger = {
+			culture_group = scandinavian
+		}
+		name = "COLONIAL_CALIFORNIA_stillahavskusten"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_côte_pacifique"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = IRE
+				culture_group = gaelic
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Adhmad_Dearg"
+	}
+	names = {
+		trigger = {
+				tag = POR
+			}
+		name = "COLONIAL_CALIFORNIA_águas_calmas"
+	}
+	names = {
+		trigger = {
+				tag = SCO
+			}
+		name = "COLONIAL_CALIFORNIA_New_Edinburgh"
+	}	
+	names = {
+		trigger = {
+			primary_culture = russian
+		}
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+	names = {
+		trigger = {
+			primary_culture = korean
+		}
+		name = "COLONIAL_CALIFORNIA_bugseojjog_san"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_CALIFORNIA_Pacifica"
@@ -1126,6 +1317,38 @@ colonial_mexico = {
 			primary_culture = catalan
 		}
 		name = "COLONIAL_MEXICO_Nou_Urgell"
+	}
+	names = {
+		trigger = {
+				tag = POR
+			}
+		name = "COLONIAL_MEXICO_Nova_de_Lisboa"
+	}	
+	names = {
+		trigger = {
+				tag = SCO
+			}
+		name = "COLONIAL_MEXICO_The_Middlelands"
+	}	
+	names = {
+		trigger = {
+			culture_group = scandinavian
+			owns = 17 # the city of Oslo/Christiania
+		}
+		name = "COLONIAL_MEXICO_Great_Christiania"
+	}
+	names = {
+		trigger = {
+			primary_culture = dutch
+		}
+		name = "COLONIAL_MEXICO_Golfstaten"
+	}
+	names = {
+		trigger = {
+			culture_group = german
+			NOT = { culture = dutch }
+		}
+		name = "COLONIAL_MEXICO_Teutonica"
 	}
 	# Generic
 	names = {
@@ -1461,6 +1684,78 @@ colonial_colombia = {
 		}
 		name = "COLONIAL_COLOMBIA_Veneziella"
 	}
+	names = {
+		trigger = {
+			owns = 744
+			OR = {
+				tag = SPA
+				tag = CAS
+				tag = ARA
+			}
+		}
+		name = "COLONIAL_GUYANA_Las_Guayanas"
+	}
+	names = {
+		trigger = {
+			owns = 744
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+		}
+		name = "COLONIAL_GUYANA_Guyane"
+	}
+	names = {
+		trigger = {
+			owns = 745
+			OR = {
+				tag = NED
+				tag = HOL
+				primary_culture = dutch
+			}
+		}
+		name = "COLONIAL_GUYANA_Suriname"
+	}
+	names = {
+			trigger = {
+			owns = 744
+			}
+		name = "COLONIAL_GUYANA_Root_Culture_GetName_Guyana"
+	}
+	names = {
+		trigger = {
+			culture_group = german
+			NOT = {culture = dutch}
+		}
+		name = "COLONIAL_COLOMBIA_Klein_Venedig"
+	}	
+	names = {
+		trigger = {
+			culture_group = scandinavian
+		}
+		name = "COLONIAL_COLOMBIA_Holmgard"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = IRE
+				culture_group = celtic
+			}
+		}
+		name = "COLONIAL_COLOMBIA_An_Cholóim"
+	}
+	names = {
+		trigger = {
+				tag = POR
+			}
+		name = "COLONIAL_COLOMBIA_pela_baía"
+	}	
+	names = {
+		trigger = {
+				tag = SCO
+			}
+		name = "COLONIAL_COLOMBIA_New_Glasgow"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia"
@@ -1569,6 +1864,18 @@ colonial_peru = {
 			primary_culture = catalan
 		}
 		name = "COLONIAL_PERU_Terres_Altes"
+	}
+	names = {
+		trigger = {
+				tag = POR
+			}
+		name = "COLONIAL_PERU_Cordilheira_dos_Andes"
+	}	
+	names = {
+		trigger = {
+				tag = SCO
+			}
+		name = "COLONIAL_PERU_Andes_Highlands"
 	}
 	# Generic
 	names = {
@@ -1713,6 +2020,36 @@ colonial_la_plata = {
 			}
 		}
 		name = "COLONIAL_LA_PLATA_Argentina"
+	}
+	names = {
+		trigger = {
+			culture = dutch
+		}
+		name = "COLONIAL_LA_PLATA_Argentijn"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+		}
+		name = "COLONIAL_LA_PLATA_rivière_dargent"
+	}
+	names = {
+		trigger = {
+				tag = SCO
+			}
+		name = "COLONIAL_LA_PLATA_Cape_Horn"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = IRE
+				culture_group = celtic
+			}
+		}
+		name = "COLONIAL_LA_PLATA_abhainn_airgid"
 	}
 	# Generic
 	names = {
@@ -1891,6 +2228,12 @@ colonial_brazil = {
 		}
 		name = "COLONIAL_BRAZIL_Amazonia"
 	}
+	names = {
+		trigger = {
+			culture_group = british
+		}
+		name = "COLONIAL_BRAZIL_South_Atlantic_Colonies"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_BRAZIL_Root_Culture_GetName_Brazil"
@@ -1961,6 +2304,95 @@ colonial_australia = {
 			}
 		}
 		name = "COLONIAL_AUSTRALIA_New_Holland"
+	}
+	names = {
+		trigger = {
+			primary_culture = korean
+		}
+		name = "COLONIAL_AUSTRALIA_hoju"
+	}
+	names = {
+		trigger = {
+			primary_culture = turkish
+		}
+		name = "COLONIAL_AUSTRALIA_yalniz_ada"
+	}
+	names = {
+		trigger = {
+			primary_culture = russian
+		}
+		name = "COLONIAL_AUSTRALIA_Avstraliya"
+	}
+	names = {
+		trigger = {
+				tag = SCO	
+			}
+		name = "COLONIAL_AUSTRALIA_New_Shetland"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = ENG
+				tag = GBR
+			}
+			owns = 1084 #
+		}
+		name = "COLONIAL_AUSTRALIA_New_South_Wales"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = NED
+				tag = HOL
+				primary_culture = dutch
+			}
+			owns = 1085 # tasmania
+		}
+		name = "COLONIAL_AUSTRALIA_Tasmania"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture = dutch
+			}
+			owns = 1107 #new zealand
+			owns = 96 #zeeland
+		}
+		name = "COLONIAL_AUSTRALIA_Nieuw_Zeeland"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = ENG
+				tag = GBR
+			}
+			owns = 1107 #new zealand
+		}
+		name = "COLONIAL_AUSTRALIA_New_Zealand"
+	}
+	names = {
+		trigger = {
+			culture_group = scandinavian
+			owns = 12 #Sjælland
+			owns = 1107 #new zealand
+		}
+		name = "COLONIAL_AUSTRALIA_Nya_sjaelland"
+	}
+	names = {
+		trigger = {
+			tag = POR
+		}
+		name = "COLONIAL_AUSTRALIA_Magalhaesia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = ENG
+				tag = GBR
+			}
+			owns = 1084 
+		}
+		name = "COLONIAL_AUSTRALIA_New_Zealand"
 	}
 	# Generic
 	names = {
