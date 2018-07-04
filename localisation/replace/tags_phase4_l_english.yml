@@ -1,0 +1,94 @@
+﻿l_english:
+ MRE:0 "Mareexaan" #Marehan
+ MRE_ADJ:0 "Marehan"
+ MJE:0 "Majeerteen" #no changes
+ MJE_ADJ:0 "Majeerteen"
+ WAR:0 "Warsangeli" #Warsangali
+ WAR_ADJ:0 "Warsangali"
+ HOB:0 "Hobyaa" #Hobyo
+ HOB_ADJ:0 "Hobyo"
+ GLE:0 "Geledi" ##no changes
+ GLE_ADJ:0 "Geledi"
+ KAF:0 "Kaffa" ##no changes
+ KAF_ADJ:0 "Kaffa"
+ MED:0 "Medri Bahri" #no changes
+ MED_ADJ:0 "Medri Bahri"
+ HAR:0 "Harrar" #Harar
+ HAR_ADJ:0 "Harar"
+ AFA:0 "Afar" #Aussa
+ AFA_ADJ:0 "Aussa"
+ ALO:0 "Alodia" ##no changes
+ ALO_ADJ:0 "Alodia"
+ PTE:0 "Pate" ##no changes
+ PTE_ADJ:0 "Pate"
+ DAR:0 "Dar Fur" #Darfur
+ DAR_ADJ:0 "Darfur"
+ CSU:0 "Qusqu" #Cusco
+ CSU_ADJ:0 "Cuscoan"
+ CCQ:0 "Calchaqui" ##no changes
+ CCQ_ADJ:0 "Calchaqui"
+ MPC:0 "Mapuche" ##no changes
+ MPC_ADJ:0 "Mapuche"
+ MCA:0 "Muisca" ##no changes
+ MCA_ADJ:0 "Muiscan"
+ QTO:0 "Quitu" #Quito
+ QTO_ADJ:0 "Quitoan"
+ CJA:0 "Cajamarca" ##no changes
+ CJA_ADJ:0 "Cajamarcan"
+ HJA:0 "Huyla" ##no changes
+ HJA_ADJ:0 "Huylan"
+ PTG:0 "Potiguara" ##no changes
+ PTG_ADJ:0 "Potiguaran"
+ TPQ:0 "Tupinã-ki" #Tupiniquim
+ TPQ_ADJ:0 "Tupiniquim"
+ TUA:0 "Tapuia" ##no changes
+ TUA_ADJ:0 "Tapuian"
+ GUA:0 "Abá" #Guarani
+ GUA_ADJ:0 "Guarani"
+ CUA:0 "Charrúa" #Charrua
+ CUA_ADJ:0 "Charruan"
+ WKA:0 "Wanka" #no changes
+ WKA_ADJ:0 "Wankan"
+ CYA:0 "Chachapoya" ##no changes
+ CYA_ADJ:0 "Chachapoyan"
+ CLA:0 "Qulla" #Colla
+ CLA_ADJ:0 "Collan"
+ CRA:0 "Charca" ##no changes
+ CRA_ADJ:0 "Charcan"
+ PCJ:0 "Pacajes" ##no changes
+ PCJ_ADJ:0 "Pacajan"
+ TPA:0 "Tupinambá" #Tupinamba
+ TPA_ADJ:0 "Tupinamban"
+ ARW:0 "Arawak" #no changes
+ ARW_ADJ:0 "Arawak"
+ TID:0 "Tidore" ##no changes
+ TID_ADJ:0 "Tidoran"
+ TER:0 "Ternate" #no changes
+ TER_ADJ:0 "Ternatan"
+ MGD:0 "Magindanaw" #Maguindanao
+ MGD_ADJ:0 "Maguindanaoan"
+ LUW:0 "Luwuq" #Luwu
+ LUW_ADJ:0 "Luwan"
+ LNO:0 "Lanao" ##no changes
+ LNO_ADJ:0 "Lanaoan"
+ LFA:0 "Lanfang" ##no changes
+ LFA_ADJ:0 "Lanfang"
+ BNJ:0 "Banjar" #no changes
+ BNJ_ADJ:0 "Banjari"
+ KUT:0 "Kutai" ##no changes
+ KUT_ADJ:0 "Kutai"
+ BTN:0 "Butung" #Buton
+ BTN_ADJ:0 "Butoni"
+ CMI:0 "Miao" #no changes
+ CMI_ADJ:0 "Miao"
+ CYI:0 "Yi" #no changes
+ CYI_ADJ:0 "Yi"
+ CDL:0 "Dali" #no changes
+ CDL_ADJ:0 "Dali"
+ CHH:0 "Chahar" ##no changes
+ CHH_ADJ:0 "Chahari"
+ NDO:0 "Ndongo" #no changes
+ NDO_ADJ:0 "Ndongan"
+ ANU:0 "Ainu" ##no changes
+ ANU_ADJ:0 "Ainu"
+ 

@@ -1,222 +1,222 @@
 ﻿l_english:
  PROV1:0 "Stockholm"
  PROV2:0 "Östergötland"
- PROV3:1 "Kalmar"
+ PROV3:1 "Kalmar" #former Småland
  PROV4:0 "Bergslagen"
  PROV5:0 "Värmland"
- PROV6:1 "Lund"
- PROV7:1 "Skaraborg"
- PROV8:0 "Dalaskogen"
+ PROV6:1 "Lund" #former Skåne
+ PROV7:1 "Skaraborg" #former Västergötland
+ PROV8:0 "Dalarna" #Dalaskogen
  PROV9:0 "Hälsingland"
- PROV10:0 "Jämtland"
+ PROV10:0 "Jamtlann" #Jämtland
  PROV11:0 "Västerbotten"
  PROV12:0 "Sjælland"
- PROV13:0 "Slesvig"
+ PROV13:0 "Sljasvig" #Slesvig or Sleswig
  PROV14:0 "Fyn"
- PROV15:1 "Vestjylland"
- PROV16:0 "Bohuslän"
+ PROV15:1 "Vestjylland" #former Midtjylland
+ PROV16:0 "Båhuslen" #Bohuslän
  PROV17:0 "Akershus"
- PROV18:0 "Lappland"
- PROV19:0 "Österbotten"
+ PROV18:0 "Sápmi" #Lappland
+ PROV19:0 "Pohjanmaa" #Österbotten
  PROV20:0 "Trøndelag"
- PROV21:0 "Hålogaland"
- PROV22:1 "Opplanda"
+ PROV21:0 "Nordlánda" #Hålogaland
+ PROV22:1 "Opplanda" #former Eidsiva
  PROV23:1 "Bergenhus"
- PROV24:0 "Stavanger"
- PROV25:0 "Gotland"
+ PROV24:0 "Stavanger" #former Agder
+ PROV25:0 "Gutland" #Gotland
  PROV26:0 "Halland"
- PROV27:0 "Åbo"
- PROV28:0 "Nyland"
- PROV29:0 "Tavastland"
- PROV30:0 "Viborg"
- PROV31:0 "Savolax"
- PROV32:0 "Kexholm"
- PROV33:0 "Neva"
- PROV34:0 "Ingermanland"
- PROV35:0 "Ösel"
- PROV36:0 "Reval"
- PROV37:0 "Livland"
+ PROV27:0 "Åbo" #former Varsinais-Suomi
+ PROV28:0 "Uusimaa" #Nyland
+ PROV29:0 "Häme" #Tavastland
+ PROV30:0 "Viipuri" #Viborg
+ PROV31:0 "Savo" #Savolax
+ PROV32:0 "Käkisalmi" #Kexholm
+ PROV33:0 "Oreshek" #Neva
+ PROV34:0 "Inkerinmaa" #Ingermanland
+ PROV35:0 "Saaremaa" #Ösel
+ PROV36:0 "Revälä" #Reval
+ PROV37:0 "Lívõmó" #Livland or Livonija
  PROV38:0 "Riga"
- PROV39:0 "Goldingen"
- PROV40:0 "Memel"
- PROV41:0 "Königsberg"
- PROV42:0 "Warmia"
- PROV43:0 "Danzig"
- PROV44:0 "Hamburg"
- PROV45:0 "Lübeck"
+ PROV39:0 "Kuldiga" #Goldingen
+ PROV40:0 "Klaipieda" #Memel
+ PROV41:0 "Kenigsbarg" #Königsberg
+ PROV42:0 "Warnija" #Warmia
+ PROV43:0 "Gdunsk" #Danzig
+ PROV44:0 "Hamborg" #Hamburg
+ PROV45:0 "Lübeek"
  PROV46:0 "Rostock"
  PROV47:0 "Stralsund"
- PROV48:0 "Kolberg"
- PROV49:0 "Neumark"
+ PROV48:0 "Kòlbrzég" #Kolberg
+ PROV49:0 "Nowa Marchia" #Neumark
  PROV50:0 "Berlin"
- PROV51:0 "Ruppin"
- PROV52:0 "Magdeburg"
- PROV53:0 "Lüneburg"
- PROV54:0 "Stade"
- PROV55:0 "Oldenburg"
- PROV56:0 "Osnabrück"
- PROV57:0 "Brunswick"
+ PROV51:0 "Reppin" #Ruppin
+ PROV52:0 "Meideborg" #Magdeburg
+ PROV53:0 "Lümborg" #Lüneburg
+ PROV54:0 "Stood" #Stade
+ PROV55:0 "Ollnborg" #Oldenburg
+ PROV56:0 "Ossenbrügge" #Osnabrück
+ PROV57:0 "Brunswiek" #Brunswick
  PROV58:0 "Anhalt"
  PROV59:0 "Wittenberg"
- PROV60:0 "Oberlausitz"
+ PROV60:0 "Hornja Lužica" #Oberlausitz
  PROV61:0 "Dresden"
  PROV62:0 "Leipzig"
  PROV63:0 "Thüringen"
- PROV64:0 "Landshut"
- PROV65:0 "München"
- PROV66:0 "Bamberg"
- PROV67:0 "Nürnberg"
+ PROV64:0 "Landsad" #Landshut
+ PROV65:0 "Minga" #München
+ PROV66:0 "Bambärch" #Bamberg
+ PROV67:0 "Nämberch" #Nürnberg
  PROV68:0 "Memmingen"
- PROV69:0 "Oberschwaben"
- PROV70:0 "Württemberg"
- PROV71:0 "Ansbach"
- PROV72:0 "Breisgau"
+ PROV69:0 "Konschdanz" #Oberschwaben or Obaschwobm
+ PROV70:0 "Württeberg" #Württemberg or or Wiirdebäärg
+ PROV71:0 "Anschba" #Ansbach
+ PROV72:0 "Brisgau" #Breisgau
  PROV73:0 "Tirol"
- PROV74:0 "Baden"
- PROV75:0 "Elsass"
- PROV76:0 "Salzburg"
- PROV77:0 "Heidelberg"
+ PROV74:0 "Bade" #Baden or Baade
+ PROV75:0 "'s Elsass" #Elsass
+ PROV76:0 "Såizburg" #Salzburg
+ PROV77:0 "Heidlberg" #Heidelberg
  PROV78:0 "Mainz"
- PROV79:0 "Würzburg"
- PROV80:0 "Trier"
- PROV81:0 "Hessen"
- PROV82:0 "Westfalen"
+ PROV79:0 "Wörtzburch" #Würzburg
+ PROV80:0 "Tréier" #Trier
+ PROV81:0 "Hesse" #Hessen
+ PROV82:0 "Wäästfaln" #Westfalen
  PROV83:0 "Nassau"
  PROV84:0 "Berg"
- PROV85:0 "Köln"
- PROV86:0 "Münster"
- PROV87:0 "Calais"
- PROV88:0 "Artois"
+ PROV85:0 "Kölle" #Köln
+ PROV86:0 "Mönster" #Münster
+ PROV87:0 "Cales" #Calais
+ PROV88:0 "Artoé" #Artois
  PROV89:0 "Picardie"
- PROV90:0 "Vlaanderen"
- PROV91:0 "Hainaut"
- PROV92:1 "Brussels"
- PROV93:0 "Liège"
- PROV94:0 "Luxemburg"
+ PROV90:0 "Vloandern" #Vlaanderen
+ PROV91:0 "Hinnot" #Hainaut
+ PROV92:1 "Brussel" #Brussels, former Brabant
+ PROV93:0 "Lîdje" #Liège
+ PROV94:0 "Lëtzebuerg" #Luxemburg
  PROV95:0 "Breda"
- PROV96:0 "Zeeland"
- PROV97:1 "Amsterdam"
+ PROV96:0 "Zeêland" #Zeeland
+ PROV97:1 "Amsterdam" #former Holland
  PROV98:0 "Utrecht"
  PROV99:0 "Gelre"
- PROV100:0 "Friesland"
- PROV101:0 "Genoa"
- PROV102:0 "Nice"
- PROV103:0 "Piedmont"
+ PROV100:0 "Fryslân" #Friesland
+ PROV101:0 "Zena" #Genoa
+ PROV102:0 "Niça" #Nice
+ PROV103:0 "Piemont" #Piedmont
  PROV104:0 "Milan"
- PROV105:0 "Parma"
- PROV106:0 "Modena"
- PROV107:0 "Brescia"
- PROV108:0 "Verona"
+ PROV105:0 "Pärma" #Parma
+ PROV106:0 "Mòdna" #Modena
+ PROV107:0 "Brèsa" #Brescia
+ PROV108:0 "Veròna" #Verona
  PROV109:0 "Mantua"
- PROV110:0 "Trent"
- PROV111:0 "Friuli"
- PROV112:0 "Venezia"
- PROV113:0 "Ferrara"
- PROV114:0 "Romagna"
+ PROV110:0 "Trènt" #Trent
+ PROV111:0 "Friûl" #Friuli
+ PROV112:0 "Venèsia" #Venezia
+ PROV113:0 "Fràra" #Ferrara
+ PROV114:0 "Rumâgna" #Romagna
  PROV115:0 "Pisa"
  PROV116:0 "Firenze"
  PROV117:0 "Siena"
  PROV118:0 "Roma"
  PROV119:0 "Ancona"
- PROV120:0 "Abruzzi"
- PROV121:0 "Napoli"
- PROV122:0 "Salento"
- PROV123:0 "Calabria"
- PROV124:0 "Messina"
- PROV125:0 "Palermo"
+ PROV120:0 "Abruzze" #Abruzzi or Abruzzo
+ PROV121:0 "Napule" #Napoli
+ PROV122:0 "Salentu" #Salento
+ PROV123:0 "Calàbbria" #Calabria
+ PROV124:0 "Missina" #Messina
+ PROV125:0 "Palermu" #Palermo
  PROV126:0 "Malta"
- PROV127:0 "Sassari"
+ PROV127:0 "Sàssari" #Sassari or Sardinian: Tàtari
  PROV128:0 "Kärnten"
- PROV129:0 "Krain"
- PROV130:0 "Istria"
+ PROV129:0 "Kranjska" #Krain
+ PROV130:0 "Istra" #Istria
  PROV131:0 "Zagreb"
- PROV132:0 "Steiermark"
+ PROV132:0 "Steiamoak" #Steiermark
  PROV133:0 "Linz"
- PROV134:0 "Wien"
+ PROV134:0 "Wean" #Wien
  PROV135:0 "Sopron"
- PROV136:0 "Dalmatia"
- PROV137:0 "Ragusa"
+ PROV136:0 "Dalmacija" #Dalmatia
+ PROV137:0 "Dubrovnik" #Ragusa
  PROV138:0 "Zeta"
- PROV139:0 "Hum"
- PROV140:0 "Bosnia"
- PROV141:1 "Smederevo"
- PROV142:0 "Corfu"
- PROV143:1 "Vlorë"
- PROV144:0 "Epirus"
- PROV145:0 "Morea"
- PROV146:0 "Athens"
- PROV147:0 "Thessaly"
- PROV148:0 "Macedonia"
- PROV149:0 "Edirne"
+ PROV139:0 "Hercegovina" #Hum
+ PROV140:0 "Bosna" #Bosnia
+ PROV141:1 "Smederevo" #former Srbija
+ PROV142:0 "Kérkyra" #Corfu
+ PROV143:1 "Vlorë" #former Shqipëri
+ PROV144:0 "Ípeiros" #Epirus
+ PROV145:0 "Moréas" #Morea
+ PROV146:0 "Athína" #Athens
+ PROV147:0 "Thessalía" #Thessaly
+ PROV148:0 "Makedonía" #Macedonia
+ PROV149:0 "Adrianoúpolis" #Edirne
  PROV150:0 "Tarnovo"
- PROV151:0 "Constantinople"
- PROV152:0 "Varasd"
+ PROV151:0 "Konstantinoúpolis" #Constantinople
+ PROV152:0 "Varaždin" #Varasd
  PROV153:0 "Pest"
- PROV154:0 "Hont"
+ PROV154:0 "Honth" #Hont (former Nové Zámky)
  PROV155:0 "Békés"
- PROV156:0 "Temes"
- PROV157:0 "Bihar"
- PROV158:0 "Maros"
- PROV159:0 "Silistria"
+ PROV156:0 "Timis" #Temes
+ PROV157:0 "Crisana" #Bihar
+ PROV158:0 "Mures" #Maros
+ PROV159:0 "Drastar" #Silistria
  PROV160:0 "Oltenia"
- PROV161:0 "Tîrgoviste"
- PROV162:0 "Zemplén"
- PROV163:0 "Crete"
- PROV164:0 "Naxos"
- PROV165:0 "Bern"
- PROV166:0 "Waldstätte"
+ PROV161:0 "Tîrgoviste" #or Târgoviste
+ PROV162:0 "Zemplín" #Zemplén
+ PROV163:0 "Kréte" #Crete or Kríti
+ PROV164:0 "Kykládes" #Naxos or Náxos
+ PROV165:0 "Bärn" #Bern
+ PROV166:0 "Waldstätt" #Waldstätte
  PROV167:0 "Caux"
- PROV168:1 "Caen"
- PROV169:0 "Armor"
- PROV170:0 "Finistère"
- PROV171:1 "Vannetais"
- PROV172:1 "Nantais"
- PROV173:0 "Labourd"
- PROV174:2 "Aquitaine"
- PROV175:0 "Armagnac"
- PROV176:0 "Béarn"
+ PROV168:1 "Kaem" #Caen or Caën, former Nourmaundie or Normandie
+ PROV169:0 "Arvorig" #Armor or Tregor?
+ PROV170:0 "Penn-ar-Bed" #Finistère
+ PROV171:1 "Gwened" #Vannetais or Vannes, or Bro-Gwened, former Morbihan or Mor-Bihan
+ PROV172:1 "Naoned" #Nantais or Nantes
+ PROV173:0 "Lapurdi" #Labourd
+ PROV174:2 "Aquitània" #Aquitaine, former Bordeaux or Bordèu (former Gasconha)
+ PROV175:0 "Armanhac" #Armagnac
+ PROV176:0 "Biarn" #Béarn
  PROV177:0 "Maine"
  PROV178:0 "Anjou"
  PROV179:0 "Berry"
- PROV180:1 "Haut-Poitou"
+ PROV180:1 "Potchiers" #Haut-Poitou or Poitiers, former Poitou or Poetou
  PROV181:0 "Rethel"
- PROV182:1 "Valois"
+ PROV182:0 "Valois" #former Vermandois or Vérmindoé
  PROV183:0 "Paris"
- PROV184:0 "Orleanais"
+ PROV184:0 "Orléanais" #Orleanais
  PROV185:0 "Nemours"
- PROV186:1 "Reims"
+ PROV186:1 "Reims" #or Rheims, former Champagne
  PROV187:0 "Barrois"
- PROV188:0 "Metz"
- PROV189:0 "Lothringen"
- PROV190:1 "Bourbonnais"
- PROV191:1 "Nivernais"
- PROV192:1 "Dijonnais"
- PROV193:0 "Franche-Comté"
- PROV194:1 "Périgord"
- PROV195:0 "Limousin"
- PROV196:0 "Toulouse"
- PROV197:0 "Roussillon"
- PROV198:0 "Rouergue"
- PROV199:0 "Auvergne"
- PROV200:1 "Montpellier"
- PROV201:0 "Provence"
- PROV202:0 "Avignon"
- PROV203:0 "Lyonnais"
- PROV204:0 "Dauphiné"
- PROV205:0 "Savoie"
- PROV206:0 "Santiago"
- PROV207:0 "Asturias"
- PROV208:0 "León"
- PROV209:0 "Vizcaya"
- PROV210:0 "Navarra"
- PROV211:0 "Pirineo"
+ PROV188:0 "Metz" #or Trois-Évêchés
+ PROV189:0 "Lottringe" #Lothringen (or Lottringe)
+ PROV190:1 "Bourbonnais" #former Bourbon, or Moulins
+ PROV191:1 "Nivernais" #former Nevers
+ PROV192:1 "Dijonnais" #former Bourgogne or Bregogne
+ PROV193:0 "Fraintche-Comtè" #Franche-Comté
+ PROV194:2 "Perigòrd" #Périgord, former Bergerac or Brageirac
+ PROV195:0 "Lemosin" #Limousin
+ PROV196:0 "Tolosa" #Toulouse
+ PROV197:0 "Rosselló" #Roussillon
+ PROV198:0 "Rouèrgue" #Rouergue
+ PROV199:0 "Auvèrnhe" #Auvergne
+ PROV200:1 "Montpelhièr" #Montpellier, former Languedoc or Lengadòc
+ PROV201:0 "Provença" #Provence
+ PROV202:0 "Avinhon" #Avignon
+ PROV203:0 "Liyonês" #Lyonnais
+ PROV204:0 "Dôfenât" #Dauphiné
+ PROV205:0 "Savòja" #Savoie or Savouè
+ PROV206:0 "Santiago" #Galicia
+ PROV207:0 "Asturies" #Asturias
+ PROV208:0 "Llión" #León
+ PROV209:0 "Bizkaia" #Vizcaya
+ PROV210:0 "Nafarroa" #Navarra
+ PROV211:0 "Pirinioak" #Pirineo
  PROV212:0 "Girona"
  PROV213:0 "Barcelona"
  PROV214:0 "Zaragoza"
- PROV215:0 "Castilla La Vieja"
+ PROV215:0 "Castilla la Vieja"
  PROV216:0 "Salamanca"
  PROV217:0 "Madrid"
- PROV218:0 "Badajoz"
+ PROV218:0 "Baajós" #Badajoz
  PROV219:0 "Toledo"
  PROV220:0 "València"
  PROV221:0 "Murcia"
@@ -227,31 +227,31 @@
  PROV226:0 "Gibraltar"
  PROV227:0 "Lisboa"
  PROV228:0 "Beira"
- PROV229:0 "Beja"
+ PROV229:0 "Beja" #former Alentejo
  PROV230:0 "Algarve"
  PROV231:0 "Porto"
- PROV232:0 "Bragança"
- PROV233:0 "Cornwall"
- PROV234:0 "Hampshire"
+ PROV232:0 "Bergáncia" #Bragança
+ PROV233:0 "Kernow" #Cornwall
+ PROV234:0 "Hampshire" #former Wessex
  PROV235:0 "Kent"
  PROV236:0 "London"
- PROV237:1 "Oxford"
+ PROV237:1 "Oxfordshire" #Oxford
  PROV238:0 "Essex"
- PROV239:1 "Gloucester"
- PROV240:1 "Shrewsbury"
- PROV241:1 "Glamorgan"
+ PROV239:1 "Gloucestershire" #Gloucester
+ PROV240:1 "Shropshire" #Shrewsbury or Salop, former Marches or Mercia
+ PROV241:1 "Morgannwg" #Glamorgan or Glamorganshire
  PROV242:0 "Gwynedd"
- PROV243:0 "Lincolnshire"
+ PROV243:0 "Lincolnshire" #former Lincoln
  PROV244:0 "Lancashire"
- PROV245:1 "York"
+ PROV245:1 "Yorkshire" #York
  PROV246:0 "Northumberland"
  PROV247:0 "Cumbria"
- PROV248:0 "Lothian"
+ PROV248:0 "Lowden" #Lothian
  PROV249:0 "Clydesdale"
  PROV250:1 "Dunmuir"
- PROV251:1 "Aberdeen"
- PROV252:0 "Inverness"
- PROV253:1 "Outer Hebrides"
+ PROV251:1 "Obar Dheathain" #Aberdeen or Aberdeenshire
+ PROV252:0 "Inbhir Nis" #Inverness (former Highlands or A' Ghàidhealtachd)
+ PROV253:1 "Na h-Eileanan Siar" #Outer Hebrides or Western Isles
  PROV254:0 "Poznan"
  PROV255:0 "Kalisz"
  PROV256:0 "Plock"
@@ -259,67 +259,67 @@
  PROV258:0 "Sieradz"
  PROV259:0 "Sandomierz"
  PROV260:0 "Lublin"
- PROV261:0 "Halicz"
- PROV262:0 "Krakow"
- PROV263:0 "Ratibor"
- PROV264:0 "Breslau"
- PROV265:1 "Brno"
- PROV266:0 "Prague"
+ PROV261:0 "Galich" #Halicz (former Halych)
+ PROV262:0 "Kraków" #Krakow
+ PROV263:0 "Raciburz" #Ratibor
+ PROV264:0 "Breslawia" #Breslau
+ PROV265:1 "Brno" #former Morava
+ PROV266:0 "Praha" #Prague
  PROV267:0 "Plzen"
- PROV268:0 "Moldavia"
+ PROV268:0 "Moldova" #Moldavia
  PROV269:0 "Podlasie"
  PROV270:0 "Trakai"
- PROV271:0 "Samogitia"
- PROV272:0 "Vilna"
- PROV273:0 "Latgalia"
- PROV274:0 "Pskov"
- PROV275:0 "Polotsk"
- PROV276:0 "Minsk"
- PROV277:0 "Brest"
+ PROV271:0 "Žemaitéjé" #Samogitia
+ PROV272:0 "Vilnius" #Vilna
+ PROV273:0 "Latgola" #Latgalia
+ PROV274:0 "Pleskov" #Pskov
+ PROV275:0 "Polotsk" #former Polatsk
+ PROV276:0 "Minsk" #former Mensk
+ PROV277:0 "Brest" #former Bierascie
  PROV278:0 "Pinsk"
- PROV279:0 "Volhynia"
- PROV280:0 "Kiev"
- PROV281:0 "Podolia"
+ PROV279:0 "Volyn" #Volhynia
+ PROV280:0 "Kiev" #former Kyiv
+ PROV281:0 "Podolye" #Podolia (former Podillia)
  PROV282:0 "Yedisan"
- PROV283:0 "Zaporozhia"
- PROV284:0 "Crimea"
+ PROV283:0 "Zaporozhye" #Zaporozhia (former Zaporizhia)
+ PROV284:0 "Qirim" #Crimea
  PROV285:0 "Caffa"
- PROV286:0 "Azov"
- PROV287:0 "Kuban"
- PROV288:0 "Lower Don"
- PROV289:0 "Chernigov"
+ PROV286:0 "Azaq" #Azov
+ PROV287:0 "Pshyze" #Kuban
+ PROV288:0 "Tübän Tin" #Lower Don
+ PROV289:0 "Chernigov" #former Chernihiv
  PROV290:0 "Poltava"
- PROV291:0 "Kharkov"
- PROV292:0 "Mogilev"
- PROV293:0 "Smolensk"
+ PROV291:0 "Kharkov" #former Kharkiv
+ PROV292:0 "Mogilyov" #former Mahiliou
+ PROV293:0 "Smolensk" #former Smalensk
  PROV294:0 "Tver"
  PROV295:0 "Moskva"
  PROV296:0 "Kaluga"
- PROV297:0 "Bryansk"
+ PROV297:0 "Bryansk" #former Bransk
  PROV298:0 "Kursk"
  PROV299:0 "Voronezh"
  PROV300:0 "Tula"
  PROV301:0 "Ryazan"
  PROV302:0 "Tambov"
- PROV303:0 "Saratov"
+ PROV303:0 "Saritaw" #Saratov
  PROV304:0 "Penza"
- PROV305:0 "Perm"
+ PROV305:0 "Perem" #Perm
  PROV306:0 "Nizhny Novgorod"
  PROV307:0 "Vladimir"
  PROV308:0 "Yaroslavl"
- PROV309:0 "Olonets"
+ PROV309:0 "Anuksenlinnu" #Olonets
  PROV310:0 "Novgorod"
  PROV311:0 "Kholm"
  PROV312:0 "Beloozero"
- PROV313:0 "Soroka"
+ PROV313:0 "Soroka" #former Arkhangelsk
  PROV314:0 "Vologda"
- PROV315:0 "Finnmark"
+ PROV315:0 "Finnmárkku" #Finnmark
  PROV316:0 "Kocaeli"
- PROV317:0 "Hüdavendigar"
- PROV318:0 "Sugla"
- PROV319:0 "Mentese"
- PROV320:0 "Rhodes"
- PROV321:0 "Cyprus"
+ PROV317:0 "Hüdavendigar" #or Bursa, or Iznik
+ PROV318:0 "Smýrni" #Sugla
+ PROV319:0 "Mentesa" #Mentese or Mugla
+ PROV320:0 "Ródos" #Rhodes
+ PROV321:0 "Kýpros" #Cyprus
  PROV322:0 "Kütahya"
  PROV323:0 "Konya"
  PROV324:0 "Karaman"
@@ -328,153 +328,153 @@
  PROV327:0 "Adana"
  PROV328:0 "Sinop"
  PROV329:0 "Sivas"
- PROV330:0 "Trebizond"
- PROV331:0 "Erzurum"
- PROV332:0 "Marash"
- PROV333:0 "The Baleares"
- PROV334:0 "Tangiers"
- PROV335:0 "Melilla"
- PROV336:0 "Tlemcen"
- PROV337:0 "Oran"
- PROV338:0 "Mitidja"
- PROV339:0 "Kabylia"
- PROV340:0 "Constantine"
- PROV341:0 "Tunis"
- PROV342:0 "Gharb"
- PROV343:0 "Fez"
- PROV344:0 "Marrakech"
- PROV345:0 "Abda"
+ PROV330:0 "Trapezoúnta" #Trebizond
+ PROV331:0 "Karin" #Erzurum
+ PROV332:0 "Maras" #Marash
+ PROV333:0 "Balears" #The Baleares
+ PROV334:0 "Tanja" #Tangiers or Tanjah
+ PROV335:0 "Mric" #Melilla
+ PROV336:0 "Tala Imsan" #Tlemcen or Tilimsan
+ PROV337:0 "Wehran" #Oran
+ PROV338:0 "Metict" #Mitidja
+ PROV339:0 "Leqbayel" #Kabylia or Tamurt n Leqbayel
+ PROV340:0 "Ksentina" #Constantine or Kasantina or Qusantinah
+ PROV341:0 "Tunes" #Tunis
+ PROV342:0 "Anfa" #Gharb or 'Anfa
+ PROV343:0 "Fas" #Fez
+ PROV344:0 "Merrakec" #Marrakech or Marrakush or Merreksh
+ PROV345:0 "Asfi" #Abda or 'Abda
  PROV346:0 "Tafilalt"
  PROV347:0 "Ifni"
- PROV348:0 "Sus"
- PROV349:0 "Figuig"
- PROV350:0 "Laghouat"
- PROV351:1 "Biskra"
- PROV352:0 "Gafsa"
- PROV353:0 "Tataouine"
- PROV354:0 "Tripoli"
- PROV355:0 "Sirt"
- PROV356:0 "Benghazi"
+ PROV348:0 "Sus" #Sus or Tamazirt n Sus, Bilad al-Sus
+ PROV349:0 "Ifiyey" #Figuig
+ PROV350:0 "Laghuat" #Laghouat or Tanebdhit n Laghuat, al-'Aghwat
+ PROV351:1 "Tibeskert" #Biskra (former Awras)
+ PROV352:0 "Gafsa" #or Gafsah
+ PROV353:0 "Tittawin" #Tataouine
+ PROV354:0 "Trables" #Tripoli
+ PROV355:0 "Surt" #Sirt or Sert
+ PROV356:0 "Banghazi" #Benghazi
  PROV357:0 "Darnah"
- PROV358:0 "Alexandria"
- PROV359:0 "Fayyum"
- PROV360:0 "Qus"
- PROV361:0 "Cairo"
- PROV362:0 "Rosetta"
- PROV363:0 "Damietta"
- PROV364:0 "Gaza"
- PROV365:0 "Sinai"
- PROV366:0 "The Canarias"
- PROV367:0 "The Azores"
+ PROV358:0 "el-Eskendereyyah" #Alexandria
+ PROV359:0 "el-Fayyum" #Fayyum
+ PROV360:0 "Logsor" #Qus or Gena (local form or Qina)
+ PROV361:0 "el-Qaherah" #Cairo
+ PROV362:0 "Rashid" #Rosetta
+ PROV363:0 "Dumyat" #Damietta
+ PROV364:0 "Ghazzah" #Gaza
+ PROV365:0 "Sina" #Sinai
+ PROV366:0 "Canarias" #The Canarias
+ PROV367:0 "Açores" #The Azores
  PROV368:0 "Madeira"
  PROV369:0 "Orkney"
  PROV370:0 "Reykjavik"
  PROV371:0 "Akureyri"
- PROV372:0 "Tyrone"
- PROV373:0 "Dublin"
- PROV374:0 "Leinster"
- PROV375:0 "Limerick"
- PROV376:0 "Connaught"
- PROV377:0 "Aleppo"
- PROV378:0 "Tarabulus"
- PROV379:0 "Jerusalem"
- PROV380:0 "Al Karak"
- PROV381:0 "Ajlun"
- PROV382:0 "Damascus"
+ PROV372:0 "Tír Eoghain" #Tyrone (or Thír Eoghain, former Ulaidh)
+ PROV373:0 "Mí" #Pale or Baile Átha Cliath
+ PROV374:0 "Laighin" #Leinster
+ PROV375:0 "Luimneach" #Limerick (former an Mhumhain)
+ PROV376:0 "Connacht" #Connaught
+ PROV377:0 "Halab" #Aleppo
+ PROV378:0 "Trablos" #Tarabulus
+ PROV379:0 "Yerushalayim" #Jerusalem
+ PROV380:0 "al-Karak" #Al Karak
+ PROV381:0 "'Ajlun" #Ajlun
+ PROV382:0 "Dmashe'" #Damascus or Dimashq
  PROV383:0 "Tabuk"
- PROV384:0 "Medina"
- PROV385:0 "Mecca"
- PROV386:1 "Bishah"
- PROV387:0 "Mokha"
- PROV388:0 "Aden"
- PROV389:1 "Mukalla"
- PROV390:0 "Sana'a"
+ PROV384:0 "al-Madinah" #Medina
+ PROV385:0 "Makkah" #Mecca
+ PROV386:1 "Bishah" #former 'Asir
+ PROV387:0 "el-Mokha" #Mokha or al-Mukha
+ PROV388:0 "'Adin" #Aden or 'Adan
+ PROV389:1 "al-Mukallah" #Mukalla (former Kindah)
+ PROV390:0 "San'a" #Sana'a
  PROV391:0 "Najran"
- PROV392:0 "Al-Arid"
- PROV393:0 "Jabal Shammar"
- PROV394:0 "Al-Qatif"
+ PROV392:0 "al-'Arid" #Al-Arid (former Najd)
+ PROV393:0 "Ha'il" #Jabal Shammar
+ PROV394:0 "al-Qatif" #Al-Qatif
  PROV395:0 "Qatar"
- PROV396:0 "Bahrain"
- PROV397:0 "Bani Yas"
- PROV398:0 "Qawasim"
- PROV399:1 "Batinah"
- PROV400:0 "Muscat"
- PROV401:0 "Dhofar"
- PROV402:1 "Qishn"
+ PROV396:0 "al-Bahrayn" #Bahrain
+ PROV397:0 "Banu Yas" #Bani Yas
+ PROV398:0 "ash-Sharjah" #Qawasim or al-Qawasem
+ PROV399:1 "al-Batinah" #Batinah (former Sohar)
+ PROV400:0 "Masqat" #Muscat
+ PROV401:0 "Zufar" #Dhofar
+ PROV402:1 "Qishn" #former al-Mahrah
  PROV403:0 "Nizwa"
  PROV404:0 "Liwa"
  PROV405:0 "Tadmor"
- PROV406:0 "Haditha"
- PROV407:0 "Ar Raqqa"
- PROV408:0 "Basra"
- PROV409:0 "Karbala"
+ PROV406:0 "al-Hadithah" #Haditha (former as-Sahiliyah)
+ PROV407:0 "ar-Raqqah" #Ar Raqqa
+ PROV408:0 "al-Basrah" #Basra (former Basrah)
+ PROV409:0 "Karbala'" #Karbala (former al-Hillah)
  PROV410:0 "Baghdad"
- PROV411:0 "Mosul"
- PROV412:0 "Ahvaz"
- PROV413:0 "Khorramabad"
+ PROV411:0 "Mûsil" #Mosul
+ PROV412:0 "al-'Ahwaz" #Ahvaz, former Khuzestan
+ PROV413:0 "Khormuveh" #Khorramabad or Khurramabad, former Lorestan
  PROV414:0 "Hamadan"
- PROV415:1 "Kirkuk"
- PROV416:0 "Tabriz"
- PROV417:0 "Lahijan"
- PROV418:0 "Diyarbakir"
+ PROV415:1 "Kerkûk" #Kirkuk (former Shahrazur, or Karkuk)
+ PROV416:0 "Tebriz" #Tabriz 
+ PROV417:0 "Lajun" #Lahijan, former Gilan
+ PROV418:0 "Amed" #Diyarbakir
  PROV419:0 "Yerevan"
- PROV420:0 "Ganja"
- PROV421:0 "Shirvan"
+ PROV420:0 "Gence" #Ganja
+ PROV421:0 "Sirvan" #Shirvan
  PROV422:0 "Imereti"
- PROV423:1 "Tbilisi"
- PROV424:0 "Ardabil"
- PROV425:0 "Dagestan"
- PROV426:0 "Amol"
+ PROV423:1 "Tbilisi" #former Kartli
+ PROV424:0 "Erdebil" #Ardabil
+ PROV425:0 "K'vevar" #Dagestan or Derbend
+ PROV426:0 "Amol" #former Mazandaran
  PROV427:0 "Qumis"
- PROV428:0 "Teheran"
- PROV429:0 "Isfahan"
- PROV430:0 "Dashtistan"
- PROV431:0 "Mogostan"
+ PROV428:0 "Tehran" #Teheran
+ PROV429:0 "Esfahan" #Isfahan
+ PROV430:0 "Dashtestan" #Dashtistan (former Bushehr)
+ PROV431:0 "Mogostan" #former Hormozgan
  PROV432:0 "Kerman"
  PROV433:0 "Yazd"
- PROV434:0 "Quhistan"
+ PROV434:0 "Kohistan" #Quhistan
  PROV435:0 "Zaranj"
  PROV436:0 "Birjand"
- PROV437:0 "Kopet Dag"
- PROV438:0 "Karakum"
- PROV439:0 "Mangyshlak"
- PROV440:0 "Qaraqalpak"
- PROV441:0 "Khiva"
- PROV442:0 "Bukhara"
- PROV443:0 "Ustyurt"
- PROV444:0 "Charjuy"
- PROV445:0 "Merv"
+ PROV437:0 "Köpetdag" #Kopet Dag
+ PROV438:0 "Garagum" #Karakum
+ PROV439:0 "Mangyshlaq" #Mangyshlak
+ PROV440:0 "Qaraqalpaqlar" #Qaraqalpak
+ PROV441:0 "Xiva" #Khiva
+ PROV442:0 "Buxoro" #Bukhara
+ PROV443:0 "Üstirt" #Ustyurt
+ PROV444:0 "Çärjew" #Charjuy or Amul
+ PROV445:0 "Merw" #Merv
  PROV446:0 "Herat"
  PROV447:0 "Kandahar"
- PROV448:0 "Gazni"
+ PROV448:0 "Ghazni" #Gazni or Ghazna
  PROV449:0 "Ghor"
  PROV450:0 "Balkh"
- PROV451:0 "Kabul"
+ PROV451:0 "Kabel" #Kabul
  PROV452:0 "Badakhshan"
  PROV453:0 "Qarshi"
- PROV454:0 "Samarkand"
- PROV455:0 "Kyzylkum"
- PROV456:0 "Turkestan"
- PROV457:0 "Tashkent"
- PROV458:0 "Kokand"
+ PROV454:0 "Samarqand" #Samarkand
+ PROV455:0 "Qizilqum" #Kyzylkum
+ PROV456:0 "Türkistan" #Turkestan
+ PROV457:0 "Toshkent" #Tashkent
+ PROV458:0 "Qo'qon" #Kokand
  PROV459:0 "Taraz"
- PROV460:0 "Uzkend"
- PROV461:0 "Almaty"
- PROV462:1 "Odishi"
- PROV463:0 "Circassia"
- PROV464:0 "Astrakhan"
- PROV465:0 "Nogay"
- PROV466:0 "Sarai"
- PROV467:0 "Borisoglebsk"
+ PROV460:0 "Özgön" #Uzkend
+ PROV461:0 "Almatu" #Almaty
+ PROV462:1 "Odishi" #former Samargalo
+ PROV463:0 "Adyghe Kheku" #Circassia (former Qarachay)
+ PROV464:0 "Xacitarxan" #Astrakhan (or Khajitarkhan)
+ PROV465:0 "Saray-Jük" #Nogay or Noghay
+ PROV466:0 "Saray" #Sarai
+ PROV467:0 "Khopyor" #Borisoglebsk
  PROV468:0 "Manych"
- PROV469:0 "Ryn"
+ PROV469:0 "Naryn qumy" #Ryn
  PROV470:0 "Bayuly"
- PROV471:0 "Alimuly"
+ PROV471:0 "Älimuli" #Alimuly
  PROV472:0 "Zhetyru"
- PROV473:0 "Samara"
- PROV474:0 "Yaik"
- PROV475:0 "Bashkortostan"
- PROV476:0 "Kypshak"
+ PROV473:0 "Samar" #Samara
+ PROV474:0 "Yayiq" #Yaik (or Jayek)
+ PROV475:0 "Öfö" #Bashkortostan or Basqort
+ PROV476:0 "Qipsaq" #Kypshak
  PROV477:0 "Nadym"
  PROV478:0 "Argyn"
  PROV479:0 "Kerey"
@@ -486,134 +486,134 @@
  PROV485:0 "Moron"
  PROV486:0 "Guantanamo"
  PROV487:0 "Jamaica"
- PROV488:0 "Les Cayes"
+ PROV488:0 "Okay" #Les Cayes
  PROV489:0 "Tortuga"
  PROV490:0 "Barahonas"
- PROV491:0 "Curacao"
- PROV492:0 "Borikén"
+ PROV491:0 "Kòrsou" #Curacao (or Curaçao)
+ PROV492:0 "Borikén" #former Puerto Rico
  PROV493:0 "St. Thomas"
- PROV494:0 "St. Kitts"
- PROV495:0 "Antigua"
- PROV496:0 "Guadelupe"
- PROV497:0 "Dominica"
- PROV498:0 "Martinique"
+ PROV494:0 "Liamuiga" #St. Kitts
+ PROV495:0 "Waladli" #Antigua
+ PROV496:0 "Gwadloup" #Guadelupe
+ PROV497:0 "Wai‘tu kubuli" #Dominica
+ PROV498:0 "Jouanacaëra" #Martinique
  PROV499:0 "St. Lucia"
- PROV500:0 "St. Vincent"
+ PROV500:0 "St. Vincent" #also Grenada
  PROV501:0 "Barbados"
- PROV502:0 "Trinidad"
+ PROV502:0 "Kairi" #Trinidad
  PROV503:0 "Kutch"
- PROV504:0 "Thatta"
+ PROV504:0 "Thatta" #also Karachi
  PROV505:0 "Sehwan"
  PROV506:0 "Multan"
- PROV507:0 "Lahore"
- PROV508:0 "Kashmir"
- PROV509:0 "Kangra"
- PROV510:0 "Sirhind"
- PROV511:0 "Garhwal"
- PROV512:0 "Jangladesh"
- PROV513:0 "Jaisalmer"
- PROV514:0 "Marwar"
- PROV515:0 "Girnar"
- PROV516:0 "Baroda"
- PROV517:0 "Surat"
- PROV518:0 "Chittor"
- PROV519:0 "Dhundar"
- PROV520:0 "Mewat"
- PROV521:0 "Kathiawar"
- PROV522:0 "Delhi"
- PROV523:0 "Lucknow"
- PROV524:0 "Central Doab"
- PROV525:0 "Gird"
- PROV526:0 "Mandu"
- PROV527:0 "Khandesh"
- PROV528:0 "Hadoti"
- PROV529:0 "North Konkan"
- PROV530:0 "South Konkan"
- PROV531:0 "North Kanara"
- PROV532:0 "Raichur Doab"
- PROV533:0 "Mysore"
+ PROV507:0 "Lahor" #Lahore
+ PROV508:0 "Keshira" #Kashmir
+ PROV509:0 "Kamgara" #Kangra
+ PROV510:0 "Sarahida" #Sirhind
+ PROV511:0 "Garhavala" #Garhwal
+ PROV512:0 "Jangladesha" #Jangladesh
+ PROV513:0 "Jaisalamera" #Jaisalmer
+ PROV514:0 "Maravara" #Marwar
+ PROV515:0 "Giranara" #Girnar
+ PROV516:0 "Varodara" #Baroda, also Bharuch
+ PROV517:0 "Suryapur" #Surat
+ PROV518:0 "Cittauragarha" #Chittor
+ PROV519:0 "Dhundhar"
+ PROV520:0 "Mevata" #Mewat
+ PROV521:0 "Kathiyavada" #Kathiawar
+ PROV522:0 "Dilli" #Delhi
+ PROV523:0 "Lakhana'u" #Lucknow
+ PROV524:0 "Madhya Doaba" #Central Doab
+ PROV525:0 "Girda" #Gird
+ PROV526:0 "Mandu" #also Ujjain
+ PROV527:0 "Khandesha" #Khandesh
+ PROV528:0 "Harauti" #Hadoti
+ PROV529:0 "Thane" #North Konkan
+ PROV530:0 "Ratnagiri" #South Konkan
+ PROV531:0 "Uttara Kannada" #North Kanara
+ PROV532:0 "Rayacuru Dob" #Raichur Doab
+ PROV533:0 "Maisuru" #Mysore
  PROV534:0 "Malabar"
- PROV535:0 "Kochin"
- PROV536:0 "Madurai"
- PROV537:0 "Venad"
- PROV538:0 "Kongu"
- PROV539:0 "Tondainadu"
- PROV540:0 "Coromandel"
- PROV541:0 "Vijayanagar"
- PROV542:0 "Golconda"
+ PROV535:0 "Keacci" #Kochin
+ PROV536:0 "Maturai" #Madurai
+ PROV537:0 "Venatu" #Venad
+ PROV538:0 "Konkunatu" #Kongu
+ PROV539:0 "Tontainatu" #Tondainadu
+ PROV540:0 "Koramantal" #Coromandel
+ PROV541:0 "Vijayanagara" #Vijayanagar
+ PROV542:0 "Golla Konda" #Golconda
  PROV543:0 "Velanadu"
- PROV544:0 "Ahmadnagar"
- PROV545:0 "Marathwada"
- PROV546:0 "East Berar"
+ PROV544:0 "Ahamadanagara" #Ahmadnagar
+ PROV545:0 "Marathavada" #Marathwada
+ PROV546:0 "Purva Berara" #East Berar
  PROV547:0 "Bastar"
- PROV548:0 "West Berar"
- PROV549:0 "Kalingandhra"
- PROV550:0 "Mahakoshal"
- PROV551:0 "Mandla"
- PROV552:0 "Cuttack"
- PROV553:0 "Sambalpur"
- PROV554:0 "Baisi Rajya"
- PROV555:0 "Jaunpur"
- PROV556:0 "Lower Doab"
- PROV557:0 "Katmandu"
- PROV558:0 "Patna"
- PROV559:0 "Bundelkhand"
- PROV560:0 "Jharkhand"
- PROV561:0 "Bengal Delta"
- PROV562:0 "Koch"
- PROV563:0 "Gauda"
+ PROV548:0 "Pascima Berara" #West Berar
+ PROV549:0 "Uttarandhra" #Kalingandhra
+ PROV550:0 "Mahakaushala" #Mahakoshal
+ PROV551:0 "Mandala" #Mandla
+ PROV552:0 "Kataka" #Cuttack
+ PROV553:0 "Sambalapura" #Sambalpur
+ PROV554:0 "Ba'ise Rajya" #Baisi Rajya (22 principalities)
+ PROV555:0 "Jaunapura" #Jaunpur
+ PROV556:0 "Kama Doaba" #Lower Doab
+ PROV557:0 "Yem" #Katmandu (or Kathamadaum)
+ PROV558:0 "Patana" #Patna
+ PROV559:0 "Bundelakhanda" #Bundelkhand
+ PROV560:0 "Jharakhanda" #Jharkhand
+ PROV561:0 "Gangeya Ba" #Bengal Delta
+ PROV562:0 "Kocabihara" #Koch
+ PROV563:0 "Gaura" #Gauda
  PROV564:0 "Dhaka"
- PROV565:0 "Bhutan"
- PROV566:0 "Assam"
- PROV567:0 "Silhet"
- PROV568:0 "Chittagong"
- PROV569:0 "Bijapur"
+ PROV565:0 "Druk Yul" #Bhutan
+ PROV566:0 "Asama" #Assam
+ PROV567:0 "Sileta" #Silhet
+ PROV568:0 "Cattagrama" #Chittagong
+ PROV569:0 "Vijapura" #Bijapur
  PROV570:0 "Naga"
- PROV571:0 "Darrang"
+ PROV571:0 "Daram" #Darrang
  PROV572:0 "Kotte"
- PROV573:0 "Cachar"
- PROV574:0 "The Andamans"
- PROV575:0 "Gwadar"
- PROV576:0 "Kalat"
- PROV577:0 "Quetta"
- PROV578:0 "Roh"
- PROV579:0 "Mrauk U"
- PROV580:0 "Kale"
+ PROV573:0 "Cachara" #Cachar
+ PROV574:0 "Andamana Dpipapunje" #The Andamans
+ PROV575:0 "Gwadur" #Gwadar
+ PROV576:0 "Qalat" #Kalat
+ PROV577:0 "Kuwatah" #Quetta
+ PROV578:0 "Pekhawar" #Roh
+ PROV579:0 "Myohaung" #Mrauk U
+ PROV580:0 "Kalaymyo" #Kale
  PROV581:0 "Sagaing"
  PROV582:0 "Mong Yang"
- PROV583:0 "Hsenwi"
+ PROV583:0 "Theinni" #Hsenwi
  PROV584:0 "Ava"
  PROV585:0 "Taungoo"
- PROV586:0 "Pegu"
- PROV587:0 "Kengtung"
+ PROV586:0 "Bago" #Pegu
+ PROV587:0 "Kyaingtong" #Kengtung
  PROV588:0 "Mong Nai"
- PROV589:0 "Chiang Mai"
- PROV590:0 "Moulmein"
- PROV591:0 "Tavoy"
- PROV592:0 "Ratchaburi"
+ PROV589:0 "Cheiynghim" #Chiang Mai
+ PROV590:0 "Mawlamyine" #Moulmein
+ PROV591:0 "Dawei" #Tavoy
+ PROV592:0 "Rachburi" #Ratchaburi
  PROV593:0 "Nakhon Si Thammarat"
- PROV594:0 "Pattani"
+ PROV594:0 "Patani" #Pattani
  PROV595:0 "Perak"
- PROV596:0 "Malacca"
+ PROV596:0 "Melaka" #Malacca
  PROV597:0 "Johor"
  PROV598:0 "Pahang"
- PROV599:0 "Kelantan"
+ PROV599:0 "Kelate" #Kelantan
  PROV600:0 "Ayutthaya"
  PROV601:0 "Sukhothai"
  PROV602:0 "Chiang Rai"
- PROV603:0 "Nakhon Thung Yai"
- PROV604:0 "Oudong"
+ PROV603:0 "Nakhon Thung Yai" #former Thung Yai
+ PROV604:0 "Udong" #Oudong
  PROV605:0 "Prey Nokor"
- PROV606:0 "Panduranga"
+ PROV606:0 "Phan Rang-Tháp Chàm" #Panduranga
  PROV607:0 "Vijaya"
- PROV608:0 "Champasak"
+ PROV608:0 "Choapasak" #Champasak
  PROV609:0 "Angkor"
- PROV610:0 "Thanh Hoa"
+ PROV610:0 "Thanh Hóa" #Thanh Hoa
  PROV611:0 "Sikhottabong"
- PROV612:0 "Khorat"
- PROV613:0 "Dong Kinh"
- PROV614:0 "Vientiane"
- PROV615:0 "Luang Prabang"
+ PROV612:0 "Khorach" #Khorat
+ PROV613:0 "Dong Kinh" #Hanoi
+ PROV614:0 "Viang Chan" #Vientiane
+ PROV615:0 "Luang Phrabang" #Luang Prabang
  PROV616:0 "Cao Bang"
  PROV617:0 "Lamuri"
  PROV618:0 "Deli"
@@ -621,23 +621,23 @@
  PROV620:0 "Siak"
  PROV621:0 "Bengkulu"
  PROV622:0 "Palembang"
- PROV623:0 "Tulangbewang"
+ PROV623:0 "Tulang Bawang" #Tulangbewang
  PROV624:0 "Banten"
  PROV625:0 "Kawali"
  PROV626:0 "Karta"
- PROV627:0 "Blambangan"
+ PROV627:0 "Banyuwangi" #Blambangan
  PROV628:0 "Surabaya"
  PROV629:0 "Demak"
- PROV630:0 "Kalapa"
+ PROV630:0 "Kalapa" #or Jayakarta
  PROV631:0 "Bali"
- PROV632:0 "Sumbawa"
- PROV633:0 "Flores"
+ PROV632:0 "Semawa" #Sumbawa
+ PROV633:0 "Nipa" #Flores
  PROV634:0 "Sumba"
- PROV635:0 "West Timor"
+ PROV635:0 "Timor Barat" #West Timor
  PROV636:0 "Brunei"
- PROV637:0 "Jesselton"
- PROV638:0 "Kutai"
- PROV639:0 "Banjar"
+ PROV637:0 "Api-Api" #Jesselton or Kota Kinabalu
+ PROV638:0 "Kutai" #or Tenggarong or Tepian Pandan
+ PROV639:0 "Banjar" #or Banjarmasin
  PROV640:0 "Pontianak"
  PROV641:0 "Makassar"
  PROV642:0 "Kendari"
@@ -645,41 +645,41 @@
  PROV644:0 "Manado"
  PROV645:0 "Buru"
  PROV646:0 "Ambon"
- PROV647:0 "Ceram"
- PROV648:0 "Halmahera"
+ PROV647:0 "Seram" #Ceram
+ PROV648:0 "Halmahera" # Jilolo, Gilolo, or Jailolo
  PROV649:0 "Ternate"
  PROV650:0 "Tidore"
- PROV651:0 "Sulu"
- PROV652:0 "Maguindanao"
+ PROV651:0 "Sug" #Sulu
+ PROV652:0 "Magindanaw" #Maguindanao
  PROV653:0 "Lanao"
- PROV654:1 "Samar"
+ PROV654:1 "Samar" #former Kabisay-an
  PROV655:0 "Palawan"
- PROV656:0 "Manila"
+ PROV656:0 "Maynilà" #Manila
  PROV657:0 "Ilocos"
  PROV658:0 "Cagayan"
  PROV659:0 "Lingga"
- PROV660:0 "Sibsongbanna"
+ PROV660:0 "Xishuangbanna" #Sibsongbanna
  PROV661:0 "Dali"
  PROV662:0 "Yunnan"
  PROV663:0 "Guangnan"
  PROV664:0 "Lingyun"
- PROV665:0 "Shiuhing"
- PROV666:0 "Kingchow"
- PROV667:0 "Canton"
- PROV668:0 "Macau"
+ PROV665:0 "Zhaoqing" #Shiuhing
+ PROV666:0 "Jingzhou" #Kingchow
+ PROV667:0 "Guangdong" #Canton
+ PROV668:0 "Jinghai" #Macau
  PROV669:0 "Fuzhou"
- PROV670:0 "Ganzhou"
+ PROV670:0 "Ganzhou" #Kanchow
  PROV671:0 "Changsha"
- PROV672:0 "Wuling"
+ PROV672:0 "Wulin" #Wuling
  PROV673:0 "Zhenyuan"
  PROV674:0 "Guiyang"
  PROV675:0 "Umung"
- PROV676:0 "Shigatse"
+ PROV676:0 "Xigazê" #Shigatse
  PROV677:0 "Lhasa"
- PROV678:0 "Tachienlu"
+ PROV678:0 "Dajianlu" #Tachienlu
  PROV679:0 "Chengdu"
  PROV680:0 "Chongqing"
- PROV681:0 "Yichang"
+ PROV681:0 "Yichang" #Ichang
  PROV682:0 "Wuchang"
  PROV683:0 "Nanchang"
  PROV684:0 "Hangzhou"
@@ -689,7 +689,7 @@
  PROV688:0 "Kaifeng"
  PROV689:0 "Hanzhong"
  PROV690:0 "Qingzhou"
- PROV691:0 "Jinan"
+ PROV691:0 "Jinan" #Tsinan
  PROV692:0 "Huaiqing"
  PROV693:0 "Taiyuan"
  PROV694:0 "Pingyang"
@@ -700,44 +700,44 @@
  PROV699:0 "Lanzhou"
  PROV700:0 "Xi'an"
  PROV701:0 "Ordos"
- PROV702:0 "Hohhot"
- PROV703:0 "Chengde"
+ PROV702:0 "Khökh khot" #Hohhot
+ PROV703:0 "Rehe" #Chengde
  PROV704:0 "Ningyuan"
- PROV705:0 "Gyegu"
+ PROV705:0 "Gyêgu" #Gyegu
  PROV706:0 "Tsaidam"
  PROV707:0 "Yumen"
- PROV708:0 "Zhangye"
- PROV709:0 "Alxa"
- PROV710:0 "Hotan"
- PROV711:0 "Qarqan"
- PROV712:0 "Aksu"
- PROV713:0 "Bechbaliq"
+ PROV708:0 "Zhangye" #Changyeh or Kanchow
+ PROV709:0 "Alasha" #Alxa
+ PROV710:0 "Hotän" #Hotan
+ PROV711:0 "Cherchen" #Qarqan
+ PROV712:0 "Aqsu" #Aksu
+ PROV713:0 "Bash Boluq" #Bechbaliq
  PROV714:0 "Hoboksar"
- PROV715:0 "Urumqi"
- PROV716:0 "Tannu Uriankhai"
+ PROV715:0 "Luntai" #Urumqi
+ PROV716:0 "Tagna Urianhai" #Tannu Uriankhai
  PROV717:0 "Kherlen"
- PROV718:0 "Kobdo"
+ PROV718:0 "Hovd" #Kobdo
  PROV719:0 "Uliastai"
  PROV720:0 "Dornogovi"
  PROV721:0 "Setsen"
- PROV722:0 "Jirem"
+ PROV722:0 "Jirem" #former Tüngliyou
  PROV723:0 "Xilin Gol"
- PROV724:0 "Hulunbuir"
+ PROV724:0 "Kölön Buyir" #Hulunbuir
  PROV725:0 "Cicigar"
  PROV726:0 "Shenyang"
- PROV727:0 "Aigun"
+ PROV727:0 "Aihun" #Aigun
  PROV728:0 "Tuwan"
  PROV729:0 "Bohori"
  PROV730:0 "Girin"
  PROV731:0 "Ilan Hala"
- PROV732:0 "Hamheung"
- PROV733:0 "Hwangju"
+ PROV732:0 "Hamgyeong" #Hamheung
+ PROV733:0 "Hwanghae" #Hwangju
  PROV734:0 "Wonju"
- PROV735:0 "Hanseong"
+ PROV735:0 "Hanseong" #or Gyeonggi
  PROV736:0 "Sangju"
- PROV737:0 "Jeonju"
- PROV738:0 "Sakam"
- PROV739:0 "Kashgar"
+ PROV737:0 "Jeolla" #Jeonju
+ PROV738:0 "Sakam" #Southern Formosa
+ PROV739:0 "Qashqar" #Kashgar
  PROV740:0 "Chanderi"
  PROV741:0 "Cumana"
  PROV742:0 "Angostura"
@@ -747,36 +747,36 @@
  PROV746:0 "Cayenne"
  PROV747:0 "Amapa"
  PROV748:0 "Belem"
- PROV749:0 "Maranhao"
+ PROV749:0 "Maranhao" #or: Maranhão
  PROV750:0 "Crato"
- PROV751:0 "Ceara"
+ PROV751:0 "Ceara" #or: Ceará
  PROV752:0 "Oeiras"
  PROV753:0 "Rio Grande"
  PROV754:0 "Paraiba"
  PROV755:0 "Pernambuco"
  PROV756:0 "Bahia"
- PROV757:0 "Ilheus"
- PROV758:0 "Goias"
+ PROV757:0 "Ilheus" #or: Ilhéus
+ PROV758:0 "Goias" #or: Goiás
  PROV759:0 "Diamantina"
  PROV760:0 "Porto Seguro"
- PROV761:0 "Espirito Santo"
- PROV762:0 "Sao Tome"
+ PROV761:0 "Espirito Santo" #or Espírito Santo
+ PROV762:0 "Sao Tome" #or: São Tomé
  PROV763:0 "Rio de Janeiro"
  PROV764:0 "Santo Amaro"
  PROV765:0 "Minas Gerais"
- PROV766:0 "Sao Vicente"
- PROV767:0 "Ortelsburg"
- PROV768:0 "Guayra"
+ PROV766:0 "Sao Vicente" #or: São Vicente
+ PROV767:0 "Szczytno" #Ortelsburg
+ PROV768:0 "Guayra" #or: Guayrá
  PROV769:0 "Curitiba"
- PROV770:0 "Braslaw"
- PROV771:0 "Vitebsk"
+ PROV770:0 "Braslav" #Braslaw (former Braslau)
+ PROV771:0 "Vitebsk" #former Viciebsk
  PROV772:0 "Uruguay"
  PROV773:0 "Banda Oriental"
- PROV774:0 "Al-Junaynah"
- PROV775:0 "Asuncion"
- PROV776:0 "Concepcion"
- PROV777:0 "Corrientes"
- PROV778:0 "Rio de la Plata"
+ PROV774:0 "al-Junaynah" #Al-Junaynah
+ PROV775:0 "Asuncion" #or Asunción
+ PROV776:0 "Concepcion" #or: Concepción
+ PROV777:0 "Taragüí" #Corrientes
+ PROV778:0 "Rio de la Plata" #or: Río de la Plata
  PROV779:0 "Tandil"
  PROV780:0 "Candelaria"
  PROV781:0 "Puerto Deseado"
@@ -787,7 +787,7 @@
  PROV786:0 "Carmen"
  PROV787:0 "Picunmapu"
  PROV788:0 "Angoche"
- PROV789:0 "Mtetwa"
+ PROV789:0 "Mtetwa" #or Zululand
  PROV790:0 "Chaco Austral"
  PROV791:0 "Catamarca"
  PROV792:0 "Copiapo"
@@ -799,31 +799,31 @@
  PROV798:0 "Mbwila"
  PROV799:0 "Chaco Boreal"
  PROV800:0 "Chiquitos"
- PROV801:0 "Cochabamba"
- PROV802:0 "Chuquiabo"
+ PROV801:0 "Quchapampa" #Cochabamba
+ PROV802:0 "Chuquiabo" #La Paz
  PROV803:0 "Moxos"
  PROV804:0 "Puno"
  PROV805:0 "Arequipa"
  PROV806:0 "Nazca"
  PROV807:0 "Abancay"
- PROV808:0 "Cuzco"
+ PROV808:0 "Qusqu" #Cuzco
  PROV809:0 "Lima"
- PROV810:0 "Huancavelica"
- PROV811:0 "Jauja"
- PROV812:0 "Chanchan"
+ PROV810:0 "Wankawilka" #Huancavelica
+ PROV811:0 "Shawsha" #Jauja or Xauxa
+ PROV812:0 "Chanchan" #or: Chanchán
  PROV813:0 "Cajamarca"
- PROV814:0 "Huanuco"
+ PROV814:0 "Huanuco" #or: Huánuco
  PROV815:0 "Iquitos"
  PROV816:0 "Tumbes"
- PROV817:0 "Canari"
+ PROV817:0 "Kañari" #Canari (former Cuenca, or Cañari)
  PROV818:0 "Canelos"
  PROV819:0 "Guayaquil"
- PROV820:0 "Quito"
+ PROV820:0 "Kitu" #Quito
  PROV821:0 "Quijos"
- PROV822:0 "Caqueta"
+ PROV822:0 "Caqueta" #or: Caquetá
  PROV823:0 "Cauca"
  PROV824:0 "Mariquita"
- PROV825:0 "Bogota"
+ PROV825:0 "Bogota" #or: Bogotá
  PROV826:0 "Choco"
  PROV827:0 "Antioquía"
  PROV828:0 "Cartagena"
@@ -839,33 +839,33 @@
  PROV838:0 "Mosquito"
  PROV839:0 "Pipil"
  PROV840:0 "Honduras"
- PROV841:0 "Guatemala"
+ PROV841:0 "Cuauhtemallan" #Guatemala
  PROV842:0 "Petén"
  PROV843:0 "Belize"
- PROV844:0 "Zapotec"
+ PROV844:0 "Be'ena'a" #Zapotec
  PROV845:0 "Campeche"
  PROV846:0 "Sotuta"
- PROV847:0 "Mixtec"
+ PROV847:0 "Ñuù savi" #Mixtec
  PROV848:0 "Tohancapan"
- PROV849:0 "Tlapanec"
- PROV850:0 "Tlaxcala"
+ PROV849:0 "Me'phaa" #Tlapanec
+ PROV850:0 "Tlaxcallan" #Tlaxcala
  PROV851:0 "Zacatula"
- PROV852:0 "Mexico"
- PROV853:0 "Huastec"
+ PROV852:0 "Tenochtitlan" #Mexico, or México
+ PROV853:0 "Téenek" #Huastec
  PROV854:0 "Sayultecas"
  PROV855:0 "Totorames"
  PROV856:0 "Zacatecas"
  PROV857:0 "Guachichil"
  PROV858:0 "Tamaulipas"
  PROV859:0 "Sinaloa"
- PROV860:0 "Tepehuan"
+ PROV860:0 "O'dam" #Tepehuan
  PROV861:0 "Coahuila"
- PROV862:0 "Yaqui"
+ PROV862:0 "Yoeme" #Yaqui
  PROV863:0 "Suma"
  PROV864:0 "Concho"
  PROV865:0 "Cochimi"
  PROV866:0 "Guaycura"
- PROV867:0 "Cahuilla"
+ PROV867:0 "Ivilyuqaletem" #Cahuilla
  PROV868:0 "Chumash"
  PROV869:0 "Salinan"
  PROV870:0 "Yokuts"
@@ -876,7 +876,7 @@
  PROV875:0 "Paiute"
  PROV876:0 "Yavapai"
  PROV877:0 "Pima"
- PROV878:0 "Navajo"
+ PROV878:0 "Dinéta" #Navajo
  PROV879:0 "Apache"
  PROV880:0 "Pueblo"
  PROV881:0 "Piro"
@@ -887,12 +887,12 @@
  PROV886:0 "Waco"
  PROV887:0 "Tonkawa"
  PROV888:0 "Atakapa"
- PROV889:0 "Arapaho"
+ PROV889:0 "Hinono'eino" #Arapaho
  PROV890:0 "Kiowa"
  PROV891:0 "Naisha"
  PROV892:0 "Wichita"
  PROV893:0 "Chitimacha"
- PROV894:0 "Caddo"
+ PROV894:0 "Hasí:nay" #Caddo
  PROV895:0 "Arkansas"
  PROV896:0 "Yscani"
  PROV897:0 "Quapaw"
@@ -917,23 +917,23 @@
  PROV916:0 "Kaskaskia"
  PROV917:0 "Cahokia"
  PROV918:0 "Tennessee"
- PROV919:0 "Chickasaw"
- PROV920:0 "Choctaw"
- PROV921:0 "Bayougoula"
+ PROV919:0 "Chikashsha" #Chickasaw
+ PROV920:0 "Hacha Hatak" #Choctaw
+ PROV921:0 "Bayougoula" #french Bâton-Rouge
  PROV922:0 "Mobile"
  PROV923:0 "Pensacola"
  PROV924:0 "Alabama"
- PROV925:0 "Tuskegee"
+ PROV925:0 "Taskeke" #Tuskegee
  PROV926:0 "Ais"
  PROV927:0 "Timucua"
  PROV928:0 "Apalachee"
  PROV929:0 "Guale"
- PROV930:0 "Muskogee"
+ PROV930:0 "Mvskoke" #Muskogee
  PROV931:0 "Coosa"
  PROV932:0 "Santee"
  PROV933:0 "Catawba"
  PROV934:0 "Yuchi"
- PROV935:0 "Cherokee"
+ PROV935:0 "Tsalagi" #Cherokee
  PROV936:0 "Cheraw"
  PROV937:0 "Tuscarora"
  PROV938:0 "Pamlico"
@@ -941,8 +941,8 @@
  PROV940:0 "Kentucky"
  PROV941:0 "Chisca"
  PROV942:0 "Wea"
- PROV943:0 "Miami"
- PROV944:0 "Potawatomi"
+ PROV943:0 "Myaaniaki" #Miami
+ PROV944:0 "Bodéwadmi" #Potawatomi
  PROV945:0 "Michigan"
  PROV946:0 "Wyandot"
  PROV947:0 "Erie"
@@ -950,68 +950,68 @@
  PROV949:0 "Monacan"
  PROV950:0 "Chesapeake"
  PROV951:0 "Kanawha"
- PROV952:0 "Powhatan"
+ PROV952:0 "Paqwachowng" #Powhatan
  PROV953:0 "Conoy"
  PROV954:0 "Allegheny"
  PROV955:0 "Susquehanna"
- PROV956:0 "Lenape"
+ PROV956:0 "Lenni" #Lenape
  PROV957:0 "Delaware"
  PROV958:0 "Seneca"
- PROV959:0 "Cayuga"
- PROV960:0 "Onondaga"
- PROV961:0 "Oneida"
+ PROV959:0 "Guyohkohnyo" #Cayuga
+ PROV960:0 "Onöñda’gega’" #Onondaga
+ PROV961:0 "Onyota'a:ka" #Oneida
  PROV962:0 "Unami"
- PROV963:0 "Mahican"
- PROV964:0 "Mohawk"
- PROV965:0 "Manhattan"
+ PROV963:0 "Mahicannituck" #Mahican
+ PROV964:0 "Kanien'kehá:ka" #Mohawk
+ PROV965:0 "Manna-hata" #Manhattan
  PROV966:0 "Nipmuc"
  PROV967:0 "Narraganset"
  PROV968:0 "Massachusetts"
  PROV969:0 "Pocumtuk"
  PROV970:0 "Merrimack"
  PROV971:0 "Penobscott"
- PROV972:0 "Nootka"
+ PROV972:0 "Nuucaanul" #Nootka
  PROV973:0 "Squamish"
- PROV974:0 "Kwakiutl"
- PROV975:0 "Tsimshian"
+ PROV974:0 "Kwakwaka'wakw" #Kwakiutl
+ PROV975:0 "Ts’msyan" #Tsimshian
  PROV976:0 "Tlingit"
  PROV977:0 "Yakutat"
- PROV978:0 "Kenai"
- PROV979:0 "Aleut"
+ PROV978:0 "Shk'ituk't" #Kenai
+ PROV979:0 "Unangax" #Aleut
  PROV980:0 "Beothuk"
  PROV981:0 "Taqamkuk"
- PROV982:0 "Unamakik"
+ PROV982:0 "Unama'kik" #Unamakik
  PROV983:0 "Epekwitk"
  PROV984:0 "Sipeknekatik"
- PROV985:0 "Mikmaq"
- PROV986:0 "Kespek"
+ PROV985:0 "Lnu’k" #Mikmaq (or Mi'kmaq)
+ PROV986:0 "Gespe'g" #Kespek
  PROV987:0 "Niagara"
- PROV988:0 "Huron"
- PROV989:0 "Ontario"
+ PROV988:0 "Wendat" #Huron
+ PROV989:0 "Ontarí:io" #Ontario
  PROV990:0 "Maisouna"
  PROV991:0 "Nipissing"
- PROV992:0 "Algonquin"
- PROV993:0 "Hochelaga"
+ PROV992:0 "Omàmiwininiwak" #Algonquin
+ PROV993:0 "Osheaga" #Hochelaga
  PROV994:0 "Stadacona"
- PROV995:0 "Tadoussac"
- PROV996:0 "Skrælingjarland"
- PROV997:0 "Markland"
+ PROV995:0 "Totouskak" #Tadoussac
+ PROV996:0 "Innu"
+ PROV997:0 "Chisedec"
  PROV998:0 "Qikirmiut"
  PROV999:0 "Cisasipi"
- PROV1000:0 "Cree"
+ PROV1000:0 "Nehiyaw" #Cree
  PROV1001:0 "Soto"
  PROV1002:0 "Abitibi"
  PROV1003:0 "Mosoni"
  PROV1004:0 "Attawapiskat"
  PROV1005:0 "Muskegon"
- PROV1006:0 "Chipewyan"
+ PROV1006:0 "Dënesuline" #Chipewyan
  PROV1007:0 "Ojibwa"
  PROV1008:0 "Winnipeg"
  PROV1009:0 "Atikaki"
- PROV1010:0 "Manitoba"
+ PROV1010:0 "Manidoobaa" #Manitoba
  PROV1011:0 "Kinougeoulini"
  PROV1012:0 "Satsuma"
- PROV1013:0 "Cheongju"
+ PROV1013:0 "Chungcheong" #Cheongju
  PROV1014:0 "Bungo"
  PROV1015:0 "Okinawa"
  PROV1016:0 "Ha Tinh"
@@ -1023,15 +1023,15 @@
  PROV1022:0 "Indrapura"
  PROV1023:0 "Echizen"
  PROV1024:0 "Echigo"
- PROV1025:1 "Uzen"
- PROV1026:0 "Rikuzen"
+ PROV1025:1 "Uzen" #former Dewa
+ PROV1026:0 "Rikuzen" #former Mutsu
  PROV1027:0 "Hitachi"
  PROV1028:0 "Musashi"
  PROV1029:0 "Kai"
  PROV1030:0 "Owari"
  PROV1031:0 "Kamikawa"
- PROV1032:0 "The Kurils"
- PROV1033:0 "Sakhalin"
+ PROV1032:0 "Kuril Islands" #The Kurils
+ PROV1033:0 "Choka" #Sakhalin or Kuye
  PROV1034:0 "Kamchatka"
  PROV1035:0 "Penzhina"
  PROV1036:0 "Kolyma"
@@ -1042,7 +1042,7 @@
  PROV1041:0 "Gizhiga"
  PROV1042:0 "Sakha"
  PROV1043:0 "Okhotsk"
- PROV1044:0 "Tauisk"
+ PROV1044:0 "Tauysk" #Tauisk
  PROV1045:0 "Yakut"
  PROV1046:0 "Maya"
  PROV1047:0 "Jugjur"
@@ -1054,8 +1054,8 @@
  PROV1053:0 "Hinggan"
  PROV1054:0 "Mukhtuya"
  PROV1055:0 "Kirenga"
- PROV1056:0 "Barguzin"
- PROV1057:0 "Ude"
+ PROV1056:0 "Bargazhan" #Barguzin
+ PROV1057:0 "Üde" #Ude
  PROV1058:0 "Onan Gol"
  PROV1059:0 "East Tunguska"
  PROV1060:0 "Irkutsk"
@@ -1064,23 +1064,23 @@
  PROV1063:0 "Sayan"
  PROV1064:0 "Tomsk"
  PROV1065:0 "Kuznetsk"
- PROV1066:0 "Altai Uriankhai"
+ PROV1066:0 "Altain Urianhai" #Altai Uriankhai
  PROV1067:0 "Turukhan"
  PROV1068:0 "Ket"
  PROV1069:0 "Surgut"
- PROV1070:0 "Narim"
- PROV1071:0 "Irtesh"
+ PROV1070:0 "Narym" #Narim
+ PROV1071:0 "Eyärtes" #Irtesh
  PROV1072:0 "Obdorsk"
- PROV1073:0 "Berezov"
- PROV1074:0 "Sibir"
- PROV1075:0 "Tyumen"
+ PROV1073:0 "Beryozov" #Berezov
+ PROV1074:0 "Isker" #Sibir
+ PROV1075:0 "Tsymqy-tora" #Tyumen or Tömän
  PROV1076:0 "Kurgan"
  PROV1077:0 "Solikamsk"
  PROV1078:0 "Tura"
- PROV1079:0 "Viatka"
+ PROV1079:0 "Khlynov" #Viatka or Vyatka
  PROV1080:0 "Pelym"
- PROV1081:0 "Simbirsk"
- PROV1082:0 "Kazan"
+ PROV1081:0 "Sember" #Simbirsk
+ PROV1082:0 "Qazan" #Kazan
  PROV1083:0 "Vetluga"
  PROV1084:0 "Wadjuk"
  PROV1085:0 "Paredarerme"
@@ -1094,43 +1094,43 @@
  PROV1093:0 "Barunggam"
  PROV1094:0 "Turrbal"
  PROV1095:0 "Falklands"
- PROV1096:0 "Cape Verde"
- PROV1097:0 "Fernando Po"
- PROV1098:0 "St. Helena"
- PROV1099:0 "Socotra"
- PROV1100:0 "Mahe"
- PROV1101:1 "Hollhavai"
- PROV1102:0 "Mauritius"
- PROV1103:0 "Île Bourbon"
- PROV1104:0 "Eiriksfjord"
+ PROV1096:0 "Kabu Verde" #Cape Verde
+ PROV1097:0 "Otcho" #Fernando Po
+ PROV1098:0 "Saint Helena" #St. Helena
+ PROV1099:0 "Suqutrah" #Socotra
+ PROV1100:0 "Mahe" #or Mahé
+ PROV1101:1 "Folhavahi" #Diego Garcia or Chagos
+ PROV1102:0 "Dina Arobi" #Mauritius or Diva Mashriq
+ PROV1103:0 "Dina Morgabin" #Île Bourbon
+ PROV1104:0 "Eiriksfjord" #or Eriksfjord
  PROV1105:0 "Vestbygden"
  PROV1106:0 "Whangarei"
  PROV1107:0 "Taranaki"
  PROV1108:0 "Tauranga"
  PROV1109:0 "Timaru"
  PROV1110:0 "Agadir"
- PROV1111:0 "Arguin"
- PROV1112:0 "Trarza"
- PROV1113:0 "Cayor"
- PROV1114:0 "Gabu"
- PROV1115:0 "Brakna"
+ PROV1111:0 "'Arkin" #Arguin
+ PROV1112:0 "Tararizah" #Trarza
+ PROV1113:0 "Kajoor" #Cayor
+ PROV1114:0 "Kaabu" #Gabu
+ PROV1115:0 "Braknah" #Brakna
  PROV1116:0 "Wolof"
- PROV1117:0 "Futa Jallon"
+ PROV1117:0 "Fuuta Jaloo" #Futa Jallon
  PROV1118:0 "Sierra Leone"
  PROV1119:0 "Grain Coast"
  PROV1120:0 "Bambuk"
  PROV1121:0 "Bure"
- PROV1122:0 "Bagoe"
+ PROV1122:0 "Bagoe" #or Bagoé
  PROV1123:0 "Segu"
  PROV1124:0 "Joma"
  PROV1125:0 "Kong"
  PROV1126:0 "Ivory Coast"
- PROV1127:0 "Tuat"
- PROV1128:0 "Taudeni"
+ PROV1127:0 "Tuwat" #Tuat
+ PROV1128:0 "Tawdenni" #Taudeni
  PROV1129:0 "Azawad"
- PROV1130:0 "Tadmekka"
+ PROV1130:0 "Tadmakka" #Tadmekka
  PROV1131:0 "Massina"
- PROV1132:0 "Timbuktu"
+ PROV1132:0 "Tumbutu" #Timbuktu
  PROV1133:0 "Gao"
  PROV1134:0 "Jenne"
  PROV1135:0 "Yatenga"
@@ -1149,7 +1149,7 @@
  PROV1148:0 "Gobir"
  PROV1149:0 "Katsina"
  PROV1150:0 "Zamfara"
- PROV1151:0 "Bonny"
+ PROV1151:0 "Ubani" #Bonny
  PROV1152:0 "Idah"
  PROV1153:0 "Pindinga"
  PROV1154:0 "Zazzau"
@@ -1161,24 +1161,24 @@
  PROV1160:0 "Mandara"
  PROV1161:0 "Bauchi"
  PROV1162:0 "Wukari"
- PROV1163:0 "Calabar"
+ PROV1163:0 "Akwa Akpa" #Calabar
  PROV1164:0 "Cameroon"
  PROV1165:0 "Gabon"
- PROV1166:0 "Loango"
- PROV1167:0 "Luanda"
+ PROV1166:0 "Lwããgu" #Loango
+ PROV1167:0 "Loanda" #Luanda
  PROV1168:0 "Mbamba"
  PROV1169:0 "Anziku"
  PROV1170:0 "Mpemba"
  PROV1171:0 "Ndongo"
  PROV1172:0 "Benguela"
  PROV1173:0 "Namibia"
- PROV1174:0 "Ezorongondo"
- PROV1175:0 "Lesser Namaqualand"
+ PROV1174:0 "Ezorongondo" #Walvisbaai, former Angra Pequena
+ PROV1175:0 "Little Namaqualand" #Lesser Namaqualand
  PROV1176:0 "Roggeveld"
  PROV1177:0 "Cape"
  PROV1178:0 "Great Karoo"
  PROV1179:0 "Swellendam"
- PROV1180:0 "Xhosa"
+ PROV1180:0 "Xhosa" #or the Wild Coast
  PROV1181:0 "Natal"
  PROV1182:0 "Matsolo"
  PROV1183:0 "Inhambane"
@@ -1190,63 +1190,63 @@
  PROV1189:0 "Shangwe"
  PROV1190:0 "Zumbo"
  PROV1191:0 "Tete"
- PROV1192:0 "Quelimane"
+ PROV1192:0 "Mkalimani" #Quelimane
  PROV1193:0 "Menabe"
  PROV1194:0 "Besalampy"
- PROV1195:0 "Mozambique"
+ PROV1195:0 "Musa bin Biki" #Mozambique
  PROV1196:0 "Kilwa"
  PROV1197:0 "Mzizima"
  PROV1198:0 "Lindi"
- PROV1199:0 "Bagamoyo"
+ PROV1199:0 "Kaole" #Bagamoyo
  PROV1200:0 "Tanga"
  PROV1201:0 "Zanzibar"
  PROV1202:0 "Mombasa"
  PROV1203:0 "Malindi"
  PROV1204:0 "Lamu"
- PROV1205:0 "Mogadishu"
+ PROV1205:0 "Muqdisho" #Mogadishu
  PROV1206:0 "Qardho"
- PROV1207:0 "Ogaden"
- PROV1208:0 "Degehabur"
+ PROV1207:0 "Ogaadeen" #Ogaden
+ PROV1208:0 "Dhagaxbuur" #Degehabur
  PROV1209:0 "Berbera"
  PROV1210:0 "Dawaro"
- PROV1211:0 "Harer"
- PROV1212:0 "Zeila"
- PROV1213:0 "Shewa"
- PROV1214:0 "Wollo"
- PROV1215:0 "Tajura"
- PROV1216:0 "Tegali"
- PROV1217:0 "Fazughli"
+ PROV1211:0 "Harar" #Harer or Gey
+ PROV1212:0 "Saylac" #Zeila
+ PROV1213:0 "Shewa" #or Shawa
+ PROV1214:0 "Bete Amhara" #Wollo
+ PROV1215:0 "Tagórri" #Tajura
+ PROV1216:0 "Tagale" #Tegali
+ PROV1217:0 "Fazughli" #or Fazogli
  PROV1218:0 "Sidamo"
- PROV1219:0 "Darfur"
- PROV1220:0 "Bayuda"
- PROV1221:0 "El Obeid"
- PROV1222:0 "Gezira"
+ PROV1219:0 "Dar Fur" #Darfur
+ PROV1220:0 "Bayudah" #Bayuda
+ PROV1221:0 "el-Obeid" #El Obeid or al-'Ubayyid
+ PROV1222:0 "el-Gezira" #Gezira
  PROV1223:0 "Gojjam"
- PROV1224:0 "Gonder"
+ PROV1224:0 "Gonder" #or Gondar (former Begmeder)
  PROV1225:0 "Butana"
  PROV1226:0 "Beja"
  PROV1227:0 "Aksum"
- PROV1228:0 "Dongola"
+ PROV1228:0 "Dungula" #Dongola or Tungul
  PROV1229:0 "Berber"
- PROV1230:0 "Massawa"
- PROV1231:0 "Aswan"
- PROV1232:0 "Suakin"
- PROV1233:0 "Kharga"
+ PROV1230:0 "Missiwa" #Massawa
+ PROV1231:0 "'Aswan" #Aswan
+ PROV1232:0 "Sawakin" #Suakin
+ PROV1233:0 "el-Khargah" #Kharga
  PROV1234:0 "Qasr Ibrim"
- PROV1235:0 "Guam"
+ PROV1235:0 "Guåhån" #Guam
  PROV1236:0 "Rabaul"
  PROV1237:0 "Hanuabada"
  PROV1238:0 "Solomon Islands"
  PROV1239:0 "Vanuatu"
- PROV1240:0 "Hawaii"
- PROV1241:0 "Kiribati"
- PROV1242:0 "Fiji"
+ PROV1240:0 "Hawai'i" #Hawaii
+ PROV1241:0 "Kiribati" #or Gilbert Islands
+ PROV1242:0 "Viti" #Fiji
  PROV1243:0 "Samoa"
  PROV1244:0 "Tuamotu Islands"
  PROV1245:0 "Manokwari"
  PROV1246:0 "Waihopai"
  PROV1247:0 "Corsica"
- PROV1248:0 "Maldives"
+ PROV1248:0 "Dhivehin" #Maldives
  PROV1249:0 "Yola"
  PROV1250:0 "Vänern"
  PROV1251:0 "Vättern"
@@ -1740,69 +1740,69 @@
  PROV1739:1 "Pitcairn Islands"
  PROV1740:1 "Equatorial Pacific Counter Current"
  PROV1741:0 "Tiki Basin"
- PROV1742:1 "Upper Guelders"
- PROV1743:0 "Cambray"
+ PROV1742:1 "Opper-Gelre" #Upper Guelders, former Limburg
+ PROV1743:0 "Kimbré" #Cambray
  PROV1744:0 "Antwerpen"
  PROV1745:0 "Cantabria"
  PROV1746:0 "Burgos"
- PROV1747:0 "Extremadura"
+ PROV1747:0 "Caçris" #Extremadura or Estremaúra or Cáceres
  PROV1748:0 "Jaén"
- PROV1749:0 "Cadiz"
- PROV1750:0 "Alicante"
- PROV1751:0 "Ceuta"
+ PROV1749:0 "Cádiz" #Cadiz
+ PROV1750:0 "Alacant" #Alicante
+ PROV1751:0 "Sebta" #Ceuta or Sabtah
  PROV1752:0 "Rzhev"
  PROV1753:0 "Kostroma"
  PROV1754:0 "Murom"
  PROV1755:0 "Ustyug"
- PROV1756:0 "Bessarabia"
- PROV1757:0 "Oberpfalz"
- PROV1758:0 "Hanover"
+ PROV1756:0 "Basarabia" #Bessarabia
+ PROV1757:0 "Obapfåiz" #Oberpfalz
+ PROV1758:0 "Hannober" #Hanover
  PROV1759:0 "Potsdam"
- PROV1760:0 "Koblenz"
- PROV1761:0 "Pfalz"
- PROV1762:0 "Kassel"
- PROV1763:0 "Niederlausitz"
+ PROV1760:0 "Kowelenz" #Koblenz
+ PROV1761:0 "Palz" #Pfalz
+ PROV1762:0 "Cassel" #Kassel
+ PROV1763:0 "Dolna Lužyca" #Niederlausitz
  PROV1764:0 "Burgas"
  PROV1765:0 "Sofia"
- PROV1766:0 "Kosovo"
- PROV1767:0 "Slavonia"
- PROV1768:0 "Lienz"
- PROV1769:0 "Görz"
- PROV1770:0 "Ostmarch"
- PROV1771:0 "Erz"
- PROV1772:0 "Pozsony"
- PROV1773:0 "Achaea"
- PROV1774:0 "Treviso"
- PROV1775:0 "Holstein"
- PROV1776:1 "White Karelia"
- PROV1777:0 "Kola"
- PROV1778:0 "Kasimov"
- PROV1779:0 "Rub' al Khali"
+ PROV1766:0 "Kosovo" #former Kosova
+ PROV1767:0 "Slavonija" #Slavonia
+ PROV1768:0 "Lianz" #Lienz
+ PROV1769:0 "Gorica" #Görz
+ PROV1770:0 "Ostmark" #Ostmarch
+ PROV1771:0 "Rudohorí" #Erz
+ PROV1772:0 "Prešporok" #Pozsony
+ PROV1773:0 "Achaïa" #Achaea
+ PROV1774:0 "Trevixo" #Treviso
+ PROV1775:0 "Holsteen" #Holstein
+ PROV1776:1 "Vienan Karjala" #White Karelia (former Karjala)
+ PROV1777:0 "Kuâlõk" #Kola
+ PROV1778:0 "Xankirmän" #Kasimov
+ PROV1779:0 "ar-Rub' al-Hali" #Rub' al Khali
  PROV1780:0 "Komi"
  PROV1781:0 "Western Siberia"
  PROV1782:0 "Central Siberia"
  PROV1783:0 "Eastern Siberia"
  PROV1784:0 "Tian Shan"
  PROV1785:0 "Pamir"
- PROV1786:0 "Takla Makan"
+ PROV1786:0 "Taklamakan" #Takla Makan
  PROV1787:0 "Himalaya"
- PROV1788:0 "Arunachal"
+ PROV1788:0 "Arunacala" #Arunachal
  PROV1789:0 "Papua"
  PROV1790:0 "Western Australia"
  PROV1791:0 "Central Australia"
- PROV1792:0 "Merina"
- PROV1793:0 "El Djouf"
+ PROV1792:0 "Merina" #former Antananarivo
+ PROV1793:0 "el-Juf" #El Djouf
  PROV1794:0 "Central Sahara"
  PROV1795:0 "East Sahara"
  PROV1796:0 "Central Africa"
- PROV1797:0 "Northern Congo Basin"
- PROV1798:0 "Imatong"
- PROV1799:0 "Urgoma"
- PROV1800:0 "Limpopo"
+ PROV1797:0 "Northern Congo Basin" #former Inner Kongo
+ PROV1798:0 "Imatong" #former Uganda
+ PROV1799:0 "Urgoma" #former Malawi
+ PROV1800:0 "Limpopo" #former Zambia
  PROV1801:0 "Kalahari"
  PROV1802:0 "Western Amazonas"
  PROV1803:0 "Eastern Amazonas"
- PROV1804:0 "Greenland"
+ PROV1804:0 "Kalaallit Nunaat" #Greenland
  PROV1805:0 "Ungava"
  PROV1806:0 "Weagamow"
  PROV1807:0 "Baffin"
@@ -1825,62 +1825,62 @@
  PROV1824:0 "Wenzhou"
  PROV1825:0 "Aki"
  PROV1826:0 "Lika"
- PROV1827:0 "Raska"
+ PROV1827:0 "Raška" #Raska
  PROV1828:0 "Donji Kraji"
- PROV1829:0 "Quanzhou"
+ PROV1829:0 "Quanzhou" #or Chinchew, Zaiton
  PROV1830:0 "Tajima"
- PROV1831:0 "Travunia"
- PROV1833:0 "Ji'an"
+ PROV1831:0 "Travunija" #Travunia
  PROV1832:0 "Yamato"
- PROV1834:0 "Dorpat"
+ PROV1833:0 "Ji'an"
+ PROV1834:0 "Tartu" #Dorpat
  PROV1835:0 "Mino"
  PROV1836:0 "Luoyang"
  PROV1837:0 "Etchu"
- PROV1838:0 "Hefei"
+ PROV1838:0 "Hofei" #Hefei (not Luzhou nor Luchow)
  PROV1839:0 "Suruga"
- PROV1840:0 "Guilin"
- PROV1841:0 "Marienburg"
+ PROV1840:0 "Guilin" #or Kweilin
+ PROV1841:0 "Malbórg" #Marienburg
  PROV1842:0 "Narva"
  PROV1843:0 "Kozuke"
  PROV1844:0 "Xiankhouang"
- PROV1845:0 "Pyeongyang"
+ PROV1845:0 "Pyongang" #Pyeongyang
  PROV1846:0 "Amasya"
  PROV1847:0 "Shiribeshi"
- PROV1848:0 "Hamid"
- PROV1849:0 "Hama"
+ PROV1848:0 "Hamid" #or Isparta
+ PROV1849:0 "Hamah" #Hama
  PROV1850:0 "Yaran"
  PROV1851:0 "Coimbra"
  PROV1852:0 "Tokachi"
- PROV1853:0 "Kastoria"
- PROV1854:0 "Jaffa"
- PROV1855:0 "Sidon"
- PROV1856:0 "Abkhazia"
- PROV1857:0 "Lauenburg"
- PROV1858:0 "Stettin"
+ PROV1853:0 "Kastoriá" #Kastoria
+ PROV1854:0 "Nablus" #Jaffa or Yafo (former Shekem)
+ PROV1855:0 "Sayda" #Sidon
+ PROV1856:0 "Apsny" #Abkhazia
+ PROV1857:0 "Loonborg" #Lauenburg
+ PROV1858:0 "Szczecëno" #Stettin
  PROV1859:0 "Chelmno"
  PROV1860:0 "Norfolk"
- PROV1861:1 "Derby"
- PROV1862:0 "Cremona"
+ PROV1861:1 "Derbyshire" #Derby
+ PROV1862:0 "Cremùna" #Cremona
  PROV1863:0 "Graz"
  PROV1864:0 "Somogy"
- PROV1865:0 "Ghent"
- PROV1866:0 "Namur"
- PROV1867:0 "Vaud"
- PROV1868:0 "Augsburg"
- PROV1869:0 "Zürich"
- PROV1870:0 "St Gallen"
- PROV1871:0 "Wallis"
+ PROV1865:0 "Gent" #Ghent
+ PROV1866:0 "Nameur" #Namur
+ PROV1867:0 "Vôd" #Vaud
+ PROV1868:0 "Augschburg" #Augsburg
+ PROV1869:0 "Züri" #Zürich
+ PROV1870:0 "Sanggale" #St Gallen
+ PROV1871:0 "Valês" #Wallis or Valais
  PROV1872:0 "Ulm"
- PROV1873:0 "Graubünden"
+ PROV1873:0 "Graubünda" #Graubünden (or: Bündnerland)
  PROV1874:0 "Bremen"
- PROV1875:0 "Cuneo"
+ PROV1875:0 "Coni" #Cuneo
  PROV1876:0 "Frankfurt"
- PROV1877:0 "Charolais"
- PROV1878:0 "Aachen"
- PROV1879:1 "Alençon"
+ PROV1877:0 "Charolês" #Charolais or Charolles, or Tsarolles
+ PROV1878:0 "Óche" #Aachen
+ PROV1879:0 "Alençon" #Alencon
  PROV1880:0 "Sundgau"
  PROV1881:0 "St. Martin"
- PROV1882:0 "Annaba"
+ PROV1882:0 "'Ennaba" #Annaba or 'Annabah or Tamenadht n 'Ennaba
  PROV1883:0 "Western Finnish Lakes"
  PROV1884:0 "East Finnish Lakes"
  PROV1885:0 "Central Finnish Lakes"
@@ -1929,28 +1929,28 @@
  PROV1928:0 "Western Sea of Åland"
  PROV1929:0 "Western Norwegian Sea"
  PROV1930:0 "Åland"
- PROV1931:0 "East Frisia"
+ PROV1931:0 "Oostfreesland" #East Frisia
  PROV1932:0 "Gulf of Satalia"
- PROV1933:0 "Bari"
+ PROV1933:0 "Bare" #Bari
  PROV1934:0 "Lucania"
- PROV1935:0 "Mitau"
- PROV1936:0 "Kovno"
- PROV1937:0 "Grodno"
+ PROV1935:0 "Jelgava" #Mitau (former Zemgale)
+ PROV1936:0 "Kaunas" #Kovno
+ PROV1937:0 "Grodno" #former Grodna or Hrodna
  PROV1938:0 "Wizna"
  PROV1939:0 "Leczyca"
  PROV1940:0 "Belz"
- PROV1941:0 "Turov"
- PROV1942:0 "Zhytomyr"
- PROV1943:0 "Bratslav"
- PROV1944:0 "Cherkasy"
- PROV1945:0 "Severia"
- PROV1946:0 "Desh"
- PROV1947:0 "Gingee"
- PROV1948:0 "Bidar"
- PROV1949:0 "Rayalaseema"
+ PROV1941:0 "Turov" #former Turau
+ PROV1942:0 "Zhitomir" #Zhytomyr
+ PROV1943:0 "Vinnitsa" #Bratslav
+ PROV1944:0 "Cherkassy" #Cherkasy
+ PROV1945:0 "Severschina" #Severia (former Novhorod-Siverskyi)
+ PROV1946:0 "Desha" #Desh
+ PROV1947:0 "Ceñci" #Gingee
+ PROV1948:0 "Bidara" #Bidar
+ PROV1949:0 "Rayalasima" #Rayalaseema
  PROV1950:0 "Meghalaya"
- PROV1951:0 "Hunyad"
- PROV1952:0 "Maramaros"
+ PROV1951:0 "Hunedoara" #Hunyad (former Ardeal)
+ PROV1952:0 "Marmaroschina" #Maramaros (former Maramaroshchyna)
  PROV1953:0 "Szabolcs"
  PROV1954:0 "Torontál"
  PROV1955:0 "Kholmogory"
@@ -1960,143 +1960,144 @@
  PROV1959:0 "Torzhok"
  PROV1960:0 "Ostrov"
  PROV1961:0 "Ladoga"
- PROV1962:0 "Kudymkar"
- PROV1963:0 "Cherdyn"
+ PROV1962:0 "Kudymkör" #Kudymkar
+ PROV1963:0 "Cherdin" #Cherdyn
  PROV1964:0 "Ust-Sysolsk"
  PROV1965:0 "Buzuluk"
- PROV1966:0 "Chelyaba"
+ PROV1966:0 "Siläbe" #Chelyaba (former Chingi-Tura or Chimgi-Tura)
  PROV1967:0 "Khujand"
  PROV1968:0 "Kulob"
- PROV1969:0 "Sozak"
- PROV1970:0 "Syghnak"
- PROV1971:1 "Beljamen"
- PROV1972:0 "Udmurtia"
- PROV1973:0 "Urgench"
- PROV1974:0 "Yedishkul"
+ PROV1969:0 "Sozaq" #Sozak
+ PROV1970:0 "Syghanaq" #Syghnak or Ak-Mechet
+ PROV1971:1 "Beljamen" #former Sary-Su
+ PROV1972:0 "Ižkar" #Udmurtia (switched with 4266)
+ PROV1973:0 "Urganch" #Urgench
+ PROV1974:0 "Yedishkül" #Yedishkul
  PROV1975:0 "North Sea"
  PROV1976:0 "Dead Sea"
  PROV1977:0 "Mälaren"
  PROV1978:0 "Shetland"
- PROV1979:0 "Färöarna"
+ PROV1979:0 "Føroyar" #Färöarna
  PROV1980:2 "Hokuriku Coast"
  PROV1981:0 "Bornholm"
- PROV1982:0 "Blekinge"
+ PROV1982:0 "Bleking" #Blekinge
  PROV1983:0 "Lolland"
  PROV1984:0 "Nordjylland"
  PROV1985:0 "Närke"
  PROV1986:0 "New Caledonia"
- PROV1987:0 "Society Islands"
- PROV1988:0 "Rapanui"
+ PROV1987:0 "Totaiete ma" #Society Islands
+ PROV1988:0 "Rapa Nui" #Rapanui
  PROV1989:0 "Tonga"
  PROV1990:0 "Tuvalu"
- PROV1991:0 "Gilbert Islands"
- PROV1992:0 "Nauru"
- PROV1993:0 "Marshall Islands"
+ PROV1991:0 "Tungaru" #Gilbert Islands or Kingsmill
+ PROV1992:0 "Naoero" #Nauru
+ PROV1993:0 "Aolepan Aorokin Majel" #Marshall Islands
  PROV1994:0 "Wake"
  PROV1995:0 "Micronesia"
- PROV1996:0 "Palau"
+ PROV1996:0 "Belau" #Palau
  PROV1997:0 "Midway"
  PROV1998:0 "Christmas Island"
- PROV1999:0 "Cocos Island"
+ PROV1999:0 "Pulu Kokos" #Cocos Island
  PROV2000:0 "Qinghai Lake"
  PROV2001:0 "Siling Lake"
- PROV2002:0 "Galápagos Islands"
+ PROV2002:0 "Galápagos" #Galápagos Islands
  PROV2003:0 "Ktunaxa"
- PROV2004:0 "Niitsitapi"
+ PROV2004:0 "Niitsítapi" #Niitsitapi
  PROV2005:0 "Asinaan"
  PROV2006:0 "Apsáalooke"
  PROV2007:0 "Arikara"
- PROV2008:0 "Lakota"
+ PROV2008:0 "Thíthunwan" #Lakota
  PROV2009:0 "Oglala"
  PROV2010:0 "Connecticut"
  PROV2011:0 "Shenandoah"
  PROV2012:0 "Arsigantegok"
  PROV2013:0 "Androscoggin"
- PROV2014:0 "Natchitoches"
+ PROV2014:0 "Náshit'ush" #Natchitoches
  PROV2015:0 "Nipigon"
  PROV2016:0 "Bungi"
  PROV2017:0 "Nehiyawewin"
- PROV2018:0 "Tsuu Tina"
+ PROV2018:0 "Tsuu T'ina" #Tsuu Tina
  PROV2019:0 "Nimiipu"
  PROV2020:0 "Bannock"
  PROV2021:0 "Miwok"
- PROV2022:0 "Haida"
+ PROV2022:0 "Xaayda" #Haida
  PROV2023:0 "Munsee"
  PROV2024:0 "Garoowe"
- PROV2026:0 "Tanjore"
- PROV2027:0 "Arcot"
- PROV2028:0 "Mahur"
- PROV2029:0 "South Kanara"
- PROV2030:0 "Goa"
+ PROV2025:0 "South Georgia"
+ PROV2026:0 "Tañcai" #Tanjore
+ PROV2027:0 "Arkatu" #Arcot
+ PROV2028:0 "Mahura" #Mahur
+ PROV2029:0 "Dakshina Kannada" #South Kanara
+ PROV2030:0 "Sindapura" #Goa
  PROV2031:0 "Morasanadu"
  PROV2032:0 "Malenadu"
- PROV2033:0 "Savanur"
+ PROV2033:0 "Savanura" #Savanur
  PROV2034:0 "Pune"
  PROV2035:0 "Gulbarga"
  PROV2036:0 "Baglana"
- PROV2037:0 "Warangal"
- PROV2038:0 "Midnapore"
- PROV2039:0 "Sunderbans"
- PROV2040:0 "Sadiya"
+ PROV2037:0 "Varangal" #Warangal
+ PROV2038:0 "Medinipura" #Midnapore
+ PROV2039:0 "Sundarabana" #Sunderbans
+ PROV2040:0 "Shadiya" #Sadiya
  PROV2041:0 "Manipur"
- PROV2042:0 "Koch Hajo"
- PROV2043:0 "Balasore"
- PROV2044:0 "Bhagalpur"
- PROV2045:0 "Barind"
- PROV2046:0 "Nasirabad"
- PROV2047:0 "Tirhut"
- PROV2048:0 "Garjat"
- PROV2049:0 "Khurda"
- PROV2050:0 "Chanda"
- PROV2051:0 "Bhavnagar"
- PROV2052:0 "Navanagar"
- PROV2053:0 "Patan"
- PROV2054:0 "Ahmadabad"
- PROV2055:0 "Gorakhpur"
- PROV2056:0 "Rewakantha"
- PROV2057:0 "Bhilsa"
- PROV2058:0 "Mewar"
- PROV2059:0 "Kalpi"
- PROV2060:0 "Upper Doab"
- PROV2061:0 "Katehar"
- PROV2062:0 "Panipat"
- PROV2063:0 "Etawah"
- PROV2064:0 "Shekhawati"
+ PROV2042:0 "Kocabesamala" #Koch Hajo
+ PROV2043:0 "Baleshvara" #Balasore
+ PROV2044:0 "Bhagalapura" #Bhagalpur
+ PROV2045:0 "Barendra" #Barind
+ PROV2046:0 "Nasirabada" #Nasirabad
+ PROV2047:0 "Tirahuta" #Tirhut
+ PROV2048:0 "Garjata" #Garjat
+ PROV2049:0 "Khorddha" #Khurda
+ PROV2050:0 "Candrapura" #Chanda
+ PROV2051:0 "Bhavanagara" #Bhavnagar
+ PROV2052:0 "Navanagara" #Navanagar
+ PROV2053:0 "Patana" #Patan
+ PROV2054:0 "Amadavada" #Ahmadabad
+ PROV2055:0 "Gorakhapura" #Gorakhpur
+ PROV2056:0 "Rewa Kantha" #Rewakantha
+ PROV2057:0 "Vidisha" #Bhilsa
+ PROV2058:0 "Mevara" #Mewar
+ PROV2059:0 "Kalapi" #Kalpi
+ PROV2060:0 "Apara Doaba" #Upper Doab
+ PROV2061:0 "Katihara" #Katehar
+ PROV2062:0 "Panipata" #Panipat
+ PROV2063:0 "Itava" #Etawah
+ PROV2064:0 "Shekhavati" #Shekhawati
  PROV2065:0 "Bhattiana"
- PROV2066:0 "Nagaur"
- PROV2067:0 "Gorwar"
+ PROV2066:0 "Nagaura" #Nagaur
+ PROV2067:0 "Goravara" #Gorwar
  PROV2068:0 "Siwi"
- PROV2069:0 "Kumaon"
- PROV2070:0 "Chaubisi Rajya"
- PROV2071:0 "Limbuwan"
- PROV2072:0 "Bhakkar"
- PROV2073:0 "Baltistan"
- PROV2074:0 "Ladakh"
- PROV2075:0 "Doaba"
- PROV2076:0 "Sialkot"
+ PROV2069:0 "Kuma'um" #Kumaon
+ PROV2070:0 "Caubisi Rajya" #Chaubisi Rajya
+ PROV2071:0 "Limbuvan" #Limbuwan
+ PROV2072:0 "Bhakkara" #Bhakkar
+ PROV2073:0 "Baltiyul" #Baltistan
+ PROV2074:0 "La'dwags" #Ladakh
+ PROV2075:0 "Bist Do'aba" #Doaba
+ PROV2076:0 "Si'alakota" #Sialkot
  PROV2077:0 "Margalla"
- PROV2078:0 "Sind Sagar"
- PROV2079:0 "Derajat"
- PROV2080:0 "Srikakulam"
- PROV2081:0 "Lakhnor"
- PROV2082:0 "Raipur"
- PROV2083:0 "Kosta"
- PROV2084:0 "Konaseema"
- PROV2085:0 "Tiruchirappalli"
- PROV2086:0 "Cholistan"
- PROV2087:0 "Ajmer"
- PROV2088:0 "Umarkot"
- PROV2089:0 "Chaul"
- PROV2090:0 "Kurnool"
+ PROV2078:0 "Sidha Sagara Du'aba" #Sind Sagar
+ PROV2079:0 "Derajata" #Derajat
+ PROV2080:0 "Shrikakulam" #Srikakulam
+ PROV2081:0 "Lakhanaura" #Lakhnor
+ PROV2082:0 "Rayapura" #Raipur
+ PROV2083:0 "Andhra" #Kosta
+ PROV2084:0 "Konasima" #Konaseema
+ PROV2085:0 "Tiruccirappalli" #Tiruchirappalli
+ PROV2086:0 "Cholistan" #or Uch
+ PROV2087:0 "Ajamera" #Ajmer
+ PROV2088:0 "Amarkot" #Umarkot
+ PROV2089:0 "Caula" #Chaul
+ PROV2090:0 "Karnulu" #Kurnool
  PROV2091:0 "Tripura"
- PROV2092:0 "Mahadeo"
- PROV2093:0 "Mandsaur"
- PROV2094:0 "Bahreich"
+ PROV2092:0 "Mahadeva" #Mahadeo
+ PROV2093:0 "Mandasaura" #Mandsaur
+ PROV2094:0 "Bahara'ica" #Bahreich
  PROV2095:0 "Varanasi"
  PROV2096:0 "Damin"
- PROV2097:0 "Baghelkhand"
- PROV2098:0 "Surguja"
- PROV2099:0 "Kandy"
+ PROV2097:0 "Baghelakhanda" #Baghelkhand
+ PROV2098:0 "Saraguja" #Surguja
+ PROV2099:0 "Mahanuwara" #Kandy or Maha Nuvara
  PROV2100:0 "Vanni"
  PROV2101:0 "Tirunelveli"
  PROV2102:0 "Urkan"
@@ -2105,7 +2106,7 @@
  PROV2105:0 "Kuru"
  PROV2106:0 "Furdan"
  PROV2107:0 "Ningguta"
- PROV2108:0 "Huncun"
+ PROV2108:0 "Hunchun" #Huncun
  PROV2109:0 "Boduna"
  PROV2110:0 "Yehe"
  PROV2111:0 "Hetu Ala"
@@ -2115,15 +2116,15 @@
  PROV2115:0 "Chahar"
  PROV2116:0 "Ih Huree"
  PROV2117:0 "Zasagt"
- PROV2118:0 "Urzhar"
- PROV2119:0 "Chuguchak"
+ PROV2118:0 "Ürzhar" #Urzhar
+ PROV2119:0 "Chuguchaq" #Chuguchak
  PROV2120:0 "Ili"
- PROV2121:0 "Kuqa"
- PROV2122:0 "Hami"
- PROV2123:0 "Qakilik"
- PROV2124:0 "Yarkand"
+ PROV2121:0 "Kuchar" #Kuqa
+ PROV2122:0 "Qumul" #Hami
+ PROV2123:0 "Chaqiliq" #Qakilik
+ PROV2124:0 "Yarkant" #Yarkand
  PROV2125:0 "Kochkor"
- PROV2126:0 "Chuy"
+ PROV2126:0 "Chüy" #Chuy
  PROV2127:0 "Yashilkul"
  PROV2128:0 "Ngari"
  PROV2129:0 "Changtang"
@@ -2131,49 +2132,49 @@
  PROV2131:0 "Qamdo"
  PROV2132:0 "Markam"
  PROV2133:0 "Dege"
- PROV2134:0 "Rebgong"
- PROV2135:0 "Garze"
+ PROV2134:0 "Rebgong" #or Tongren
+ PROV2135:0 "Kandze" #Garze
  PROV2136:0 "Xuanhua"
  PROV2137:0 "Daming"
  PROV2138:0 "Wuding"
- PROV2139:0 "Laizhou"
- PROV2140:0 "Yanzhou"
- PROV2141:0 "Xuzhou"
- PROV2142:0 "Huai'an"
+ PROV2139:0 "Laizhou" #or Laichow
+ PROV2140:0 "Yanzhou" #or Yenchow
+ PROV2141:0 "Xuzhou" #or Suchow
+ PROV2142:0 "Huaiyin" #Huai'an
  PROV2143:0 "Fengyang"
  PROV2144:0 "Fuyang"
- PROV2145:0 "Zhenjiang"
+ PROV2145:0 "Zhenjiang" #or Chenkiang
  PROV2146:0 "Ningguo"
- PROV2147:0 "Huizhou"
- PROV2148:0 "Shaoxin"
+ PROV2147:0 "Huizhou" #??? or Waichow
+ PROV2148:0 "Kuaiji" #Shaoxin or Kwaiki
  PROV2149:0 "Ningbo"
  PROV2150:0 "Jinhua"
  PROV2151:0 "Poyang"
  PROV2152:0 "Jianning"
  PROV2153:0 "Tingzhou"
- PROV2154:0 "Kelang"
- PROV2155:0 "Middag"
- PROV2156:0 "Chaochow"
- PROV2157:0 "Waichow"
- PROV2158:0 "Shiukwan"
- PROV2159:0 "Leichow"
- PROV2160:0 "Ngaichow"
- PROV2161:0 "Limchow"
- PROV2162:0 "Ngchow"
- PROV2163:0 "Liuzhou"
- PROV2164:0 "Namning"
- PROV2165:0 "Pu'er"
+ PROV2154:0 "Kelang" # (Formosa/Taiwan)
+ PROV2155:0 "Middag" # (Formosa/Taiwan)
+ PROV2156:0 "Chaozhou" #Chaochow
+ PROV2157:0 "Huizhou" #Waichow
+ PROV2158:0 "Shaoguan" #Shiukwan or Shiuchow
+ PROV2159:0 "Leizhou" #Leichow
+ PROV2160:0 "Yazhou" #Ngaichow
+ PROV2161:0 "Lianzhou" #Limchow
+ PROV2162:0 "Wuzhou" #Ngchow or Wuchow
+ PROV2163:0 "Longcheng" #Liuzhou
+ PROV2164:0 "Nanning" #Namning
+ PROV2165:0 "Pu'er" #or Puerh
  PROV2166:0 "Dehong"
  PROV2167:0 "Lijiang"
  PROV2168:0 "Bozhou"
- PROV2169:0 "Langzhong"
+ PROV2169:0 "Baoning" #Langzhong
  PROV2170:0 "Songqu"
- PROV2171:0 "Xiangyang"
- PROV2172:0 "Jingzhou"
+ PROV2171:0 "Xiangfan" #Xiangyang
+ PROV2172:0 "Jingzhou" #??? or Kingchow
  PROV2173:0 "Yuanling"
- PROV2174:0 "Hengyang"
+ PROV2174:0 "Hengzhou" #Hengyang
  PROV2175:0 "Runing"
- PROV2176:0 "Shangqiu"
+ PROV2176:0 "Shangqiu" #or Shangkiu
  PROV2177:0 "Ningwu"
  PROV2178:0 "Lu'an"
  PROV2179:0 "Yan'an"
@@ -2181,53 +2182,53 @@
  PROV2181:0 "Pingliang"
  PROV2182:0 "Liangzhou"
  PROV2183:0 "Taozhou"
- PROV2184:0 "Xining"
+ PROV2184:0 "Xining" #or Ziling
  PROV2185:0 "Mergen"
  PROV2186:0 "Iman"
  PROV2187:0 "Sartu"
  PROV2188:0 "Alchuka"
  PROV2189:0 "Tsetserleg"
- PROV2190:0 "Qaraqorum"
+ PROV2190:0 "Qara Qorum" #Qaraqorum
  PROV2191:0 "Ejin"
  PROV2192:0 "Korla"
  PROV2193:0 "Govi"
  PROV2194:0 "Kunlun"
  PROV2195:0 "Adyghe"
  PROV2196:0 "Guria"
- PROV2197:0 "Kabardia"
- PROV2198:0 "Khundzia"
- PROV2199:0 "Tarki"
- PROV2200:0 "Suleiman Range"
- PROV2201:0 "Alania"
- PROV2202:0 "Melikates"
+ PROV2197:0 "Kêbêrdej" #Kabardia (or: Qabarda, Qeberdey)
+ PROV2198:0 "Khunzakh" #Khundzia or Avaria (former Daghistan)
+ PROV2199:0 "Targhu" #Tarki
+ PROV2200:0 "Koh-e Sulaiman" #Suleiman Range
+ PROV2201:0 "Alani" #Alania
+ PROV2202:0 "Artsakh" #Melikates
  PROV2203:1 "Kakheti"
- PROV2204:1 "Kars"
- PROV2205:0 "Nakhchivan"
- PROV2206:0 "Urmia"
- PROV2207:0 "Maragheh"
- PROV2208:0 "Terek"
- PROV2209:0 "Ilam"
- PROV2210:0 "Kirmanshah"
- PROV2211:0 "Ardalan"
- PROV2212:0 "Zanjan"
- PROV2213:0 "Qom"
- PROV2214:0 "Golestan"
- PROV2215:0 "Qazvin"
- PROV2216:0 "Semnan"
+ PROV2204:1 "Karsi" #Kars, former Samtskhe
+ PROV2205:0 "Nakhijevan" #Nakhchivan
+ PROV2206:0 "Wurmê" #Urmia
+ PROV2207:0 "Maraga" #Maragheh
+ PROV2208:0 "Qyzlar-Qala" #Terek
+ PROV2209:0 "Îlam" #Ilam
+ PROV2210:0 "Kirmasan" #Kirmanshah or Kermanshah (former Kirmasan)
+ PROV2211:0 "Erdelan" #Ardalan
+ PROV2212:0 "Zencan" #Zanjan
+ PROV2213:0 "Qom" #former Markazi
+ PROV2214:0 "Astarabad" #Golestan or Gorgan
+ PROV2215:0 "Qezvin" #Qazvin
+ PROV2216:0 "Seman" #Semnan
  PROV2217:0 "Yasuj"
- PROV2218:0 "Shiraz"
- PROV2219:0 "Bandar Langeh"
+ PROV2218:0 "Shiraz" #Former Sarvestan
+ PROV2219:0 "Bandar-e Langeh" #Bandar Langeh
  PROV2220:0 "Bam"
  PROV2221:0 "Mashhad"
  PROV2222:0 "Ardakan"
  PROV2223:0 "Larestan"
- PROV2224:0 "Ferah"
+ PROV2224:0 "Farah" #Ferah
  PROV2225:0 "Bamyan"
- PROV2226:0 "Jalalabad"
+ PROV2226:0 "Adinapur" #Jalalabad
  PROV2227:0 "Kunduz"
- PROV2228:0 "Maymana"
- PROV2229:0 "Bust"
- PROV2230:0 "Chakhansur"
+ PROV2228:0 "Maymaneh" #Maymana
+ PROV2229:0 "Bost" #Bust
+ PROV2230:0 "Nimruz" #Chakhansur (former Chagai)
  PROV2231:0 "Bela"
  PROV2232:0 "Kharan"
  PROV2233:0 "Chabahar"
@@ -2236,10 +2237,10 @@
  PROV2236:0 "Bojnord"
  PROV2237:0 "Tekrur"
  PROV2238:0 "Kantor"
- PROV2239:0 "Siine"
+ PROV2239:0 "Siine" #or Gambia
  PROV2240:0 "Galam"
- PROV2241:0 "Beafada"
- PROV2242:0 "Karou"
+ PROV2241:0 "Beafada" #or Guinea
+ PROV2242:0 "Karou" #or Pepper Coast
  PROV2243:0 "Termes"
  PROV2244:0 "Tagant"
  PROV2245:0 "Wagadu"
@@ -2256,7 +2257,7 @@
  PROV2256:0 "Dagbon"
  PROV2257:0 "Denkyira"
  PROV2258:0 "Cape Coast"
- PROV2259:0 "Sah"
+ PROV2259:0 "Sah" #former Bara
  PROV2260:0 "Mema"
  PROV2261:0 "Kala"
  PROV2262:0 "Karabara"
@@ -2287,95 +2288,95 @@
  PROV2287:0 "Kotoko"
  PROV2288:0 "Yao"
  PROV2289:0 "Ondo"
- PROV2290:0 "Ijebu"
+ PROV2290:0 "Ijebu" #or Slave Coast
  PROV2291:0 "Ketu"
  PROV2292:0 "Moshi"
  PROV2293:0 "Yawuri"
  PROV2294:0 "Warri"
  PROV2295:0 "Atakora"
- PROV2296:0 "Karasi"
- PROV2297:0 "Saruhan"
- PROV2298:0 "Tekke"
+ PROV2296:0 "Karasi" #or Balikesir, or Biga, or Çanakkale
+ PROV2297:0 "Saruhan" #or Manisa
+ PROV2298:0 "Tekke" #or Antalya
  PROV2299:0 "Bolu"
  PROV2300:0 "Bozok"
  PROV2301:0 "Kayseri"
- PROV2302:0 "Içel"
+ PROV2302:0 "Içel" #or Mersin
  PROV2303:0 "Malatya"
- PROV2304:0 "Canik"
- PROV2305:0 "Erzincan"
+ PROV2304:0 "Samsun" #Canik
+ PROV2305:0 "Yerznka" #Erzincan
  PROV2306:0 "Mush"
  PROV2307:0 "Van"
- PROV2308:1 "Urfa"
- PROV2309:0 "Sinjar"
+ PROV2308:1 "Riha" #Urfa (former Cizîr)
+ PROV2309:0 "Singal" #Sinjar
  PROV2310:0 "Tikrit"
- PROV2311:0 "Samawat"
+ PROV2311:0 "as-Samawah" #Samawat
  PROV2312:0 "Wasit"
- PROV2313:0 "Antioch"
- PROV2314:0 "Rahba"
- PROV2315:0 "Suez"
- PROV2316:0 "Al Gharbia"
- PROV2317:0 "Minya"
- PROV2318:1 "Bahiriya"
- PROV2319:0 "Manfalut"
- PROV2320:0 "Ras Gharib"
- PROV2321:0 "Queseer"
+ PROV2313:0 "'Antakya" #Antioch or Antakiyyah
+ PROV2314:0 "ad-Deyr" #Rahba or ar-Rahbah
+ PROV2315:0 "es-Sewes" #Suez
+ PROV2316:0 "el-Gharbeyyah" #Al Gharbia
+ PROV2317:0 "el-Menyah" #Minya
+ PROV2318:0 "el-Wahat el-Bahariyah" #Bahiriya or Bahariya (Former Al Wahat)
+ PROV2319:0 "Manfalut" #former 'Asyut
+ PROV2320:0 "Ras Ghareb" #Ras Gharib
+ PROV2321:0 "el-'Oseer" #Queseer (or al-Qusayr)
  PROV2322:0 "Wadi Halfa"
- PROV2323:0 "Sahra an Nübyah"
- PROV2324:0 "Halaib"
- PROV2325:0 "Tarrana"
- PROV2326:0 "Bardiyah"
- PROV2327:0 "Maan"
- PROV2328:0 "Al Ula"
- PROV2329:0 "Yanbu"
+ PROV2323:0 "Sahra' an-Nubyah" #Sahra an Nübyah
+ PROV2324:0 "Hala'ib" #Halaib
+ PROV2325:0 "Mersa Matruh" #Tarrana
+ PROV2326:0 "el-Bardiyah" #Bardiyah
+ PROV2327:0 "Ma'an" #Maan
+ PROV2328:0 "al-'Ula" #Al Ula (former Tayma')
+ PROV2329:0 "Yanbu' al-Bahr" #Yanbu
  PROV2330:0 "Ma'din Sulaym"
- PROV2331:0 "Jeddah"
- PROV2332:1 "Turubah"
- PROV2333:1 "Zufra"
- PROV2334:0 "Badiyat ash Sham"
- PROV2335:1 "Dawasir"
- PROV2336:1 "Aflaj"
- PROV2337:1 "Buraydah"
- PROV2338:0 "Hafar"
+ PROV2331:0 "Jiddah" #Jeddah
+ PROV2332:1 "Turabah" #Turubah
+ PROV2333:1 "Zufra" #former 'Abd al-Qays
+ PROV2334:0 "Badiyat ash-Sham" #Badiyat ash Sham
+ PROV2335:1 "ad-Dawasir" #Dawasir
+ PROV2336:1 "Aflaj" #former Falaj
+ PROV2337:1 "Buraydah" #former 'Unaizah
+ PROV2338:0 "Hafar al-Batin" #Hafar
  PROV2339:0 "Yabrin"
- PROV2340:0 "Grane"
- PROV2341:1 "Masirah"
- PROV2342:0 "Wusta"
- PROV2343:0 "Kathiri"
- PROV2344:1 "Marib"
- PROV2345:1 "Beihan"
+ PROV2340:0 "il-Ikwet" #Grane or al-Kuwayt
+ PROV2341:1 "Masirah" #former ash-Sharqiyah
+ PROV2342:0 "al-Wusta" #Wusta
+ PROV2343:0 "Se'wun" #Kathiri or Say'un (former Hadhramawt)
+ PROV2344:1 "Ma'rib" #Marib (former al-Ghawf)
+ PROV2345:1 "Bayhan" #Beihan (former al-Ahqaf)
  PROV2346:0 "Jazan"
- PROV2347:0 "Hofuf"
- PROV2348:0 "Chios"
- PROV2349:0 "Kizil-Su"
- PROV2350:0 "Konjikala"
- PROV2351:0 "Shekty"
- PROV2352:0 "Alty-Kuduk"
- PROV2353:0 "Tortkara"
+ PROV2347:0 "al-Ahasa" #Hofuf or al-Hufuf (former al-Hasa)
+ PROV2348:0 "Chíos" #Chios
+ PROV2349:0 "Gözölsu" #Kizil-Su or Balkan
+ PROV2350:0 "Gökdepe" #Konjikala
+ PROV2351:0 "Shekti" #Shekty
+ PROV2352:0 "Altyqudyq" #Alty-Kuduk
+ PROV2353:0 "Törtqara" #Tortkara
  PROV2354:0 "Shegendyk"
  PROV2355:0 "Narym"
- PROV2356:0 "Shymkent"
+ PROV2356:0 "Chimkent" #Shymkent
  PROV2357:0 "Aksary"
  PROV2358:0 "Altyn"
  PROV2359:0 "Baganaly"
  PROV2360:0 "Tobykty"
  PROV2361:0 "Dzhaman-Kuduk"
- PROV2362:0 "Gurganj"
+ PROV2362:0 "Köneürgenç" #Gurganj (or Konye-Urgench)
  PROV2363:0 "Atakent"
- PROV2364:0 "Talas"
- PROV2365:0 "Orda"
- PROV2366:0 "Utva"
- PROV2367:0 "Lower Yik"
- PROV2368:0 "Karamegdan"
- PROV2369:0 "Lower Ishim"
- PROV2370:0 "Kungirot"
+ PROV2364:0 "Fargona" #Talas
+ PROV2365:0 "Urda" #Orda
+ PROV2366:0 "Shyngghyrlau" #Utva
+ PROV2367:0 "Tübän Yayiq" #Lower Yik (former Tübän Jäyek)
+ PROV2368:0 "Qaramegdan" #Karamegdan
+ PROV2369:0 "Yesil" #Lower Ishim
+ PROV2370:0 "Qon‘irat" #Kungirot or Qo‘ng‘irot or Kungrad
  PROV2371:0 "Song La"
  PROV2372:0 "Hai Phong"
  PROV2373:0 "Hue"
- PROV2374:0 "Kauthara"
+ PROV2374:0 "Kauthara" #or Nha Trang
  PROV2375:0 "Tay Nguyen"
  PROV2376:0 "Prek Russey"
  PROV2377:0 "Teuk Khmao"
- PROV2378:0 "Kratie"
+ PROV2378:0 "Kratié" #Kratie
  PROV2379:0 "Battambang"
  PROV2380:0 "Phnom Penh"
  PROV2381:0 "Luang Namtha"
@@ -2390,7 +2391,7 @@
  PROV2390:0 "Chaiya"
  PROV2391:0 "Thalang"
  PROV2392:0 "Selangor"
- PROV2393:0 "Terengganu"
+ PROV2393:0 "Tranung" #Terengganu
  PROV2394:0 "Kedah"
  PROV2395:0 "Hkamti Long"
  PROV2396:0 "Mong Kawng"
@@ -2399,32 +2400,32 @@
  PROV2399:0 "Pagan"
  PROV2400:0 "Hsipaw"
  PROV2401:0 "Mong Pai"
- PROV2402:0 "Sandoway"
+ PROV2402:0 "Thandwe" #Sandoway
  PROV2403:0 "Martaban"
  PROV2404:0 "Mergui"
- PROV2405:0 "Bender"
- PROV2406:0 "Ingil"
+ PROV2405:0 "Tighina" #Bender
+ PROV2406:0 "Ingul" #Ingil
  PROV2407:0 "Pereyaslav"
- PROV2408:0 "Yelets"
+ PROV2408:0 "Yelets" #former Lipetsk
  PROV2409:0 "Bahmut"
- PROV2410:0 "Theodoro"
+ PROV2410:0 "Theodoroús" #Theodoro or Dóros
  PROV2411:0 "Mansur"
- PROV2412:0 "Kyzyl-Yar"
- PROV2413:0 "Tyn"
+ PROV2412:0 "Qiz Yar" #Kyzyl-Yar
+ PROV2413:0 "Tin" #Tyn
  PROV2414:0 "Azaraba"
- PROV2415:0 "Etkara"
+ PROV2415:0 "Atqara" #Etkara
  PROV2416:0 "Majar"
- PROV2417:0 "Kuma"
- PROV2418:0 "Ukek"
- PROV2419:0 "Kanadey"
- PROV2420:0 "Agyidel"
- PROV2421:1 "Juketau"
- PROV2422:0 "Veda-Suvar"
- PROV2423:0 "Alatyr"
+ PROV2417:0 "Gum" #Kuma
+ PROV2418:0 "Ükäk" #Ukek
+ PROV2419:0 "Qinadi" #Kanadey
+ PROV2420:0 "Aghidhel" #Agyidel or Agizel
+ PROV2421:1 "Cükätaw" #Juketau (former Bolgar, Former Yar-Chally)
+ PROV2422:0 "Šupaškar" #Veda-Suvar (former Shupashcar)
+ PROV2423:0 "Ulatar" #Alatyr
  PROV2424:0 "Peremyshl"
  PROV2425:0 "Nenets"
  PROV2426:0 "Yamal"
- PROV2427:0 "Ostyaki"
+ PROV2427:0 "Istдk" #Ostyaki
  PROV2428:0 "Yugan"
  PROV2429:0 "Agan"
  PROV2430:0 "Baykha"
@@ -2438,39 +2439,39 @@
  PROV2438:0 "Kharya"
  PROV2439:0 "Yarmanka"
  PROV2440:0 "Kagyrgyn"
- PROV2441:0 "Iglino"
+ PROV2441:0 "Iglin" #Iglino
  PROV2442:0 "Ust-Kut"
  PROV2443:0 "Kan"
- PROV2444:0 "Bashgird"
- PROV2445:0 "Mangazea"
+ PROV2444:0 "Basqort" #Bashgird or Ural
+ PROV2445:0 "Monkansi" #Mangazea
  PROV2446:0 "Chara"
- PROV2447:0 "Matrega"
+ PROV2447:0 "Taman" #Matrega
  PROV2448:0 "Fezzan"
- PROV2449:0 "Jufra"
- PROV2450:0 "Ghadames"
- PROV2451:0 "Thubaqt"
- PROV2452:0 "Zuwarah"
- PROV2453:0 "Sfax"
- PROV2454:0 "Kef"
- PROV2455:0 "Bizerte"
- PROV2456:0 "Touggourt"
- PROV2457:0 "Mzab"
- PROV2458:0 "Hodna"
- PROV2459:0 "Titteri"
- PROV2460:0 "Saoura"
- PROV2461:0 "Dahra"
- PROV2462:0 "Ouarsenis"
- PROV2463:0 "Kasdir"
- PROV2464:0 "Ouarzazate"
- PROV2465:0 "Oujda"
- PROV2466:0 "Draa"
- PROV2467:0 "Meknes"
- PROV2468:0 "Tadla"
- PROV2469:0 "Dukkala"
- PROV2470:0 "Haha"
- PROV2471:0 "Chott el-Jerid"
- PROV2472:0 "Ouargla"
- PROV2473:0 "Sousse"
+ PROV2449:0 "Jufra" #or al-Jufrah
+ PROV2450:0 "'Ademis" #Ghadames or Ghdames or Ghadamis
+ PROV2451:0 "Misurata" #Thubaqt or Mesratah
+ PROV2452:0 "Wat Willul" #Zuwarah or Tamurt n Wat Willul
+ PROV2453:0 "Sifaks" #Sfax (arabic Sfaqes, Safaqus)
+ PROV2454:0 "Lkaf" #Kef or el-Kef (arabic al-Kaf)
+ PROV2455:0 "Benzart" #Bizerte or Banzart
+ PROV2456:0 "Tugurt" #Touggourt or Tuqurt
+ PROV2457:0 "Aghlan" #Mzab
+ PROV2458:0 "Hodna" #or Hodnah
+ PROV2459:0 "Tittri" #Titteri
+ PROV2460:0 "Saura" #Saoura or Saurah or Sawrah
+ PROV2461:0 "Dahra" #or ad-Dahrah
+ PROV2462:0 "Warsnis" #Ouarsenis
+ PROV2463:0 "Kasdir" #or al-Qasdir
+ PROV2464:0 "Warzazat" #Ouarzazate
+ PROV2465:0 "Wejda" #Oujda
+ PROV2466:0 "Dra" #Draa
+ PROV2467:0 "Amknas" #Meknes or Mknas or Meknas
+ PROV2468:0 "Tadla" #or Tadla-Azilal
+ PROV2469:0 "ddu Akal" #Dukkala or Dukkalah
+ PROV2470:0 "Ihahan" #Haha
+ PROV2471:0 "Shott el-Jerid" #Chott el-Jerid
+ PROV2472:0 "Wareglan" #Ouargla or Wargren
+ PROV2473:0 "Susa" #Sousse
  PROV2474:0 "Tajhari"
  PROV2475:0 "Djado"
  PROV2476:0 "Kumeyaay"
@@ -2571,8 +2572,8 @@
  PROV2571:0 "Madawaska"
  PROV2572:0 "Siknikt"
  PROV2573:0 "Placentia"
- PROV2574:0 "Helleland"
- PROV2575:0 "Erikssonbukt"
+ PROV2574:0 "Sikumiut"
+ PROV2575:0 "Naskapi"
  PROV2576:0 "Mingan"
  PROV2577:0 "Manicouagan"
  PROV2578:0 "Anticosti"
@@ -2608,7 +2609,7 @@
  PROV2608:0 "Rocky Mountains"
  PROV2609:0 "Nisga'a"
  PROV2610:0 "Heiltsuk"
- PROV2611:0 "Kodiak"
+ PROV2611:0 "Qikertaq" #Kodiak
  PROV2612:0 "Eyak"
  PROV2613:0 "Sitka"
  PROV2614:0 "Cotoname"
@@ -2653,7 +2654,7 @@
  PROV2653:0 "Iximché"
  PROV2654:0 "Baracoa"
  PROV2655:0 "Bayamo"
- PROV2656:0 "Camaguey"
+ PROV2656:0 "Camaguey" #or Camagüey
  PROV2657:0 "Colima"
  PROV2658:0 "Maguana"
  PROV2659:0 "Magua"
@@ -2678,13 +2679,13 @@
  PROV2678:0 "Bangka"
  PROV2679:0 "Belitung"
  PROV2680:0 "Muko-Muko"
- PROV2681:0 "Pagarruyung"
- PROV2682:0 "Pariaman"
+ PROV2681:0 "Pagarruyung" #or Batusangkar
+ PROV2682:0 "Piaman" #Pariaman
  PROV2683:0 "Mentawai"
- PROV2684:0 "Nias"
+ PROV2684:0 "Niha" #Nias
  PROV2685:0 "Gayo"
  PROV2686:0 "Bintan"
- PROV2687:0 "Pakuan"
+ PROV2687:0 "Pakuan" #or Bogor
  PROV2688:0 "Cirebon"
  PROV2689:0 "Kendal"
  PROV2690:0 "Pajang"
@@ -2692,16 +2693,16 @@
  PROV2692:0 "Madura"
  PROV2693:0 "Lombok"
  PROV2694:0 "Gangneung"
- PROV2695:0 "East Timor"
+ PROV2695:0 "Timór Lorosa'e" #East Timor
  PROV2696:0 "Yamdena"
  PROV2697:0 "Tondo"
  PROV2698:0 "Pangasinan"
- PROV2699:0 "Bikol"
+ PROV2699:0 "Kabikulan" #Bikol
  PROV2700:0 "Panay"
- PROV2701:0 "Tagloc"
+ PROV2701:0 "Tagloc" #or Davao
  PROV2702:0 "Butuan"
- PROV2703:0 "Lehad Datu"
- PROV2704:0 "Sibu"
+ PROV2703:0 "Lahad Datu" #Lehad Datu
+ PROV2704:0 "Maling" #Sibu
  PROV2705:0 "Kuching"
  PROV2706:0 "Katapang"
  PROV2707:0 "Barito"
@@ -2713,14 +2714,14 @@
  PROV2713:0 "Gorontalo"
  PROV2714:0 "Palu"
  PROV2715:0 "Palopo"
- PROV2716:0 "Buton"
+ PROV2716:0 "Butung" #Buton
  PROV2717:0 "Sula"
  PROV2718:0 "Fak-Fak"
  PROV2719:0 "Madang"
  PROV2720:0 "Lae"
  PROV2721:0 "Kerema"
  PROV2722:0 "Daru"
- PROV2723:0 "Yos Sudarso"
+ PROV2723:0 "Dolok" #Yos Sudarso
  PROV2724:0 "Asmat"
  PROV2725:0 "Aru"
  PROV2726:0 "Malgana"
@@ -2739,64 +2740,64 @@
  PROV2739:0 "Kirikiriroa"
  PROV2740:0 "Borneo"
  PROV2741:0 "Jeju"
- PROV2742:0 "Yukjin"
- PROV2743:0 "Gyeongseong"
- PROV2744:0 "Nyeongbyeon"
- PROV2745:0 "Gyeongju"
+ PROV2742:0 "Naseong" #Yukjin
+ PROV2743:0 "Kyongsong" #Gyeongseong
+ PROV2744:0 "Nyongbyon" #Nyeongbyeon
+ PROV2745:0 "Seorabeol" #Gyeongju
  PROV2746:0 "Vidin"
  PROV2747:0 "Khara Narin Ula"
  PROV2748:0 "Jianchang"
  PROV2749:0 "Tikhvin"
  PROV2750:0 "Plovdiv"
  PROV2751:0 "Cuenca"
- PROV2752:0 "Romsdal"
- PROV2753:0 "Narbonne"
+ PROV2752:0 "Romsdal" #former Sogn
+ PROV2753:0 "Narbona" #Narbonne
  PROV2754:0 "La Mancha"
  PROV2755:0 "Soria"
- PROV2756:0 "Welayta"
+ PROV2756:0 "Wolaytta" #Welayta
  PROV2757:0 "Kaffa"
- PROV2758:0 "Illubabor"
+ PROV2758:0 "Iluu Abbaabooraa" #Illubabor
  PROV2759:0 "Gambela"
- PROV2760:0 "Hadiya"
+ PROV2760:0 "Hadiyya" #Hadiya
  PROV2761:0 "Arsi"
  PROV2762:0 "Damot"
  PROV2763:0 "Asosa"
- PROV2764:0 "Ausa"
- PROV2765:0 "Assab"
- PROV2766:0 "Mendefera"
- PROV2767:0 "Enderta"
+ PROV2764:0 "Asayita" #Ausa or Aussa
+ PROV2765:0 "'Asäb" #Assab
+ PROV2766:0 "Mendefera" #or Adi Ugri
+ PROV2767:0 "Inderta" #Enderta
  PROV2768:0 "Angot"
  PROV2769:0 "Lasta"
- PROV2770:0 "Agew"
+ PROV2770:0 "Agaw" #Agew
  PROV2771:0 "Semien"
  PROV2772:0 "Dembiya"
  PROV2773:0 "Mora"
- PROV2774:0 "Kismayo"
- PROV2775:0 "Merca"
+ PROV2774:0 "Kismaayo" #Kismayo
+ PROV2775:0 "Marka" #Merca
  PROV2776:0 "Afgooye"
- PROV2777:0 "Bardera"
- PROV2778:0 "Werder"
- PROV2779:0 "Afder"
- PROV2780:0 "Beledweyne"
- PROV2781:0 "Gedo"
- PROV2782:0 "Warsheikh"
- PROV2783:0 "Hobyo"
- PROV2784:0 "Galkayo"
- PROV2785:0 "El Buur"
- PROV2786:0 "Bosaso"
+ PROV2777:0 "Baardheere" #Bardera
+ PROV2778:0 "Wardheer" #Werder
+ PROV2779:0 "Afdheer" #Afder
+ PROV2780:0 "Beletweeyne" #Beledweyne
+ PROV2781:0 "Geedo" #Gedo
+ PROV2782:0 "Warsheekh" #Warsheikh
+ PROV2783:0 "Hobyaa" #Hobyo
+ PROV2784:0 "Gaalkacyo" #Galkayo
+ PROV2785:0 "Ceelbuur" #El Buur
+ PROV2786:0 "Benderqaazim" #Bosaso or Boosaaso
  PROV2787:0 "Hamasien"
- PROV2788:0 "Hafun"
- PROV2789:0 "Las Khorey"
+ PROV2788:0 "Xafuun" #Hafun
+ PROV2789:0 "Laasqoray" #Las Khorey
  PROV2790:0 "Sanaag"
  PROV2791:0 "Ankober"
  PROV2792:0 "Togdheer"
- PROV2793:0 "Hargeisa"
- PROV2794:0 "Barawa"
- PROV2795:0 "Meregh"
+ PROV2793:0 "Hargeysa" #Hargeisa
+ PROV2794:0 "Baraawe" #Barawa
+ PROV2795:0 "Mareeg" #Meregh
  PROV2796:0 "Pate"
- PROV2797:0 "Shendy"
+ PROV2797:0 "Shandi" #Shendy or Shendi, Meroe
  PROV2798:0 "Soba"
- PROV2799:0 "Sennar"
+ PROV2799:0 "Sannar" #Sennar
  PROV2800:0 "Kosti"
  PROV2801:0 "Medwa"
  PROV2802:0 "Kobbe"
@@ -2812,28 +2813,28 @@
  PROV2812:0 "Pore"
  PROV2813:0 "Merida"
  PROV2814:0 "Meta"
- PROV2815:0 "Puerto Carreno"
+ PROV2815:0 "Puerto Carreno" #or: Puerto Carreño
  PROV2816:0 "Guaviare"
  PROV2817:0 "Neiva"
  PROV2818:0 "Popayan"
- PROV2819:0 "Darien"
+ PROV2819:0 "Darien" #or: Darién
  PROV2820:0 "Esmeraldas"
  PROV2821:0 "Piwra"
- PROV2822:0 "Tucume"
+ PROV2822:0 "Tucume" #or: Túcume
  PROV2823:0 "Moyobamba"
- PROV2824:0 "Wankapampa"
- PROV2825:0 "Pisqupampa"
+ PROV2824:0 "Wankapampa" #or: Huancabamba
+ PROV2825:0 "Pisqupampa" #or: Piscobamba
  PROV2826:0 "Chimbote"
  PROV2827:0 "Huaraz"
- PROV2828:0 "Camana"
+ PROV2828:0 "Camana" #or: Camaná
  PROV2829:0 "Ayaviri"
  PROV2830:0 "Quero"
- PROV2831:0 "Tiahuanaco"
- PROV2832:0 "San Joaquin"
+ PROV2831:0 "Tiwanaku" #Tiahuanaco
+ PROV2832:0 "San Joaquin" #or: San Joaquín
  PROV2833:0 "Madre de Dios"
  PROV2834:0 "Santa Cruz de la Sierra"
  PROV2835:0 "Sucre"
- PROV2836:0 "Tucuman"
+ PROV2836:0 "Tucuman" #or: Tucumán
  PROV2837:0 "Santa Catalina"
  PROV2838:0 "Tarija"
  PROV2839:0 "Puna de Atacama"
@@ -2863,7 +2864,7 @@
  PROV2863:0 "Rio Negro"
  PROV2864:0 "Senqu"
  PROV2865:0 "Puelches"
- PROV2866:0 "Olavarria"
+ PROV2866:0 "Olavarria" #or: Olavarría
  PROV2867:0 "Chanar"
  PROV2868:0 "San Antonio"
  PROV2869:0 "Florida Blanca"
@@ -2878,35 +2879,35 @@
  PROV2878:0 "Matara"
  PROV2879:0 "Santa Tecla"
  PROV2880:0 "Griqualand"
- PROV2881:0 "Corumba"
+ PROV2881:0 "Corumba" #or: Corumbá
  PROV2882:0 "Fuerte Borbon"
  PROV2883:0 "Melodia"
- PROV2884:0 "Povos das Missoes"
+ PROV2884:0 "Povos das Missoes" #or: Povos das Missões
  PROV2885:0 "Barra"
- PROV2886:0 "Parnaiba"
+ PROV2886:0 "Parnaiba" #or: Parnaíba
  PROV2887:0 "Santa Catarina"
- PROV2888:0 "Cuiaba"
+ PROV2888:0 "Cuiaba" #or: Cuiabá
  PROV2889:0 "Rio Branco"
  PROV2890:0 "Marajó"
  PROV2891:0 "Santo Antonio da Manga"
  PROV2892:0 "Araxas"
  PROV2893:0 "Ofaie"
- PROV2894:0 "Sao Joao del Rei"
+ PROV2894:0 "Sao Joao del Rei" #or: São João del-Rei
  PROV2895:0 "Castro"
  PROV2896:0 "Campinas"
  PROV2897:0 "Araraquara"
  PROV2898:0 "Serro"
  PROV2899:0 "Vila Rica"
- PROV2900:0 "Guapore"
+ PROV2900:0 "Guapore" #or Guaporé
  PROV2901:0 "Cerejeiras"
  PROV2902:0 "Vila Bela"
- PROV2903:0 "Caceres"
+ PROV2903:0 "Caceres" #or Cáceres
  PROV2904:0 "Diamantino"
  PROV2905:0 "Rio Das Mortes"
- PROV2906:0 "Ipora"
+ PROV2906:0 "Ipora" #or: Iporá
  PROV2907:0 "Vila Boa"
- PROV2908:0 "Arrial dos Couros"
- PROV2909:0 "Conceicao"
+ PROV2908:0 "Arraial dos Couros" #Arrial dos Couros
+ PROV2909:0 "Conceicao" #or: Conceição
  PROV2910:0 "Pontal"
  PROV2911:0 "Natividad"
  PROV2912:0 "Sergipe"
@@ -2923,11 +2924,11 @@
  PROV2923:0 "Pastos Bons"
  PROV2924:0 "Timon"
  PROV2925:0 "Parnagua"
- PROV2926:0 "Grajau"
+ PROV2926:0 "Grajau" #or: Grajaú
  PROV2927:0 "Alcantara"
- PROV2928:0 "Tucurui"
+ PROV2928:0 "Tucurui" #or: Tucuruí
  PROV2929:0 "Para"
- PROV2930:0 "Santarem"
+ PROV2930:0 "Santarem" #or: Santarém
  PROV2931:0 "Pirara"
  PROV2932:0 "Waddai"
  PROV2933:0 "Barcelos"
@@ -2951,57 +2952,58 @@
  PROV2951:0 "Manikya"
  PROV2952:0 "Madanda"
  PROV2953:0 "Hjälmaren"
- PROV2954:0 "Djerba"
- PROV2955:0 "Ingolstadt"
+ PROV2954:0 "Gerba" #Djerba or Jarbah
+ PROV2955:0 "Inglståd" #Ingolstadt
  PROV2956:0 "Straubing"
- PROV2957:0 "Regensburg"
- PROV2958:0 "Osterode"
- PROV2959:0 "Tarnow"
+ PROV2957:0 "Rengschburg" #Regensburg
+ PROV2958:0 "Ostróda" #Osterode
+ PROV2959:0 "Tarnów" #Tarnow
  PROV2960:0 "Nowy Sacz"
- PROV2961:0 "Lwow"
- PROV2962:0 "Rowne"
+ PROV2961:0 "Lvov" #Lwow (former Lwów)
+ PROV2962:0 "Rovno" #Rowne (former Rivne, or Równe)
  PROV2963:0 "Notec"
- PROV2964:0 "Altmark"
+ PROV2964:0 "Ooltmark" #Altmark
  PROV2965:0 "Vogtland"
- PROV2966:0 "Glogau"
- PROV2967:0 "Eger"
+ PROV2966:0 "Gloguw" #Glogau
+ PROV2967:0 "Karlovy Vary" #Eger or Chebsko
  PROV2968:0 "Budejovice"
- PROV2969:0 "Sternberg"
- PROV2970:0 "Hradecko"
- PROV2971:0 "Hoya"
- PROV2972:0 "Paderborn"
+ PROV2969:0 "Lubusz" #Sternberg
+ PROV2970:0 "Hradec Králové" #Hradecko
+ PROV2971:0 "Hoya" #former Veern
+ PROV2972:0 "Patterbuorn" #Paderborn
  PROV2973:0 "Meppen"
  PROV2974:0 "Loon"
- PROV2975:0 "Kleves"
+ PROV2975:0 "Kleff" #Kleves
  PROV2976:0 "Umbria"
- PROV2977:0 "Urbino"
+ PROV2977:0 "Urbìn" #Urbino
  PROV2978:0 "Arezzo"
- PROV2979:0 "Novara"
+ PROV2979:0 "Nuàra" #Novara
  PROV2980:0 "Lucca"
- PROV2981:0 "Montferrat"
- PROV2982:0 "Syracuse"
- PROV2983:0 "Salerno"
- PROV2984:0 "Cosenza"
- PROV2985:0 "Capitanata"
- PROV2986:0 "Cagliari"
+ PROV2981:0 "Monfrà" #Montferrat
+ PROV2982:0 "Sarausa" #Syracuse
+ PROV2983:0 "Salierno" #Salerno
+ PROV2984:0 "Cusenza" #Cosenza
+ PROV2985:0 "Capitanata" #or Catapanata or Fogge (Foggia)
+ PROV2986:0 "Casteddu" #Cagliari
  PROV2987:0 "Urgell"
  PROV2988:0 "Tarragona"
  PROV2989:0 "Rioja"
  PROV2990:0 "Teruel"
- PROV2991:1 "Forcalquier"
- PROV2992:0 "Albenga"
+ PROV2991:1 "Fourcauquié" #Forcalquier, former Draguignan or Draguinhan
+ PROV2992:0 "Arbénga" #Albenga
  PROV2993:0 "Uckermark"
- PROV2994:0 "Greifswald"
- PROV2995:0 "Stolp"
- PROV2996:0 "Wismar"
- PROV2997:0 "Tuchola"
+ PROV2994:0 "Griepswohld" #Greifswald
+ PROV2995:0 "Stôlpsk" #Stolp
+ PROV2996:0 "Wismer" #Wismar
+ PROV2997:0 "Tëchòlô" #Tuchola
  PROV2998:0 "Buzau"
- PROV2999:0 "Hormuz"
- PROV3000:0 "Nis"
+ PROV2999:0 "Hormoz" #Hormuz
+ PROV3000:0 "Niš"
  PROV3001:0 "Skopje"
- PROV3002:0 "Visoki"
- PROV3003:0 "Euboea"
- PROV4020:0 "Comoros"
+ PROV3002:0 "Visoki" #or Sarajevo
+ PROV3003:0 "Evvoia" #Euboea or Eúboia
+ PROV4020:0 "Komori" #Comoros
+#Madagascar
  PROV4021:0 "Antankara"
  PROV4022:0 "Iboina"
  PROV4023:0 "Tsimihety"
@@ -3014,8 +3016,10 @@
  PROV4030:0 "Bara"
  PROV4031:0 "Antsalova"
  PROV4032:0 "Fiherana"
- PROV4033:0 "Al Qadarif"
- PROV4034:0 "Makua"
+#East Africa
+ PROV4033:0 "el-Gadarif" #Al Qadarif
+#Southeast Africa and Southwestern Africa
+ PROV4034:0 "Makhuwa" #Makua
  PROV4035:0 "Ngindo"
  PROV4036:0 "Wayao"
  PROV4037:0 "Katsekera"
@@ -3025,23 +3029,23 @@
  PROV4041:0 "Kinga"
  PROV4042:0 "Makonde"
  PROV4043:0 "Phangwa"
- PROV4044:0 "Ngonde"
+ PROV4044:0 "Nyakyusa" #Ngonde
  PROV4045:0 "Tumbuka"
  PROV4046:0 "Lala"
  PROV4047:0 "Nsenga"
  PROV4048:0 "Lomwe"
  PROV4049:0 "Ibo"
  PROV4050:0 "Luangwa"
- PROV4051:0 "Ewaso Ngiro"
+ PROV4051:0 "Ewaso Ng'iro" #Ewaso Ngiro
  PROV4052:0 "Dawa"
  PROV4053:0 "Turkana"
- PROV4054:0 "Kuria"
+ PROV4054:0 "AbaKurya" #Kuria
  PROV4055:0 "Shamba"
- PROV4056:0 "Gogo"
+ PROV4056:0 "Wagogo" #Gogo
  PROV4057:0 "Nyatura"
  PROV4058:0 "Zigua"
  PROV4059:0 "Shaga"
- PROV4060:0 "Kikuyu"
+ PROV4060:0 "Gikuyu" #Kikuyu
  PROV4061:0 "Buzinza"
  PROV4062:0 "Busoga"
  PROV4063:0 "Karagwe"
@@ -3060,8 +3064,8 @@
  PROV4076:0 "Muhambwe"
  PROV4077:0 "Rukwa"
  PROV4078:0 "Mayumba"
- PROV4079:0 "Ngoyo"
- PROV4080:0 "Soyo"
+ PROV4079:0 "Ngoyo" #or Cabinda
+ PROV4080:0 "Soyo" #or Zaire
  PROV4081:0 "Songo"
  PROV4082:0 "Kasanje"
  PROV4083:0 "Shinje"
@@ -3091,79 +3095,117 @@
  PROV4107:0 "Kanongesha"
  PROV4108:0 "Kaonde"
  PROV4109:0 "Lega"
- PROV4110:0 "Sutherland"
- PROV4111:0 "Saintonge"
- PROV4112:1 "Quercy"
+#British Isles
+ PROV4110:0 "Cataibh" #Sutherland
+#France
+ PROV4111:0 "Saintonghe" #Saintonge (or Xaintonge)
+ PROV4112:0 "Carcin" #Quercy or Cahors, or Caors
+#Scandinavia: Finland
  PROV4113:0 "Rovaniemi"
- PROV4114:0 "Jokkmokk"
- PROV4115:0 "Mazyr"
+#Scandinavia: Sweden
+ PROV4114:0 "Dálvvadis" #Jokkmokk
+#Russia: Belarus
+ PROV4115:0 "Mozyr" #Mazyr
+#Russia
  PROV4116:0 "Oka"
  PROV4117:0 "Bezhetsk"
- PROV4118:0 "Cork"
- PROV4119:0 "Sligo"
- PROV4120:0 "Kildare"
- PROV4121:0 "Ulster"
+#Ireland
+ PROV4118:0 "Corcaigh" #Cork
+ PROV4119:0 "Sligeach" #Sligo
+ PROV4120:0 "Cill Dara" #Kildare
+ PROV4121:0 "Ulaidh" #Ulster
+#Russia
  PROV4122:0 "Shenkursk"
+#Scandinavia: Finland
  PROV4123:0 "Pirkanmaa"
- PROV4124:0 "Karelia"
+ PROV4124:0 "Karjala" #Karelia
+#Hungary
  PROV4125:0 "Szolnok"
- PROV4126:0 "Bacs"
+ PROV4126:0 "Szeged" #Bacs
+#Romania
  PROV4127:0 "Turda"
- PROV4128:0 "Királyföld"
- PROV4129:0 "Ust-Vym"
- PROV4130:0 "Somerset"
+ PROV4128:0 "Siwweberjen" #Királyföld or Siebenbürgen (Transylvanian Saxons)
+#Russia
+ PROV4129:0 "Yemdyn" #Ust-Vym
+#British Isles
+ PROV4130:0 "Somersetshire" #Somerset
+#Japan
  PROV4131:0 "Mutsu"
+#Unknown, maybe impassable territories or lakes
  PROV4132:0 "Mweru"
  PROV4133:0 "Kivu"
  PROV4134:0 "Rutanzige"
+#Lakes
  PROV4135:0 "Lake Albert"
+#Unknown, maybe impassable territories or lakes
  PROV4136:0 "Zaysan"
  PROV4137:0 "Alakol"
- PROV4138:0 "Issyk-Kul"
+#Lakes
+ PROV4138:0 "Isiq-Köl" #Issyk-Kul
  PROV4139:0 "Oulujärvi"
  PROV4140:0 "Saimaa"
+#Germany
  PROV4141:1 "Dithmarschen"
+#Scandinavia: Denmark
  PROV4142:0 "Østjylland"
- PROV4143:0 "Smålenene"
- PROV4144:0 "Bratsberg"
- PROV4145:0 "Agdesiden"
+#Scandinavia: Norway
+ PROV4143:0 "Østfold" #former Smålenene
+ PROV4144:0 "Bratsberg" #former Telemark
+ PROV4145:0 "Agdesiden" #former Agder
+#An impassable territory
  PROV4146:1 "Langfjella"
+#Russia
  PROV4147:0 "Rostov"
  PROV4148:0 "Luki"
+#Scandinavia: Denmark
  PROV4149:0 "Kolding"
+#Iberia
  PROV4150:0 "Évora"
- PROV4151:0 "Enare"
+#Scandinavia: Finland
+ PROV4151:0 "Aanaar" #Enare or Inari
  PROV4152:0 "Kainuu"
+#Impassable Territories
  PROV4153:0 "The Scandes"
  PROV4154:0 "The Pyrenees"
  PROV4155:0 "The Carpathians"
  PROV4156:0 "The Caucasus"
  PROV4157:0 "The Alps"
+#Ethiopia
  PROV4158:0 "Janjiro"
+#Impassable Territories
  PROV4159:0 "The Alps"
  PROV4160:0 "The Alps"
  PROV4161:0 "The Alps"
  PROV4162:0 "The Alps"
- PROV4163:0 "Elfsborg"
- PROV4164:0 "Dal"
- PROV4165:0 "Göinge"
- PROV4166:0 "Tiohärad"
+#Scandinavia: Sweden
+ PROV4163:0 "Älvsborg" #Elfsborg
+#Scandinavia: Norway
+ PROV4164:0 "Dalsland" #Dal
+#Scandinavia: Sweden
+ PROV4165:0 "Gønge" #Göinge
+ PROV4166:0 "Småland" #Tiohärad
+#Impassable Territories
  PROV4167:0 "High Atlas"
  PROV4168:0 "High Atlas"
- PROV4169:0 "Aures"
+ PROV4169:0 "Awras" #Aures
  PROV4170:0 "Zagros"
- PROV4171:0 "Abarquh"
+#Persia
+ PROV4171:0 "Abarkuh" #Abarquh
+#Impassable Territories
  PROV4172:0 "Zagros"
- PROV4173:0 "Syrmia"
+#Balkans
+ PROV4173:0 "Srem" #Syrmia (or Srijem)
  PROV4174:0 "Durrës"
- PROV4175:0 "Lezhë"
+ PROV4175:0 "Shkodër" #Lezhë
  PROV4176:0 "Branicevo"
+#Impassable Territories
  PROV4177:0 "Alborz"
  PROV4178:0 "Pontic Mountains"
  PROV4179:0 "Hakkari Mountains"
+#Japan
  PROV4180:0 "Hyuga"
  PROV4181:0 "Higo"
- PROV4182:0 "Hizen"
+ PROV4182:0 "Hizen" #or Dejima
  PROV4183:0 "Iwami"
  PROV4184:0 "Bizen"
  PROV4185:0 "Tango"
@@ -3175,66 +3217,86 @@
  PROV4191:0 "Shimotsuke"
  PROV4192:0 "Ugo"
  PROV4193:0 "Oshima"
+#China
  PROV4194:0 "Yongping"
- PROV4195:0 "Zhending"
+ PROV4195:0 "Zhending" #or Chengting
  PROV4196:0 "Haizhou"
  PROV4197:0 "Huangzhou"
  PROV4198:0 "Fengxiang"
  PROV4199:0 "Tongren"
+#Manchu
  PROV4200:0 "Hulan"
  PROV4201:0 "Jianzhou"
  PROV4202:0 "Taining"
  PROV4203:0 "Ju Ud"
+#Mongols and Turkestan
  PROV4204:0 "Anding"
  PROV4205:0 "Nagchu"
- PROV4206:0 "Balikul"
- PROV4207:0 "Turpan"
+ PROV4206:0 "Barköl" #Balikul or Balikun
+ PROV4207:0 "Turpan" #or Turfan
  PROV4208:0 "Qurqara-usu"
- PROV4209:0 "Maralbexi"
+ PROV4209:0 "Maralbeshi" #Maralbexi
  PROV4210:0 "Yangi Hissar"
+#China
  PROV4211:0 "Dazhou"
  PROV4212:0 "Jiazhou"
  PROV4213:0 "Luzhou"
+#Manchu
  PROV4214:0 "Kalar"
  PROV4215:0 "Fudali"
  PROV4216:0 "Ulch"
  PROV4217:0 "Pijin"
  PROV4218:0 "Buteha"
- PROV4219:0 "Bayan Tumen"
- PROV4220:0 "Khiagt"
+#Mongols
+ PROV4219:0 "Bayantümen" #Bayan Tumen
+ PROV4220:0 "Khiagt" #Kyakhta
  PROV4221:0 "Dundgovi"
  PROV4222:0 "Ulaangom"
+#Unknown, China?
  PROV4223:0 "Hetao"
+#Lakes
  PROV4224:0 "Tokai Sea"
  PROV4225:0 "Hokkaido Coast"
  PROV4226:1 "Japan Basin"
+#Korea
  PROV4227:1 "Jinju"
  PROV4228:0 "Naju"
  PROV4229:0 "Chungju"
  PROV4230:0 "Suwon"
  PROV4231:0 "Haeju"
- PROV4232:0 "Ganggye"
+ PROV4232:0 "Kanggye" #Ganggye
+#Lakes
  PROV4233:0 "Bohai Sea"
  PROV4234:0 "Western Yellow Sea"
  PROV4235:0 "Vistula Lagoon"
- PROV4236:0 "Trencin"
- PROV4237:0 "Olomouc"
- PROV4238:0 "Liegnitz"
- PROV4239:0 "Belgrade"
- PROV4240:0 "Fejér"
- PROV4241:0 "Wenden"
+#Hungary
+ PROV4236:0 "Trencín" #Trencin
+#Czechia
+ PROV4237:0 "Holomóc" #Olomouc
+#Poland
+ PROV4238:0 "Lignica" #Liegnitz
+#Balkans
+ PROV4239:0 "Beograd" #Belgrade
+#Hungary
+ PROV4240:0 "Fejér" #or Székesfehérvár
+#Baltics
+ PROV4241:0 "Cesis" #Wenden
  PROV4242:0 "Ula"
+#Russia
  PROV4243:0 "Toropets"
  PROV4244:0 "Trubchevsk"
  PROV4245:0 "Vyazma"
+#Russia: Belarus
  PROV4246:0 "Mstislav"
- PROV4247:0 "Owrucz"
+#Russia: Ukraine
+ PROV4247:0 "Ovruch" #Owrucz
+#Russia
  PROV4248:0 "Kashin"
  PROV4249:0 "Zubtsov"
  PROV4250:0 "Mologa"
- PROV4251:0 "Mozhaisk"
+ PROV4251:0 "Mozhaysk" #Mozhaisk
  PROV4252:0 "Kolomna"
- PROV4253:0 "Yuriev"
+ PROV4253:0 "Yuryev" #Yuriev
  PROV4254:0 "Starodub"
  PROV4255:0 "Pronsk"
  PROV4256:0 "Solvychegodsk"
@@ -3244,135 +3306,173 @@
  PROV4260:0 "Vyshny Volochyok"
  PROV4261:0 "Ustyuzhna"
  PROV4262:0 "Totma"
- PROV4263:0 "Sol Galitskaya"
- PROV4264:0 "Tetyushi"
- PROV4265:0 "Ar-Chally"
- PROV4266:0 "Izhkar"
+ PROV4263:0 "Sol-Galitskaya" #Sol Galitskaya
+ PROV4264:0 "Tätes" #Tetyushi
+ PROV4265:0 "Çalli" #Ar-Chally
+ PROV4266:0 "Kar" #Izhkar or Glaz (switched with 1972)
  PROV4267:0 "Bolgar"
- PROV4268:0 "Aqabah"
- PROV4269:0 "Al Wajh"
- PROV4270:0 "Azraq"
- PROV4271:0 "Suwayda"
- PROV4272:0 "Al Jawf"
- PROV4273:0 "Al-Kariatan"
- PROV4274:0 "Sudayr"
- PROV4275:0 "Al-Yamamah"
- PROV4276:0 "Jabal Tubaiq"
- PROV4277:0 "Taif"
- PROV4278:0 "Qunfudhah"
+#Near East
+ PROV4268:0 "al-'Aqabah" #Aqabah
+ PROV4269:0 "al-Wajh" #Al Wajh
+ PROV4270:0 "al-'Azraq" #Azraq
+ PROV4271:0 "as-Suwayda'" #Suwayda
+ PROV4272:0 "al-Jawf" #Al Jawf
+ PROV4273:0 "al-Qaryatayn" #Al-Kariatan
+ PROV4274:0 "Hawtah Sudayr" #Sudayr
+ PROV4275:0 "al-Yamamah" #Al-Yamamah
+#Unknown, maybe an impassable territory
+ PROV4276:0 "Jabal Twayq" #Jabal Tubaiq
+#Near East
+ PROV4277:0 "at-Ta'if" #Taif
+ PROV4278:0 "al-Qunfudhah" #Qunfudhah
  PROV4279:0 "Zabid"
- PROV4280:0 "Taiz"
+ PROV4280:0 "Ta'izz" #Taiz
  PROV4281:0 "Dhamar"
- PROV4282:0 "Sahda"
- PROV4283:0 "Shihr"
- PROV4284:0 "Al Ghaydah"
- PROV4285:0 "Baraimi"
- PROV4286:0 "Ash Sharqiyah"
- PROV4287:0 "Ibra"
- PROV4288:0 "Shatt"
+ PROV4282:0 "Sa'dah" #Sahda
+ PROV4283:0 "ash-Shihr" #Shihr
+ PROV4284:0 "al-Ghaydah" #Al Ghaydah
+ PROV4285:0 "al-Buraymi" #Baraimi
+ PROV4286:0 "Sur" #Ash Sharqiyah or ash-Sharqiyah
+ PROV4287:0 "Ibra'" #Ibra
+ PROV4288:0 "al-Qurnah" #Shatt or Shatt al-'Arab
+#Persia
  PROV4289:0 "Shushtar"
- PROV4290:0 "Hoveyzeh"
- PROV4291:0 "Qazaniya"
- PROV4292:0 "Mardin"
- PROV4293:0 "Arbil"
- PROV4294:0 "Sulimaniyeh"
- PROV4295:0 "Hisn Kayfa"
- PROV4296:0 "Bitlis"
- PROV4297:0 "Homs"
- PROV4298:0 "Ayntab"
- PROV4299:0 "Shamakhi"
- PROV4300:0 "Mianeh"
+ PROV4290:0 "Hoveyzeh" #or al-Hawizah?
+#Near East
+ PROV4291:0 "Qazaniyah" #Qazaniya
+ PROV4292:0 "Mêrdîn" #Mardin
+ PROV4293:0 "Hewlêr" #Arbil
+ PROV4294:0 "Silêmanî" #Sulimaniyeh or as-Sulaymaniyyah
+ PROV4295:0 "Heskîf" #Hisn Kayfa
+ PROV4296:0 "Bidlîs" #Bitlis
+ PROV4297:0 "Hims" #Homs
+ PROV4298:0 "Ayntab" #or 'Ayntab, or Antep
+#Persia: Azerbaijan
+ PROV4299:0 "Samaxi" #Shamakhi
+ PROV4300:0 "Miyane" #Mianeh
+#Caucasus: Georgia
  PROV4301:0 "Kartli"
- PROV4302:0 "Bayazid"
- PROV4303:0 "Oltu"
- PROV4304:0 "Khoy"
- PROV4305:0 "Shaki"
- PROV4306:0 "Lakia"
+#Turkey
+ PROV4302:0 "Daruynk" #Bayazid or Beyazit or Daroynk
+ PROV4303:0 "Oltisi" #Oltu
+#Persia: Azerbaijan
+ PROV4304:0 "Xoy" #Khoy
+ PROV4305:0 "Seki" #Shaki
+#Caucasus
+ PROV4306:0 "Lakkuy" #Lakia or Gumuk
+#Turkey
  PROV4307:0 "Aksaray"
  PROV4308:0 "Denizli"
- PROV4309:0 "Aydin"
+ PROV4309:0 "Aydin" #or Güzelhisar
  PROV4310:0 "Divrigi"
- PROV4311:0 "Karahisar"
- PROV4312:0 "Sultanönü"
- PROV4313:0 "Kangiri"
- PROV4314:0 "Kirshehir"
+ PROV4311:0 "Afyon" #Karahisar
+ PROV4312:0 "Eskisehir" #Sultanönü
+ PROV4313:0 "Kangiri" #or Çankiri
+ PROV4314:0 "Kirsehir" #Kirshehir
  PROV4315:0 "Tokat"
- PROV4316:0 "Sharqiya"
- PROV4317:1 "Buhaira"
- PROV4318:0 "Atfih"
- PROV4319:0 "Isna"
- PROV4320:0 "Girga"
+#Near East: Egypt
+ PROV4316:0 "el-Shar'eyyah" #Sharqiya
+ PROV4317:0 "el-Beherah" #Buhaira or Beheira
+ PROV4318:0 "'Atfih" #Atfih
+ PROV4319:0 "'Esna" #Isna or Esna
+ PROV4320:0 "Gerga" #Girga
+#Impassable Territories
  PROV4321:0 "Egyptian Desert"
  PROV4322:0 "Egyptian Desert"
- PROV4323:0 "Farafreh"
- PROV4324:0 "Ghuriyan"
+#Near East: Egypt
+ PROV4323:0 "el-Farafrah" #Farafreh
+#Near East: Afghanistan
+ PROV4324:0 "Ghoryan" #Ghuriyan
+#Persia
  PROV4325:0 "Sarakhs"
- PROV4326:0 "Nishapur"
+ PROV4326:0 "Neyshabur" #Nishapur
  PROV4327:0 "Jask"
+#Unknown: maybe an impassable territory
  PROV4328:0 "Chagai"
+#Persia
  PROV4329:0 "Fasa"
  PROV4330:0 "Darab"
  PROV4331:0 "Kazerun"
  PROV4332:0 "Siraf"
+#Unknown
  PROV4333:0 "Dahlak Archipelago"
+#Persia
  PROV4334:0 "Tabas"
  PROV4335:0 "Kashan"
- PROV4336:0 "Tun"
- PROV4337:0 "Savah"
- PROV4338:0 "Soltanieh"
- PROV4339:0 "Rasht"
+ PROV4336:0 "Tun" #or Ferdows
+ PROV4337:0 "Saveh" #Savah
+ PROV4338:0 "Sultaniye" #Soltanieh or Soltaniyeh
+ PROV4339:0 "Resht" #Rasht
  PROV4340:0 "Astara"
  PROV4341:0 "Sari"
- PROV4342:0 "Malamir"
+ PROV4342:0 "Malamir" #or Izeh
+#Turkestan
  PROV4343:0 "Termez"
- PROV4344:0 "Kish"
- PROV4345:0 "Saidabad"
+ PROV4344:0 "Shahrisabz" #Kish
+#Persia
+ PROV4345:0 "Saidabad" #or Sa'idabad (or Sirjan)
+#Lakes
  PROV4346:0 "Qamr Bay"
  PROV4347:0 "Pirate Coast"
+#Philippines
  PROV4348:0 "Ifugao"
  PROV4349:0 "Laguna"
  PROV4350:0 "Mindoro"
- PROV4351:0 "Buglas"
- PROV4352:0 "Cebu"
+ PROV4351:0 "Buglas" #or Negros
+ PROV4352:0 "Sugbu" #Cebu
  PROV4353:0 "Leyte"
  PROV4354:0 "Zamboanga"
  PROV4355:0 "Caraga"
  PROV4356:0 "Taytay"
+#Lakes?
  PROV4357:0 "Cuyo Archipelago"
  PROV4358:0 "Philippine Trench"
+#Japan?
  PROV4359:0 "Ise"
  PROV4360:0 "Mikawa"
+
+#NEW:
+#Scotland
  PROV4361:0 "Dùn Bar"
  PROV4362:0 "Galloway"
- PROV4363:0 "Argyll"
- PROV4364:0 "Inner Hebrides"
- PROV4365:0 "Mann"
- PROV4366:0 "Montgomery"
+ PROV4363:0 "Earra-Ghàidheal" #Argyll
+ PROV4364:0 "Na h-Eileanan a-staigh" #Inner Hebrides
+#Britain
+ PROV4365:0 "Mannin" #Mann
+#Wales
+ PROV4366:0 "Trefaldwyn" #Montgomery
+#England
  PROV4367:0 "Hull"
  PROV4368:0 "Scarborough"
- PROV4369:0 "Carmarthen"
+#Wales
+ PROV4369:0 "Caerfyrddin" #Carmarthen
+#England
  PROV4370:0 "Cambridge"
  PROV4371:0 "Sussex"
  PROV4372:0 "Coventry"
- PROV4373:0 "Devon"
- PROV4374:0 "Dorset"
- PROV4375:0 "Chester"
- PROV4376:0 "Leicester"
- PROV4377:0 "Ormond"
- PROV4378:0 "Desmond"
- PROV4379:0 "Midlands"
- PROV4380:0 "Donegal"
- PROV4381:0 "Oversticht"
- PROV4382:0 "Groningen"
+ PROV4373:0 "Dewnens" #Devon
+ PROV4374:0 "Dorsetshire" #Dorset
+ PROV4375:0 "Cheshire" #Chester
+ PROV4376:0 "Leicestershire" #Leicester
+#Ireland
+ PROV4377:0 "Urumhain" #Ormond
+ PROV4378:0 "Deas-Mhumhain" #Desmond
+ PROV4379:0 "Lár na Tíre" #Midlands
+ PROV4380:0 "Dún na nGall" #Donegal
+#Netherlands
+ PROV4381:0 "Oaversticht" #Oversticht or Overijssel
+ PROV4382:0 "Grunnen" #Groningen
  PROV4383:0 "Den Haag"
- PROV4384:0 "Rennais"
- PROV4385:0 "Cotentin"
- PROV4386:0 "Bas-Poitou"
- PROV4387:0 "Angoumois"
+#France: Brittany
+ PROV4384:0 "Roazhon" #Rennais or Rennes
+#France
+ PROV4385:0 "Cotentîn" #Cotentin
+ PROV4386:0 "Vendàie" #Bas-Poitou or Vendée
+ PROV4387:0 "Engoumaes" #Angoumois
  PROV4388:0 "Chartres"
  PROV4389:0 "Touraine"
  PROV4390:0 "Troyes"
- PROV4391:0 "Vivarais"
+ PROV4391:0 "Vivarés" #Vivarais
  PROV4392:0 "Auxerrois"
  test_province_name:0 "Test Province Name"
  other_province_name:0 "Other Province Name"
