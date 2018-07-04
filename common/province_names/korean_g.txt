@@ -1,0 +1,11 @@
+#Manchu
+722 = "Ryowon"
+724 = "Haenapi"
+725 = "Jajahabi"
+727 = "Aehon"
+730 = "Jangchun"
+2106 = "Buidan"
+2110 = "Tonghwa"
+2112 = "Andong"
+2187 = "Andal"
+4200 = "Honan"

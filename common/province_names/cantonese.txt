@@ -1,0 +1,227 @@
+#East Guangdong
+667 = "Gwongchow"
+668 = "Oumoon"
+2156 = "Chiuchow"
+2157 = "Waichow"
+2158 = "Shiukwan"
+
+#Fujian
+69 = "Fookchow"
+1829 = "Chunchow"
+2152 = "Ginning"
+2153 = "Tingchow"
+
+#Huguang
+681 = "Yicheong"
+682 = "Moucheong"
+2171 = "Seungyeung"
+2172 = "Gingchow"
+
+#Hunan
+671 = "Cheungsa"
+672 = "Mouling"
+2173 = "Yunling"
+2174 = "Hangyeung"
+
+#Jiangxi
+670 = "Gamchow"
+683 = "Namcheong"
+1833 = "GatÅfon"
+2151 = "Pohyeung"
+
+#North Anhui
+1838 = "Hapfei"
+2143 = "Fungyeung"
+2144 = "Fauyeung"
+
+#North Jiangsu
+685 = "Yeungchow"
+2141 = "Chuichow"
+2142 = "WaiÅfon"
+
+#South Anhui
+686 = "Onhing"
+2146 = "Ninggwok"
+2147 = "Waichow"
+
+#South Henan
+687 = "Namyeung"
+2175 = "Yuning"
+2176 = "Seungyau"
+
+#South Jiangsu
+1821 = "Namking"
+1822 = "Sowchow"
+2145 = "Jungong"
+
+#Taiwan
+738 = "Dungning"
+2154 = "Geilung"
+2155 = "Daidun"
+
+#West Guangdong
+665 = "Shiuhing"
+666 = "Kingchow"
+2159 = "Leichow"
+2160 = "Ngaichow"
+2161 = "Limchow"
+
+#Zhejiang
+684 = "Hongchow"
+1824 = "Wanchow"
+2148 = "Siuhing"
+2149 = "Ningbo"
+2150 = "Gumwah"
+
+#East Gansu
+698 = "Ninghah"
+699 = "Lanchow"
+2181 = "Pingleong"
+2183 = "Touchow"
+
+#North Hebei
+703 = "Singdak"
+1816 = "Butging"
+2136 = "Sheunfah"
+
+#North Henan
+688 = "Hoifung"
+692 = "Waihing"
+1836 = "Lokyeung"
+
+#Shaanxi
+689 = "Honchung"
+700 = "Sai"
+2179 = "Yin"
+2180 = "Tinshui"
+
+#Shandong
+690 = "Chengchow"
+691 = "Chainam"
+2138 = "Mouding"
+2139 = "Loichow"
+2140 = "Yinchow"
+
+#Shanxi
+93 = "Taiyuen"
+694 = "Pingyeung"
+697 = "Daitung"
+2177 = "Ningmou"
+2178 = "Luk"
+
+#South Hebei
+695 = "Hogan"
+696 = "Bouding"
+2137 = "Daiming"
+
+#West Gansu
+707 = "Yukmun"
+708 = "Cheungyik"
+2182 = "Leungchow"
+2184 = "Saining"
+
+#Japan
+1012 = "Satmoh"
+1014 = "Funghau"
+1015 = "Chungsing"
+1017 = "Chowfong"
+1018 = "Chutwan"
+1019 = "Bomoh"
+1020 = "Ping"
+1021 = "Sipchun?"
+1023 = "Yuetchin"
+1024 = "Yuethau"
+1025 = "Yuchin"
+1026 = "Lukchin"
+1027 = "Seungluk"
+1028 = "Mouchong?"
+1029 = "Gapfei"
+1030 = "Meicheung"
+1818 = "Chukchin"
+1819 = "Toujo"
+1820 = "Ahbo"
+1825 = "Onngai"
+1830 = "Danma"
+1832 = "Daiwo"
+1835 = "Meilung"
+1837 = "Yuetchung"
+1839 = "Chunho"
+1843 = "Sheungye"
+4131 = "Lukou"
+4180 = "Yatheung"
+4181 = "Feihau"
+4182 = "Feichin"
+4183 = "Sekgin"
+4184 = "Beichin"
+4185 = "Danhau"
+4186 = "Yiyu"
+4187 = "Geiyi"
+4188 = "Sunlung"
+4189 = "Seungmo"
+4190 = "Hachung?"
+4191 = "Haye"
+4192 = "Yuhau"
+4193 = "Dodou"
+4359 = "Yisai"
+4360 = "Samho"
+
+#Korea
+732 = "Hamhing"
+733 = "Wongchow"
+734 = "Yuenchow"
+735 = "Honshing"
+736 = "Sheungchow"
+737 = "Cheunchow"
+1013 = "Chingchow"
+1845 = "Pingyeung"
+2694 = "Gongling"
+2741 = "Chaichow"
+2742 = "Lukchun"
+2743 = "Gengshing"
+2744 = "Ningbin"
+2745 = "Hingchow"
+4227 = "Chunchow"
+4228 = "Lochow"
+4229 = "Chungchow"
+4230 = "Shuiyuen"
+4231 = "Hoichow"
+4232 = "Gonggai"
+
+#Vietnam
+605 = "Gading"
+606 = "Poonlong"
+607 = "Gwaiyan"
+610 = "Chingfa"
+613 = "Tungking"
+616 = "Goping"
+1016 = "Hoching"
+1022 = "Hingong"
+2371 = "Sanlo"
+2372 = "Hoifong"
+2373 = "Shunfa"
+2374 = "Ngachong"
+2375 = "Saiyuen"
+2376 = "Kancha"
+2377 = "Gomou"
+
+#Manchu
+704 = "Lingyuen "
+725 = "Hokshing"
+726 = "Sumyeung"
+727 = "Oifai"
+728 = "Soyuen"
+729 = "Baklik"
+730 = "Gutlam"
+731 = "Yilan"
+1033 = "Fuyip"
+1048 = "Miugai"
+1053 = "Hing On"
+2107 = "Lungcheunfu"
+2108 = "Wanchun"
+2110 = "Yiphak"
+2112 = "Ondung"
+2113 = "Koichow"
+2185 = "Nyungong"
+2188 = "Wuiling"
+4200 = "Foolan"
+4201 = "Ginchow"
