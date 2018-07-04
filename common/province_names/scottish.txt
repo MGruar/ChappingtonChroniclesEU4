@@ -1,3 +1,61 @@
+#Scots
+#233 #British
+#SAME 234
+#SAME 235
+236 = "Lunnon"
+#SAME 237
+#SAME 238
+#SAME 239
+#241 #British
+#SAME 242
+#SAME 243
+#SAME 244
+#SAME 245
+#SAME 246
+#SAME 247
+248 = "Lowden" #SAME
+#SAME 249
+250 = "Pairthshire" #SAME
+251 = "Aiberdeenshire"
+252 = "Innerness"
+253 = "Ooter Hebrides" #Wastren Isles
+#SAME 369
+#372 #British
+#373 #British #?
+#374 #British
+#375 #British
+376 = "Connacht" #SAME
+1860 = "Norfowk"
+#SAME 1861
+1978 = "Zetland"
+#4110 #British
+#4118 #British
+#4119 #British
+#4120 #British
+#4121 #British
+#SAME 4130
+
+4361 = "East March" #or Rosbroch
+4362 = "Wast March"
+#4363 #British
+#4364 #British
+#4365 #British
+#4366 #British #?
+4367 = "Ull"
+#SAME 4368 #?
+#4369 #British #?
+4370 = "Cambrig"
+#SAME 4371
+#SAME 4372
+#4373 #British
+#SAME 4374
+#SAME 4375
+#SAME 4376
+#4377 #British #?
+#4378 #British #?
+#4379 #British #?
+#4380 #British #?
+
 482 = "	Bahama Eilands	"
 483	= "	Cactus Isles	"
 2656	= "	King's Knot	"
