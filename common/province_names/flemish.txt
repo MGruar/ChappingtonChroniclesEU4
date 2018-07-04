@@ -1,4 +1,39 @@
-1095	= "	Oranjeilanden	"
+56 = "Osnabrugge"
+72 = "Breisgouw"
+75 = "Elzas"
+78 = "Ments"
+80 = "Trier"
+82 = "Westfaals"
+#SAME 83
+#SAME 84
+85 = "Keulen"
+86 = "Munster"
+#SAME 87
+88 = "Artesië"
+89 = "Picardië"
+90 = "Vlaonderen"
+91 = "Enegouwn" #Henegouwen
+#SAME 92
+93 = "Luuk" #Luik
+94 = "Luxemburg" #Lutzenburgh
+#SAME 95
+#SAME 96
+#SAME 97
+#SAME 98
+#SAME 99
+100 = "Friesland"
+167 = "Rowaan" #Kalk?
+168 = "Caen" #Normandië
+#SAME 181
+182 = "Vermandland"
+183 = "Parys" #Parijs
+186 = "Riemen"
+187 = "Bar"
+188 = "Drie Bisdommen"
+189 = "Lotharingen"
+192 = "Dijon" #Bourgondië
+193 = "Vrijgraafschap"
+236 = "Londen"
 481	= "	Bermuda	"
 482	= "	Nassau-Eilanden	"
 483	= "	Caicoseilanden	"
@@ -10,8 +45,6 @@
 488	= "	Verlosser van Egmond	"
 489	= "	Schildpaddeneiland	"
 490	= "	Sint Dominicus	"
-2659	= "	Zilverenhaven	"
-2658	= "	Nieuw Haarlem	"
 491	= "	Quracao	"
 492	= "	Rijkehaven	"
 493	= "	Sint-Thomas	"
@@ -24,7 +57,6 @@
 500	= "	Grenada	"
 501	= "	Bebaarde	"
 502	= "	Drievuldigheid	"
-1881	= "	Sint Maartin	"
 741	= "	Alkemaar	"
 742	= "	Rivierssmallen	"
 743	= "	Nova Zeelandia	"
@@ -40,8 +72,6 @@
 753	= "	Kasteel Keulen	"
 754	= "	Frederikstadt	"
 755	= "	Mauritsstad	"
-2922	= "	Sterielland	"
-2921	= "	Fort Maurits	"
 756	= "	Weg naar Zee	"
 757	= "	Molenbeek	"
 758	= "	Nieuw-Groningen	"
@@ -290,10 +320,22 @@
 1009	= "	Mairesrivier	"
 1010	= "	Fort Oranje	"
 1011	= "	Vredenstad	"
+1095	= "	Oranjeilanden	"
 1104	= "	Fort Mauritsbaai	"
 1105	= "	Noordenland	"
+#SAME 1742 #Limburg
+1743 = "Kimeryk" #Kamerijk
+#SAME 1744
+1761 = "Palts"
 1809	= "	Gehucht	"
 1813	= "	Fort Smallenbroek	"
+#SAME 1865
+1866 = "Noamn"
+1876 = "Frankfort"
+1878 = "Aoke" #Aken
+1880 = "Sundgouw"
+1881	= "	Sint Maartin	"
+1931 = "Oost-Friesland"
 2002	= "	Betoverde Eilanden	"
 2003	= "	Kootenaaj	"
 2004	= "	Kraaiennest	"
@@ -497,6 +539,8 @@
 2654	= "	Schatbaai	"
 2655	= "	Aalderinkschoek	"
 2657	= "	Larochette-Faltz	"
+2658	= "	Nieuw Haarlem	"
+2659	= "	Zilverenhaven	"
 2660	= "	Slooten	"
 2661	= "	Mollerusstad	"
 2662	= "	Toffenaam	"
@@ -625,6 +669,8 @@
 2918	= "	Beuingen	"
 2919	= "	Middachten	"
 2920	= "	Haaften	"
+2922	= "	Sterielland	"
+2921	= "	Fort Maurits	"
 2923	= "	Hackfort	"
 2924	= "	Biljoen	"
 2925	= "	Valkhof	"
@@ -648,6 +694,18 @@
 2945	= "	Frijtsberg	"
 2946	= "	Haaren	"
 2947	= "	Tongelaerwijck	"
+#SAME 2973
+#SAME 2974
+2975 = "Kleef"
+
+4381 = "Oversticht"
+4382 = "Groningen"
+#SAME 4383
+4385 = "Cotentin"
+#SAME 4388
+#SAME 4390
+4392 = "Auxerre"
+
 56 = "Osnabrugge"
 72 = "Breisgouw"
 75 = "Elzas"

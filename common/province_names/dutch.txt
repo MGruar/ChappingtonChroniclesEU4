@@ -1,17 +1,81 @@
-1095	= "	Oranjeilanden	"
+41 = "Koningsbergen"
+47 = "Straalsond"
+48 = "Colberg"
+50 = "Berlijn"
+52 = "Maagdenburg"
+53 = "Lüneburg"
+54 = "Stade"
+55 = "Oldenburg"
+56 = "Osnabrugge" #Osenbrugge
+57 = "Brunswijk"
+72 = "Breisgouw"
+74 = "Baden"
+75 = "Elzas"
+77 = "Heidelberg"
+78 = "Ments"
+79 = "Würzburg"
+80 = "Trier"
+81 = "Hessen"
+82 = "Westfaals"
+#SAME 83
+#SAME 84
+85 = "Keulen"
+86 = "Munster"
+87 = "Kales"
+88 = "Artesië"
+89 = "Picardië"
+90 = "Vlaanderen"
+91 = "Henegouwen"
+#SAME 92
+93 = "Luik"
+94 = "Luxemburg" #Lutzenburgh
+#SAME 95
+96 = "Zeeland"
+#SAME 97
+#SAME 98
+#SAME 99
+100 = "Friesland"
+101 = "Genua"
+104 = "Milaan"
+167 = "Rowaan" #Kalk?
+168 = "Caen" #Normandië
+#SAME 181
+182 = "Vermandland"
+183 = "Parijs"
+186 = "Riemen"
+187 = "Bar"
+188 = "Drie Bisdommen"
+189 = "Lotharingen"
+192 = "Dijon" #Bourgondië
+193 = "Vrijgraafschap"
+233 = "Cornwallis"
+236 = "Londen"
+366 = "Canaren"
+367 = "Azoren"
+#SAME 368
+384 = "Medina"
+385 = "Mekka"
+387 = "Mokka"
+388 = "Aden"
+389 = "Mukalla"
+390 = "Sanaa"
+395 = "Katar" #?
+396 = "Bahrein"
+398 = "Sharjah"
+400 = "Maskat" #?
+401 = "Dhofar"
+402 = "Kisjn" #?
+408 = "Basra"
 481	= "	Bermuda	"
 482	= "	Nassau-Eilanden	"
 483	= "	Caicoseilanden	"
 484	= "	Havenstad	"
 485	= "	Nieuw-Zutphen	"
-2656	= "	Mariakapelletje	"
 486	= "	Kaaimanera	"
 487	= "	Tainoseiland	"
 488	= "	Verlosser van Egmond	"
 489	= "	Schildpaddeneiland	"
 490	= "	Sint Dominicus	"
-2659	= "	Zilverenhaven	"
-2658	= "	Nieuw Haarlem	"
 491	= "	Quracao	"
 492	= "	Rijkehaven	"
 493	= "	Sint-Thomas	"
@@ -24,7 +88,62 @@
 500	= "	Grenada	"
 501	= "	Bebaarde	"
 502	= "	Drievuldigheid	"
-1881	= "	Sint Maartin	"
+515 = "Diu"
+517 = "Surat"
+529 = "Bombay"
+534 = "Calicoet"
+535 = "Cochin"
+537 = "Quilon"
+539 = "Pulicat"
+540 = "Sadras"
+543 = "Masulipatnam"
+561 = "Chinsura" #Chandernagore
+572 = "Colombo"
+574 = "Andamanen"
+#SAME 595
+596 = "Malakka"
+#SAME 597
+#SAME 598
+599 = "Kelantan"
+617 = "Lambrij"
+#SAME 618
+#SAME 619
+#SAME 620
+621 = "Benkoelen"
+#SAME 622
+623 = "Oosthaven"
+624 = "Bantam"
+#SAME 625
+#SAME 626 #?
+627 = "Banjoewangi"
+628 = "Soerabaja"
+#SAME 629
+630 = "Batavia"
+#SAME 631
+632 = "Soembawa"
+633 = "Flores" #Bloemen
+634 = "Sandelhouteiland" # Soemba
+635 = "West-Timor"
+#SAME 636
+637 = "Jesselton"
+638 = "Tenggarong"
+639 = "Bandjermasin"
+#SAME 640
+641 = "Vlaardingen" #Fort Rotterdam
+#SAME 642
+#SAME 643
+#SAME 644
+645 = "Boeroe"
+646 = "Amboina"
+647 = "Ceram"
+#SAME 648
+#SAME 649
+#SAME 650
+651 = "Soeloe" #?
+#SAME 659
+667 = "Kanton"
+668 = "Macao"
+738 = "Zuidelijk Formosa"
 741	= "	Alkemaar	"
 742	= "	Rivierssmallen	"
 743	= "	Nova Zeelandia	"
@@ -40,8 +159,6 @@
 753	= "	Kasteel Keulen	"
 754	= "	Frederikstadt	"
 755	= "	Mauritsstad	"
-2922	= "	Sterielland	"
-2921	= "	Fort Maurits	"
 756	= "	Weg naar Zee	"
 757	= "	Molenbeek	"
 758	= "	Nieuw-Groningen	"
@@ -290,10 +407,115 @@
 1009	= "	Mairesrivier	"
 1010	= "	Fort Oranje	"
 1011	= "	Vredenstad	"
+1032 = "Koerilen"
+1033 = "Sachalin"
+1034 = "Kamtsjatka"
+1085 = "Tasmanië"
+1095	= "	Oranjeilanden	"
+1096 = "Kaapverdië"
+1097 = "Fernando Poo"
+1098 = "Sint-Helena"
+1099 = "Socotra"
+1101 = "Chagosarchipel"
+1102 = "Mauritius"
+1103 = "Heilige Apollonia"
 1104	= "	Fort Mauritsbaai	"
 1105	= "	Noordenland	"
+1111 = "Arguin"
+1112 = "Trarza"
+1113 = "Dakar"
+1114 = "Gabu"
+1118 = "Leeuwinbergen"
+1119 = "Grijnkust"
+1126 = "Ivoorkust"
+1139 = "Fort Elmina"
+1141 = "Juda"
+#SAME 1147
+1151 = "Bonny" #?
+1163 = "Calabar"
+1164 = "Kameroen"
+#SAME 1165
+1166 = "Loango"
+1167 = "Fort Aardenburgh"
+#SAME 1172
+1173 = "Namibië"
+1174 = "Walvisbaai"
+1175 = "Minder Namakwaland"
+#SAME 1176
+1177 = "Kaap de Goede Hoop" #Kaapstad
+1178 = "Groter Karoo"
+#SAME 1179
+1180 = "Wildkust"
+#SAME 1181
+1182 = "Fort Lydsaamheid"
+#SAME 1183
+#SAME 1186
+1192 = "Quelimane"
+1195 = "Mozambique"
+#SAME 1196
+#SAME 1197
+#SAME 1198
+#SAME 1199
+#SAME 1200
+#SAME 1201
+1202 = "Mombassa"
+1203 = "Melinde" #?
+#SAME 1204
+1205 = "Mogadisjoe"
+1206 = "Gardo" #?
+#SAME 1209
+1212 = "Zeila"
+1215 = "Tadjourah" #?
+1230 = "Massawa"
+1232 = "Soeakin"
+1235 = "Guam"
+1236 = "Nieuw-Brittannië"
+1237 = "Port Moresby"
+1238 = "Salomonseilanden"
+1239 = "Nieuwe Hebriden"
+1240 = "Sandwich Eilanden"
+1241 = "Gilberteilanden"
+1242 = "Fiji"
+1243 = "Schipperseilanden"
+1244 = "Gevaarlijke Eilanden" #?
+1245 = "Nieuw Albion"
+1248 = "Maldiven"
+1306 = "Sint-Thomas"
+1722 = "Chatham Eiland"
+1723 = "Bounty Eilanden"
+#SAME 1742 #Limburg
+1743 = "Kamerijk"
+#SAME 1744
+1758 = "Hannover"
+1760 = "Koblenz" #?
+1761 = "Palts"
+#SAME 1762
 1809	= "	Gehucht	"
 1813	= "	Fort Smallenbroek	"
+1816 = "Peking"
+1841 = "Mariënburg"
+#SAME 1865
+1866 = "Namen"
+#SAME 1874
+1876 = "Frankfort"
+1878 = "Aken"
+1880 = "Sundgouw"
+1881	= "	Sint Maartin	"
+1931 = "Oost-Friesland"
+1986 = "Nieuw-Caledonië"
+1987 = "Genootschapseilanden"
+1988 = "Paaseiland"
+1989 = "Vriendelijke Eilanden" #?
+1990 = "Lagune Eilanden" #Ellice-eilanden
+1991 = "Gilberteilanden"
+1992 = "Aangenaam Eiland" #?
+1993 = "Marshalleilanden"
+#SAME 1994
+1995 = "Micronesië"
+1996 = "Palau"
+1997 = "Halfweg"
+1998 = "Kersteiland"
+1999 = "Cocoseiland"
 2002	= "	Betoverde Eilanden	"
 2003	= "	Kootenaaj	"
 2004	= "	Kraaiennest	"
@@ -316,7 +538,31 @@
 2021	= "	Rottermeer	"
 2022	= "	Haida-eilanden	"
 2023	= "	Bachamslandt	"
+2024 = "Garowe"
 2025	= "	Texel van der Zuiden	"
+2026 = "Negapatam"
+2029 = "Cannanore" #?
+2030 = "Goa"
+2080 = "Vizag" #Vizagapatam
+2084 = "Yanam"
+2099 = "Trincomalee"
+2100 = "Jaffna"
+2154 = "Noordelijk Formosa"
+2155 = "Centraal Formosa"
+2239 = "Gambia"
+2241 = "Guinee"
+2242 = "Peperkust"
+2258 = "Fort Hollandia"
+2290 = "Slavenkust"
+#SAME 2294
+2329 = "Yanbu"
+2331 = "Djedda"
+2340 = "Koeweit"
+#SAME 2341
+2342 = "Centraal Oman"
+2346 = "Jizan" #?
+#SAME 2392
+2393 = "Terengganu"
 2476	= "	Frijtshoven	"
 2477	= "	Julikaap	"
 2478	= "	Berenbos	"
@@ -496,7 +742,10 @@
 2653	= "	Bentinckfort	"
 2654	= "	Schatbaai	"
 2655	= "	Aalderinkschoek	"
+2656	= "	Mariakapelletje	"
 2657	= "	Larochette-Faltz	"
+2658	= "	Nieuw Haarlem	"
+2659	= "	Zilverenhaven	"
 2660	= "	Slooten	"
 2661	= "	Mollerusstad	"
 2662	= "	Toffenaam	"
@@ -510,6 +759,65 @@
 2670	= "	Nieuw-Haag	"
 2671	= "	Balluseck	"
 2672	= "	Kaandal	"
+2673 = "Pacem" #? or Pasai?
+#SAME 2674
+#SAME 2675
+#SAME 2676
+2677 = "Djambi"
+2678 = "Banka"
+2679 = "Billiton"
+2680 = "Mukomuko"
+2681 = "Fort van der Capellen"
+2682 = "Pariaman"
+#SAME 2683
+2684 = "Nias"
+2685 = "Gajo"
+#SAME 2686
+2687 = "Buitenzorg"
+2688 = "Cheribon"
+#SAME 2689
+#SAME 2690 #?
+#SAME 2691
+2692 = "Madoera"
+#SAME 2693
+2695 = "Oost-Timor"
+2696 = "Jamdena"
+#SAME 2703
+#SAME 2704 #?
+#SAME 2705
+#SAME 2706 #?
+#SAME 2707
+#SAME 2708 #?
+#SAME 2709
+#SAME 2710 #?
+#SAME 2711 #?
+#SAME 2712
+#SAME 2713
+2714 = "Paloe"
+#SAME 2715
+2716 = "Boeton"
+2717 = "Soela"
+2718 = "Fakfak"
+#SAME 2719
+#SAME 2720
+#SAME 2721
+2722 = "Daroe" #?
+2723 = "Frederik Hendrikeiland" #or Valse Kaap
+#SAME 2724
+2725 = "Aroe"
+2765 = "Assab"
+2774 = "Kismayo"
+#SAME 2775
+2782 = "Warsjijch" #?
+2783 = "Hobyo"
+2786 = "Bender Cassim"
+2788 = "Hafoen" #?
+2789 = "Las Chorij" #?
+2790 = "Sanag"
+2793 = "Hargeisa"
+2794 = "Brava"
+2795 = "Meregh" #?
+#SAME 2796 #?
 2803	= "	Boreel	"
 2804	= "	Beekendonk	"
 2805	= "	Kligmastad	"
@@ -625,6 +933,8 @@
 2918	= "	Beuingen	"
 2919	= "	Middachten	"
 2920	= "	Haaften	"
+2921	= "	Fort Maurits	"
+2922	= "	Sterielland	"
 2923	= "	Hackfort	"
 2924	= "	Biljoen	"
 2925	= "	Valkhof	"
@@ -648,6 +958,38 @@
 2945	= "	Frijtsberg	"
 2946	= "	Haaren	"
 2947	= "	Tongelaerwijck	"
+2964 = "Oude Mars"
+#SAME 2971
+2972 = "Paderborn"
+#SAME 2973
+#SAME 2974
+2975 = "Kleef"
+2994 = "Griepswoude"
+2999 = "Hormuz"
+4020 = "Comoren"
+#SAME 4049
+4078 = "Majumba" #?
+4079 = "Cabinda"
+4080 = "Zaire"
+4182 = "Desjima"
+4278 = "Koenfoeda" #?
+#SAME 4279
+4280 = "Taiz"
+#SAME 4281
+4283 = "Sjihr" #?
+4284 = "Ghaydah" #?
+#SAME 4286 or Oost-Oman
+4287 = "Ibra"
+
+4381 = "Oversticht"
+4382 = "Groningen"
+#SAME 4383
+4385 = "Cotentin"
+#SAME 4388
+#SAME 4390
+4392 = "Auxerre"
+
+# Vanilla?
 56 = "Osnabrugge"
 72 = "Breisgouw"
 75 = "Elzas"
