@@ -41,9 +41,69 @@ colonial_alaska = {
 				tag = SPA
 				tag = CAS
 				tag = ARA
+				primary_culture = castillian
+				primary_culture = aragonese
+				primary_culture = portugese
 			}
 		}
 		name = "COLONIAL_ALASKA_Pacifico_Norte"
+	}
+	names = {
+		trigger = {
+			culture_group = french
+		}
+		name = "COLONIAL_ALASKA_Nord_de_Pacifique"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = english
+				culture_group = latin
+			}
+		}
+		name = "COLONIAL_ALASKA_Borealia"
+	}
+	names = {
+		trigger = {
+			primary_culture = scottish
+		}
+		name = "COLONIAL_ALASKA_Dalriada"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_ALASKA_Bjornfella"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_ALASKA_Nordlandet"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_ALASKA_Noordland"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = germanic
+				culture_group = scandinavian
+			}
+		}
+		name = "COLONIAL_ALASKA_Nordland"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_ALASKA_Borealia_Cat"
 	}
 	# Generic
 	names = {
@@ -151,6 +211,46 @@ colonial_canada = {
 	names = {
 		trigger = {
 			OR = {
+				tag = NED
+				tag = HOL
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_CANADA_Nova_Hollandia"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+			OR = {
+				owns = 57
+				is_core = 57
+				tag = BRU
+			}
+		}
+		name = "COLONIAL_CANADA_Neu_Braunschweig"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_CANADA_Akadienland"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_CANADA_Canada"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_CANADA_Llaurador"
+	}
+	names = {
+		trigger = {
+			OR = {
 				tag = GBR
 				tag = ENG
 			}
@@ -180,7 +280,7 @@ colonial_canada = {
 			OR = {
 				tag = GBR
 				tag = ENG
-				tag = X00
+				tag = Z00
 			}
 		}
 		name = "COLONIAL_CANADA_Borealia"
@@ -351,6 +451,12 @@ colonial_eastern_america = {
 	}
 	names = {
 		trigger = {
+			tag = NED
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nieuw_Nederland"
+	}
+	names = {
+		trigger = {
 			OR = {
 				tag = FRA
 				culture_group = french
@@ -374,15 +480,68 @@ colonial_eastern_america = {
 				tag = SPA
 				tag = CAS
 				tag = ARA
+				primary_culture = castillian
+				primary_culture = aragonese
 			}
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Florida"
 	}
 	names = {
 		trigger = {
-			tag = X00
+			tag = Z00
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Michaelsland"
+	}
+	names = {
+		trigger = {
+			primary_culture = portugese
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nova_Braganza"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nieuw_Root_GetName"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Westhanse"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nuova_Roma"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Ny_Norge"
+	}
+	names = {
+		trigger = {
+			primary_culture = danish
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Ny_Danmark"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nya_Sverige"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Nova_Catalunya"
 	}
 	# Generic
 	names = {
@@ -508,6 +667,73 @@ colonial_louisiana = {
 			}
 		}
 		name = "PROV915"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = aragonese
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Fernandia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = portugese
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Afonsia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Willemania"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = germanic
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Neurhein_Kolonie"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = latin
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Augustea"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = norwegian
+				primary_culture = danish
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Christiania"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = swedish
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Gustavia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = catalan
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Jacobinia"
 	}
 	# Generic
 	names = {
@@ -665,6 +891,78 @@ colonial_california = {
 		}
 		name = "COLONIAL_CALIFORNIA_New_Albion"
 	}
+	names = {
+		trigger = {
+			culture_group = french
+		}
+		name = "COLONIAL_CALIFORNIA_Californie"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_CALIFORNIA_Nuova_Meridione"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = aragonese
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_California"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = aragonese
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Oregon_es"
+	}
+	names = {
+		trigger = {
+			primary_culture = portugese
+		}
+		name = "COLONIAL_CALIFORNIA_Avisia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Westelijke_Provincies"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_CALIFORNIA_Anhalt_Dessau"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = norwegian
+				primary_culture = danish
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Vestlige_Provinser"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_CALIFORNIA_Vastra_Provinsrna"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_CALIFORNIA_Nova_Valencia"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_CALIFORNIA_Pacifica"
@@ -752,15 +1050,82 @@ colonial_mexico = {
 	}
 	names = {
 		trigger = {
-			tag = X00
+			tag = Z00
 		}
 		name = "COLONIAL_MEXICO_New_Andalus"
 	}
 	names = {
 		trigger = {
-			tag = X00
+			tag = Z00
 		}
 		name = "COLONIAL_MEXICO_New_Santiago"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = aragonese
+				primary_culture = leonese
+			}
+		}
+		name = "COLONIAL_MEXICO_Nueva_Root_Getname"
+	}
+	names = {
+		trigger = {
+			culture_group = french
+		}
+		name = "COLONIAL_MEXICO_Nouvelle_Provence"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_MEXICO_Terra_del_Sole"
+	}
+	names = {
+		trigger = {
+			primary_culture = portugese
+		}
+		name = "COLONIAL_MEXICO_Nova_Portugal"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_MEXICO_Oranje"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_MEXICO_Neu_Bayern"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_MEXICO_Ny_Finmark"
+	}
+	names = {
+		trigger = {
+			primary_culture = danish
+		}
+		name = "COLONIAL_MEXICO_Ny_Skane"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_MEXICO_Nya_Finland"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_MEXICO_Nou_Urgell"
 	}
 	# Generic
 	names = {
@@ -907,6 +1272,63 @@ colonial_the_carribean = {
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Antilhas"
 	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Indie_Occidentali"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_THE_CARRIBEAN_West_Indie"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Root_GetAdjective_Karibik"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Vest_India"
+	}
+	names = {
+		trigger = {
+			primary_culture = danish
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Vestindien"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Vastra_Indierna"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Nova_Mallorca"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Nova_Menorca"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Nova_Eivissa"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_THE_CARRIBEAN_Caribbean_Territories"
@@ -976,6 +1398,69 @@ colonial_colombia = {
 		}
 		name = "COLONIAL_COLOMBIA_New_Granada"
 	}
+	names = {
+		trigger = {
+			culture_group = french
+		}
+		name = "COLONIAL_COLOMBIA_Colombie"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_COLOMBIA_Suriname"
+	}
+	names = {
+		trigger = {
+			primary_culture = english
+		}
+		name = "COLONIAL_COLOMBIA_Guyana"
+	}
+	names = {
+		trigger = {
+			primary_culture = portugese
+		}
+		name = "COLONIAL_COLOMBIA_Colombo"
+	}
+	names = {
+		trigger = {
+			primary_culture = danish
+		}
+		name = "COLONIAL_COLOMBIA_Syv_Byer"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_COLOMBIA_Eriksonia"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_COLOMBIA_Sju_Stader"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_COLOMBIA_Tarragon_dIndies"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_COLOMBIA_Klein_Venedig"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_COLOMBIA_Veneziella"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia"
@@ -1017,12 +1502,74 @@ colonial_peru = {
 		2944 2945 #Amazon
 	}
 
-#	# Specific
-#	names = {
-#		trigger = {
-#		}
-#		name = ""
-#	}
+	# Specific
+	names = {
+		trigger = {
+			culture_group = french
+		}
+		name = "COLONIAL_PERU_Nouvelle_Normandie"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_PERU_Nuova_Cisalpina"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = aragonese
+				primary_culture = leonese
+			}
+		}
+		name = "COLONIAL_PERU_Peru_ES"
+	}
+	names = {
+		trigger = {
+			primary_culture = portugese
+		}
+		name = "COLONIAL_PERU_Novos_Algarves"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_PERU_Zuidpatroonia"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_PERU_Neu_Sachsen"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_PERU_Hoylandet"
+	}
+	names = {
+		trigger = {
+			primary_culture = danish
+		}
+		name = "COLONIAL_PERU_Hojland"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_PERU_Hogalander"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_PERU_Terres_Altes"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_PERU_Andean_Territories"
@@ -1114,9 +1661,58 @@ colonial_la_plata = {
 	}
 	names = {
 		trigger = {
-			tag = X00
+			tag = Z00
 		}
 		name = "COLONIAL_LA_PLATA_Airgead"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = aragonese
+				primary_culture = leonese
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Rio_de_la_Plata"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Silberia"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_LA_PLATA_Suedland"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = danish
+				primary_culture = norwegian
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Solvland"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_LA_PLATA_Silverlan"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = catalan
+				culture_group = latin
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Argentina"
 	}
 	# Generic
 	names = {
@@ -1206,9 +1802,9 @@ colonial_brazil = {
 	# Specific
 	names = {
 		trigger = {
-			tag = POR
+			primary_culture = portugese
 		}
-		name = "COLONIAL_BRAZIL_Root_Culture_GetName_Brazil"
+		name = "COLONIAL_BRAZIL_Brasil"
 	}
 	names = {
 		trigger = {
@@ -1230,9 +1826,70 @@ colonial_brazil = {
 	}
 	names = {
 		trigger = {
-			tag = X27
+			tag = Z27
 		}
 		name = "COLONIAL_BRAZIL_New_Atlassia"
+	}
+	names = {
+		trigger = {
+			OR= {
+				primary_culture = castillian
+				primary_culture = aragonese
+				primary_culture = leonese
+			}
+		}
+		name = "COLONIAL_BRAZIL_Tierra_de_la_Vera_Cruz"
+	}
+	names = {
+		trigger = {
+			culture_group = french
+		}
+		name = "COLONIAL_BRAZIL_nouvelle_bretagne"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_BRAZIL_amazzonia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = flemish
+			}
+		}
+		name = "COLONIAL_BRAZIL_Demerary"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+		}
+		name = "COLONIAL_BRAZIL_Hanauisch_Indien"
+	}
+	names = {
+		trigger = {
+			primary_culture = danish
+		}
+		name = "COLONIAL_BRAZIL_Amazonas"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_BRAZIL_Tupiriket"
+	}
+	names = {
+		trigger = {
+			primary_culture = swedish
+		}
+		name = "COLONIAL_BRAZIL_Amasonus"
+	}
+	names = {
+		trigger = {
+			primary_culture = catalan
+		}
+		name = "COLONIAL_BRAZIL_Amazonia"
 	}
 	# Generic
 	names = {
