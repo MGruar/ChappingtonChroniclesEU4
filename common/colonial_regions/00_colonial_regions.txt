@@ -389,6 +389,9 @@ colonial_eastern_america = {
 		name = "COLONIAL_REGION_New_Root_GetName"
 	}
 	names = {
+		name = "COLONIAL_EASTERN_AMERICA_West_Atlantic"
+	}
+	names = {
 		name = "COLONIAL_EASTERN_AMERICA_Florida"
 	}
 	names = {
