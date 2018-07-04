@@ -1,3 +1,26 @@
+11 = "Vesterbotten"
+#SAME 12
+#SAME 16
+#SAME 17
+19 = "Østerbotten"
+#SAME 20
+21 = "Nordland"
+#SAME 22
+25 = "Gulland"
+33 = "Nøteborg" #?
+35 = "Øsel"
+36 = "Lyndanisse" #?
+44 = "Hamburg"
+45 = "Lybæk"
+53 = "Lyneborg"
+92 = "Brussel"
+253 = "Ytre Hebridene"
+261 = "Galitsj"
+282 = "Otsjakov" #?
+288 = "Tsjerkassk"
+289 = "Tsjernigov"
+369 = "Ørkneyjar"
+468 = "Manytsj"
 1095	= "	Hinnøyene	"
 481	= "	Funning	"
 482	= "	Gryfhavn	"
@@ -292,8 +315,21 @@
 1011	= "	Fredsplassen	"
 1104	= "	Eiriksfjord	"
 1105	= "	Vestbygda	"
+1177 = "Kap det gode håp"
+1776 = "Hvite Karelen" #?
+1777 = "Kolahalvøya"
 1809	= "	Gjøra	"
 1813	= "	Mannhellerborg	"
+1931 = "Øst-Friesland"
+1939 = "Lentsjitza" #?
+1944 = "Tsjerkassi"
+1957 = "Galitsj"
+1963 = "Tsjerdyn" #?
+1966 = "Tsjeljabinsk"
+1979 = "Færøyene"
+1982 = "Blekinge"
+1985 = "Nærke" #?
+1988 = "Påskeøya"
 2002	= "	Ny-Hjaltland	"
 2003	= "	Nybø	"
 2004	= "	Kråkereirpasset	"
@@ -317,6 +353,10 @@
 2022	= "	Dronningsøyene	"
 2023	= "	Nansendal	"
 2025	= "	Nye Svalbard	"
+2195 = "Sotsji" #?
+2413 = "Novotsjerkassk"
+2421 = "Tsjistopol"
+2422 = "Tsjeboksary"
 2476	= "	Stryne	"
 2477	= "	Hornindal	"
 2478	= "	Nørtorp	"
@@ -648,6 +688,15 @@
 2945	= "	Stor-Bergen	"
 2946	= "	Nansenborg	"
 2947	= "	Kildesborg	"
+4020 = "Komorene"
+4163 = "Ølvsborg" #?
+4244 = "Trubtsjevsk"
+4247 = "Ovrutsj"
+4260 = "Vysjnij Volotsjok"
+4263 = "Soligalitsj"
+4265 = "Tsjelny"
+
+4364 = "Indre Hebridene"
 
 10 = "Jemtland"
 16 = "Båhuslen"

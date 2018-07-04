@@ -1,3 +1,171 @@
+90 = "Flandres"
+92 = "Bruxelas"
+94 = "Luxemburgo"
+96 = "Zelândia"
+97 = "Amesterdão" #Holanda
+101 = "Génova"
+103 = "Piemonte"
+104 = "Milão"
+105 = "Parma"
+106 = "Módena"
+108 = "Verona"
+109 = "Mântua"
+110 = "Trento"
+111 = "Friul"
+112 = "Veneza"
+113 = "Ferrária"
+114 = "Romanha"
+#SAME 115
+116 = "Florença"
+117 = "Sena"
+#SAME 118
+#SAME 119
+120 = "Abruzos"
+121 = "Nápoles"
+122 = "Salento"
+123 = "Calábria"
+124 = "Messina"
+125 = "Palermo"
+#SAME 126
+127 = "Sássari"
+130 = "Ístria"
+134 = "Viena"
+136 = "Dalmácia"
+137 = "Ragusa"
+138 = "Montenegro"
+142 = "Córcira"
+143 = "Valona"
+144 = "Epiro"
+145 = "Moreia"
+146 = "Atenas"
+147 = "Tessália"
+148 = "Macedônia"
+149 = "Adrianopla"
+151 = "Constantinopla"
+163 = "Creta"
+#SAME 164
+165 = "Berna"
+168 = "Caen" #Normandia
+169 = "Armórica"
+170 = "Finisterra"
+171 = "Vannes"
+172 = "Nantes"
+173 = "Baiona" #Laborde?
+174 = "Aquitânia" #Bordéus
+175 = "Armanhaque"
+176 = "Bearne"
+178 = "Anju"
+#SAME 183
+184 = "Orleanês"
+#SAME 186 #Champanha
+188 = "Três Bispados"
+189 = "Lorena"
+190 = "Burbônia"
+192 = "Dijon"
+194 = "Périgord"
+195 = "Limusino"
+#SAME 196
+197 = "Rossilhão" #Perpinhã or Perpinhão
+198 = "Rodez"
+199 = "Auvérnia"
+200 = "Mompilher" #Linquadoque
+#SAME 201
+202 = "Avinhão"
+203 = "Lionês"
+204 = "Delfinado"
+205 = "Saboia"
+#SAME 206
+207 = "Astúrias"
+208 = "Leão"
+209 = "Biscaia"
+210 = "Navarra"
+211 = "Pirenéus"
+212 = "Gerunda"
+#SAME 213
+214 = "Saragoça"
+215 = "Castela-a-Velha"
+#SAME 216
+#SAME 217
+218 = "Badalhouce"
+#SAME 219
+220 = "Valência"
+221 = "Múrcia"
+222 = "Almeria"
+#SAME 223
+224 = "Sevilha"
+225 = "Córdova"
+#SAME 226
+#SAME 227
+#SAME 228
+#SAME 229
+#SAME 230
+#SAME 231
+232 = "Bragança"
+236 = "Londres"
+284 = "Crimeia"
+285 = "Teodósia"
+286 = "Tánais"
+318 = "Esmirna"
+320 = "Rodes"
+321 = "Chipre"
+333 = "Baleares"
+334 = "Tânger"
+335 = "Melilha"
+336 = "Tlemcen"
+337 = "Orã"
+338 = "Argel"
+339 = "Bugia"
+340 = "Constantina"
+341 = "Tunes"
+342 = "Casablanca"
+343 = "Fez"
+344 = "Marraquexe"
+345 = "Safim"
+346 = "Tafilete"
+#SAME 347
+348 = "Suz"
+349 = "Figuig"
+350 = "Laguate" #?
+351 = "Aurès"
+#SAME 352
+353 = "Tatauine" #?
+354 = "Tripoli"
+355 = "Sirte"
+356 = "Cirenaica"
+357 = "Derna"
+358 = "Alexandria"
+359 = "Faium"
+360 = "Luxor"
+361 = "Cairo"
+362 = "Roseta"
+363 = "Damieta"
+364 = "Gaza"
+365 = "Sinai"
+366 = "Canárias"
+#SAME 367
+#SAME 368
+377 = "Alepo"
+378 = "Tripoli"
+379 = "Jerusalém"
+382 = "Damasco"
+384 = "Medina"
+385 = "Meca"
+387 = "Moca"
+388 = "Adém"
+389 = "Mukalla"
+390 = "Saná"
+395 = "Catar"
+396 = "Bahrein"
+398 = "Xarja"
+399 = "Soar"
+400 = "Mascate"
+#SAME 401
+402 = "Quixn" #?
+408 = "Baçorá"
+410 = "Bagdade"
+411 = "Mosul"
+431 = "Mogostão" #?
+434 = "Kohistão"
 1095	= "	Malvinas	"
 481	= "	Bermudas	"
 482	= "	Águas Rasas	"
@@ -25,6 +193,34 @@
 501	= "	Ilha Solteira	"
 502	= "	Trindade	"
 1881	= "	São Martinho	"
+515 = "Diu"
+517 = "Damão"
+522 = "Deli"
+529 = "Baçaim" #Bombaim
+534 = "Calecute"
+535 = "Cochim"
+537 = "Coulão"
+539 = "Paliacate"
+540 = "Porto Novo"
+543 = "Masulipatão"
+561 = "Ugulim" #Chandernagore
+572 = "Colombo"
+574 = "Ilhas Andamão"
+575 = "Gwadar"
+596 = "Malaca"
+624 = "Bante" #?
+632 = "Sumbava"
+633 = "Flores"
+635 = "Timor Ocidental"
+#SAME 636
+641 = "Macáçar"
+646 = "Amboina"
+647 = "Ceram"
+651 = "Sulu"
+667 = "Cantão"
+668 = "Macao"
+684 = "Liampó"
+738 = "Formosa do Sul"
 741	= "	Nova Guimarães	"
 742	= "	Santa Amadora	"
 743	= "	Guiana	"
@@ -290,10 +486,129 @@
 1009	= "	Rio Rodrígues	"
 1010	= "	Forte Príncipe	"
 1011	= "	Vila Pascoal	"
+1012 = "Cagoxima"
+1032 = "Ilhas Curilas"
+1033 = "Sacalina"
+1034 = "Camecháteca"
+1085 = "Tasmânia"
+1095 = "Malvinas"
+1096 = "Cabo Verde"
+1097 = "Fernando Pó" #Fernão do Pó
+1098 = "Santa Helena"
+1099 = "Socotorá"
+1100 = "Mahé"
+1101 = "Bassas de Chagas" # Diego Garcia
+1102 = "Cirne" #Maurícia
+1103 = "Santa Apolônia"
 1104	= "	Grande Fiorde	"
 1105	= "	Terra do Norte	"
+1110 = "Santa Cruz do Cabo de Gué"
+1111 = "Arguim"
+1112 = "Trarza"
+1113 = "Dacar"
+1114 = "Gabú"
+1118 = "Serra Leoa"
+1119 = "Costa do Grão"
+1126 = "Costa do Marfim"
+1127 = "Tuat" #?
+1128 = "Taudenite"
+1129 = "Azauade"
+1132 = "Tombuctu"
+1139 = "Costa do Ouro"
+1141 = "Ajudá"
+1147 = "Benim"
+1151 = "Bonny"
+1163 = "Calabar"
+1164 = "Camarões"
+1165 = "Gabão"
+1166 = "Loango"
+#SAME 1167
+#SAME 1172
+1173 = "Namíbia" #IMPASSABLE?
+1174 = "Baía das Baleias"
+1175 = "Namaqualand Menor"
+1176 = "Campo de Centeio"
+1177 = "Cabo da Boa Esperança"
+1178 = "Karoo Maior"
+#SAME 1179
+1180 = "Costa Selvagem"
+#SAME 1181
+1182 = "Baía da Lagoa"
+#SAME 1183
+#SAME 1186
+1192 = "Quelimane"
+1195 = "Moçambique"
+1196 = "Quíloa"
+#SAME 1197
+#SAME 1198
+#SAME 1199 #?
+#SAME 1200
+#SAME 1201
+1202 = "Mombaça"
+1203 = "Melinde"
+#SAME 12O4
+1205 = "Mogadixo"
+1206 = "Gardo"
+#SAME 1209
+1212 = "Zeila"
+1215 = "Tajura"
+1230 = "Maçuá"
+1231 = "Syene" #Assuão
+1232 = "Suaquém"
+1233 = "Kharga"
+1235 = "Guão"
+1236 = "Nova Bretanha"
+1238 = "Ilhas Salomão"
+1239 = "Austrália do Espírito Santo"
+1240 = "Ilhas Sandwich"
+1241 = "Ilhas Gilbert"
+1242 = "Fiji"
+1243 = "Ilhas Navigator"
+1244 = "Ilhas Perigosas" #?
+1247 = "Córsega"
+1248 = "Maldivas"
+1306 = "São Tomé"
+1722 = "Ilha Chatham"
+1723 = "Ilhas Bounty"
+1744 = "Antuérpia"
+1745 = "Cantábria"
+#SAME 1746
+1747 = "Cacéres"
+1748 = "Xaém"
+1749 = "Cádis"
+1750 = "Alicnate"
+1751 = "Ceuta"
+1769 = "Gorizia"
+1773 = "Acaia"
+1774 = "Treviso"
 1809	= "	Forte da Cunha	"
 1813	= "	Rio dos Esturjões	"
+1816 = "Pequim"
+#SAME 1851
+1853 = "Castória"
+1854 = "Acre"
+1855 = "Sídon"
+1862 = "Cremona"
+1865 = "Gante"
+#SAME 1875
+#SAME 1877
+1881 = "São Martinho"
+1882 = "Bône"
+1933 = "Bari"
+1934 = "Lucânia"
+1986 = "Nova Caledónia"
+1987 = "Arquipélago da Sociedade"
+1988 = "Ilha de Páscoa"
+1989 = "Ilhas Amigáveis"
+1990 = "Ilhas de Laguna" #Ilhas Ellice
+1991 = "Ilhas Gilbert"
+1992 = "Ilha Aprazível"
+1993 = "Ilhas Marshall"
+1995 = "Micronésia"
+1996 = "Palau"
+1997 = "Meio Caminho" #?
+1998 = "Ilha do Natal"
+1999 = "Ilha do Coco"
 2002	= "	Ilhas Encantadas	"
 2003	= "	São Carlos	"
 2004	= "	Extrema	"
@@ -316,7 +631,64 @@
 2021	= "	Baia São Antonio	"
 2022	= "	Ilhas Carlotinas	"
 2023	= "	Vale d'Afonso	"
+2024 = "Garowe"
 2025	= "	Açores do Sul	"
+2026 = "Negapatão"
+2029 = "Cananor"
+2030 = "Goa"
+2080 = "Visagapatão"
+2099 = "Triquinimale"
+2100 = "Jafanapatão"
+2154 = "Formosa Norte"
+2155 = "Formosa Central"
+2218 = "Xiraz"
+2223 = "Laristão"
+2239 = "Gâmbia"
+2241 = "Guiné"
+2242 = "Costa da Pimenta"
+2258 = "Cabo Corso"
+2290 = "Costa dos Escravos"
+#SAME 2294
+2313 = "Antioquia"
+2315 = "Suez"
+2316 = "Tanta"
+2317 = "Minia"
+2318 = "Baharia"
+#SAME 2319
+2325 = "Marsa Matru"
+2326 = "Bardia"
+2329 = "Iambo"
+2331 = "Jidá"
+#SAME 2333 #?
+2340 = "Cuaite" #?, Kuwait
+2341 = "Masira" #?
+2342 = "Omã central"
+2346 = "Jizan" #?
+2448 = "Fezã"
+#SAME 2449
+2450 = "Gadamés"
+2451 = "Misurata"
+2452 = "Zuara"
+2453 = "Sfax"
+2454 = "El Kef"
+2455 = "Bizerta"
+2456 = "Tugurte"
+2457 = "Mzab"
+#SAME 2458 #?
+2459 = "Titteri" #?
+#SAME 2460 #?
+2461 = "Dara" #?
+2462 = "Uarsenis"
+#SAME 2463
+2464 = "Uarzazate"
+2465 = "Uxda" #?
+2466 = "Drá"
+2467 = "Mequinez"
+2468 = "Tadla"
+2469 = "Mazagão"
+2470 = "Haha" #?
+2472 = "Uargla"
+2473 = "Sousse"
 2476	= "	A Mesa	"
 2477	= "	A Santíssima	"
 2478	= "	Floresta dos Ursos	"
@@ -510,6 +882,29 @@
 2670	= "	Nova Faro	"
 2671	= "	Tratado	"
 2672	= "	Beatriz	"
+2673 = "Pacém"
+2682 = "Pariaman" #?
+2684 = "Nias"
+2687 = "Bogor"
+2695 = "Timor Leste"
+2716 = "Buton"
+#SAME 2751
+#SAME 2753
+2754 = "Mancha"
+2755 = "Sória"
+2765 = "Assab"
+2774 = "Quismaio" #?
+2775 = "Merca"
+2782 = "Uarxeikh" #?
+2783 = "Obbia" #?
+2786 = "Bender Cassim"
+2788 = "Hafun"
+2789 = "Las Corey" #?
+2790 = "Sanag"
+2793 = "Hargeisa"
+2794 = "Brava"
+2795 = "Mareg" #?
+#SAME 2796
 2803	= "	Estuário d'Orinoco	"
 2804	= "	São Januário	"
 2805	= "	Uiapari	"
@@ -648,6 +1043,59 @@
 2945	= "	Castelo dos Monges	"
 2946	= "	Aljezur	"
 2947	= "	Alinda Branca	"
+2954 = "Gerba"
+2976 = "Úmbria"
+2977 = "Urbino"
+2978 = "Arécio"
+2979 = "Novara"
+2980 = "Luca"
+2981 = "Monferrato"
+2982 = "Siracusa"
+2983 = "Salerno"
+2984 = "Cosença"
+2986 = "Cálhari"
+#SAME 2987
+#SAME 2988
+2989 = "Rioxa"
+#SAME 2990
+2991 = "Forcalquier" #Draguinhão
+2992 = "Albenga"
+2999 = "Ormuz"
+3003 = "Eubeia"
+4020 = "Comores"
+#SAME 4049
+#SAME 4078
+4079 = "Cabinda"
+4080 = "Zaire"
+#SAME 4150
+4174 = "Dirráquio"
+4175 = "Escodra"
+4182 = "Nagasáqui"
+4278 = "Cunfuda" #?
+#SAME 4279
+4280 = "Taiz"
+4281 = "Damar" #?
+4283 = "Xihr" #?
+4284 = "Ghaida" #?
+#SAME 4286 or Omã oriental
+4287 = "Ibra"
+4316 = "Egito oriental"
+4317 = "Beheira" #?
+4318 = "Afroditópolis"
+4319 = "Latópolis"
+4320 = "Girga" #?
+4323 = "Farafra"
+
+4382 = "Groninga"
+4383 = "Haia"
+4384 = "Rennes"
+4385 = "Cotentin"
+4386 = "Vendeia"
+4387 = "Angolema"
+4389 = "Turena"
+#SAME 4390
+#SAME 4391 #?
+4392 = "Auxerre"
 
 90 = "Flandres"
 92 = "Brabante"
