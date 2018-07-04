@@ -1,0 +1,50 @@
+1 = "Tukholma"
+2 = "Itä-Götanmaa"
+#SAME 3
+#SAME 4
+5 = "Vermlanti"
+#SAME 7
+8 = "Taalainmaa"
+9 = "Helsinglanti"
+10 = "Jämtlanti"
+11 = "Länsipohja"
+18 = "Lappi"
+#SAME 19
+25 = "Gotlanti"
+27 = "Turku"
+#SAME 28
+#SAME 29
+#SAME 30
+#SAME 31
+33 = "Pähkinälinna"
+32 = "Käkisalmi"
+34 = "Inkerinmaa"
+35 = "Saarenmaa"
+36 = "Vironmaa"
+37 = "Liivinmaa"
+38 = "Riika"
+39 = "Kuurinmaa"
+274 = "Pihkova"
+309 = "Aunus"
+#SAME 310
+311 = "Holm"
+313 = "Sorokka"
+315 = "Ruija"
+1776 = "Karjala"
+1777 = "Kuola"
+1834 = "Tartto"
+1930 = "Ahvenanmaa"
+#SAME 1935
+1955 = "Vienankaupunki" #Arkangeli
+#SAME 1958
+1961 = "Laatokka"
+#SAME 1985
+2749 = "Tihvinä"
+#SAME 4113
+4114 = "Jokimukka"
+#SAME 4123
+#SAME 4124
+4151 = "Inari"
+#SAME 4152
+#SAME 4257
+4258 = "Ääninen"

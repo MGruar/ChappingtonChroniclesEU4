@@ -1,0 +1,223 @@
+#tags: KNI
+88 = "Artés"
+89 = "Picardia"
+91 = "Enaut"
+92 = "Brussèlas"
+93 = "Lièja"
+94 = "Luxemborg"
+#SAME 97
+101 = "Gènoa"
+#SAME 102
+#SAME 103
+#SAME 104
+105 = "Parma"
+106 = "Modena"
+107 = "Breissa"
+108 = "Verona"
+109 = "Màntoa"
+110 = "Trent"
+111 = "Friol"
+112 = "Venècia"
+113 = "Ferrara"
+114 = "Romanha" #?
+#SAME 115
+116 = "Florença"
+#SAME 117
+#SAME 118
+#SAME 119
+120 = "Abruç"
+121 = "Nàpols"
+123 = "Calàbria"
+124 = "Messina"
+125 = "Palèrme"
+#SAME 126
+127 = "Sàsser"
+130 = "Istria"
+136 = "Dalmàcia"
+137 = "Ragusa"
+138 = "Montenegro"
+139 = "Ercegovina"
+140 = "Bòsnia"
+142 = "Corfu"
+143 = "Valona" #?
+144 = "Epira"
+145 = "Morea"
+146 = "Atenas"
+148 = "Macedònia" #Tessalonica
+149 = "Andrinòple"
+151 = "Constantinòple"
+163 = "Creta"
+164 = "Naxos" #?
+165 = "Bèrna"
+168 = "Can" #Normandia
+169 = "Armorica" #?
+170 = "Finistèrra"
+171 = "Vannes"
+172 = "Nantas"
+173 = "Labord"
+#SAME 174
+#SAME 175
+176 = "Bearn"
+#SAME 177
+178 = "Anjau"
+179 = "Berric"
+180 = "Naut Peitau" #Peiteus
+#SAME 181
+182 = "Valís"
+183 = "París"
+184 = "Orleanés"
+#SAME 185
+186 = "Rems" #Champanha
+#SAME 187 #?
+188 = "Mètz"
+189 = "Lorena"
+190 = "Borbonés"
+191 = "Nivernés" #Nivèrns
+192 = "Dijonés" #?, Dijon, Borgonha
+193 = "Franca Comtat"
+#SAME 194 or Peiregòrd
+#SAME 195
+#SAME 196
+197 = "Rosselhon"
+198 = "Roergue"
+#SAME 199
+#SAME 200
+#SAME 201
+#SAME 202
+203 = "Lionès"
+204 = "Daufinat"
+205 = "Savoia"
+206 = "Galícia"
+207 = "Astúrias"
+208 = "Leon"
+209 = "Biscaia"
+210 = "Navarra"
+211 = "Pirenèus"
+#SAME 212
+#SAME 213
+214 = "Saragossa"
+215 = "Castelha la Vielha"
+#SAME 216
+#SAME 217
+219 = "Toleta"
+220 = "Valéncia"
+#SAME 221
+222 = "Almeria"
+#SAME 223
+224 = "Sevilha"
+225 = "Còrdoa"
+226 = "Gibartar"
+227 = "Lisbona"
+#SAME 228
+#SAME 230
+#SAME 231
+232 = "Bragança"
+316 = "Nicomedia"
+317 = "Prusa" #?, Nicèa
+318 = "Esmirna"
+319 = "Cària"
+320 = "Ròdes"
+321 = "Chipre"
+323 = "Iconium"
+324 = "Laranda" #?
+325 = "Paflagònia"
+326 = "Ancira" # Galàtia?
+327 = "Cilícia"
+328 = "Sinòpe"
+330 = "Trebisonda"
+331 = "Teodosiopòlis"
+333 = "Balearas"
+334 = "Tànger"
+335 = "Melilla"
+336 = "Tlemcen"
+337 = "Oran"
+338 = "Argièr"
+339 = "Bogía"
+340 = "Constantina"
+#SAME 341
+342 = "Casablanca"
+343 = "Fès"
+354 = "Trípol"
+358 = "Alexàndria"
+361 = "Lo Caire"
+362 = "Rosetta"
+363 = "Damietta"
+364 = "Gaza"
+377 = "Alèp"
+378 = "Trípol"
+379 = "Jerusalèm"
+382 = "Damasc"
+1247 = "Corsega"
+1743 = "Cambrai"
+1745 = "Cantàbria"
+#SAME 1746
+1747 = "Cáceres"
+#SAME 1748
+1749 = "Cadis"
+#SAME 1750
+1751 = "Ceuta"
+1773 = "Acaia"
+1774 = "Trevís"
+1846 = "Amàsia"
+1848 = "Esparta"
+1851 = "Coïmbra"
+1854 = "Sant Joan d'Acre"
+1855 = "Sidon" #?
+1862 = "Cremona"
+1866 = "Namur"
+1867 = "Vaud"
+1871 = "Valés"
+#SAME 1875
+#SAME 1877 #?
+#SAME 1879
+1882 = "Bona" #?
+1933 = "Bari"
+#SAME 1934
+2296 = "Pegai" #?, Abidos?
+2297 = "Magnesia" #?
+2298 = "Attalia"
+2299 = "Bitínia"
+2300 = "Capadòcia"
+2301 = "Cesarèa"
+2302 = "Selèucia" #?
+2303 = "Metilèn"
+2304 = "Càldia" #?
+2308 = "Edessa"
+2313 = "Antioquia"
+2348 = "Chios" #?
+2455 = "Bizerta" #?
+#SAME 2751
+#SAME 2753
+#SAME 2755
+2976 = "Ómbria"
+2979 = "Novara"
+2980 = "Luca"
+2981 = "Montferrato"
+2982 = "Siracusa"
+2983 = "Salèrn"
+2984 = "Cosença"
+2986 = "Castèl"
+2987 = "Urgèl"
+#SAME 2988
+2990 = "Teròl"
+2991 = "Forcauquier"
+2992 = "Albenga" #?
+4111 = "Santonge"
+#SAME 4112
+4297 = "Emesa" #?
+4308 = "Laodicèa"
+4309 = "Tralles" #?
+4312 = "Dorilèa"
+4313 = "Gangra"
+
+4382 = "Groninga"
+4383 = "L'Aia"
+4384 = "Rennes"
+4385 = "Cotentin" #?
+4386 = "Bas Peitau" #or Vendèa
+4387 = "Engolmés"
+#SAME 4388
+4389 = "Torena"
+4390 = "Tròias"
+#SAME 4391
+4392 = "Aussèrra"

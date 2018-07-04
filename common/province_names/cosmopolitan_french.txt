@@ -1,0 +1,1424 @@
+#SAME 1
+2 = "Ostrogotie"
+#SAME 3
+#SAME 4
+5 = "Varmie"
+#SAME 6
+#SAME 7
+8 = "Dalécarlie"
+9 = "Helsingie"
+10 = "Iempterland"
+11 = "Vestrobotnie"
+12 = "Seeland"
+13 = "Jutland-du-Sud"
+14 = "Fionie"
+15 = "Jutland occidental"
+16 = "Bahusie" #?
+#SAME 17
+18 = "Laponie"
+19 = "Ostrobotnie"
+#SAME 20 #?
+21 = "Nordland"
+22 = "Oppland" #?
+23 = "Bergenshous" #?
+#SAME 24
+25 = "Gotland"
+#SAME 26
+#SAME 27
+28 = "Nouveau Pays"
+29 = "Tavastie"
+30 = "Vyborg"
+31 = "Savonie"
+32 = "Île de Coucou"
+33 = "Chlisselbourg"
+34 = "Ingrie"
+35 = "Œsel"
+36 = "Reval"
+37 = "Livonie"
+#SAME 38
+39 = "Courlande"
+40 = "Memel"
+41 = "Kœnigsberg"
+42 = "Varmie"
+43 = "Dantzig"
+44 = "Hambourg"
+45 = "Lübeck"
+#SAME 46
+#SAME 47 #Poméranie antérieure
+48 = "Colberg" #Poméranie ultérieure
+49 = "Nouvelle Marche"
+#SAME 50
+51 = "Ruppin"
+52 = "Magdebourg"
+53 = "Lunebourg"
+54 = "Stade"
+55 = "Oldenbourg"
+56 = "Osnabourg"
+57 = "Brunswick"
+#SAME 58
+59 = "Wittemberg"
+60 = "Haute-Lusace"
+61 = "Dresde"
+62 = "Leipsick"
+63 = "Thuringe"
+64 = "Landshut" #Basse-Bavière
+65 = "Munich"
+66 = "Bamberg"
+67 = "Nuremberg"
+#SAME 68
+69 = "Constance" #Haute-Souabe
+70 = "Wurtemberg"
+71 = "Ansbach"
+72 = "Brisgau"
+73 = "Tyrol"
+#SAME 74
+75 = "Alsace"
+76 = "Salzbourg"
+77 = "Heidelberg"
+78 = "Mayence"
+79 = "Wurtzbourg"
+80 = "Trèves"
+#SAME 81
+82 = "Westphalie"
+#SAME 83
+#SAME 84
+85 = "Cologne"
+86 = "Munster"
+87 = "Calais" #FRA
+88 = "Artois" #FRA
+#SAME 89 #FRA
+90 = "Flandres"
+91 = "Hainaut" #FRA
+92 = "Bruxelles"
+93 = "Liège" #FRA
+94 = "Luxembourg"
+95 = "Bréda"
+96 = "Zélande"
+#SAME 97 #Hollande
+#SAME 98
+99 = "Gueldre"
+100 = "Frise"
+101 = "Gênes" #Ligurie
+102 = "Nice"
+103 = "Piémont"
+#SAME 104 #Lombardie
+105 = "Parme"
+106 = "Modène"
+107 = "Brescia"
+108 = "Vérone"
+109 = "Mantoue"
+110 = "Trente" #Trentin
+111 = "Frioul"
+112 = "Venise"
+113 = "Ferrare"
+114 = "Romagne"
+115 = "Pise"
+116 = "Florence"
+117 = "Sienne"
+118 = "Rome"
+119 = "Ancône"
+120 = "Abruzzes"
+121 = "Naples"
+122 = "Salento"
+123 = "Calabre"
+124 = "Messine"
+125 = "Palerme"
+126 = "Malte"
+127 = "Sassari"
+128 = "Carinthie"
+129 = "Carniole"
+130 = "Istrie"
+#SAME 131
+132 = "Styrie"
+#SAME 133
+134 = "Vienne"
+135 = "Chopron" #?
+136 = "Dalmatie"
+137 = "Raguse"
+138 = "Monténégro"
+139 = "Herzégovine"
+140 = "Bosnie"
+141 = "Semendrie" #?
+142 = "Corfou"
+143 = "Valone"
+144 = "Épire"
+145 = "Morée"
+146 = "Athènes"
+147 = "Thessalie"
+148 = "Macédonie"
+149 = "Andrinople"
+#SAME 150
+151 = "Constantinople"
+152 = "Varasdine" #?
+#SAME 153
+154 = "Hont"
+155 = "Bekech" #?
+156 = "Banat"
+157 = "Crisanie"
+158 = "Maros"
+#SAME 159 #?
+160 = "Petite Valachie" #Olténie
+161 = "Tirgoviste"
+162 = "Zemplin"
+163 = "Crete"
+164 = "Cyclades" #Naxos
+165 = "Berne"
+166 = "Sites forestiers"
+167 = "Rouen" #FRA #GREEN
+168 = "Caen" #Normandie #FRA
+169 = "Armorique" #FRA
+170 = "Finistère" #FRA
+171 = "Vannetais" #FRA
+172 = "Nantais" #FRA
+173 = "Labourd" #FRA
+174 = "Aquitaine" #Bordeaux #FRA
+175 = "Armagnac" #FRA
+176 = "Béarn" #FRA
+#SAME 177 #FRA
+#SAME 178 #FRA
+#SAME 179 #FRA
+180 = "Haut-Poitou" #Poitiers #FRA
+#SAME 181 #Rethélois #FRA
+#SAME 182 #FRA
+#SAME 183 #FRA
+#SAME 184 #FRA
+#SAME 185 #FRA
+#SAME 186 #FRA
+#SAME 187 #FRA
+188 = "Trois-Évêchés" #FRA
+189 = "Lorraine" #FRA
+#SAME 190 #FRA
+#SAME 191 #FRA
+#SAME 192 #FRA
+193 = "Franche-Comté" #FRA
+194 = "Périgord" #FRA
+195 = "Limousin" #FRA
+196 = "Toulouse" #FRA
+197 = "Roussillon" #FRA
+198 = "Rouergue" #FRA
+199 = "Auvergne" #FRA
+200 = "Montpellier" #FRA
+201 = "Provence" #FRA
+202 = "Avignon" #FRA
+203 = "Lyonnais" #FRA
+204 = "Dauphiné" #FRA
+205 = "Savoie"
+206 = "Galice"
+207 = "Asturies"
+208 = "León"
+209 = "Biscaye"
+210 = "Navarre"
+211 = "Pyrénées"
+212 = "Gironne"
+213 = "Barcelone"
+214 = "Saragosse"
+215 = "Vieille-Castille"
+216 = "Salamanque"
+#SAME 217
+218 = "Badajoz"
+219 = "Tolède"
+220 = "Valence"
+221 = "Murcie"
+222 = "Almérie"
+223 = "Grenade"
+224 = "Séville"
+225 = "Cordoue"
+#SAME 226
+227 = "Lisbonne"
+#SAME 228
+#SAME 229
+#SAME 230
+#SAME 231
+232 = "Bragance"
+233 = "Cornouailles"
+234 = "Winchester"
+#SAME 235
+236 = "Londres"
+237 = "Oxford"
+#SAME 238
+239 = "Gloucester"
+240 = "Salop" #Mercie
+241 = "Glamorgan"
+#SAME 242
+243 = "Lincoln"
+244 = "Lancastre"
+245 = "York"
+246 = "Northumbrie"
+247 = "Cumbrie"
+248 = "Lothian"
+249 = "Ayr"
+250 = "Perth"
+251 = "Aberdeen"
+252 = "Inverness"
+253 = "Hébrides extérieures"
+254 = "Posnanie"
+255 = "Calisie" #?
+#SAME 256
+257 = "Varsovie"
+258 = "Syradie" #?
+259 = "Sandomir"
+#SAME 260
+261 = "Galitch"
+262 = "Cracovie"
+263 = "Ratibor"
+264 = "Vratislavie"
+265 = "Brin"
+266 = "Prague"
+267 = "Pilsen"
+268 = "Moldavie"
+269 = "Podlachie"
+270 = "Troki"
+271 = "Samogitie"
+272 = "Vilna"
+273 = "Latgalie"
+#SAME 274
+#SAME 275
+#SAME 276
+#SAME 277
+#SAME 278
+279 = "Volhynie"
+#SAME 280
+281 = "Podolie"
+282 = "Otchakov"
+283 = "Zaporojié"
+284 = "Crimée"
+#SAME 285
+286 = "Azov" #Tanais
+287 = "Kouban" #Ekaterinodar
+288 = "Tcherkassk" #"Oust-Medveditskaïa"
+289 = "Tchernigov"
+#SAME 290
+#SAME 291
+292 = "Moguilev"
+#SAME 293
+#SAME 294
+295 = "Moscou"
+296 = "Kalouga"
+297 = "Briansk"
+298 = "Koursk"
+299 = "Voronej"
+300 = "Toula"
+301 = "Riazan"
+#SAME 302
+303 = "Saratov"
+#SAME 304
+305 = "Perm"
+306 = "Nijni Novgorod"
+#SAME 307
+308 = "Iaroslavl"
+309 = "Olonets"
+#SAME 310
+#SAME 311
+#SAME 312
+#SAME 313 #?
+#SAME 314
+315 = "Finnmark"
+316 = "Nicomédie"
+317 = "Brousse" #Pruse, Nicée
+318 = "Smyrne"
+319 = "Carie"
+320 = "Rhodes"
+321 = "Chypre"
+322 = "Cotyaeum"
+323 = "Iconium"
+324 = "Larende"
+325 = "Paphlagonie"
+326 = "Angora" # Galatie
+327 = "Cilicie"
+328 = "Sinope"
+329 = "Sébaste"
+330 = "Trébisonde"
+331 = "Théodosiople"
+332 = "Germanicée" #?
+333 = "Baléares"
+334 = "Tanger"
+335 = "Melilla"
+336 = "Tlemcen"
+337 = "Oran"
+338 = "Alger"
+339 = "Bougie"
+340 = "Constantine"
+341 = "Tunis"
+342 = "Casablanca"
+343 = "Fès"
+344 = "Marraquech"
+345 = "Safi"
+346 = "Tafilalet"
+#SAME 347
+348 = "Souss"
+349 = "Figuig"
+350 = "Laghouat"
+351 = "Biskra"
+#SAME 352
+353 = "Tataouine"
+354 = "Tripoli"
+355 = "Syrte"
+356 = "Cyrénaique"
+357 = "Derna"
+358 = "Alexandrie"
+359 = "Fayoum"
+360 = "Louxor"
+361 = "Le Caire"
+362 = "Rosette"
+363 = "Damiette"
+364 = "Gaza"
+365 = "Sinaï"
+366 = "Canaries"
+#SAME 367
+368 = "Madère"
+369 = "Orcades"
+372 = "Tyrone"
+373 = "Dublin" #Pale
+374 = "Leinster"
+375 = "Limerick"
+376 = "Connaught"
+377 = "Alep"
+378 = "Tripoli"
+379 = "Jérusalem"
+380 = "Kerak"
+381 = "Ajloun" #Hauran
+382 = "Damas"
+383 = "Tabouk"
+384 = "Médine"
+385 = "La Mecque"
+386 = "Bicha"
+387 = "Mocha"
+388 = "Aden"
+389 = "Moukalla"
+390 = "Sana"
+391 = "Nadjran" #?
+393 = "Haïl" # Djabal Chammar
+394 = "Qatif"
+395 = "Katar"
+396 = "Bahreïn"
+#SAME 397 #?
+398 = "Charjah"
+399 = "Batina"
+400 = "Mascate"
+401 = "Dhofar"
+402 = "Qichn" #?
+403 = "Nizva" #?
+404 = "Liva" #?
+405 = "Palmyre"
+406 = "Haditha"
+407 = "Racca"
+408 = "Bassora"
+409 = "Kerbala"
+410 = "Bagdad"
+411 = "Mossoul"
+#SAME 412
+413 = "Khorramabad"
+#SAME 414
+415 = "Kirkouk"
+416 = "Tauris"
+417 = "Lahidjan" #?
+418 = "Amida"
+419 = "Erevan"
+420 = "Gandja"
+421 = "Chirvan"
+422 = "Iméréthie"
+423 = "Tiflis"
+424 = "Ardabil"
+425 = "Derbent"
+#SAME 426
+427 = "Hécatompyles"
+428 = "Téhéran"
+429 = "Ispahan"
+430 = "Bouchehr"
+#SAME 431 #?
+#SAME 432
+#SAME 433
+434 = "Kouhistan" #?
+435 = "Zarange" #?
+436 = "Birdjand"
+437 = "Kopet-Dag"
+438 = "Karakoum"
+439 = "Mangichlak"
+440 = "Noukous"
+441 = "Khiva"
+442 = "Boukhara"
+443 = "Oust-Ourt"
+444 = "Amoul" #?
+445 = "Merv"
+446 = "Hérat"
+#SAME 447
+#SAME 448
+449 = "Ghôr"
+#SAME 450
+451 = "Kaboul"
+#SAME 452
+453 = "Karchi"
+454 = "Samarcande"
+455 = "Kyzylkoum"
+456 = "Turkestan"
+457 = "Tachkent"
+458 = "Kokand"
+460 = "Uzgen"
+462 = "Mingrélie"
+463 = "Maikop"
+464 = "Astrakhan"
+465 = "Gouriev"
+466 = "Kamychine"
+467 = "Borissoglebsk"
+468 = "Manytch"
+469 = "Désert de Ryn" #?
+470 = "Kalmykov" #?
+471 = "Aralsk"
+472 = "Aktioubinsk"
+473 = "Samara"
+474 = "Jaïk"
+475 = "Oufa"
+481 = "Bermudes"
+482 = "Les Bahamas"
+483 = "Îles Turques"
+484 = "La Havane"
+487 = "Jamaïque"
+488 = "Les Cayes"
+489 = "Île de la Tortue"
+491 = "Curaçao"
+492 = "Port Riche" #Porto Rico
+493 = "Saint-Thomas"
+494 = "Saint-Christophe"
+495 = "Antigue"
+496 = "Guadeloupe"
+497 = "Dominique"
+498 = "Martinique"
+499 = "Sainte-Lucie"
+500 = "Saint-Vincent"
+501 = "Barbade"
+502 = "Trinité"
+515 = "Diu"
+517 = "Surate"
+522 = "Delhi"
+529 = "Bombay"
+534 = "Mahé"
+535 = "Cochin"
+537 = "Quilon"
+539 = "Madras"
+540 = "Pondichéry"
+543 = "Masulipatam"
+561 = "Chandernagor"
+572 = "Colombo"
+574 = "Îles Andaman"
+575 = "Gwadar"
+576 = "Kalat"
+577 = "Quetta"
+578 = "Pechawar" #?
+596 = "Malacca"
+632 = "Sumbawa"
+633 = "Florès"
+635 = "Timor occidental"
+#SAME 636
+#SAME 641
+646 = "Amboine"
+647 = "Céram"
+651 = "Soulou"
+667 = "Canton"
+668 = "Macao"
+738 = "Formosa sud"
+744 = "Démérara"
+748 = "Belém" # Grand Para
+753 = "Río Grande"
+755 = "Pernambouc"
+761 = "Saint Esprit"
+762 = "St. Thomas"
+763 = "Rivière de Janvier"
+765 = "Mines général"
+766 = "St. Vincent"
+767 = "Ortelsbourg"
+#SAME 770
+#SAME 771
+773 = "Bande orientale"
+778 = "Fleuve de l'Argent"
+781 = "Patagonie orientale"
+782 = "Terre de Feu"
+783 = "Patagonie occidentale"
+786 = "Saline Grande"
+#SAME 788
+789 = "Zoulouland"
+799 = "Chaco boréale"
+828 = "Carthagède"
+833 = "Port Elizabeth"
+852 = "Mexique"
+884 = "Baye Saint-Louis"
+887 = "Toaux"
+888 = "Arkokisa"
+893 = "Nouvelle-Orléans"
+894 = "Ecore Fabre"
+895 = "Arcansea"
+897 = "Petite Pierre"
+898 = "Cavagnal"
+899 = "Monts aux Arcs"
+900 = "Saint Louis"
+901 = "Panis"
+902 = "Fort Orléans"
+903 = "Mahas"
+904 = "Fort Marin"
+908 = "Minnesota"
+910 = "Fond du Lac"
+911 = "Saint Ignace"
+913 = "Prairie du Chien"
+914 = "La Baye"
+915 = "Pimitéoui"
+918 = "Prudhomme"
+919 = "Cicacha"
+920 = "Tchattas"
+921 = "Baton Rouge"
+924 = "Alibamous"
+927 = "La Caroline"
+928 = "Apalache"
+929 = "Nouvelle-Seine"
+930 = "Chattaux"
+932 = "Charlefort"
+935 = "Cheraquie"
+938 = "Transfalgard"
+939 = "Casquinambaux"
+940 = "Louisville"
+942 = "Ouiaténon"
+944 = "Détroit"
+945 = "Michilimackinac"
+946 = "Sandoské"
+947 = "Chiningué"
+948 = "Belle Rivière"
+951 = "Sonhioto"
+952 = "Pouhatang"
+953 = "Maryland"
+954 = "Presqu'Isle"
+955 = "Andastes"
+956 = "Philadelphie"
+957 = "Delorbée"
+958 = "Sonnontouanie"
+959 = "Cherontons"
+960 = "Onnontagué"
+961 = "Onneyout"
+962 = "Cap de Mai"
+963 = "Nouvelle Saintonge"
+964 = "Agniers"
+965 = "Nouvelle Angoulême"
+967 = "Baye Notre-Dame" #Île Rouge
+968 = "Baye Blanche"
+#GREY 969 = "Vermont"
+970 = "Pointe Verte"
+980 = "Baye Sainte-Claire" #Plaisance
+981 = "Belle Isle"
+982 = "Île Royale"
+983 = "Île Saint-Jean"
+984 = "Acadie"
+985 = "Miramichi"
+986 = "Gaspésie" #Gaspé
+987 = "Nippising"
+988 = "Huronie"
+989 = "Pays-d'en-Haut" #Cataraqui
+990 = "Trois-Rivières"
+991 = "Mataouane"
+992 = "Gatineau"
+993 = "Montréal"
+994 = "Québec"
+995 = "Saguenay"
+996 = "Mécatina"
+997 = "Baie Rouge"
+998 = "Grande-Baleine"
+999 = "La Grande"
+1000 = "Fort Saint-Jacques"
+1001 = "Saults Sainte-Marie"
+1002 = "Abitibi"
+1003 = "Fort Saint-Louis"
+1004 = "Fort Sainte-Anne"
+1005 = "Fort Bourbon"
+1006 = "Rivière Danoise"
+1007 = "Kaministiquia"
+1008 = "Rivière Rouge"
+1010 = "Dauphin"
+1011 = "Pasquia"
+1032 = "Îles Kouriles"
+1033 = "Sakhaline"
+1034 = "Kamtchatka"
+#SAME 1077
+1078 = "Ekaterinbourg"
+#SAME 1079
+1081 = "Simbirsk"
+1082 = "Kazan"
+1083 = "Vetlouga"
+1085 = "Tasmanie"
+1095 = "Îles Malouines"
+1096 = "Cap-Vert"
+1097 = "Fernando Pó"
+1098 = "Sainte-Hélène"
+1099 = "Socotra"
+1100 = "Mahé"
+1101 = "Chagos" # Diego Garcia
+1102 = "Maurice"
+1103 = "Île Bourbon"
+#SAME 1110
+1111 = "Arguin"
+1112 = "Trarza"
+1113 = "Dakar" #Cayor
+1114 = "Gabou" #?
+1118 = "Lionne Montagnes"
+1119 = "Côte des Graines"
+1126 = "Côte d'Ivoire"
+1127 = "Touat"
+1128 = "Taoudeni"
+1129 = "Azaouad"
+1130 = "Tadmekka"
+1132 = "Tombouctou"
+1139 = "Côte-de-l'Or"
+1141 = "Juda"
+1147 = "Bénin"
+1151 = "Bonny"
+1163 = "Calabar"
+1164 = "Cameroun"
+#SAME 1165
+1166 = "Loango"
+1167 = "Louanda"
+1172 = "Benguéla"
+1173 = "Namibie"
+1174 = "La Baie des Baleines"
+1175 = "Namaqualand moindre"
+1176 = "Champ de seigle"
+1177 = "Cap de Bonne-Espérance"
+1178 = "Karoo plus grand"
+#SAME 1179
+1180 = "Côte Sauvage"
+#SAME 1181
+1182 = "Baie de Delagoa"
+#SAME 1183
+#SAME 1186
+1192 = "Quélimane"
+1195 = "Mozambique"
+1196 = "Quiloa" #?
+#SAME 1197
+#SAME 1198
+#SAME 1199 #?
+#SAME 1200
+#SAME 1201
+1202 = "Mombasse"
+1203 = "Mélinde"
+1204 = "Lamou" #?
+1205 = "Mogadiscio"
+1206 = "Gardo" #?
+1207 = "Ogaden"
+1208 = "Degehabur"
+#SAME 1209
+#SAME 1210 #?
+#SAME 1211
+1212 = "Zeila"
+1213 = "Choa"
+#SAME 1214 #?
+1215 = "Tadjourah"
+1216 = "Tegali" #?
+1217 = "Fazogli" #?
+#SAME 1218
+1219 = "Darfour"
+1220 = "Bayouda"
+1221 = "El Obeid"
+1222 = "Gezira" #?
+1223 = "Godjam"
+#SAME 1224
+1225 = "Boutana" #?
+1226 = "Bedja"
+1227 = "Aksoum"
+1228 = "Dongola"
+#SAME 1229 #?
+1230 = "Massaoua"
+1231 = "Siène"
+1232 = "Souakim"
+1233 = "Kharga"
+#SAME 1234
+1235 = "Guam"
+1236 = "Nouvelle-Bretagne"
+1238 = "Îles Salomon"
+1239 = "Grandes Cyclades" # Nouvelles-Hébrides
+1240 = "Îles Sandwich"
+1241 = "Îles Gilbert"
+1242 = "Fidji"
+1243 = "Îles des Navigateurs"
+1244 = "Îles Tuamotu"
+1247 = "Corse"
+1248 = "Maldives"
+1306 = "Saint-Thomas"
+1318 = "Spich"
+1722 = "Île Chatham"
+1723 = "Îles Bounty"
+1742 = "Haute-Gueldre" #Limbourg
+1743 = "Cambray" #Cambrésis #FRA
+1744 = "Anvers"
+1745 = "Cantabrie"
+#SAME 1746
+1747 = "Cacéres" #Cáceres
+#SAME 1748
+1749 = "Cadix"
+1750 = "Alicante"
+1751 = "Ceuta"
+1752 = "Rjev"
+#SAME 1753
+1754 = "Mourom"
+1755 = "Oustioug"
+1756 = "Bessarabie"
+1757 = "Haut-Palatinat"
+1758 = "Hannovre"
+#SAME 1759
+1760 = "Coblence"
+1761 = "Palatinat"
+#SAME 1762
+1763 = "Basse-Lusace"
+1764 = "Bourgas"
+#SAME 1765
+#SAME 1766
+1767 = "Slavonie"
+1768 = "Lienz"
+1769 = "Gorice"
+1770 = "Marche orientale"
+1771 = "Monts Métallifères"
+1772 = "Presbourg"
+1773 = "Achaïe"
+1774 = "Trévise"
+1775 = "Holstein"
+1776 = "Carélie blanche"
+1777 = "Kola"
+1778 = "Kassimov"
+#1792 = "Tananarive"
+1813 = "La Corne"
+1816 = "Pékin"
+#SAME 1826
+1827 = "Rascie"
+1828 = "Basse Régions"
+1831 = "Travonie"
+1834 = "Dorpat"
+1841 = "Marienbourg"
+#SAME 1842
+1846 = "Amasée" #Arméniaques
+1848 = "Sparte"
+1849 = "Hama"
+1851 = "Coïmbre"
+1853 = "Kastoria"
+1854 = "Acre"
+1855 = "Sidon"
+1856 = "Abkhazie"
+1857 = "Lauenbourg" #?
+1858 = "Stetin"
+1859 = "Culm"
+#SAME 1860
+1861 = "Derby"
+1862 = "Crémone"
+#SAME 1863
+1864 = "Chomody" #?
+1865 = "Gand"
+1866 = "Namur" #FRA
+1867 = "Vaud"
+1868 = "Augsbourg"
+1869 = "Zurich"
+1870 = "Saint-Gall"
+1871 = "Valais"
+#SAME 1872
+1873 = "Grisons"
+1874 = "Brême"
+1875 = "Coni"
+1876 = "Francfort"
+1877 = "Charolais" #FRA
+1878 = "Aix-la-Chapelle"
+#SAME 1879
+#SAME 1880
+1881 = "Saint-Martin"
+1882 = "Bône"
+#SAME 1930
+1931 = "Frise orientale"
+1933 = "Bari"
+1934 = "Lucanie"
+1935 = "Mitau"
+#SAME 1936
+#SAME 1937
+1938 = "Vizna" #?
+1939 = "Lancicie" #?
+#SAME 1940
+1941 = "Tourov"
+1942 = "Jytomyr"
+#SAME 1943
+1944 = "Tcherkassy"
+1945 = "Sévérie"
+1951 = "Hunyad"
+1952 = "Maramaros"
+1953 = "Debrecen"
+1954 = "Torontal"
+1955 = "Arkhanguelsk"
+1956 = "Souzdal"
+1957 = "Galitch"
+#SAME 1958
+1959 = "Torjok"
+#SAME 1960
+#SAME 1961
+1962 = "Koudymkar"
+1963 = "Tcherdyne"
+1964 = "Oust-Syssolsk"
+1965 = "Bouzoulouk"
+1966 = "Tcheliabinsk"
+1967 = "Khodjent"
+#SAME 1968
+1969 = "Souzak"
+1970 = "Perovsk"
+1971 = "Tsaritsyne"
+1972 = "Ijevsk"
+1973 = "Ourguentch"
+1974 = "Kherson"
+1978 = "Chetland" #?
+1979 = "Féroé"
+#SAME 1981
+1982 = "Blekinge"
+#SAME 1983
+1984 = "Jutland-du-Nord"
+1985 = "Néricie"
+1986 = "Nouvelle-Calédonie"
+1987 = "Îles de la Société"
+1988 = "Île de Pâques"
+1989 = "Îles des Amis"
+1990 = "Îles de la Lagune" #Îles Ellice
+1991 = "Îles Gilbert"
+1992 = "Île Agréable"
+1993 = "Îles Marshall"
+1995 = "Micronésie"
+1996 = "Palaos"
+1997 = "Mi-chemin"
+1998 = "Île de Noël"
+1999 = "Île Cocos"
+2002 = "Îles Tortoises" # Archipel de Colomb
+2007 = "Les Cèdres"
+2010 = "Coneticout"
+2011 = "Acconachena"
+2012 = "Memphrémagog"
+2013 = "Horsaines"
+2015 = "Népigon"
+2016 = "Grandes Fourches"
+2023 = "Carantouanie"
+2024 = "Garowe"
+2025 = "Géorgie du Sud"
+2026 = "Karikal"
+2029 = "Cannanore"
+2030 = "Goa"
+2080 = "Vizag" #Vizagapatam
+2084 = "Yanaon"
+2099 = "Trinquemalay"
+2100 = "Jaffna"
+2154 = "Formosa nord"
+2155 = "Formosa central"
+2195 = "Sotchi"
+2196 = "Gourie"
+2197 = "Piatigorsk"
+2198 = "Grozny" #Fort Redoutable
+2199 = "Petrovsk"
+2201 = "Vladikavkaz"
+2202 = "Karabagh"
+2203 = "Kakhétie"
+2204 = "Kars"
+2205 = "Nakhitchevan"
+2206 = "Ourmia"
+2207 = "Maragha"
+2208 = "Kizliar"
+2209 = "Ilam"
+2210 = "Kermanchah" #?
+2211 = "Ardalan"
+2212 = "Zanjan"
+#SAME 2213
+2214 = "Hyrcanie"
+2215 = "Qazvin"
+2216 = "Semnan"
+2217 = "Yasudj" #?
+2218 = "Chiraz"
+2219 = "Bandar Lengeh"
+#SAME 2220
+2221 = "Mechhed"
+#SAME 2222
+#SAME 2223 #?
+2224 = "Farâh"
+2225 = "Bâmiyân"
+2226 = "Jalalabad"
+2227 = "Kondôz"
+2228 = "Maïmana"
+#SAME 2229
+2230 = "Nimrôz"
+#SAME 2231
+#SAME 2232
+2233 = "Tchabahar" #?
+2234 = "Rafsandjan"
+#SAME 2235
+2236 = "Bojnourd"
+2239 = "Gambie"
+2241 = "Guinée"
+2242 = "Côte du Poivre"
+2258 = "Côte de Cap"
+2290 = "Côte des Esclaves"
+#SAME 2294
+2296 = "Pege" #Abydos
+2297 = "Magnésie" #Thracésiens
+2298 = "Satalia"
+2299 = "Bithynie"
+2300 = "Cappadoce" #Tavie?
+2301 = "Césarée"
+2302 = "Séleucie" #Zephyrium
+2303 = "Mélitène"
+2304 = "Chaldée"
+2305 = "Acilisene"
+2306 = "Mouch"
+#SAME 2307
+2308 = "Édesse"
+2309 = "Singara"
+#SAME 2310
+2311 = "Samawa"
+2312 = "Ouasit" #?
+2313 = "Antioche"
+2314 = "Deir ez-Zor"
+2315 = "Suez"
+2316 = "Tanta"
+2317 = "Minya"
+2318 = "L'Oasis du Nord" #Baharie
+2319 = "Manfalout" #?
+2320 = "Ras Gharib"
+2321 = "Qousseir"
+#SAME 2322
+2323 = "Désert de Nubie"
+2324 = "Halaib"
+2325 = "Marsa Matrouh"
+2326 = "Bardie"
+2327 = "Maan"
+2328 = "Dedan"
+2329 = "Yanbu"
+2331 = "Djeddah"
+2332 = "Touroubah" #?
+2333 = "Zoufra" #?
+2337 = "Bouraïda"
+2340 = "Grane" #?, Koweït
+2341 = "Masira"
+2342 = "Oman centrale"
+2343 = "Sayoun"
+2344 = "Marib"
+2345 = "Beihan"
+2346 = "Jizan"
+2347 = "Hofuf"
+2348 = "Chios"
+2349 = "Krasnovodsk"
+2350 = "Achgabat"
+2351 = "Irguiz"
+2352 = "Kazalinsk" #?
+2356 = "Tchimkent"
+2362 = "Vieille Ourguentch"
+#SAME 2363 #?
+2364 = "Ferghana"
+2365 = "Alexandrov Gaï" #?
+2366 = "Iletsk"
+2367 = "Basse Ural"
+2370 = "Koungrad" #?
+2405 = "Bender"
+2406 = "Nikolaïev"
+2407 = "Pereïaslav"
+2408 = "Ielets"
+2409 = "Vechenskaïa"
+2410 = "Théodoros"
+2411 = "Ekaterinoslav"
+2412 = "Mariouple" #?
+2413 = "Novotcherkassk"
+2414 = "Tikoretsk"
+2415 = "Atkarsk"
+2416 = "Staurople" #?
+2417 = "Elista"
+2418 = "Pokrovsk"
+2419 = "Syzran"
+2420 = "Orenbourg"
+2421 = "Tchistopol"
+2422 = "Tcheboksary"
+2423 = "Alatyr"
+2424 = "Premissel" #?
+2444 = "Zlatooust"
+#SAME 2447
+#SAME 2448
+#SAME 2449
+2450 = "Ghadamès"
+2451 = "Misrata"
+2452 = "Zouara"
+2453 = "Sfax"
+2454 = "Le Kef"
+2455 = "Bizerte"
+2456 = "Touggourt"
+2457 = "Mzab"
+#SAME 2458
+2459 = "Titteri"
+2460 = "Saoura"
+#SAME 2461 #?
+2462 = "Ouarsenis"
+#SAME 2463
+2464 = "Ouarzazate"
+2465 = "Oujda"
+2466 = "Drâa"
+2467 = "Meknès"
+#SAME 2468
+2469 = "Doukkala" #Mazagan
+2470 = "Haha"
+2472 = "Ouargla"
+2473 = "Sousse"
+2498 = "Choumans"
+2499 = "Caouachés"
+2512 = "Beauharnois"
+2513 = "La Harpe"
+2514 = "Sainte Geneviève" #Cap-Girardeau
+2515 = "Fayetteville"
+2516 = "Adaïé"
+2517 = "Milles Lacs"
+2518 = "La Pointe"
+2520 = "Massac"
+2521 = "Saguinaw"
+2522 = "Saint Joseph"
+2523 = "Vincennes"
+2525 = "Rivière à la Roche"
+2526 = "Cachiqueto"
+2528 = "Yazou"
+2530 = "Bilocci"
+2532 = "Tombecbé"
+2533 = "Sainte Rose"
+2535 = "Caloucha"
+2538 = "Yamésez"
+2539 = "Saint Mathieu"
+2540 = "Caouitas"
+2542 = "Beaufort"
+2547 = "La Magdelaine"
+2548 = "Nouvelle-Rivière"
+2551 = "Malanghelé"
+2553 = "Patoumek"
+2555 = "Fort Duquesne"
+2558 = "Ésope"
+2559 = "Carillon"
+2561 = "Cap Blanc"
+2563 = "Vermont"
+2564 = "Socoquis"
+2566 = "Pentagouet"
+2568 = "Cap de Sable"
+2569 = "Chedabouctou"
+2570 = "Saint Jean"
+2572 = "Miscou"
+2573 = "Plaisance" #?
+2575 = "Rigolet"
+2577 = "Sept Iles"
+2579 = "Métabéchouane"
+2580 = "Saint-Maurice"
+2581 = "Témiscamingue"
+2582 = "Bas St-Laurent"
+2583 = "Lévis"
+2584 = "Richelieu"
+2585 = "L'Orignal"
+2586 = "Nottawasaga"
+2587 = "Manitoulin"
+2588 = "La Cloche"
+2592 = "Nieusauane"
+2593 = "Lac des Bois"
+2595 = "Île-à-la-Crosse"
+2599 = "Lac la Biche"
+2639 = "Ambois"
+2665 = "Bidaye"
+2669 = "Le Dout"
+#2669? = "Assinaïs"
+2670 = "Toronto" #Douville
+2671 = "Ronde"
+2682 = "Pariaman"
+2684 = "Nias"
+2695 = "Timor oriental"
+2716 = "Buton"
+2746 = "Vidine"
+2749 = "Tikhvine"
+2750 = "Philippople" #?
+#SAME 2751
+#SAME 2752
+2753 = "Narbonne" #Narbonnais #FRA
+2754 = "La Manche"
+#SAME 2755
+2756 = "Welayta"
+#SAME 2757 #?
+2758 = "Illubabor"
+#SAME 2759
+2760 = "Hadiya"
+#SAME 2761
+#SAME 2762 #?
+#SAME 2763
+2764 = "Asaita"
+2765 = "Assab"
+#SAME 2766
+2767 = "Enderta" #?
+#SAME 2768 #?
+#SAME 2769 #?
+2770 = "Agew"
+2771 = "Simien"
+2772 = "Dambya"
+#SAME 2773 #?
+2774 = "Kismayo"
+2775 = "Merka"
+#SAME 2776
+2777 = "Bardera"
+2778 = "Werder"
+2779 = "Afder"
+2780 = "Beledweyne"
+2781 = "Gedo"
+2782 = "Warsheikh" #?
+2783 = "Hobyo"
+2784 = "Galcaio"
+2785 = "El Bour" #?
+2786 = "Bender Cassim"
+#SAME 2787
+2788 = "Hafoun" #?
+2789 = "Lasqoray" #?
+#SAME 2790
+#SAME 2791
+#SAME 2792
+2793 = "Hargeisa"
+2794 = "Brava"
+2795 = "Meregh" #?
+#SAME 2796
+2797 = "Chendy" #?
+#SAME 2798 #?
+2799 = "Sennar"
+#SAME 2800
+#SAME 2801 #?
+#SAME 2802 #?
+2833 = "Mère de Dieu"
+2834 = "Sainte-Croix de la montagne"
+2845 = "Saint Jean"
+2847 = "Saint Louis"
+2857 = "Grand fleuve du Sud"
+2868 = "Saint Antoine"
+2887 = "Sainte Catherine"
+2889 = "Blanc-Rivière"
+2899 = "Riche Village"
+2902 = "Belle Village"
+2905 = "Rivière de la mort"
+2916 = "Rivière des comptes"
+2918 = "Large domaine"
+2923 = "Bons pâturages"
+2954 = "Djerba"
+2955 = "Ingolstadt"
+#SAME 2956
+2957 = "Ratisbonne"
+2958 = "Osterode"
+2959 = "Tarnov" #?
+2960 = "Nouvelle Sandez" #?
+2961 = "Léopol"
+#SAME 2962
+#SAME 2963
+2964 = "Vieille-Marche"
+#SAME 2965
+2966 = "Glogau"
+2967 = "Carlsbad" #Egra
+2968 = "Budweis" #?
+2969 = "Lebus" #?
+2970 = "Château de la Reine"
+#SAME 2971
+2972 = "Paderborn"
+#SAME 2973
+2974 = "Looz"
+2975 = "Clèves"
+2976 = "Ombrie"
+2977 = "Urbino"
+#SAME 2978
+2979 = "Novare"
+2980 = "Lucques"
+2981 = "Montferrat"
+2982 = "Syracuse"
+2983 = "Salerne"
+2984 = "Cosence"
+2985 = "Capitanate" #?
+2986 = "Caglier"
+#SAME 2987
+2988 = "Tarragone"
+#SAME 2989
+#SAME 2990
+2991 = "Forcalquier" #FRA
+2992 = "Albengue"
+#SAME 2993
+2994 = "Greifswald"
+2995 = "Stolp"
+2996 = "Wismar"
+2997 = "Tuchel"
+2998 = "Bouzëu" #?
+2999 = "Ormuz"
+3000 = "Nich"
+3001 = "Scopie"
+3002 = "Saraïevo" #?
+3003 = "Eubée"
+4020 = "Comores"
+4033 = "Gedarif"
+#SAME 4049
+#SAME 4078
+4079 = "Cabinda"
+4080 = "Zaïre"
+4110 = "Terre du Sud"
+4111 = "Xaintonge" #FRA
+4112 = "Quercy" #FRA
+4113 = "Ouleaborg" #?
+4114 = "Jokkmokk"
+#SAME 4115
+#SAME 4116
+4117 = "Bejetsk"
+4118 = "Cork"
+4119 = "Sligo"
+4120 = "Kildare"
+4121 = "Ulster"
+4122 = "Chenkoursk"
+4123 = "Tampere"
+4124 = "Carélie"
+4125 = "Solnoca" #?
+4126 = "Segedin" #?
+#SAME 4127
+4128 = "Pays saxon"
+4129 = "Vym"
+4130 = "Somerset"
+4141 = "Dithmarse"
+4142 = "Jutland oriental"
+4143 = "Fold oriental"
+#SAME 4144
+4145 = "Agder"
+#SAME 4147
+4148 = "Louki"
+#SAME 4149
+#SAME 4150
+4151 = "Enare"
+4152 = "Kajanaland" #?
+4158 = "Djandjiro" #?
+4163 = "Elfsborg" #?
+4164 = "Dalie"
+4165 = "Christianstad"
+4166 = "Petits pays"
+4171 = "Abarkouh" #?
+4173 = "Syrmie"
+4174 = "Durres"
+4175 = "Scutari" #?
+4176 = "Branitchevo" #?
+4236 = "Trentchin" #?
+4237 = "Olomouc"
+4238 = "Lignice"
+4239 = "Belgrade"
+4240 = "Albe Royale" #or same
+#SAME 4241
+4242 = "Oula" #?
+#SAME 4243
+4244 = "Troubtchevsk"
+4245 = "Viazma"
+#SAME 4246
+4247 = "Ovroutch"
+4248 = "Kachine"
+4249 = "Zoubtsov"
+#SAME 4250
+4251 = "Mojaïsk"
+#SAME 4252
+4253 = "Iouriev"
+#SAME 4254
+#SAME 4255
+4256 = "Oussolsk"
+#SAME 4257
+#SAME 4258
+#SAME 4259
+4260 = "Vychni Volotchek"
+4261 = "Oustioujna"
+#SAME 4262
+4263 = "Soligalitch"
+4264 = "Tetiouchi"
+4265 = "Tchelny"
+4266 = "Glazov"
+4267 = "Boulgar"
+4268 = "Aqaba"
+4269 = "Vadjh" #?
+4270 = "Azraq"
+4271 = "Soada" #?
+4272 = "Djauf" #?
+4277 = "Taëf"
+4278 = "Kounfouda" #?
+#SAME 4279
+4280 = "Taïz"
+#SAME 4281
+4282 = "Sadah"
+4283 = "Chihr" #?
+4284 = "Ghaydah"
+4285 = "Buraymi"
+4286 = "Sour" #Oman oriental
+4287 = "Ibra"
+4288 = "Qournah" #?, La côte des Arabes
+4289 = "Chouchtar" #?
+#SAME 4290 #?
+#SAME 4291 #?
+4292 = "Meride" #?
+4293 = "Erbil"
+4294 = "Souleimaniye"
+4295 = "Cephe" #?
+4296 = "Bitlis"
+4297 = "Émèse"
+4298 = "Antep"
+4299 = "Chemakha"
+4300 = "Miane"
+4301 = "Kartalinie"
+4302 = "Daroynk" #?, Bayazit?
+4303 = "Olty" #?
+4304 = "Khoy"
+4305 = "Cheki"
+4306 = "Koumoukh" #?
+4307 = "Palais Blanc"
+4308 = "Laodicée"
+4309 = "Tralles"
+4310 = "Téphrikè"
+4311 = "Nicople" #?
+4312 = "Dorylée"
+4313 = "Gangra"
+4314 = "Justinianople" #?
+4315 = "Eudocia" #?
+4316 = "Égypte orientale"
+4317 = "Le Lac" #Beheira
+4318 = "Aphroditople" #?
+4319 = "Latople" #?
+4320 = "Girga"
+4323 = "Farafra"
+4324 = "Gourian" #?
+#SAME 4325
+4326 = "Nichapour"
+4327 = "Djask" #?
+#SAME 4329
+#SAME 4330
+4331 = "Kazeroun" #?
+#SAME 4332 #?
+#SAME 4334
+4335 = "Kachan"
+4336 = "Toun" #?
+#SAME 4337
+4338 = "Soultanie" #?
+4339 = "Recht"
+#SAME 4340
+#SAME 4341
+#SAME 4342
+#SAME 4343
+4344 = "Ville Verte"
+4345 = "Saïdabad" #?
+4351 = "Negros"
+
+4361 = "Jedbourgh" #?
+4362 = "Doumfries" #?
+4363 = "Argyle"
+4364 = "Hébrides intérieures"
+4365 = "Man"
+4366 = "Montgomery"
+#SAME 4367
+#SAME 4368
+4369 = "Carmarthen"
+#SAME 4370
+#SAME 4371
+#SAME 4372
+4373 = "Devon"
+4374 = "Dorset" #Dorchester
+4375 = "Chester"
+4376 = "Leicester"
+4377 = "Ormonde"
+4378 = "Desmond"
+4379 = "Midlands"
+4380 = "Donegal"
+4381 = "Oversticht"
+4382 = "Groningue"
+4383 = "La Haye"
+4384 = "Rennais"
+4385 = "Cotentin"
+4386 = "Bas-Poitou" #or Vendée
+4387 = "Angoumois"
+#SAME 4388
+#SAME 4389
+#SAME 4390
+4391 = "Vivarais"
+#SAME 4392

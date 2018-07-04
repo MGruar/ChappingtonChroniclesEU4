@@ -1,0 +1,43 @@
+169 = "Treger"
+#SAME 170
+#SAME 171
+#SAME 172
+233 = "Cernyw"
+234 = "Caerwynt"
+235 = "Caint"
+236 = "Llundain"
+237 = "Rhydychen"
+#SAME 238 #English
+239 = "Caerloyw"
+240 = "Amwythig"
+#SAME 241
+#SAME 242
+#SAME 243 #English
+244 = "Caerhirfryn"
+245 = "Efrog"
+#SAME 246 #English
+247 = "Caerliwelydd"
+248 = "Caeredin"
+253 = "Ynysoedd Allanol Heledd"
+369 = "Ynysoedd Erch"
+373 = "Dulyn"
+#SAME 374
+1860 = "Dwyrain Anglia"
+1861 = "Derby" #English
+4118 = "Corc"
+4121 = "Wledd" #Wlster, Wlaidd, Wleth
+4130 = "Gwlad yr Haf"
+
+4362 = "Caerferes" #Din Prys
+4364 = "Ynysoedd Mewnol Heledd"
+4365 = "Ynys Manaw"
+#SAME 4366
+#SAME 4367 #English
+#SAME 4369
+4370 = "Caergrawnt"
+4371 = "Caerfuddai"
+4373 = "Dyfnaint"
+4374 = "Dorset" #English
+4375 = "Caer"
+4376 = "Caerlyr"
+#SAME 4384

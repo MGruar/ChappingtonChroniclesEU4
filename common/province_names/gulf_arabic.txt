@@ -1,0 +1,12 @@
+#SAME 394
+#SAME 395
+#SAME 396
+#SAME 397
+398 = "ash-Sharjah" #SAME
+#SAME 404
+#SAME 431 #?
+#SAME 2333 #?
+2340 = "il-Ikwet" #SAME
+2347 = "al-Ahasa" #SAME
+#2999
+#SAME 4327

@@ -1,0 +1,19 @@
+#Scottish Gaelic
+248 = "Lodainn"
+249 = "Siorrachd Inbhir Àir"
+250 = "Peairt" #Fìobha
+#SAME 251
+#SAME 252
+#SAME 253
+369 = "Arcaibh"
+982 = "Ceap Breatainn" #Eilean Cheap Bhreatainn
+1978 = "Sealtainn"
+2601 = "Dùn Bheagain"
+#SAME 4110
+
+4361 = "Rosbroig"
+4362 = "Dùn Phris"
+#SAME 4363
+#SAME 4364
+4365 = "Mhanainn"
+4380 = "Dùn na nGall"

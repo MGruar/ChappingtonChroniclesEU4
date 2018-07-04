@@ -1,0 +1,5 @@
+#"Silesian German" #original Silesian
+263 = "Rottwer" #Raciburz
+264 = "Brassel" #Wroclow, Bryslal, Breslawia
+2966 = "Glauge" #Gloguw
+4238 = "Liegnz" #Lignica

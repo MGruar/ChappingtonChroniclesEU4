@@ -1,0 +1,14 @@
+316 = "Optimátoi" #Nikomédeia
+317 = "Opsíkion" #Proúsa, Níkaia
+325 = "Paflagonía" #Kastamón, Kastamoní, Kastamóna
+326 = "Galatía" #Ánkyra
+#1764 = "Mesimvría" #Pýrgos
+1846 = "Armeniakón" #Amáseia
+#2296 = "Ávydos" #Pegaí, Palaiókastron
+2297 = "Thrakísioi" #Magnesía
+2299 = "Voukellaríon" #Vithýnion
+2300 = "Kappadokía" #Táouion
+2301 = "Charsianón" #Kaisáreia
+2302 = "Selefkeía" #Zefýrion
+2304 = "Chaldía" #Sampsoúnta
+4311 = "Anatolikón" #Nikópolis

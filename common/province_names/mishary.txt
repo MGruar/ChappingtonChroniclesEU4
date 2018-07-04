@@ -1,0 +1,424 @@
+#excl. bashkir, crimean, nogaybak, siberian
+#cultures: mishary, kazani, astrakhani
+149 = "Ädirnä"
+151 = "Istanbul"
+161 = "Bükräs"
+261 = "Galiç"
+268 = "Yäs"
+269 = "Podlasye"
+270 = "Trakay"
+272 = "Vilnüs"
+#SAME 274
+#SAME 275
+#SAME 276
+#SAME 277
+#SAME 278
+279 = "Volin" #?
+#SAME 280
+281 = "Kamaniça"
+282 = "Xacibäy"
+283 = "Busagalar arti" #?
+#SAME 284
+285 = "Käfä"
+#SAME 286
+287 = "Qoban" #?
+#SAME 288
+289 = "Çernigov"
+#SAME 290
+291 = "Xarkov" # or Xarkaw, or Xärkäw?
+292 = "Mogilöv"
+#SAME 293
+#SAME 294
+295 = "Mäskäw"
+#SAME 296
+297 = "Bränsk"
+#SAME 298
+299 = "Voronej"
+#SAME 300
+301 = "Räzän"
+#SAME 302
+#SAME 303
+#SAME 304
+305 = "Pirem"
+306 = "Nijgar" # or Tübän Novgorod or Tübänsähär
+#SAME 307
+308 = "Yarislaw" # or #SAME
+309 = "Olonets"
+#SAME 310
+311 = "Xolm" # or 
+#SAME 312 or Aq Kül?
+#SAME 313 or Sayisqan?
+#SAME 314
+316 = "Xucaile" #?
+317 = "Bursa"
+318 = "Izmir"
+319 = "Mugla" #?
+320 = "Rodos"
+321 = "Kipr"
+322 = "Kütähyä" #?
+323 = "Qonya" #? or Könyä?
+324 = "Qaraman" #?
+325 = "Qastamonu" #?
+326 = "Änqara"
+#SAME 327 #?
+#SAME 328 #?
+#SAME 329 #?
+330 = "Trabzon" #?
+331 = "Ärzurum" #?
+#SAME 332 #?
+358 = "Iskändäriyä" #?
+361 = "Qahirä"
+362 = "Räsit" #?, Räsid?
+364 = "Gazzä"
+365 = "Sinay"
+377 = "Xäleb"
+378 = "Trablus" #?
+379 = "Qodüs"
+380 = "Kärak" #?
+381 = "Gäclun" #?
+382 = "Dimäsq"
+384 = "Mädinä"
+385 = "Mäkkä"
+388 = "Gadän" #Gäden?
+390 = "Sänga"
+#SAME 395
+396 = "Bähräyn"
+405 = "Palmira" #? or Tadmur?
+406 = "Hadisä" #?
+407 = "Raqqa"
+408 = "Basra" #Bäsrä?
+409 = "Kärbälä" #Kärbalaq?
+410 = "Bagdad"
+411 = "Mosul"
+412 = "Ähwaz" #Ähvaz?
+413 = "Xörrämabad" #?
+414 = "Hämädän"
+415 = "Kärkük"
+416 = "Täbriz"
+417 = "Lahican" #?
+418 = "Diyarbaqir" #?
+419 = "Irävan"
+420 = "Gäncä"
+#SAME 421
+422 = "Basaçiq" #?
+423 = "Tiflis"
+424 = "Ärdäbil"
+425 = "Därbänt"
+426 = "Amul" #?
+#SAME 427 #?
+428 = "Tähran"
+429 = "Isfahan"
+430 = "Dästistan" #?
+#SAME 431 #?
+432 = "Kirmän"
+433 = "Yäzd"
+434 = "Qohistan" #?
+435 = "Zäränc"
+436 = "Bircänd" #?
+437 = "Köpet" # or Köpet tawlari
+438 = "Qaraqom" #?
+439 = "Meñqisliq" #? or Mañgislaq?
+#SAME 440
+441 = "Xiwä"
+442 = "Boxara" # or Boxar?
+443 = "Üstyort" #?
+444 = "Çärcäw" #?
+445 = "Märv" #?
+446 = "Härat"
+447 = "Qandahar"
+448 = "Gäzni"
+449 = "Gur"
+450 = "Bälx"
+451 = "Kabul"
+452 = "Bädäxsan"
+453 = "Qarsi" #?
+454 = "Sämärqand"
+455 = "Qizilqom" #?
+456 = "Törkistan"
+457 = "Taskänt" #Taskent
+458 = "Qoqand"
+#SAME 459 #?
+460 = "Üzgän" #?
+461 = "Almati" # or Almali
+462 = "Mingrellär" #?
+463 = "Çerkeslär" # or Çirkäslär
+#SAME 464 or Actarxan, modern Tatar: Ästerxan
+465 = "Sarayçiq" # or Nugay
+#SAME 466
+467 = "Xopör"
+468 = "Maniç" #?
+469 = "Narin qomi" #?
+470 = "Bayugli" #?
+471 = "Galimugli" #?
+472 = "Jetiru" #?
+#SAME 473
+474 = "Cäyek"
+475 = "Qaraidel" #Ufa
+476 = "Qipçaq"
+477 = "Nadim" #?
+478 = "Argin" #?
+#SAME 479 #?
+578 = "Pisäwär" #?
+#SAME 712
+713 = "Bisbaliq"
+714 = "Qoboqsar" #?
+715 = "Öremçe"
+739 = "Qasgar" #?
+#SAME 770
+#SAME 771
+1071 = "Irtes"
+1074 = "Qasliq" # Iskär, Seber
+#SAME 1075
+#SAME 1076
+#SAME 1077
+1078 = "Türe"
+1079 = "Hilin"
+1080 = "Pelim"
+#SAME 1081
+#SAME 1082
+#SAME 1083
+1752 = "Rjev"
+#SAME 1753
+1754 = "Möräm"
+1755 = "Ustüg"
+1756 = "Bucaq" #?
+#SAME 1778 or Qasím
+#SAME 1846 #?
+1848 = "Isparta" #?
+1849 = "Hama" #?
+1854 = "Yaffa" #?
+1855 = "Saydä"
+1856 = "Abxazlar"
+#SAME 1937
+#SAME 1940 #?
+#SAME 1941 #?
+1942 = "Jitomir"
+#SAME 1943 #?
+1944 = "Çerkassi"
+1945 = "Cagalday"
+1955 = "Xolmogori"
+#SAME 1956
+1957 = "Gäreç" #Galiç
+#SAME 1958
+1959 = "Torjok"
+#SAME 1960
+#SAME 1961
+1962 = "Kudimkar" # or Qudimqar
+1963 = "Çärdän"
+1964 = "Sisola"
+1965 = "Bozliq" # not Bozawliq
+1966 = "Çiläbe"
+1967 = "Xucand"
+1968 = "Küläb" #?
+#SAME 1969 #?
+1970 = "Siganaq" #or Aq Mäçet
+1971 = "Sarysu"
+1972 = "Ijaw"
+1973 = "Ürgäneç"
+1974 = "Yediskül" #?
+2118 = "Ürcar" #?
+2119 = "Çuguçaq" #?
+#SAME 2120 #?
+2125 = "Qoçqor" #?
+2126 = "Çuy"
+2127 = "Yäselkül" #?
+2195 = "Socuq-Qala" #? or Adiglar
+2196 = "Guryä" #?
+2197 = "Qabarda" #?
+2198 = "Çeçennar" # or Çiçännär
+2199 = "Tärki" #? or Targu?
+2201 = "Magas" #? or Alannar
+2202 = "Qarabaq"
+2203 = "Kaxeti" #?
+2204 = "Qars" #?
+2205 = "Naxçivan"
+2206 = "Urmiyä"
+2207 = "Märaga" #?
+2208 = "Kizlär"
+2209 = "Ilam" #?
+2210 = "Kirmänsah"
+2211 = "Ärdälan" #?
+2212 = "Zäncan"
+#SAME 2213
+2214 = "Ästärabad" #?
+2215 = "Qäzvin" #Qazvin?
+2216 = "Simnan" #?
+2217 = "Yasuc" #?
+2218 = "Siraz"
+2219 = "Bändär Länge" #?
+2220 = "Bäm" #?
+2221 = "Mäshäd"
+2222 = "Ärdäkan" #?
+2223 = "Laristan" #?
+2224 = "Färah"
+#SAME 2225
+2226 = "Cälalabad"
+2227 = "Qondiz"
+2228 = "Mäymanä" #?
+2229 = "Büst" #? or Bost?
+#SAME 2230
+2232 = "Xaran" #?
+2233 = "Çabahar" #?
+2234 = "Räfsäncan" #?
+2235 = "Säbzevar" #?
+2236 = "Bocnurd" #?
+2296 = "Balikesir" #?
+2297 = "Manisa" #?
+2298 = "Antalya" #?
+#SAME 2299 #?
+2300 = "Yozgat" #? or Bozoq?
+2301 = "Qaysäri" #?
+2302 = "Mersin" #?
+#SAME 2303 #?
+#SAME 2304 #?
+2305 = "Ärzincan" #?
+2306 = "Mus" #?
+#SAME 2307 #?
+2308 = "Urfa" #?
+2309 = "Säncar" #? or Sincar?
+#SAME 2310 #?
+2311 = "Sämäwä"
+2312 = "Wäsit"
+2313 = "Antakya" #?
+2314 = "Däyräzür" #?
+2331 = "Ciddä"
+2340 = "Küväyt"
+2344 = "Märib"
+2349 = "Qizilsu" #?
+2350 = "Küktäpä" #? or Ashabad, or Asqabad
+2351 = "Sekti" #?
+2352 = "Alti Qudiq" #?
+2353 = "Tortqara" #?
+2354 = "Segendiq" #?
+2355 = "Narim" #?
+2356 = "Çimkent"
+2357 = "Aqsari" #?
+2358 = "Altin"
+2359 = "Baganali" #?
+2360 = "Tobiqti" #?
+2361 = "Caman Qodiq" #?
+2362 = "Iske Ürgäneç"
+#SAME 2363 #?
+2364 = "Firganä"
+#SAME 2365 #?
+2366 = "Siñgirlaw" #?
+2367 = "Tübän Cäyek"
+2368 = "Qaramägdan" #?
+#SAME 2369 #?
+2370 = "Qongrat" #?
+2405 = "Tägänäkçä" #? or Bender?
+#SAME 2406 #?
+#SAME 2407
+#SAME 2408 or Qarasu?
+#SAME 2409 #?
+2410 = "Baqçasaray"
+#SAME 2411 #?
+#SAME 2412 #?
+#SAME 2413
+#SAME 2414 #?
+#SAME 2415 or Atqar
+2416 = "Macar"
+2417 = "Qom" #?
+#SAME 2418
+#SAME 2419
+2420 = "Agídel"
+#SAME 2421 or Çistay
+2422 = "Çabaqsar"
+2423 = "Alatir"
+2424 = "Psemisl"
+2427 = "Istäklär" #?
+#SAME 2434 or Barnawil?
+#SAME 2441
+#SAME 2444
+2447 = "Matriqa" #?
+2749 = "Tixvin"
+2961 = "Ilbaw"
+#SAME 2962
+2998 = "Buziw"
+4115 = "Mozir"
+4116 = "Uqa"
+4117 = "Bejetsk"
+4122 = "Senkursk"
+4129 = "Vim" #?
+#SAME 4147
+4148 = "Böyek Luki"
+4171 = "Äbärkuh" #?
+#SAME 4242 #?
+#SAME 4243
+4244 = "Trubçevsk"
+4245 = "Väzma"
+#SAME 4246 #?
+4247 = "Ovruç"
+4248 = "Kasin"
+#SAME 4249
+#SAME 4250
+4251 = "Mojaysk"
+#SAME 4252
+4253 = "Yüryev"
+#SAME 4254 or Iske Imän?
+#SAME 4255
+4256 = "Solviçegodsk"
+#SAME 4257
+#SAME 4258
+#SAME 4259
+4260 = "Yugari Voloçok" #?
+4261 = "Ustüjna"
+#SAME 4262
+4263 = "Soligaliç"
+#SAME 4264
+#SAME 4265
+4266 = "Qala" 
+#SAME 4267
+4270 = "Gazraq" #?
+4271 = "Süwäydäg" #?
+4280 = "Tägiz"
+4281 = "Damar"
+4282 = "Sägäda"
+4288 = "Qornä" #?, Sättülgäräb?
+4289 = "Sostär" #?
+4290 = "Huväyzä" #?
+4291 = "Qazaniyä" #?
+4292 = "Märdin" #?
+4293 = "Ärbil"
+4294 = "Söläymaniyä"
+4295 = "Hasankäyf" #?
+4296 = "Bitlis" #?
+4297 = "Homs" #?
+4298 = "Antep" #?
+4299 = "Semaxa" #? or Samaxi
+4300 = "Miyanä" #?
+4301 = "Qartli" #?
+4302 = "Bayazit"
+4303 = "Oltu" #?
+#SAME 4304 #?
+4305 = "Säki"
+4306 = "Qomix" #? or Lakistan? or Dagstan
+4307 = "Aqsaray"
+4308 = "Diñgezle" #?
+#SAME 4309 #?
+4310 = "Täfrikä" #?
+#SAME 4311 #?
+4312 = "Iskesähär"
+4313 = "Çankiri" #?
+4314 = "Qirsähär"
+4315 = "Toqat" #?
+4324 = "Goryan" #?
+4325 = "Säraxs" #?
+4326 = "Nisapur" #?
+4327 = "Cask" #?
+4329 = "Fäsa" #?
+#SAME 4330 #?
+4331 = "Kazirun" #?
+#SAME 4332 #?
+4334 = "Täbäs" #?
+4335 = "Kasan" #?
+#SAME 4336 #?
+4337 = "Savä" #?
+4338 = "Soltaniyä" #?
+4339 = "Räst"
+#SAME 4340 #?
+#SAME 4341 #?
+#SAME 4342 #?
+#SAME 4343 #?
+4344 = "Sähresäbz" # or Yäsel Sähär
+4345 = "Sägídabad" #?

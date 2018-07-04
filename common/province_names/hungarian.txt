@@ -1,0 +1,1138 @@
+#cultures: hungarian, transylvanian
+1 = "Istókhalma"
+2 = "Kelet-Götaland" #?
+#SAME 3
+4 = "Bergszlagen" #?
+5 = "Vermeland" #?
+#SAME 6
+7 = "Szkaraborg" #?
+#SAME 8 #?
+9 = "Helszingland" #?
+10 = "Jemtland" #?
+11 = "Nyugat-Bothnia" #?
+12 = "Zelandia" #?
+13 = "Dél-Jylland"
+#SAME 14 #?
+15 = "Nyugat-Jylland"
+16 = "Bohuszlen" #?
+#SAME 17
+18 = "Lappföld"
+19 = "Kelet-Bothnia" #?
+20 = "Közép-Norvégia"
+21 = "Nordland"
+22 = "Oppland" #?
+23 = "Bergenszhusz" #?
+24 = "Sztavanger" #?
+25 = "Gotland"
+#SAME 26
+27 = "Turku"
+28 = "Újföld"
+29 = "Tavasztia" #?
+30 = "Viborg"
+31 = "Szavonia" #?
+32 = "Korela"
+33 = "Diócska"
+34 = "Izsora" #?
+35 = "Özely" #?
+36 = "Reval" #?
+37 = "Livónia" #Lívföld
+#SAME 38
+39 = "Kurföld"
+40 = "Memel" #?
+41 = "Königsberg" #"Kiralyvaros"?
+42 = "Varmia" #?
+43 = "Dancka"
+44 = "Hamburg"
+45 = "Lübek" #?
+46 = "Rosztok" #?
+47 = "Stralzund" #?
+48 = "Kolobzseg" #?
+49 = "Új Örgrófság" #?
+#SAME 50
+51 = "Ruppin"
+52 = "Magdeburg"
+53 = "Lüneburg"
+54 = "Stade"
+55 = "Oldenburg"
+56 = "Osnabrük" #?
+57 = "Brunszvik" #?
+#SAME 58
+59 = "Vittenberga"
+60 = "Felsö-Luzsica" #?
+61 = "Drezda"
+62 = "Lipcse"
+63 = "Türingia"
+64 = "Landszhut" #?
+65 = "Münhen" #?
+66 = "Bamberg"
+67 = "Nürnberg"
+#SAME 68
+69 = "Konsztanc" #?
+70 = "Virtemberg" #?
+71 = "Anszbah" #?
+72 = "Brajszgau" #?
+#SAME 73
+74 = "Baden"
+75 = "Elzász"
+76 = "Salzburg"
+77 = "Heidelberga"
+78 = "Mainc" #?
+79 = "Vürcburg" #?
+80 = "Trier"
+81 = "Hesszen" #?
+82 = "Vesztfália"
+#SAME 83
+#SAME 84
+85 = "Kolonya"
+86 = "Monostor"
+87 = "Kale" #?
+88 = "Arrasz" #?
+89 = "Pikárdia"
+90 = "Flandria"
+91 = "Hennegau"
+92 = "Brüsszel"
+93 = "Lyezs" #?, Liége
+94 = "Luxemburg"
+#SAME 95
+96 = "Zelandia" #?
+97 = "Amszterdam" #Hollandia
+98 = "Utreht" #?
+99 = "Geldern" #?
+100 = "Frízföld"
+101 = "Genova"
+102 = "Nicca" #?
+#SAME 103
+104 = "Milánó"
+105 = "Parma"
+106 = "Modena"
+107 = "Bresa" #?
+108 = "Verona"
+#SAME 109
+110 = "Trident"
+111 = "Friul" #?
+112 = "Velence"
+113 = "Ferrara"
+114 = "Romanya" #?
+115 = "Piza" #?
+116 = "Firence" #?
+117 = "Senay"
+118 = "Róma"
+119 = "Ankona" #?
+120 = "Abrucco" #?
+121 = "Nápoly"
+122 = "Szalento" #?
+123 = "Kalabria" #?
+124 = "Messzina" #?
+125 = "Palermo"
+126 = "Málta"
+127 = "Szasszari" #?
+128 = "Karintia"
+129 = "Krajna"
+130 = "Isztria"
+131 = "Zágráb"
+132 = "Stájerország"
+133 = "Linc" #?
+134 = "Bécs"
+#SAME 135
+136 = "Dalmácia"
+137 = "Raguza"
+138 = "Montenegró"
+#SAME 139 #?
+140 = "Ózora" #Bosznia
+141 = "Szendrö"
+142 = "Korfu"
+143 = "Avlona"
+144 = "Epirusz"
+145 = "Morea"
+146 = "Athén"
+147 = "Thesszália"
+148 = "Makedónia"
+149 = "Drinápoly"
+150 = "Nikápoly"
+151 = "Konstantinápoly"
+152 = "Varasd"
+#SAME 153
+#SAME 154
+#SAME 155
+156 = "Temes" #Bánság
+157 = "Körösvidék"
+158 = "Maros"
+159 = "Durosztol"
+160 = "Kis-Oláhország" #Olténia
+161 = "Tergovistye"
+162 = "Zemplén"
+163 = "Kréta"
+164 = "Kükládok" #Náxosz
+165 = "Bern"
+166 = "Svic" #?
+167 = "Ruán" #?, Mész?
+168 = "Kan" #Normandia
+169 = "Armorika" #?
+170 = "Finiszter" #?
+171 = "Van" #?
+172 = "Nant" #?
+173 = "Bajon"
+174 = "Aquitania" #Bordó
+175 = "Armanyak" #?
+176 = "Béarn" #?
+177 = "Men" #?
+178 = "Anzsú"
+#SAME 179 #?
+180 = "Felsö-Puatu" #?
+#SAME 181
+182 = "Valua" #?
+183 = "Párizs"
+184 = "Orleán" #?
+185 = "Nemur" #?
+186 = "Remsz" # Sampany?
+187 = "Bar"
+188 = "Három Püspökség" #?, Mec?
+189 = "Lotaringia"
+190 = "Mulen" #?
+191 = "Never" #?
+192 = "Dizson" #?, Burgundia
+193 = "Szabadgrófság"
+194 = "Perigor" #?
+195 = "Limuzen" #?
+#SAME 196
+197 = "Perpinyan" #?, Russzilyon?
+198 = "Rodez" #Ruerg?
+199 = "Klermon" #?, Overny?
+200 = "Monpelye" #?, Langedok?
+201 = "Provansz" #?
+202 = "Avinyon" #?
+203 = "Lyon"
+204 = "Delfinat" #?
+205 = "Szavoja"
+206 = "Galicia"
+207 = "Asztúria"
+208 = "León"
+#SAME 209 #?
+210 = "Navarra"
+211 = "Pireneusok"
+#SAME 212
+#SAME 213
+#SAME 214
+215 = "Régi Kasztília"
+216 = "Szalamanka" #?
+#SAME 217
+218 = "Badahosz" #?
+#SAME 219
+220 = "Valencia"
+#SAME 221
+#SAME 222
+#SAME 223
+224 = "Szevilla" #?
+225 = "Kórdoba" #?
+226 = "Gibraltár"
+227 = "Lisszabon"
+#SAME 228
+229 = "Bezsa" #?
+#SAME 230
+231 = "Oporto"
+232 = "Bragansza" #?
+233 = "Kornvalia" #?
+234 = "Vincseszter" #?
+#SAME 235
+#SAME 236
+237 = "Oxford"
+238 = "Esszex" #?
+239 = "Gloszter" #?
+240 = "Srozberi" #?
+241 = "Glamorgan" #?
+242 = "Gvined" #?
+243 = "Linkoln" #?
+244 = "Lankaszter" #?
+245 = "Jork" #?
+246 = "Northumbria"
+247 = "Kambria" #?
+248 = "Lothian" #?
+249 = "Er" #?
+250 = "Perth"
+251 = "Aberdin" #?
+252 = "Invernessz" #?
+253 = "Külsö Hebridák"
+254 = "Poznany" #?
+255 = "Kalis" #?
+256 = "Palacka"
+257 = "Varsó"
+258 = "Seradz" #?
+259 = "Szondamér"
+#SAME 260
+261 = "Halics"
+262 = "Krakkó"
+263 = "Ratibozs" #?
+264 = "Boroszló"
+265 = "Berén"
+266 = "Prága"
+267 = "Pilzen"
+268 = "Moldva"
+#269 #?
+270 = "Troki"
+271 = "Szamogitia"
+272 = "Vilna" #?
+273 = "Latgale"
+274 = "Pszkov"
+275 = "Polock"
+276 = "Minszk"
+277 = "Breszt"
+278 = "Pinszk"
+279 = "Volhíniában"
+280 = "Kijev"
+281 = "Podólia"
+282 = "Jediszan" #?
+283 = "Zaporozsje"
+284 = "Krím"
+285 = "Kaffa" #Feodoszija
+286 = "Azov"
+287 = "Kubán" #?, Jekatyerinodar
+288 = "Cserkasszk" #?, "Uszty-Myedvyedickaja"?
+289 = "Csernyigov"
+#SAME 290
+291 = "Harkov"
+292 = "Mogiljov"
+293 = "Szmolenszk"
+#SAME 294
+295 = "Moszkva"
+#SAME 296
+297 = "Brjanszk"
+298 = "Kurszk"
+299 = "Voronyezs"
+#SAME 300
+301 = "Rjazany"
+#SAME 302
+303 = "Szaratov"
+#SAME 304
+305 = "Perm"
+306 = "Alsó-Újváros" #Nyizsnyij Novgorod
+307 = "Vlagyimir"
+308 = "Jaroszlavl"
+309 = "Olonyec" #?
+310 = "Újváros"
+311 = "Holm" #?
+#SAME 312 #?
+313 = "Szoroka"
+#SAME 314
+315 = "Finnmark"
+316 = "Nikomedia" #Nicomedia
+317 = "Pruszá" #Nikaia
+318 = "Szmirna"
+319 = "Karia" #?
+320 = "Rodosz"
+321 = "Ciprus"
+322 = "Koteon" #?
+323 = "Ikonium" #?
+324 = "Laranda"
+325 = "Paflagonia" #?, Kasztamon?
+326 = "Angora" # Galatia
+327 = "Kilikia"
+328 = "Szinope"
+329 = "Sebastia" #?
+330 = "Trapezund"
+331 = "Teodosziápoly" #?
+332 = "Germanikeia" #?
+333 = "Baleár-szigetek"
+334 = "Tanzsé"
+335 = "Melilla"
+336 = "Tlemszen" #?
+337 = "Orán"
+338 = "Algír"
+339 = "Bedzsaja" #?
+340 = "Kaszentína"
+341 = "Tunisz"
+342 = "Fehér Ház" #Kaszablanka
+343 = "Fez"
+344 = "Marrákes"
+345 = "Szafi"
+#SAME 346 #?
+#SAME 347
+348 = "Szusz" #?
+349 = "Figig" #?
+350 = "Laguat" #?
+351 = "Biszkra" #?
+352 = "Gafsza" #?
+353 = "Tatuin" #?
+354 = "Tripoli"
+355 = "Szurt"
+356 = "Kireneika"
+357 = "Derna" #?
+358 = "Alexandria"
+359 = "Fajjúm"
+360 = "Luxor"
+361 = "Kairó"
+362 = "Roszetta" #?
+363 = "Damietta"
+364 = "Gáza"
+365 = "Szináj-félsziget"
+366 = "Kanári-szigetek"
+367 = "Azori-szigetek"
+368 = "Madeira-szigetek"
+369 = "Orkney-szigetek"
+372 = "Tiron" #?
+373 = "Dublin"
+374 = "Lenszter" #?
+375 = "Limerik" #?
+376 = "Konnaht" #?
+377 = "Aleppó"
+378 = "Tripoli"
+379 = "Jeruzsálem"
+380 = "Karak" #?
+381 = "Adzslun" #?
+382 = "Damaszkusz"
+383 = "Tabúk"
+384 = "Medina"
+385 = "Mekka"
+386 = "Bisa" #?
+387 = "Mokka" #?
+388 = "Áden"
+389 = "Mukalla"
+390 = "Szana" #?
+391 = "Nadzsrán" #?
+394 = "Katif" #?
+395 = "Katar"
+396 = "Bahrein"
+397 = "Bani Jasz" #?
+398 = "Sardzsa"
+399 = "Bátina"
+400 = "Maszkat"
+401 = "Zofár"
+402 = "Kisn" #?
+403 = "Nizva" #?
+404 = "Liva" #?
+405 = "Palmüra"
+406 = "Haditha" #?
+407 = "Rakka"
+408 = "Baszra"
+409 = "Kerbela"
+410 = "Bagdad"
+411 = "Moszul"
+412 = "Ahváz"
+413 = "Horramábád"
+414 = "Hamadán"
+415 = "Kirkuk"
+416 = "Tebriz"
+417 = "Lahidzsan" #?
+418 = "Ámid"
+419 = "Jereván"
+420 = "Gandzsa"
+421 = "Sirván" #?
+422 = "Imerétia"
+423 = "Tiflisz"
+424 = "Ardabíl"
+425 = "Derbent"
+#SAME 426 #?
+427 = "Hekatompilosz" #?
+428 = "Teherán"
+429 = "Iszfahán"
+430 = "Búsehr"
+431 = "Mogosztan" #?
+432 = "Kermán"
+433 = "Jazd"
+434 = "Kúhisztán"
+435 = "Zarandzs" #?
+436 = "Bírdzsand" #?
+#SAME 437 #?
+438 = "Kara-kum"
+439 = "Mangislak" #?
+440 = "Nukusz" #?
+441 = "Hiva" #?
+442 = "Buhara"
+443 = "Usztyurt" #?
+444 = "Csardzsuj" #?
+445 = "Merv" #?
+446 = "Herát"
+447 = "Kandahár"
+448 = "Gazni" #?
+449 = "Gor" #?
+450 = "Balh" #?
+451 = "Kabul"
+452 = "Badahsan" #?
+453 = "Karsi" #?
+454 = "Szamarkand"
+455 = "Kizil-kum"
+456 = "Turkesztán" #?
+457 = "Taskent"
+458 = "Kokand" #?
+460 = "Uzgen" #?
+462 = "Mingrélia"
+463 = "Majkop"
+464 = "Asztrahán"
+465 = "Gurjev" #?
+466 = "Kamisin" #?
+467 = "Boriszoglebszk" #?
+468 = "Manics" #?
+469 = "Rin-sivatag" #?
+470 = "Kalmikov" #?
+471 = "Aralszk"
+472 = "Aktyubinszk" #?
+473 = "Szamara"
+474 = "Jaik"
+475 = "Ufa"
+517 = "Szúrat"
+522 = "Delhi"
+575 = "Gvádar" #?
+576 = "Kalát" #?
+577 = "Kvetta"
+578 = "Pesavar"
+#SAME 596
+667 = "Kanton"
+668 = "Makaó"
+767 = "Scsitno" #?
+770 = "Braszlav"
+771 = "Vitebszk"
+788 = "Angose" #?
+789 = "Zuluföld" #?
+#SAME 833 #?
+1077 = "Szolikamszk"
+1078 = "Jekatyerinburg"
+1079 = "Hlinov"
+1081 = "Szimbirszk"
+1082 = "Kazán"
+#SAME 1083
+1085 = "Tasmánia"
+1096 = "Zöld-fok"
+1097 = "Fernando Pó"
+1098 = "Szent Ilona"
+1099 = "Szokotra"
+#SAME 1110
+1111 = "Argen" #?
+1112 = "Trarza" #?
+1113 = "Dakar"
+1114 = "Gabú"
+1118 = "Oroszlánhegylánc"
+1119 = "Gabona partjainál" #?
+1126 = "Elefántcsontpart"
+1127 = "Tuát" #?
+1128 = "Taudeni" #?
+1129 = "Azavad" #?
+1130 = "Tadmekka" #?
+1132 = "Timbuktu"
+1139 = "Milliomosnegyed" #?
+1141 = "Hvida" #?
+#SAME 1147
+1151 = "Bonny" #?
+1163 = "Kalabar" #?
+1164 = "Kamerun"
+#SAME 1165
+1166 = "Loangó" #?
+1167 = "Luanda"
+#SAME 1172
+1173 = "Namíbia"
+1174 = "Bálna-öböl"
+1175 = "Kis-Namakvaföld" #?
+1177 = "Jóreménység foka"
+1179 = "Szvellendam" #?
+1180 = "Vad tengerpart"
+#SAME 1181 #?
+1182 = "Lagúna öbölben" #?
+1183 = "Inyambáne" #?
+1186 = "Szofala" #?
+1192 = "Kelimane" #?
+1195 = "Mozambik"
+1196 = "Kilva" #?
+#SAME 1197 #?
+#SAME 1198 #?
+#SAME 1199 #?
+#SAME 1200
+1201 = "Zanzibár"
+#SAME 1202
+1203 = "Melinde"
+#SAME 1204
+1205 = "Mogadisu" #?
+1206 = "Kardo" #?
+1207 = "Ogaden"
+1208 = "Degehabur" #?
+#SAME 1209
+#SAME 1210 #?
+#SAME 1211
+1212 = "Zejla" #?
+1213 = "Seva" #?
+#SAME 1214 #?
+1215 = "Tadzsura" #?
+1216 = "Tegali" #?
+1217 = "Fazokl" #?
+#SAME 1218 #?
+1219 = "Dárfúr"
+1220 = "Bajuda" #?
+1221 = "El-Obeid"
+1222 = "Gezira" #?
+1223 = "Godzsam" #?
+#SAME 1224
+1225 = "Butána"
+1226 = "Bedzsa" #?
+1227 = "Akszúm"
+1228 = "Dongola"
+#SAME 1229 #?
+1230 = "Masszava" #?
+1231 = "Szüéné"
+1232 = "Szuakin" #?
+1233 = "Hárga" #?
+1234 = "Kaszr Ibrim" #?
+1247 = "Korzika"
+1306 = "Szent Tamás"
+1318 = "Szepes"
+1742 = "Limburg" #Felsö-Geldern?
+1743 = "Kambré" #?
+#SAME 1744
+1745 = "Kantábria"
+1746 = "Burgosz" #?
+1747 = "Kaszeresz" #?
+1748 = "Haén" #?
+1749 = "Kádisz"
+1750 = "Alikante" #?
+1751 = "Szeuta" #?
+1752 = "Rzsev" #?
+1753 = "Kosztroma"
+#SAME 1754 #?
+1755 = "Usztyug" #?
+1756 = "Bazarábföld"
+1757 = "Felsö-Pfalz"
+1758 = "Hannovera"
+#SAME 1759
+1760 = "Koblenc" #?
+1761 = "Pfalc" #?
+1762 = "Kasszely" #?
+1763 = "Alsó-Luzsica" #?
+1764 = "Burgasz"
+1765 = "Szeredöc"
+1766 = "Koszovó"
+1767 = "Szlavónia"
+1768 = "Líenc"
+#SAME 1769 #?
+1770 = "Keleti Örgrófság" #Ostmark, March
+1771 = "Érchegység"
+1772 = "Pozsony"
+1773 = "Ahaia" #?
+1774 = "Trevizo" #?
+1775 = "Holstein"
+1776 = "Fehér Karélia"
+1777 = "Kola"
+1778 = "Kaszimov"
+#SAME 1826
+1827 = "Ráczság"
+1828 = "Olfeld"
+1831 = "Travunia" #?
+1834 = "Dorpat"
+#SAME 1841 #?
+#SAME 1842
+1846 = "Amaszia"
+1848 = "Spárta"
+1849 = "Hamá"
+1851 = "Koimbra" #?
+1853 = "Kasztoria" #?
+1854 = "Akkó"
+1855 = "Szidón"
+1856 = "Abházia"
+1857 = "Lauenburg"
+1858 = "Stettin" #?
+1859 = "Kulm" #?
+#SAME 1860
+1861 = "Derbi" #?
+1862 = "Kremona" #?
+1863 = "Gerec" #Grác
+#SAME 1864
+#SAME 1865
+1866 = "Namur"
+1867 = "Vó" #?
+1868 = "Ágosta"
+1869 = "Zürih" #?
+1870 = "Sankt Gallen"
+1871 = "Vale" #?
+#SAME 1872
+1873 = "Szürke Szövetségeket"
+1874 = "Bréma"
+1875 = "Kuneo" #?
+#SAME 1876
+1877 = "Saroly" #?
+1878 = "Ahen" #?
+1879 = "Alanszon" #?
+1880 = "Zuntgau" #?
+1882 = "Bona" #?
+1930 = "Aland-szigetek" #?
+1931 = "Kelet-Frízia"
+1933 = "Bari"
+1934 = "Lukania" #?
+1935 = "Mitava" #?
+1936 = "Kovno"
+#SAME 1937 #?
+1938 = "Vizna" #?
+1939 = "Lencsica" #?
+#SAME 1940 #?
+#SAME 1941 #?
+1942 = "Zsitomir"
+1943 = "Vinnica" #?, Braclav?
+1944 = "Cserkasszi"
+1945 = "Szeveria" #?
+1951 = "Hunyad"
+1952 = "Máramaros"
+#SAME 1953
+#SAME 1954
+1955 = "Arhangelszk" # Holmogori
+1956 = "Szuzdal"
+1957 = "Galics"
+#SAME 1958
+1959 = "Torzsok" #?
+1960 = "Osztrov"
+#SAME 1961
+1962 = "Kudimkar"
+1963 = "Cserdiny"
+1964 = "Uszty-Sziszolszk"
+#SAME 1965 #?
+1966 = "Cseljabinszk"
+1967 = "Hodzsent"
+#SAME 1968 #?
+1969 = "Szuzak" #?
+1970 = "Perovszk" #?
+1971 = "Caricin"
+1972 = "Izsevszk"
+1973 = "Urgencs"
+1974 = "Herszon"
+1978 = "Zetland"
+1979 = "Feröer"
+#SAME 1981
+1982 = "Blekinge"
+#SAME 1983
+1984 = "Észak-Jütland"
+1985 = "Nerke" #?
+1988 = "Húsvét-sziget"
+2024 = "Garove" #?
+2030 = "Goa"
+2195 = "Szocsi"
+#SAME 2196
+2197 = "Pyatigorszk" #?
+2198 = "Groznij"
+2199 = "Petrovszk"
+2201 = "Vlagyikavkaz"
+2202 = "Karabah" #?
+2203 = "Kahétia"
+2204 = "Karsz" #?
+2205 = "Nahicseván"
+2206 = "Urmia"
+#SAME 2207 #?
+2208 = "Kizljar" #?
+2209 = "Ilam" #?
+2210 = "Kermánsáh"
+2211 = "Ardalan" #?
+2212 = "Zandzsán"
+2213 = "Kom"
+2214 = "Hirkania" #?
+2215 = "Kazvin"
+2216 = "Szemnán"
+2217 = "Jaszudzs" #?
+2218 = "Siráz"
+2219 = "Bandar-Lengé" #?
+#SAME 2220
+2221 = "Meshed"
+#SAME 2222 #?
+2223 = "Laresztan" #?
+#SAME 2224 #?
+2225 = "Bamian" #?
+2226 = "Dzsalálábád"
+#SAME 2227 #?
+2228 = "Maimana" #?
+2229 = "Boszt" #?
+2230 = "Nímrúz" #?
+#SAME 2231
+2232 = "Haran" #?
+2233 = "Csábahár" #?
+2234 = "Rafszandzsán"
+2235 = "Szabzevár" #?
+2236 = "Bodzsnúrd" #?
+2239 = "Gambia"
+2241 = "Guinea"
+2242 = "Bors partjainál" #?
+2258 = "Kis földfok" #or Tengerparti földfok
+2290 = "Rabszolgapart"
+#SAME 2294
+2296 = "Pegaj" #?
+2297 = "Magnészia"
+2298 = "Attalia" #?
+2299 = "Bithünia"
+2300 = "Kappadókia" #Tavia?
+2301 = "Kaiszaria" #?
+2302 = "Szeleukia" #Merszin?
+2303 = "Melitene" #?
+2304 = "Khaldia" #Szamszun?
+2305 = "Akiliszena" #?
+2306 = "Mus" #?
+#SAME 2307
+2308 = "Edessza"
+2309 = "Szingara" #?
+#SAME 2310
+2311 = "Szamáva"
+2312 = "Vaszít"
+2313 = "Antiókhia"
+2314 = "Deir ez-Zór"
+2315 = "Szuez"
+2316 = "Tanta"
+2317 = "Minja"
+2318 = "A tengerparti oázisok" #?
+#SAME 2319
+2320 = "Rasz Garib" #?
+2321 = "Kuszeir"
+2322 = "Vádi-Halfa"
+2323 = "Núbiai-sivatag"
+2324 = "Halaib" #?
+2325 = "Marsza Matrúh"
+2326 = "Bardia" #?
+2327 = "Maán"
+2328 = "Dedan" #?
+2329 = "Janbu" #?
+2331 = "Dzsidda"
+2332 = "Turuba" #?
+#SAME 2333 #?
+2340 = "Kuvait"
+2341 = "Maszira" #?
+2342 = "Középsö Omán"
+2343 = "Szajvun" #?
+2344 = "Márib"
+2345 = "Beihan" #?
+2346 = "Dzsizán" #?
+2347 = "Hofuf" #?
+2349 = "Krasznovodszk"
+2350 = "Asgábád"
+2351 = "Irgiz" #?
+2352 = "Kazalinszk" #?
+2356 = "Csimkent"
+2362 = "Régi-Urgencs" #?
+#SAME 2363 #?
+2364 = "Fergana"
+2365 = "Alexandrov Gaj" #?
+2366 = "Ileck" #?
+2367 = "Alsó Urál"
+2370 = "Kungrad" #?
+2405 = "Bender"
+#SAME 2406
+2407 = "Perejaszlav"
+2408 = "Jelec" #?
+2409 = "Vyosenszkaja" #?
+2410 = "Theodoro" #?
+2411 = "Kodak" #?
+2412 = "Melitápoly" #?
+2413 = "Novocserkasszk"
+2414 = "Tihoreck" #?
+2415 = "Atkarszk" #?
+2416 = "Sztavrápoly" #?
+2417 = "Eliszta"
+2418 = "Pokrowskaja Szloboda" #?
+2419 = "Szizrany"
+2420 = "Orenburg"
+2421 = "Csisztopol" #?
+2422 = "Csebokszári"
+2423 = "Alatyr" #?
+2424 = "Peremisly" #?
+2444 = "Zlatoust" #?
+2447 = "Tamany" #?
+2448 = "Phazania"
+2449 = "Dzsufra"
+2450 = "Gadámesz"
+2451 = "Miszuráta"
+2452 = "Zuvára" #?
+2453 = "Szfaksz"
+2454 = "Kef"
+2455 = "Bizerta" #?
+2456 = "Tuggurt" #?
+2457 = "Mzab-völgy"
+#SAME 2458 #?
+2459 = "Titteri" #?
+2460 = "Szaura" #?
+#SAME 2461 #?
+2462 = "Uarszenisz" #?
+2463 = "Kaszdir" #?
+2464 = "Uarzazát" #?
+2465 = "Udzsda" #?
+#SAME 2466 #?
+2467 = "Meknesz"
+#SAME 2468 #?
+2469 = "Dukkala" #?
+2470 = "Haha" #?
+2472 = "Uargla" #?
+2473 = "Szúsza"
+2746 = "Bodony"
+2749 = "Tihvin" #?
+2750 = "Filipápoly"
+2751 = "Kuenka" #?
+2752 = "Romszdal" #?
+#SAME 2753 #?
+2754 = "La Mancsa" #?
+2755 = "Szoria" #?
+2756 = "Welaiták"
+#SAME 2757 #?
+2758 = "Illubabor" #?
+#SAME 2759
+2760 = "Hadiyák"
+2761 = "Arszi" #?
+#SAME 2762 #?
+2763 = "Aszosza" #?
+2764 = "Aszaita" #?
+2765 = "Aszeb" #?
+#SAME 2766 #?
+2767 = "Enderta" #?
+#SAME 2768 #?
+2769 = "Laszta" #?
+2770 = "Agau" #?
+2771 = "Szimen" #?
+2772 = "Dembija" #?
+#SAME 2773 #?
+2774 = "Kiszmajo" #?
+2775 = "Merka" #?
+2776 = "Afgoje" #?
+2777 = "Bardera" #?
+2778 = "Varder" #?
+2779 = "Afder" #?
+2780 = "Beledvejne" #?
+2781 = "Gedo" #?
+2782 = "Varsejh" #?
+2783 = "Hobjo" #?
+2784 = "Galkajo" #?
+2785 = "Elbur" #?
+2786 = "Bandar Kasszim" #?
+2787 = "Hamaszien" #?
+2788 = "Hafun" #?
+2789 = "Laszkoraj" #?
+2790 = "Szanag" #?
+#SAME 2791 #?
+2792 = "Togder" #?
+2793 = "Hargeisza" #?
+2794 = "Brava" #?
+2795 = "Mereg" #?
+#SAME 2796 #?
+2954 = "Dzserba"
+2955 = "Ingolstadt"
+#SAME 2956
+2797 = "Sendi" #?
+2798 = "Szoba" #?
+2799 = "Szennar" #?
+2800 = "Kuszti"
+#SAME 2801 #?
+#SAME 2802 #?
+2957 = "Radasbona"
+2958 = "Osztruda" #?
+2959 = "Tarnó"
+2960 = "Újszandec"
+2961 = "Ilyvó"
+#SAME 2962
+#SAME 2963 #?
+2964 = "Régi Örgrófság" #?
+#SAME 2965 #?
+2966 = "Gloguv" #?
+#SAME 2967 or Éger
+2968 = "Budvár"
+2969 = "Lebus" #?
+2970 = "Királyvárad"
+2971 = "Hoja" #?
+2972 = "Paderborn"
+#SAME 2973
+#SAME 2974 #?
+2975 = "Kleve"
+#SAME 2976
+2977 = "Urbino"
+2978 = "Arecco" #?
+2979 = "Novara"
+2980 = "Lukka" #?
+2981 = "Monferrat" #?
+2982 = "Szirakó"
+2983 = "Szalerno" #?
+2984 = "Kozenca" #?
+2985 = "Kapitanata" #?
+2986 = "Kalyari" #?
+2987 = "Urzsely" #?
+#SAME 2988
+2989 = "Rióha" #?
+#SAME 2990
+2991 = "Forkalkje" #?
+2992 = "Albenga"
+2993 = "Ukkermark" #?
+2994 = "Greifswald"
+2995 = "Stolp" #?
+2996 = "Wismar"
+2997 = "Tuhola" #?
+2998 = "Bodzavásár"
+2999 = "Hormuz"
+3000 = "Nissa"
+3001 = "Szkopje"
+3002 = "Szarajevó"
+3003 = "Évia"
+4020 = "Komore-szigetek" #?
+4033 = "Gadarif" #?
+#SAME 4049 #?
+4078 = "Majumba" #?
+4079 = "Kabinda" #?
+4080 = "Zaire" #?
+4110 = "Déli földet"
+4111 = "Szentonzs" #?
+4112 = "Kaor" #?
+#SAME 4113
+4114 = "Jokkmokk"
+4115 = "Mozir"
+#SAME 4116
+4117 = "Bezseck" #?
+4118 = "Kork" #?
+4119 = "Slajgo" #?
+4120 = "Kilder" #?
+4121 = "Ulszter" #?
+4122 = "Senkurszk"
+4123 = "Tampere"
+4124 = "Karélia" #?
+#SAME 4125
+#SAME 4126
+4127 = "Torda"
+4128 = "Királyföld" # Szászföld, Szászok földje
+4129 = "Vim"
+4130 = "Szomerszet" #?
+4141 = "Ditmars" #?
+4142 = "Kelet-Jütland"
+4143 = "Kelet-Fold" #?
+4144 = "Bratszberg" #?
+4145 = "Agder"
+4147 = "Rosztov"
+#SAME 4148
+#SAME 4149
+#SAME 4150
+4151 = "Inari"
+4152 = "Kajani" #?
+4158 = "Dzsandzsiro" #?
+4163 = "Elfszborg" #?
+4164 = "Dalia" #?
+4165 = "Krisztianstad" #?
+4166 = "Szmoland" #?
+4171 = "Eberku" #?
+4173 = "Szerém"
+4174 = "Duránc"
+4175 = "Kadar"
+4176 = "Branicsevo" #?
+4236 = "Trencsén"
+4237 = "Alamóc"
+#SAME 4238
+4239 = "Nándorfehérvár" #Lándorfejérvár, Fehérvár
+#SAME 4240
+4241 = "Kesz" #?
+#SAME 4242
+4243 = "Toropec" #?
+4244 = "Trubcsevszk" #?
+#SAME 4245 #?
+4246 = "Msztiszlav" #?
+4247 = "Ovrucs"
+4248 = "Kasin" #?
+4249 = "Zubcov" #?
+#SAME 4250
+4251 = "Mozsajsk" #?
+#SAME 4252
+4253 = "Jurjev" #?
+4254 = "Sztarodub" #?
+4255 = "Pronszk" #?
+4256 = "Uszolszk" #?
+4257 = "Mezeny"
+4258 = "Onyega"
+4259 = "Velszk"
+4260 = "Visni Volocsok" #?
+4261 = "Usztyuzsna" #?
+#SAME 4262 #?
+4263 = "Szoligalics"
+4264 = "Tetyusi" #?
+4265 = "Cselni" #?
+4266 = "Glazov"
+4267 = "Bulgar"
+4268 = "Akaba"
+4269 = "Vadzsh" #?
+4270 = "Azrak" #?
+4271 = "Szuvajda" #?
+4272 = "Dzsauf" #?
+4277 = "Taif" #?
+4278 = "Kunfuda" #?
+#SAME 4279 #?
+4280 = "Taiz" #?
+4281 = "Damar" #?
+4282 = "Szada" #?
+4283 = "Sihr" #?
+4284 = "Ghaida" #?
+4285 = "Burajmi"
+4286 = "Szúr" #?, Kelet-Omán?
+4287 = "Ibra" #?
+4288 = "Kurna" #?, Arab Partvidék
+4289 = "Sustar"
+4290 = "Hovejze" #?
+4291 = "Kazanija" #?
+4292 = "Merida" #?
+4293 = "Erbíl"
+4294 = "Szulejmánijja"
+4295 = "Kefa" #?
+4296 = "Bitlisz" #?
+4297 = "Emesza"
+4298 = "Antep"
+4299 = "Semaha" #?
+4300 = "Mejane" #?
+#SAME 4301
+4302 = "Darojnk" #?, Bajazit?
+4303 = "Olty" #?
+4304 = "Hoj" #?
+4305 = "Seki" #?
+4306 = "Kumuh" #?
+4307 = "Fehér Palota"
+4308 = "Laodikeia"
+4309 = "Tralleisz"
+4310 = "Tefrika" #?
+4311 = "Nikápoly" #?
+4312 = "Dorylaion"
+4313 = "Gangra" #?
+4314 = "Jusztinianápoly" #?
+4315 = "Eudokia" #?
+4316 = "Kelet-Egyiptomban"
+4317 = "A tó"
+4318 = "Afroditápoly" #?
+4319 = "Latápoly" #?
+4320 = "Girga" #?
+4323 = "Faráfra"
+4324 = "Gurian" #?
+4325 = "Szarahsz" #?
+4326 = "Nisapur" #?
+4327 = "Dzsaszk" #?
+4329 = "Fasza" #?
+#SAME 4330 #?
+#SAME 4331 #?
+4332 = "Sziraf" #?
+4334 = "Tabasz" #?
+4335 = "Kasan" #?
+#SAME 4336 #?
+4337 = "Szave" #?
+4338 = "Szoltánije"
+4339 = "Rast"
+4340 = "Asztara" #?
+4341 = "Szári"
+#SAME 4342 #?
+#SAME 4343 #?
+4344 = "Zöld Város"
+4345 = "Szaidabad" #?
+
+4361 = "Dzsedburg" #?
+4362 = "Damfrisz" #?
+4363 = "Argajl" #?
+4364 = "Belsö Hebridák" #?
+4365 = "Man"
+4366 = "Montgomery" #?
+#SAME 4367
+4368 = "Szkarboro" #?
+4369 = "Karmarthen" #?
+4370 = "Kembridzs" #?
+4371 = "Szasszex" #?
+4372 = "Koventri" #?
+4373 = "Devon"
+4374 = "Dorszet" #?, Dorcseszter?
+4375 = "Cseszter" #?
+4376 = "Leszter" #?
+4377 = "Ormond" #?
+4378 = "Deszmond" #?
+4379 = "Belországi" #?
+4380 = "Danigól"
+4381 = "Oversztiht" #?
+4382 = "Groningen"
+4383 = "Hága"
+4384 = "Ren" #?
+4385 = "Kotanten" #?
+4386 = "Alsó-Puatu" #?, Vandeja?
+4387 = "Angulem" #?
+4388 = "Sartr" #?
+4389 = "Tur" #?
+4390 = "Trua" #?
+4391 = "Vivjé" #?
+4392 = "Oszér" #?

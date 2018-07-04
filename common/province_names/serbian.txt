@@ -1,0 +1,253 @@
+60 = "Gornja Lužica"
+#SAME 73
+76 = "Salcburg" #Solnograd? Slangrad?
+107 = "Breša"
+108 = "Verona"
+110 = "Trident"
+111 = "Furlanija"
+112 = "Mleci" #Venecija
+128 = "Koruška"
+129 = "Kranjska"
+#SAME 130
+#SAME 131
+132 = "Štajerska"
+133 = "Linc"
+134 = "Bec"
+135 = "Šopron"
+#SAME 136
+#SAME 137
+#SAME 138
+#SAME 139
+#SAME 140
+#SAME 141
+142 = "Krf"
+143 = "Valona"
+144 = "Epir"
+145 = "Moreja"
+146 = "Atina"
+147 = "Tesalija"
+148 = "Solun"
+149 = "Drinopolje"
+150 = "Nikopolj"
+151 = "Carigrad"
+#SAME 152
+153 = "Pešta"
+154 = "Nove Zamki"
+155 = "Bekeš"
+156 = "Temišvar"
+157 = "Krišana"
+158 = "Moriš"
+#SAME 159
+160 = "Mala Vlaška"
+161 = "Trgovište"
+162 = "Košice"
+163 = "Krit"
+164 = "Kikladi"
+261 = "Galic"
+262 = "Krakov"
+263 = "Racibož"
+264 = "Vroclav"
+#SAME 265
+266 = "Prag"
+267 = "Plzenj"
+268 = "Moldavija"
+284 = "Krim"
+285 = "Feodosija"
+286 = "Azov"
+287 = "Kubanj"
+316 = "Nikomedija"
+317 = "Brusa" #Nikeja
+318 = "Smirna"
+319 = "Karija"
+320 = "Rodos"
+321 = "Kipar"
+322 = "Koteon" #?
+323 = "Konija"
+324 = "Laranda"
+325 = "Paflagonija"
+326 = "Angora" # Galatija
+327 = "Kilikija"
+#SAME 328
+329 = "Sebastija" #?
+330 = "Trapezunt"
+331 = "Feodosiopolj" #?
+332 = "Germanikeja" #?, Maraš
+341 = "Tunis"
+353 = "Tatavin" #?
+354 = "Tripoli"
+355 = "Sirt"
+356 = "Kirenajka"
+357 = "Derna"
+358 = "Aleksandrija"
+359 = "Fajum"
+360 = "Luksor"
+361 = "Kairo"
+362 = "Rozeta"
+363 = "Damijeta"
+364 = "Gaza"
+365 = "Sinaj"
+377 = "Alep"
+378 = "Tripoli"
+379 = "Jerusalim"
+380 = "Karak"
+381 = "Adžlun"
+382 = "Damask"
+#SAME 383
+405 = "Palmira"
+407 = "Raka"
+411 = "Mosul"
+#SAME 416
+417 = "Lahidžan" #?
+418 = "Amida"
+419 = "Jerevan"
+420 = "Gendže"
+421 = "Širvan" #?
+422 = "Imeretija"
+423 = "Tiflis"
+424 = "Ardabil"
+425 = "Derbent"
+#SAME 426
+462 = "Mingrelija" #?
+1231 = "Sijena"
+1233 = "Harga" #?
+#SAME 1318
+1756 = "Besarabija"
+1763 = "Donja Lužica"
+#SAME 1764
+1765 = "Sofija"
+#SAME 1766
+#SAME 1767
+1768 = "Lijenc"
+1769 = "Gorica"
+1771 = "Rudne gore"
+1772 = "Požun"
+1773 = "Ahaja"
+1774 = "Trevizo"
+#SAME 1826
+#SAME 1827
+#SAME 1828
+#SAME 1831
+1846 = "Amasija" #?
+1848 = "Sparta"
+1849 = "Hama"
+1853 = "Kostur"
+1854 = "Akra"
+1855 = "Sidon"
+1856 = "Abhazija"
+1863 = "Gradec"
+1864 = "Šomod"
+#SAME 1951
+1952 = "Maramureš"
+1953 = "Debrecin" # Sabolc
+1954 = "Vojvodina"
+2195 = "Adigeja"
+2196 = "Gurija"
+2202 = "Karabah"
+2203 = "Kahetija"
+2204 = "Kars"
+2205 = "Nahcivan"
+2206 = "Urmija"
+#SAME 2207
+2212 = "Zandžan"
+2215 = "Kazvin"
+2296 = "Pegaj" #?, Abidos
+2297 = "Magnesija" #?
+2298 = "Ataleja"
+2299 = "Bitinija"
+2300 = "Kapadokija" #Tavija?
+2301 = "Cezareja"
+2302 = "Seleukija" #?, Mersin
+2303 = "Malatija" #?
+2304 = "Haldija" #?
+2305 = "Akilisena" #?
+2306 = "Muš"
+#SAME 2307
+2308 = "Edesa"
+2309 = "Singara" #?
+2313 = "Antiohija"
+2314 = "Dajr ez Zaur"
+2315 = "Suec"
+2316 = "Tanta"
+2317 = "Minja"
+2318 = "Severni oaze"
+#SAME 2319
+2320 = "Ras-Garib" #?
+2321 = "Kusejr" #?
+#SAME 2325
+2326 = "Bardija" #?
+2327 = "Maan" #?
+2328 = "Dedan" #
+2348 = "Hios"
+2405 = "Bender" #Benderi, Tigina
+2410 = "Teodoro"
+2447 = "Tamanj" #?
+2451 = "Misurata"
+2452 = "Zuara"
+2453 = "Sfaks"
+2454 = "Kef" #?
+2455 = "Bizerta"
+2473 = "Sus"
+#SAME 2746
+#SAME 2750
+2954 = "Džerba" #?
+2960 = "Novi Sonc"
+2961 = "Lavov"
+2966 = "Glogov"
+2967 = "Heb"
+2968 = "Budjejovice"
+2970 = "Kraljicin Zamak"
+#SAME 2998
+#SAME 3000
+3001 = "Skoplje"
+#SAME 3002
+3003 = "Evbeja"
+4125 = "Solnok"
+4126 = "Segedin"
+#SAME 4127
+4128 = "Erdelj"
+#SAME 4173
+4174 = "Drac"
+4175 = "Skadar"
+#SAME 4176
+4236 = "Trencin"
+4237 = "Olomouc"
+4238 = "Legnjica"
+#SAME 4239
+4240 = "Stolni Beograd"
+4268 = "Akaba"
+4269 = "Vadžh" #?
+4270 = "Azrak" #?
+4271 = "Suvajda" #?
+4272 = "Džauf"
+4292 = "Mardin"
+4293 = "Erbil"
+4295 = "Kefa" #?
+4296 = "Bitlis"
+4297 = "Emesa"
+4298 = "Antep"
+4299 = "Šemaha"
+4300 = "Mijana" #?
+4301 = "Kartlija"
+4302 = "Darojnk" #?, Bajazit?
+4303 = "Olti" #?
+4304 = "Hoj"
+4305 = "Šaki"
+4307 = "Beli Dvor" #?
+4308 = "Laodikija"
+4309 = "Tral" #?
+4310 = "Tefrika" #?
+4311 = "Nikopolj"
+4312 = "Dorilej" #?
+4313 = "Gangra"
+4314 = "Justinianopolj" #?
+4315 = "Evdokija" #?
+4316 = "Istocni Egipat"
+4317 = "Jezero"
+4318 = "Afroditopolj" #?
+4319 = "Latopolj" #?
+4320 = "Girga"
+4323 = "Farafra"
+4338 = "Sultanija"
+4339 = "Rašt"
+#SAME 4340 #?
+#SAME 4341

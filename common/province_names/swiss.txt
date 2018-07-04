@@ -1,0 +1,9 @@
+68 = "Memmenge"
+#SAME 69
+#SAME 165
+#SAME 166
+1867 = "Wadt"
+#SAME 1869
+#SAME 1870
+1871 = "Wallis" #? #Standard German used
+#SAME 1873

@@ -1,0 +1,1140 @@
+1 = "Sztokholm"
+2 = "Wschodnia Gotlandia" #?
+#SAME 3
+#SAME 4 #?
+5 = "Wermelandia"
+#SAME 6
+#SAME 7
+#SAME 8 #?
+9 = "Helsingia" #?
+10 = "Jemtland" #?
+11 = "Zachodnia Botnia" #?
+12 = "Zelandia"
+13 = "Szlezwik"
+14 = "Fionia"
+15 = "Zachodnia Jutlandia"
+16 = "Bohuslen" #?
+#SAME 17
+18 = "Laponia"
+19 = "Wschodnia Botnia" #?
+20 = "Triondelag" #?
+21 = "Nordland"
+22 = "Oppland" #?
+#SAME 23 #?
+24 = "Stawanger" #?
+25 = "Gotlandia"
+#SAME 26
+27 = "Abo" #?
+29 = "Tawastia" #?
+30 = "Wyborg"
+31 = "Sawonia"
+32 = "Korela"
+33 = "Orieszek"
+34 = "Ingria"
+35 = "Ozylia"
+36 = "Rewal"
+37 = "Liwlandia" #Inflanty
+38 = "Ryga"
+39 = "Goldynga"
+40 = "Klajpeda"
+41 = "Królewiec"
+42 = "Warmia"
+43 = "Gdansk"
+44 = "Bogbór"
+45 = "Lubeka"
+46 = "Roztoka"
+47 = "Strzalów"
+48 = "Kolobrzeg"
+#SAME 49
+#SAME 50
+51 = "Rypin"
+52 = "Dziewin"
+53 = "Luneburg" #?
+54 = "Sztade" #?
+55 = "Oldenburg"
+56 = "Osnabriuk" #?
+57 = "Brunszwik"
+58 = "Desawa"
+59 = "Wittenberga"
+60 = "Milsko" # Górne Luzyce
+61 = "Drezno"
+62 = "Lipsk"
+63 = "Jarobród" # Turyngia
+64 = "Landshut"
+65 = "Monachium"
+66 = "Bamberg"
+67 = "Norymberga"
+#SAME 68
+69 = "Kostnica" # Górna Szwabia
+70 = "Wirtembergia"
+71 = "Ansbach"
+72 = "Bryzgowia"
+73 = "Tyrol"
+74 = "Badenia"
+75 = "Alzacja"
+76 = "Solnogród"
+77 = "Heidelberg"
+78 = "Moguncja"
+79 = "Wiurcburg" #?
+80 = "Trewir"
+81 = "Hesja"
+82 = "Westfalia"
+#SAME 83
+#SAME 84
+85 = "Kolonia"
+86 = "Monastyr"
+87 = "Kale" #?
+88 = "Artezja" #?, Arras
+89 = "Pikardia"
+90 = "Flandria"
+91 = "Heno" #?
+92 = "Bruksela" #Brabancja
+93 = "Lutych" #?
+94 = "Luksemburg"
+#SAME 95
+96 = "Zelandia"
+#SAME 97 #Holandia
+#SAME 98
+99 = "Geldria"
+100 = "Fryzja"
+101 = "Genua"
+102 = "Nicea"
+#SAME 103
+104 = "Mediolan"
+105 = "Parma"
+106 = "Modena"
+107 = "Bresza" # Brescia
+108 = "Werona"
+#SAME 109
+110 = "Trydent"
+111 = "Friuli"
+112 = "Wenecja"
+113 = "Ferrara"
+114 = "Romania"
+115 = "Piza"
+116 = "Florencja"
+#SAME 117
+118 = "Rzym"
+119 = "Ankona"
+120 = "Abruzja"
+121 = "Neapol"
+122 = "Salento"
+123 = "Kalabria"
+124 = "Mesyna"
+125 = "Palermo"
+#SAME 126
+127 = "Sassari"
+128 = "Karyntia"
+129 = "Kraina"
+130 = "Istria"
+131 = "Zagrzeb"
+132 = "Styria"
+133 = "Linec"
+134 = "Wieden"
+135 = "Szopron"
+136 = "Dalmacja"
+137 = "Dubrownik"
+138 = "Czarnogóra"
+139 = "Hercegowina"
+140 = "Bosnia"
+141 = "Smederewo" #?
+142 = "Korfu"
+143 = "Wlora"
+144 = "Epir"
+145 = "Morea"
+146 = "Ateny"
+147 = "Tesalia" 
+148 = "Macedonia"
+149 = "Adrianopol"
+150 = "Tyrnowo" # Nikopol
+151 = "Carogród" # Konstantynopol
+152 = "Warazdin" #?
+153 = "Peszt"
+154 = "Hont"
+155 = "Bekesz" #?
+156 = "Banat"
+157 = "Kriszana"
+158 = "Marusza"
+159 = "Drysta"
+160 = "Mala Woloszczyzna" # Oltenia
+161 = "Tyrgowiszte" #?
+162 = "Zemplin"
+163 = "Kreta"
+164 = "Cyklady" #Naksos
+165 = "Berno"
+166 = "Szwic" #?
+167 = "Ruan" #?, Wapno?
+168 = "Kan" #?, Normandia
+169 = "Armoryka"
+170 = "Finister" #?
+171 = "Wan" #?
+172 = "Nant" #?
+173 = "Bajonna"
+174 = "Akwitania"
+175 = "Armaniak"
+176 = "Bearn"
+177 = "Men"
+178 = "Andegawenia"
+#SAME 179
+180 = "Puatje" #?, Górne Puatu?
+181 = "Retel" #?
+182 = "Walezy" #or Walezjusze?
+183 = "Paryz"
+184 = "Orleania"
+185 = "Nemur" #?
+#SAME 186 # Szampania
+187 = "Bar"
+188 = "Trzy Biskupstwa" #Mec?
+189 = "Lotaryngia"
+190 = "Burbonia" #Mulen
+191 = "Newer" #?
+192 = "Dyzon" #?, Burgundia
+193 = "Wolne Hrabstwo"
+194 = "Perigor" #?
+195 = "Limuzen" #?
+196 = "Tuluza"
+197 = "Perpinjan" #?, Russiljon?
+198 = "Rodez" #Ruerg?
+199 = "Owernia"
+200 = "Monpelje" #?, Langwedocja
+201 = "Prowansja"
+202 = "Awinion" #?
+203 = "Lion" #?
+204 = "Delfinat"
+205 = "Sabaudia"
+206 = "Galicja"
+207 = "Asturia"
+208 = "León" #?
+209 = "Biskaja" #?
+210 = "Nawarra"
+211 = "Pireneje"
+#SAME 212
+#SAME 213
+214 = "Saragossa"
+215 = "Stara Kastylia"
+216 = "Salamanka"
+217 = "Madryt"
+218 = "Badachos" #?
+#SAME 219
+220 = "Walencja"
+221 = "Murcja"
+222 = "Almeria"
+223 = "Grenada"
+224 = "Sewilla"
+225 = "Kordoba"
+#SAME 226
+227 = "Lizbona"
+228 = "Bejra" #?
+229 = "Beza" #?
+230 = "Algarwe" #?
+#SAME 231
+232 = "Braganca" #?
+234 = "Winczester" #?
+233 = "Kornwalia"
+#SAME 235
+236 = "Londyn"
+237 = "Oksford"
+238 = "Esseks" #?
+239 = "Gloster" #?
+240 = "Salop" #Mercja
+241 = "Glamorgan"
+#SAME 242
+243 = "Linkoln" #?
+244 = "Lankaster" #?
+245 = "Jork" #?
+246 = "Nortumbria"
+247 = "Kumbria"
+248 = "Lotian" #?
+249 = "Er" #?
+250 = "Pert" #?
+251 = "Aberdyn" #?
+252 = "Inverness"
+253 = "Hebrydy Zewnetrzne"
+#SAME 254
+#SAME 255
+#SAME 256
+#SAME 257
+#SAME 258
+#SAME 259
+#SAME 260
+261 = "Halicz"
+#SAME 262
+263 = "Racibórz"
+264 = "Wroclaw"
+265 = "Berno"
+266 = "Praga"
+267 = "Pilzno"
+268 = "Moldawia"
+#SAME 269
+270 = "Troki"
+271 = "Zmudz"
+272 = "Wilno"
+273 = "Inflanty"
+274 = "Psków"
+275 = "Polock"
+#SAME 276
+277 = "Brzesc"
+#SAME 278
+279 = "Wolyn"
+280 = "Kijów"
+281 = "Podole"
+282 = "Jedysan" # Oczaków
+283 = "Zaporoze"
+284 = "Krym"
+285 = "Kaffa" # Teodozja
+286 = "Azow"
+287 = "Kuban" # Jekaterynodar
+288 = "Cerkask" #"Ust-Miedwiedickaja"
+289 = "Czernichów"
+290 = "Poltawa"
+291 = "Charków"
+292 = "Mohylew"
+#SAME 293
+294 = "Twer"
+295 = "Moskwa"
+#SAME 296
+297 = "Briansk"
+#SAME 298
+299 = "Woronez"
+#SAME 300
+301 = "Riazan"
+302 = "Tambow"
+303 = "Saratów"
+#SAME 304
+305 = "Perm"
+306 = "Nizny Nowogród"
+307 = "Wlodzimierz"
+308 = "Jaroslaw"
+309 = "Oloniec"
+310 = "Nowogród"
+311 = "Cholm"
+312 = "Bieloziero"
+#SAME 313 #?
+314 = "Wologda"
+315 = "Finnmark"
+316 = "Nikomedia"
+317 = "Brusa" #Nicea
+318 = "Smyrna"
+319 = "Karia"
+320 = "Rodos"
+321 = "Cypr"
+322 = "Koteon" #?
+323 = "Ikonia" #?
+324 = "Laranda"
+325 = "Paflagonia"
+326 = "Angora" # Galacja
+327 = "Cylicja"
+328 = "Synopa"
+329 = "Sebasta"
+330 = "Trapezunt"
+331 = "Teodosiopol" #?
+332 = "Germanikea"
+333 = "Baleary"
+334 = "Tanger"
+335 = "Melilla"
+#SAME 336 #Tilimsan
+337 = "Oran"
+338 = "Algier"
+339 = "Bidzaja"
+340 = "Konstantyna"
+341 = "Tunis"
+342 = "Kasablanka" #?
+343 = "Fez"
+344 = "Marrakesz"
+345 = "Safi"
+#SAME 346
+#SAME 347
+#SAME 348
+349 = "Figig" #?
+350 = "Laguat" #?
+351 = "Biskira"
+352 = "Kafsa"
+353 = "Tatawin"
+354 = "Trypolis"
+355 = "Syrta"
+356 = "Cyrenajka"
+357 = "Darna"
+358 = "Aleksandria"
+359 = "Fajum"
+360 = "Luksor"
+361 = "Kair"
+362 = "Rosetta"
+363 = "Damietta"
+364 = "Gaza"
+365 = "Synaj"
+366 = "Kanary"
+367 = "Azory"
+368 = "Madera"
+369 = "Orkady"
+372 = "Tiron" #?
+373 = "Dublin" #Pal?
+374 = "Lenster" #?
+375 = "Limerik" #?
+376 = "Konnacht" #?
+377 = "Aleppo"
+378 = "Trypolis"
+379 = "Jerozolima"
+380 = "Karak"
+381 = "Adzlun"
+382 = "Damaszek"
+#SAME 383
+384 = "Medyna"
+385 = "Mekka"
+386 = "Bisza"
+387 = "Mokka"
+388 = "Aden"
+389 = "Mukalla"
+390 = "Sana"
+391 = "Nadzran"
+394 = "Katif"
+395 = "Katar"
+396 = "Bahrajn"
+397 = "Bani Jas" #?
+398 = "Szardza"
+399 = "Batina"
+400 = "Maskat"
+#SAME 401
+402 = "Kiszn" #?
+#SAME 403
+#SAME 404 #?
+405 = "Palmyra"
+406 = "Hadisa"
+407 = "Rakka"
+408 = "Basra"
+409 = "Kerbela"
+410 = "Bagdad"
+411 = "Mosul"
+412 = "Ahwaz"
+413 = "Chorramabad"
+#SAME 414
+415 = "Kirkuk"
+416 = "Tebryz"
+417 = "Lahidzan"
+418 = "Amida"
+419 = "Erywan"
+420 = "Gandza"
+421 = "Szyrwan"
+422 = "Imeretia"
+423 = "Tyflis"
+424 = "Ardabil"
+425 = "Derbent"
+#SAME 426
+427 = "Hekatompylos" #?
+428 = "Teheran"
+429 = "Ispahan"
+430 = "Buszehr"
+#SAME 431 #?
+#SAME 432
+433 = "Jazd"
+434 = "Kuhistan" #?
+435 = "Zarandz"
+436 = "Birdzand"
+437 = "Kopet-dag"
+438 = "Kara-kum"
+439 = "Mangyszlak"
+440 = "Nukus"
+441 = "Chiwa"
+442 = "Buchara"
+443 = "Ustiurt"
+444 = "Czardzuj"
+#SAME 445
+#SAME 446
+#SAME 447
+448 = "Gazni" #?
+449 = "Gor" #?
+450 = "Balch"
+451 = "Kabul"
+452 = "Badachszan" #?
+453 = "Karszy"
+454 = "Samarkanda"
+455 = "Kyzyk-kum"
+456 = "Turkiestan"
+457 = "Taszkent"
+458 = "Kokand"
+460 = "Uzgen"
+462 = "Megrelia"
+463 = "Majkop"
+464 = "Astrachan"
+465 = "Gurjew"
+466 = "Kamyszyn" # Czornyj Jar
+467 = "Borisoglebsk"
+468 = "Manycz"
+469 = "Pustynia Ryn"
+470 = "Kalmyków" #?
+471 = "Aralsk"
+472 = "Aktiubinsk"
+473 = "Samara"
+474 = "Jaik"
+475 = "Ufa"
+517 = "Surat"
+522 = "Delhi"
+575 = "Gwadar"
+576 = "Kalat"
+577 = "Kweta"
+578 = "Peszawar"
+596 = "Malakka"
+667 = "Kanton"
+668 = "Makau"
+#SAME 767
+770 = "Braslaw"
+771 = "Witebsk"
+788 = "Angosze" #?
+789 = "Zululandia" #?
+#SAME 833 #?
+#SAME 1077
+1078 = "Jekaterynburg"
+1079 = "Chlynow"
+1081 = "Symbirsk"
+1082 = "Kazan"
+1083 = "Wietluga"
+1085 = "Tasmania"
+1096 = "Wyspy Zielonego Przyladka"
+1097 = "Fernando Po"
+1098 = "Wyspa Swietej Heleny"
+1099 = "Sokotra"
+#SAME 1110
+1111 = "Arkin"
+1112 = "Tarariza"
+1113 = "Dakar"
+1114 = "Gabu"
+1118 = "Góry Lwa" # Gór Lwich?
+1119 = "Wybrzeze Zbóz"
+1126 = "Wybrzeze Kosci Sloniowej"
+1127 = "Tuat" #?
+1128 = "Taudeni"
+#SAME 1129
+1130 = "Tadmekka" #?
+1132 = "Timbuktu"
+1139 = "Zlote Wybrzeze"
+1141 = "Hwyda" #?
+#SAME 1147
+1151 = "Bonny"
+1163 = "Kalabar" #?
+1164 = "Kamerun"
+#SAME 1165
+1166 = "Loango"
+1167 = "Luanda"
+#SAME 1172
+#SAME 1173
+1174 = "Zatoka Wielorybów" #?
+1175 = "Maly Namakwaland" #?
+1177 = "Przyladek Dobrej Nadziei"
+#SAME 1179
+1180 = "Dzikie Wybrzeze"
+#SAME 1181
+1182 = "Zatoka Lagunowa"
+1183 = "Injambane" #?
+#SAME 1186
+1192 = "Kelimane" #?
+1195 = "Mozambik"
+#SAME 1196
+#SAME 1197
+#SAME 1198
+#SAME 1199 #?
+#SAME 1200
+#SAME 1201
+#SAME 1202
+#SAME 1203
+#SAME 1204
+1205 = "Mogadiszu"
+1206 = "Kardo" #?
+1207 = "Ogaden"
+1208 = "Degehabur"
+#SAME 1209
+#SAME 1210 #?
+1211 = "Harer"
+1212 = "Zajla"
+1213 = "Szewa" #?
+#SAME 1214 #?
+1215 = "Tadzura"
+1216 = "Tegali" #?
+1217 = "Fazokl" #?
+#SAME 1218 #?
+1219 = "Darfur"
+1220 = "Bajuda" #?
+1221 = "El-Obejd" #?
+1222 = "Dzazira"
+1223 = "Godzam" #?
+#SAME 1224
+#SAME 1225
+1226 = "Bedza"
+#SAME 1227
+1228 = "Dongola"
+1229 = "Barbar"
+1230 = "Massawa"
+1231 = "Siena" #?
+#SAME 1232
+1233 = "Charga"
+1234 = "Kasr Ibrym" #?
+1247 = "Korsyka"
+1306 = "Swiety Tomasz"
+1318 = "Spisz"
+1742 = "Górna Geldria" #Limburgia
+1743 = "Kambre" #?
+1744 = "Antwerpia"
+1745 = "Kantabria"
+#SAME 1746
+1747 = "Kaseres" #?
+1748 = "Chaen" #?
+1749 = "Kadyks"
+1750 = "Alikante" #?
+1751 = "Seuta" #?
+1752 = "Rzew"
+#SAME 1753
+#SAME 1754
+1755 = "Ustiug"
+1756 = "Besarabia"
+1757 = "Górny Palatynat"
+1758 = "Hanower"
+1759 = "Postapin"
+1760 = "Koblencja"
+1761 = "Palatynat"
+1762 = "Kassel"
+1763 = "Luzyce Dolne"
+#SAME 1764
+#SAME 1765
+1766 = "Kosowo"
+1767 = "Slawonia"
+1768 = "Linec" #?
+1769 = "Gorycja"
+1770 = "Marchia Wschodnia"
+1771 = "Rudawy"
+1772 = "Pozon"
+1773 = "Achaja"
+1774 = "Treviso"
+1775 = "Holsztyn"
+1776 = "Biala Karelia"
+1777 = "Kola"
+1778 = "Kasimow" # Nowy Nizowoj 
+#SAME 1826
+1827 = "Raszka" #?
+1828 = "Dolne Krawedzie"
+1831 = "Trawunia"
+1834 = "Dorpat"
+1841 = "Malbork"
+1842 = "Narwa"
+1846 = "Amazja"
+1848 = "Sparta"
+1849 = "Hama"
+1851 = "Koimbra" #?
+1853 = "Kastoria"
+1854 = "Akko"
+1855 = "Sydon"
+1856 = "Abchazja"
+1857 = "Lauenburg"
+1858 = "Szczecin"
+#SAME 1859
+#SAME 1860
+1861 = "Derby"
+1862 = "Kremona" #?
+1863 = "Grodziec"
+1864 = "Szomodz"
+1865 = "Gandawa"
+1866 = "Namur"
+1867 = "Wo" #?
+1868 = "Augsburg"
+1869 = "Zurych"
+1870 = "Swiety Gawel"
+1871 = "Wale" #?
+#SAME 1872
+1873 = "Gryzonia"
+1874 = "Brema"
+1875 = "Kuneo" #?
+#SAME 1876
+1877 = "Szarol" #?
+1878 = "Akwizgran"
+1879 = "Alanson" #?
+1880 = "Zuntgau" #?
+1882 = "Bona" #?
+1930 = "Alandy" #?
+1931 = "Fryzja Wschodnia"
+1933 = "Bari"
+1934 = "Lukania"
+1935 = "Mitawa"
+1936 = "Kowno"
+#SAME 1937
+#SAME 1938
+#SAME 1939
+#SAME 1940
+1941 = "Turów"
+1942 = "Zytomierz"
+1943 = "Winnica" # Braclaw
+1944 = "Czerkasy"
+1945 = "Siewierszczyzna"
+1951 = "Hunjad" #?
+1952 = "Marmarosz"
+1953 = "Debreczyn" # Sabolcz
+1954 = "Torontal" #?
+1955 = "Archangielsk" # Cholmogory
+#SAME 1956
+1957 = "Galicz"
+#SAME 1958
+1959 = "Torzok"
+1960 = "Ostrów" #?
+#SAME 1961
+1962 = "Kudymkar"
+1963 = "Troicko-Pieczorsk"
+#SAME 1964
+#SAME 1965
+1966 = "Czelabinsk"
+1967 = "Chodzent"
+1968 = "Kulab"
+1969 = "Suzak" #?
+1970 = "Pierowsk"
+1971 = "Carycyn"
+1972 = "Izewsk"
+1973 = "Urgencz"
+1974 = "Cherson"
+1978 = "Szetlandy"
+1979 = "Wyspy Owcze"
+#SAME 1981
+1982 = "Blekinge"
+#SAME 1983
+1984 = "Jutlandia Pólnocna"
+1985 = "Nerke" #?
+1988 = "Wyspa Wielkanocna"
+2024 = "Garowe" #?
+2025 = "Georgia Poludniowa"
+2030 = "Goa"
+2195 = "Soczi" # Noworosyjsk
+#SAME 2196
+2197 = "Piatigorsk"
+2198 = "Grozny"
+2199 = "Petrowsk"
+2201 = "Wladykaukaz"
+2202 = "Karabach"
+2203 = "Kachetia"
+2204 = "Kars"
+2205 = "Nachiczewan"
+2206 = "Urmia"
+2207 = "Maraghe"
+2208 = "Kizlar"
+2209 = "Ilam"
+2210 = "Kermanszah"
+2211 = "Ardalan" #?
+2212 = "Zandzan"
+2213 = "Kom"
+2214 = "Hyrkania"
+2215 = "Kazwin"
+2216 = "Semnan"
+2217 = "Jasudz"
+2218 = "Sziraz"
+2219 = "Bandar-e Lenge"
+#SAME 2220
+2221 = "Meszhed"
+#SAME 2222
+#SAME 2223 #?
+#SAME 2224
+2225 = "Bamian"
+2226 = "Dzalalabad"
+#SAME 2227
+2228 = "Majmana"
+2229 = "Bust"
+2230 = "Nimroz"
+#SAME 2231
+2232 = "Charan"
+2233 = "Czabahar"
+2234 = "Rafsandzan"
+2235 = "Sabzewar"
+2236 = "Bodznurd"
+2239 = "Gambia"
+2241 = "Gwinea"
+2242 = "Wybrzeze Pieprzowe"
+2258 = "Wybrzeze Przyladka"
+2290 = "Wybrzeze Niewolnicze"
+#SAME 2294
+2296 = "Pegaj" #?, Abydos
+2297 = "Magnesia"
+2298 = "Attalia"
+2299 = "Bitynia"
+2300 = "Kapadocja" #Tawia?
+2301 = "Cezarea"
+2302 = "Seleukia" #Mersin
+2303 = "Melitene"
+2304 = "Chaldia" #?
+2305 = "Arsinga"
+2306 = "Musz" #?
+2307 = "Wan"
+2308 = "Edessa"
+2309 = "Singara" #?
+#SAME 2310
+2311 = "Samawa"
+#SAME 2312 #?
+2313 = "Antiochia"
+2314 = "Dajr az-Zaur"
+2315 = "Suez"
+2316 = "Tanta"
+2317 = "Minja"
+2318 = "Nadmorskie Oazy" #?
+#SAME 2319
+2320 = "Ras Gharib" #?
+2321 = "Kusajr"
+#SAME 2322
+2323 = "Pustynia Nubijska"
+2324 = "Halaib" #?
+2325 = "Marsa Matruh"
+2326 = "Bardija"
+2327 = "Maan"
+2328 = "Dedan" #?
+2329 = "Janbu"
+2331 = "Dzudda"
+2332 = "Turuba" #?
+#SAME 2333 #?
+2340 = "Kuwejt"
+2341 = "Masira"
+2342 = "Centralny Oman" #?
+2343 = "Sajwun"
+2344 = "Marib"
+2345 = "Bejchan" #?
+2346 = "Dzizan"
+2347 = "Hufuf"
+2348 = "Chios"
+2349 = "Krasnowodzk"
+2350 = "Aschabad"
+2351 = "Irgiz"
+2352 = "Kazalinsk"
+2356 = "Czimkient"
+2362 = "Stary Urgencz"
+#SAME 2363 #?
+2364 = "Fergana"
+2365 = "Aleksandrow Gaj" #?
+2366 = "Ileck"
+2367 = "Glinianskaja"
+2370 = "Kungrad"
+2405 = "Tehinia"
+#SAME 2406
+2407 = "Perejaslaw"
+2408 = "Jelec"
+2409 = "Wioszenskaja" #?
+2410 = "Teodoro"
+2411 = "Kudak"
+2412 = "Melitopol"
+2413 = "Nowoczerkask"
+2414 = "Tichorieck"
+2415 = "Atkarsk"
+2416 = "Stawropol"
+2417 = "Elista"
+2418 = "Pokrowsk"
+2419 = "Syzran"
+2420 = "Orenburg"
+2421 = "Czystopol"
+2422 = "Czeboksary"
+2423 = "Alatyr"
+2424 = "Przemysl"
+2427 = "Bielojarskij"
+2444 = "Zlatoust"
+2445 = "Mangazeja"
+#SAME 2447 #Noworosyjsk
+#SAME 2448
+2449 = "Dzufra"
+2450 = "Ghadamis"
+2451 = "Misrata"
+2452 = "Zuwara"
+2453 = "Safakis"
+2454 = "Kaf"
+2455 = "Bizerta"
+2456 = "Tukkurt"
+2457 = "Mzab"
+#SAME 2458 #?
+2459 = "Titteri" #?
+#SAME 2460 #?
+#SAME 2461 #?
+2462 = "Uarsenis" #?
+#SAME 2463 #?
+#SAME 2464
+2465 = "Wadzda" #?
+2466 = "Dara"
+2467 = "Meknes"
+#SAME 2468 #?
+2469 = "Dukkala" #?
+2470 = "Haha" #?
+2472 = "Warkala"
+#SAME 2473
+2746 = "Widyn"
+2749 = "Tichwin"
+2750 = "Filipopol" #?
+2751 = "Kuenka" #?
+#SAME 2752
+#SAME 2753
+2754 = "La Mancza" #?
+#SAME 2755
+2756 = "Welajta" #?
+#SAME 2757 #?
+2758 = "Illubabor" #?
+#SAME 2759
+2760 = "Hadija"
+#SAME 2761 #?
+#SAME 2762 #?
+#SAME 2763
+2764 = "Asaita" #?
+2765 = "Asab"
+#SAME 2766
+2767 = "Enderta" #?
+#SAME 2768 #?
+#SAME 2769 #?
+2770 = "Agau" #?
+#SAME 2771
+2772 = "Dembija" #?
+#SAME 2773 #?
+2774 = "Kismaju"
+#SAME 2775
+2776 = "Afgoje" #?
+2777 = "Bardera" #?
+2778 = "Warder" #?
+2779 = "Afder" #?
+2780 = "Beledwejne" #?
+2781 = "Gedo" #?
+2782 = "Warszejch" #?
+2783 = "Hubja"
+2784 = "Galkajo" #?
+2785 = "Elbur" #?
+2786 = "Bandar Kasim"
+#SAME 2787 #?
+2788 = "Hafun" #?
+2789 = "Laskoraj" #?
+2790 = "Sanag" #?
+#SAME 2791
+2792 = "Togder" #?
+2793 = "Hargejsa"
+2794 = "Barawa" #?
+2795 = "Mereg" #?
+#SAME 2796 #?
+2797 = "Szendy" #?
+#SAME 2798
+2799 = "Sennar"
+2800 = "Kusti"
+#SAME 2801 #?
+#SAME 2802 #?
+2954 = "Dzerba"
+2955 = "Ingolsztad" #?
+2956 = "Sztrubina" #?
+2957 = "Ratyzbona"
+#SAME 2958
+#SAME 2959
+#SAME 2960
+2961 = "Lwów"
+2962 = "Równe"
+#SAME 2963
+2964 = "Stara Marchia"
+2965 = "Plawno" #?
+2966 = "Glogów"
+2967 = "Karlowe Wary" #Cheb
+2968 = "Budziejowice"
+#SAME 2969
+2970 = "Kralowy Hradec"
+2971 = "Choja" #?
+2972 = "Paderborn"
+#SAME 2973
+#SAME 2974
+2975 = "Klewe" #?
+#SAME 2976
+2977 = "Urbino"
+2978 = "Arecco" #?
+2979 = "Nowara" #?
+2980 = "Lukka"
+2981 = "Monferrat"
+2982 = "Syrakuzy"
+2983 = "Salerno"
+2984 = "Kozenca" #?
+2985 = "Kapitanata" #?
+2986 = "Kaljari" #?
+2987 = "Urzel" #?
+#SAME 2988
+2989 = "Riocha" #?
+#SAME 2990
+2991 = "Forkalkje" #?
+2992 = "Albenga"
+2993 = "Marchia Wkrzanska"
+2994 = "Wologoszcz"
+2995 = "Slupsk"
+2996 = "Wyszomierz"
+2997 = "Tuchola"
+2998 = "Buzeu" #?
+2999 = "Ormuz"
+3000 = "Nisz"
+3001 = "Skopie"
+3002 = "Sarajewo"
+3003 = "Ewia"
+4020 = "Komory"
+4033 = "Kadarif"
+#SAME 4049 #?
+4078 = "Majumba" #?
+4079 = "Kabinda"
+4080 = "Zair"
+4110 = "Poludniowa kraina"
+4111 = "Sentonz" #?
+4112 = "Kaor" #?
+4113 = "Uleaborg" #?
+4114 = "Jokkmokk"
+4115 = "Mozyrz"
+#SAME 4116
+4117 = "Biezeck"
+4118 = "Kork" #?
+4119 = "Slajgo" #?
+4120 = "Kilder" #?
+4121 = "Ulster"
+4122 = "Szenkursk"
+4123 = "Tampere"
+4124 = "Karelia"
+4125 = "Solnok" #?
+4126 = "Segedyn"
+#SAME 4127
+4128 = "Siedmiogród"
+4129 = "Stary Perm"
+4130 = "Somerset"
+4141 = "Dytmarsz" #?
+4142 = "Wschodnia Jutlandia"
+4143 = "Wschodny Fold" #?
+#SAME 4144
+4145 = "Agder"
+4147 = "Rostów"
+#SAME 4148
+4149 = "Koldynga"
+4150 = "Ewóra" #?
+4151 = "Inari" #?
+4152 = "Kajany" #?
+4158 = "Dzandziro" #?
+4163 = "Elfsborg" #?
+#SAME 4164
+4165 = "Kristianstad"
+4166 = "Smalandia"
+4171 = "Eberku" #?
+4173 = "Syrmia"
+4174 = "Dracz" #?
+4175 = "Szkodra"
+4176 = "Braniczewo" #?
+4236 = "Trenczyn"
+4237 = "Olomuniec"
+#SAME 4238
+4239 = "Bialogród"
+4240 = "Bialogród Królewski" # Bialogród Stoleczny
+4241 = "Kies"
+#SAME 4242
+4243 = "Toropiec"
+4244 = "Trubczewsk"
+4245 = "Wiazma"
+4246 = "Mscislaw"
+4247 = "Owrucz"
+4248 = "Kaszin"
+4249 = "Zubcow"
+#SAME 4250
+4251 = "Mozajsk"
+#SAME 4252
+4253 = "Jurjew" #?
+#SAME 4254
+#SAME 4255
+4256 = "Usolsk" #?
+#SAME 4257
+#SAME 4258
+4259 = "Wielsk"
+4260 = "Wysnij Woloczok"
+4261 = "Ustiuzna" #?
+#SAME 4262
+4263 = "Soligalicz"
+4264 = "Tetiuszi" #?
+4265 = "Czelny"
+4266 = "Glazów" #?
+4267 = "Bulgar"
+4268 = "Akaba"
+4269 = "Wadzch" #?
+4270 = "Azrak" #?
+4271 = "Suwajda" #?
+4272 = "Dzauf" #?
+4277 = "Taif" #?
+4278 = "Kunfuza" #?
+#SAME 4279 #?
+4280 = "Taiz" #?
+4281 = "Zamar"
+4282 = "Sada"
+4283 = "Szihr" #?
+4284 = "Ghajda"
+4285 = "Burajmi"
+#SAME 4286 or Wschodni Oman
+4287 = "Ibra"
+4288 = "Kurna" #Wybrzeze arabskie
+4289 = "Szusztar"
+4290 = "Howejze" #?
+4291 = "Kazanija" #?
+4292 = "Merida" #?
+4293 = "Irbil"
+4294 = "Sulajmanijja"
+4295 = "Kefa" #?
+4296 = "Bitlis"
+4297 = "Emesa"
+4298 = "Antep"
+4299 = "Szemacha"
+4300 = "Mejane" #?
+4301 = "Kartlia"
+4302 = "Darojnk" #?, Bajazit?
+4303 = "Olty" #?
+4304 = "Choj"
+4305 = "Szeki" #?
+4306 = "Kumuch" #?
+4307 = "Bialy Palac"
+4308 = "Laodycea"
+4309 = "Trally" #?
+4310 = "Tefryka" #?
+4311 = "Nikopol" #?
+4312 = "Dorilej" #?
+4313 = "Gangra" #?
+4314 = "Justinianopol" #?
+4315 = "Eudokia"
+4316 = "Wschodni Egipt"
+4317 = "Jezioro"
+4318 = "Afroditopol" #?
+4319 = "Latopol" #?
+4320 = "Dzirdza"
+4323 = "Farafira"
+4324 = "Górian" #?
+4325 = "Sarachs" #?
+4326 = "Niszapur"
+4327 = "Dzask" #?
+#SAME 4329
+#SAME 4330
+#SAME 4331
+#SAME 4332 #?
+#SAME 4334
+4335 = "Kaszan"
+#SAME 4336 #?
+4337 = "Sawe" #?
+4338 = "Soltanije"
+4339 = "Raszt"
+#SAME 4340
+#SAME 4341
+#SAME 4342 #?
+#SAME 4343
+4344 = "Zielone Miasto"
+#SAME 4345 #?
+
+4361 = "Dzedburg" #?
+4362 = "Damfris" #?
+4363 = "Argajl" #?
+4364 = "Hebrydy Wewnetrzne"
+4365 = "Man"
+4366 = "Montgomery" #?
+#SAME 4367
+4368 = "Skarboro" #?
+4369 = "Karmarten" #?
+4370 = "Kembridz" #?
+4371 = "Sasseks" #?
+4372 = "Koventry" #?
+4373 = "Dewon" #?
+4374 = "Dorset" #Dorczester?
+4375 = "Czester" #?
+4376 = "Lester" #?
+4377 = "Ormond" #?
+4378 = "Desmond"
+4379 = "Midlands"
+4380 = "Donegal"
+4381 = "Owersticht" #?
+4382 = "Groningen"
+4383 = "Haga"
+4384 = "Ren" #?
+4385 = "Kotanten" #?
+4386 = "Wandea" #Dolne Puatu?
+4387 = "Angulem" #?
+4388 = "Szartr" #?
+4389 = "Tur" #?
+4390 = "Trua" #?
+4391 = "Wiwje" #?
+4392 = "Oser" #?

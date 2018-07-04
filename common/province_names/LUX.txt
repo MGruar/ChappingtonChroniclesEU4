@@ -1,0 +1,12 @@
+#SAME 80
+93 = "Léck"
+#SAME 94
+#SAME 181
+183 = "Paräis"
+#SAME 186
+187 = "Bar"
+188 = "Dräi Bëscher"
+189 = "Loutrengen"
+#SAME 1742
+1866 = "Namouer"
+1878 = "Oochen"

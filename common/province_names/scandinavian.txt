@@ -1,0 +1,367 @@
+#cultures: danish, norwegian, swedish
+#SAME 1
+#SAME 3
+#SAME 4
+#SAME 6
+#SAME 7
+#SAME 8
+#SAME 9
+13 = "Slesvig"
+#SAME 14
+#SAME 15
+18 = "Lappland"
+#SAME 23
+#SAME 24
+#SAME 26
+#SAME 27
+28 = "Nyland"
+29 = "Tavastland"
+30 = "Viborg"
+31 = "Savolax"
+32 = "Kexholm"
+34 = "Ingermanland"
+37 = "Livland"
+#SAME 38
+39 = "Kurland"
+40 = "Memel"
+41 = "Königsberg"
+42 = "Ermland"
+43 = "Danzig"
+#SAME 46
+#SAME 47
+48 = "Kolberg"
+49 = "Nymark"
+#SAME 50
+51 = "Ruppin"
+52 = "Magdeburg"
+54 = "Stade"
+55 = "Oldenburg"
+56 = "Osnabryck"
+57 = "Brunsvig" #Dansk
+#SAME 58
+#SAME 59
+60 = "Oberlausitz"
+#SAME 61
+#SAME 62
+#SAME 63
+86 = "Münster"
+87 = "Kalen" #?
+88 = "Artesien" #?
+90 = "Flandern"
+92 = "Bryssel"
+#SAME 95
+96 = "Zeeland"
+#SAME 97
+#SAME 98
+99 = "Geldern"
+100 = "Friesland"
+168 = "Caen"
+233 = "Cornwall"
+234 = "Winchester"
+#SAME 235
+#SAME 236
+237 = "Oxford"
+#SAME 238
+239 = "Gloucester"
+240 = "Salop"
+241 = "Glamorgan"
+#SAME 242
+243 = "Lincoln"
+244 = "Lancaster"
+245 = "York"
+#SAME 246
+#SAME 247
+248 = "Lothian"
+249 = "Ayr"
+250 = "Perth"
+251 = "Aberdeen"
+252 = "Inverness"
+254 = "Posen"
+255 = "Kalisj" #?
+#SAME 256
+257 = "Varsjava"
+#SAME 258 #?
+259 = "Sandomir"
+#SAME 260
+261 = "Galitj"
+262 = "Krakau"
+263 = "Ratibor" #?
+264 = "Breslau"
+265 = "Brünn"
+266 = "Prag"
+267 = "Pilsen"
+268 = "Moldau" #?
+269 = "Podlasien" #?
+270 = "Traken"
+271 = "Samogitien"
+272 = "Vilna"
+273 = "Lettgallen"
+274 = "Pleskau" #?
+#SAME 275
+#SAME 276
+#SAME 277
+#SAME 278
+279 = "Volhynien"
+#SAME 280
+281 = "Podolien"
+282 = "Otjakov" #?
+283 = "Zaporozje"
+284 = "Krim"
+285 = "Kaffa"
+286 = "Azov"
+287 = "Kuban"
+288 = "Tjerkassk" #"Ust-Medveditskaja"?
+289 = "Tjernigov"
+#SAME 290
+291 = "Charkov"
+292 = "Mogiljov"
+#SAME 293
+#SAME 294
+295 = "Moskau"
+#SAME 296
+297 = "Brjansk"
+#SAME 298
+299 = "Voronezj"
+#SAME 300
+301 = "Rjazan"
+#SAME 302
+303 = "Saratov"
+#SAME 304
+305 = "Perm"
+306 = "Nizjnij Novgorod"
+#SAME 307
+308 = "Jaroslavl"
+309 = "Aunus"
+#SAME 310
+311 = "Cholm"
+#SAME 312
+#SAME 313
+#SAME 314
+315 = "Finnmark"
+#SAME 370
+#SAME 371
+372 = "Tyrone"
+373 = "Dublin"
+374 = "Leinster"
+375 = "Limerick"
+#SAME 376
+425 = "Derbent"
+463 = "Majkop"
+464 = "Astrachan"
+466 = "Kamysjin" #?
+467 = "Borisoglebsk"
+468 = "Manytj"
+469 = "Gurjev"
+470 = "Kalmykov" #?
+472 = "Aktybinsk"
+473 = "Samara"
+474 = "Uralfloden"
+475 = "Ufa"
+493 = "Sankt Thomas" #Dansk
+767 = "Ortelsburg"
+#SAME 770
+#SAME 771
+981 = "Vinland"
+#SAME 1077
+1078 = "Jekaterinburg"
+1079 = "Chlynov"
+1081 = "Simbirsk"
+1082 = "Kazan"
+#SAME 1083
+1111 = "Arguin"
+#SAME 1201
+1205 = "Mogadisjo" #?
+1742 = "Øvre Geldern" #Limburg
+1752 = "Rzjev"
+#SAME 1753
+#SAME 1754
+1755 = "Ustjug"
+1756 = "Bessarabien"
+1758 = "Hannover"
+#SAME 1759
+#SAME 1762
+1763 = "Niederlausitz"
+1771 = "Erzgebirge"
+1775 = "Holstein"
+1778 = "Kasimov" #?
+1834 = "Dorpat"
+1841 = "Marienburg"
+#SAME 1842
+1857 = "Lauenborg"
+1858 = "Stettin"
+1859 = "Kulm"
+#SAME 1860
+1861 = "Derby"
+#SAME 1874
+#SAME 1930
+1935 = "Mitau"
+1936 = "Kauen"
+#SAME 1937
+1938 = "Vizna" #?
+1939 = "Lentjitza" #?
+#SAME 1940
+#SAME 1941
+1942 = "Zjitomir" #?
+#SAME 1943
+1944 = "Tjerkassi"
+1945 = "Severien" #?
+1955 = "Archangelsk"
+#SAME 1956
+1957 = "Galitj"
+#SAME 1958
+1959 = "Torzjok"
+#SAME 1960
+#SAME 1961
+1962 = "Kudymkar" #?
+1963 = "Tjerdyn" #?
+#SAME 1964
+#SAME 1965
+1966 = "Tjeljabinsk"
+1971 = "Tsaritsyn"
+1972 = "Glazov"
+1974 = "Cherson"
+1978 = "Hjaltland"
+#SAME 1981
+#SAME 1982
+#SAME 1983
+#SAME 1984
+#SAME 1985
+2025 = "Sydgeorgien"
+2195 = "Sotji" #?
+2197 = "Pjatigorsk"
+2198 = "Groznyj"
+2199 = "Petrovsk"
+2201 = "Vladikavkaz"
+2208 = "Kizljar"
+2365 = "Alexandrov Gaj" #?
+2366 = "Iletsk"
+2367 = "Glinjanskaja" #?
+2405 = "Bender"
+2406 = "Nikolajev"
+2407 = "Perejaslav"
+2408 = "Jelets"
+2409 = "Vjosjenskaja" #?
+2410 = "Sevastopol"
+2411 = "Jekaterinoslav"
+2412 = "Melitopol"
+2413 = "Novotjerkassk"
+2414 = "Tichoretsk" #?
+2415 = "Atkarsk"
+2416 = "Stavropol"
+2417 = "Elista"
+2418 = "Pokrovsk"
+2419 = "Syzran"
+2420 = "Orenburg"
+2421 = "Tjistopol"
+2422 = "Tjeboksary"
+2423 = "Alatyr"
+2424 = "Premissel" #?
+2444 = "Zlatoust"
+#SAME 2447
+2749 = "Tichvin" #?
+#SAME 2752
+2958 = "Osterode"
+2959 = "Tarnov" #?
+2960 = "Neu Sandez" #?
+2961 = "Lemberg"
+#SAME 2962
+2963 = "Netze"
+2964 = "Altmark"
+#SAME 2965
+2966 = "Glogau"
+2967 = "Karlsbad"
+2968 = "Budweis" #?
+2969 = "Lebus" #?
+2970 = "Königgrätz"
+#SAME 2971
+2972 = "Paderborn"
+#SAME 2973
+2975 = "Kleve"
+#SAME 2993
+2994 = "Greifswald"
+2995 = "Stolp"
+2996 = "Wismar"
+2997 = "Tuchel"
+4110 = "Sutherland"
+4113 = "Uleåborg"
+4114 = "Jokkmokk"
+#SAME 4115
+#SAME 4116
+4117 = "Bezjetsk"
+4118 = "Cork"
+4119 = "Sligo"
+4120 = "Kildare"
+4121 = "Ulster"
+4122 = "Sjenkursk"
+4123 = "Birkaland"
+4124 = "Karelen"
+4129 = "Vym"
+4130 = "Somerset"
+4141 = "Ditmarsken"
+#SAME 4142
+#SAME 4143
+#SAME 4144
+#SAME 4145
+#SAME 4147
+#SAME 4148
+#SAME 4149
+4151 = "Enare"
+4152 = "Kajanaland"
+#SAME 4163
+#SAME 4164
+#SAME 4165
+#SAME 4166
+4237 = "Olmütz" #?
+4238 = "Liegnitz" #?
+4241 = "Venden"
+#SAME 4242
+#SAME 4243
+4244 = "Trubtjevsk"
+4245 = "Vjazma"
+#SAME 4246
+4247 = "Ovrutj"
+4248 = "Kasjin"
+#SAME 4249
+#SAME 4250
+4251 = "Mozjajsk"
+#SAME 4252
+4253 = "Jurjev" #?
+#SAME 4254
+#SAME 4255
+4256 = "Usolsk"
+#SAME 4257
+#SAME 4258
+#SAME 4259
+4260 = "Vysjnij Volotjok"
+4261 = "Ustjuzjna"
+#SAME 4262
+4263 = "Soligalitj"
+4264 = "Tetjusji"
+4265 = "Tjelny"
+4266 = "Izjevsk"
+4267 = "Bulgar"
+4306 = "Kumuch" #?
+
+4361 = "Roxburgh"
+4362 = "Dumfries"
+4363 = "Argyle"
+4365 = "Man"
+4366 = "Montgomery"
+#SAME 4367
+4368 = "Skarthaborg" #?
+4369 = "Carmarthen"
+#SAME 4370
+#SAME 4371
+#SAME 4372
+4373 = "Devon"
+4374 = "Dorset" #Dorchester
+4375 = "Chester"
+4376 = "Leicester"
+4377 = "Ormond"
+4378 = "Desmond"
+4379 = "Midlands"
+4380 = "Donegal"
+4381 = "Oversticht" #?
+4382 = "Groningen"
+4383 = "Haag"
+4385 = "Cotentin"

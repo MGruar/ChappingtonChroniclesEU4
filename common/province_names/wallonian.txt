@@ -1,0 +1,16 @@
+87 = "Calés"
+#SAME 88
+89 = "Picårdeye"
+#SAME 91
+90 = "Flande"
+92 = "Braibant"
+#SAME 93
+94 = "Lussimbork"
+#SAME 181 #?
+#SAME 183
+1742 = "Limbork"
+#SAME 1743
+1744 = "Anverse"
+#SAME 1866
+1878 = "Åxhe"
+2974 = "Lô"

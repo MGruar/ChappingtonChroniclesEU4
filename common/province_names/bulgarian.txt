@@ -1,0 +1,241 @@
+#SAME 73
+76 = "Zaltsburg"
+107 = "Bresha"
+108 = "Verona"
+110 = "Trent" #?
+111 = "Furlaniya"
+112 = "Venetsiya"
+128 = "Karintiya"
+129 = "Krayna"
+130 = "Istriya"
+#SAME 131
+132 = "Shtiriya"
+133 = "Lints"
+134 = "Viyena"
+135 = "Shopron"
+136 = "Dalmatsiya"
+#SAME 137
+138 = "Cherna gora"
+139 = "Hertsegovina"
+#SAME 140
+#SAME 141
+142 = "Korfu"
+143 = "Valona"
+144 = "Epir"
+145 = "Moreya" #?
+146 = "Atina"
+147 = "Tesaliya"
+148 = "Solun"
+149 = "Odrin"
+#SAME 150
+151 = "Tsarigrad"
+152 = "Varazhdin"
+153 = "Peshta"
+154 = "Nove Zamki"
+155 = "Bekesh" #?
+156 = "Timishvar"
+157 = "Krishana"
+158 = "Muresh"
+#SAME 159
+160 = "Olteniya"
+161 = "Targovishte"
+162 = "Koshitse"
+163 = "Krit"
+164 = "Tsikladi"
+#SAME 261
+#SAME 268
+281 = "Podoliye"
+284 = "Krim"
+285 = "Feodosiya"
+286 = "Azov"
+287 = "Kuban"
+316 = "Nikomediya"
+317 = "Brusa" #Nikeya
+318 = "Smirna"
+319 = "Kariya"
+320 = "Rodos"
+321 = "Kipr"
+322 = "Koteon" #?
+323 = "Ikoniya"
+324 = "Larende"
+325 = "Paflagoniya"
+326 = "Angora" # Galatiya, Galatsiya
+327 = "Kilikiya"
+#SAME 328
+329 = "Sebastiya"
+330 = "Trapezund"
+331 = "Feodosiopol" #?
+332 = "Germanikeya" #?
+341 = "Tunis"
+353 = "Tatavin" #?
+354 = "Tripoli"
+355 = "Sirt"
+356 = "Kirenayka"
+357 = "Darna"
+358 = "Aleksandriya"
+359 = "Fayum"
+360 = "Luksor"
+361 = "Kayro"
+362 = "Rozeta"
+363 = "Damiyeta"
+364 = "Gaza"
+365 = "Sinay"
+377 = "Haleb"
+378 = "Tripoli"
+379 = "Yerusalim"
+380 = "Karak"
+381 = "Adzhlun" #?
+382 = "Damask"
+#SAME 383
+405 = "Palmira"
+407 = "Rakka"
+411 = "Mosul"
+416 = "Tebriz"
+417 = "Lahidzhan" #?
+418 = "Amida"
+419 = "Erevan"
+420 = "Gandzha"
+421 = "Shirvan" #?
+422 = "Imeretiya"
+423 = "Tiflis"
+424 = "Ardabil"
+425 = "Derbent"
+#SAME 426
+462 = "Mingreliya" #?
+1231 = "Siyene"
+1233 = "Harga" #?
+1318 = "Spish" #?
+1756 = "Besarabiya"
+#SAME 1764
+#SAME 1765
+#SAME 1766
+1767 = "Slavoniya"
+1768 = "Liyents"
+1769 = "Goritsiya"
+1770 = "Iztochnata Marka"
+1772 = "Pozhon" #?
+1773 = "Ahaya"
+1774 = "Trevizo"
+#SAME 1826
+1827 = "Rashka"
+1828 = "Dolni kray"
+1831 = "Travuniya"
+1846 = "Amasia"
+1848 = "Sparta"
+1849 = "Hama"
+1853 = "Kostur"
+1854 = "Akra"
+1855 = "Sidon"
+1856 = "Abhaziya"
+1863 = "Grats"
+1864 = "Shomod"
+#SAME 1951
+1952 = "Maramuresh"
+1953 = "Debretsen" # Sabolch
+1954 = "Banat"
+2195 = "Adigeya"
+2196 = "Guriya"
+2202 = "Karabah"
+2203 = "Kahetiya"
+2204 = "Kars"
+2205 = "Nahichevan"
+2206 = "Urmiya"
+2207 = "Marake"
+2212 = "Zandzhan"
+2215 = "Kazvin"
+2296 = "Pigas" #Abidos
+2297 = "Magnesiya"
+2298 = "Ataliya"
+2299 = "Vitiniya"
+2300 = "Kapadokiya" #Taviya?
+2301 = "Kesariya"
+2302 = "Selevkiya" #Mersin
+2303 = "Malatiya" #?
+2304 = "Khaldiya" #?
+2305 = "Akilisena" #?
+#SAME 2306
+#SAME 2307
+2308 = "Edesa"
+2309 = "Singara" #?
+2313 = "Antiohiya"
+2314 = "Deyr ez-Zor"
+2315 = "Suets"
+2316 = "Tanta"
+2317 = "Minya"
+2318 = "Severen oazis"
+#SAME 2319
+2320 = "Ras-Garib" #?
+2321 = "Kuseyr" #?
+2325 = "Marsa Matruh"
+2326 = "Bardiya"
+2327 = "Maan" #?
+2328 = "Dedan" #?
+2348 = "Hios"
+2405 = "Benderi"
+2410 = "Teodoro"
+2424 = "Pshemishal"
+#SAME 2447
+2451 = "Misurata"
+2452 = "Zuara" #?
+2453 = "Sfaks"
+2454 = "Kef"
+2455 = "Bizerta"
+2473 = "Sus"
+#SAME 2746
+#SAME 2750
+2954 = "Dzherba"
+2960 = "Novi Sonch"
+#SAME 2961
+#SAME 2998
+3000 = "Nish"
+3001 = "Skopiye"
+3002 = "Visoko" # Sarayevo
+3003 = "Evbeya"
+4125 = "Solnok"
+4126 = "Seged"
+#SAME 4127
+4128 = "Semigradsko"
+#SAME 4173
+4174 = "Drach"
+4175 = "Skadar"
+4176 = "Branichevo"
+4236 = "Trenchin"
+4239 = "Belgrad"
+4240 = "Feyer"
+4268 = "Akaba"
+4269 = "Vadzhh" #?
+4270 = "Azrak"
+4271 = "Suvayda" #?
+4272 = "Dzhouf"
+4292 = "Mardin"
+4293 = "Arbil"
+4295 = "Kefa" #?
+4296 = "Bitlis"
+4297 = "Emesa"
+4298 = "Antep"
+4299 = "Shemaha" #?
+4300 = "Miyana" #?
+#SAME 4301
+4302 = "Daroynk" #?, Bayazit?
+4303 = "Olti" #?
+4304 = "Hoy"
+4305 = "Sheki"
+4307 = "Byal Dvorets" #?
+4308 = "Laodikeya"
+4309 = "Tral"
+4310 = "Tefrika" #?
+4311 = "Nikopol"
+4312 = "Doriley" #?
+4313 = "Gangra" #?
+4314 = "Yustinianopol" #?
+4315 = "Evdokiya" #?
+4316 = "Iztochen Egipet"
+4317 = "Ezero"
+4318 = "Afroditopol" #?
+4319 = "Latopol" #?
+4320 = "Girga"
+4323 = "Farafra"
+4338 = "Sultaniya" #?
+4339 = "Resht"
+#SAME 4340 #?
+#SAME 4341

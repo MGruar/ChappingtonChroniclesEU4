@@ -1,0 +1,8 @@
+398 = "ash-Sharjah" #SAME
+#SAME 399
+#SAME 400
+403 = "Nizwa" #SAME
+#SAME 2341
+#SAME 4285
+#SAME 4286
+#SAME 4287

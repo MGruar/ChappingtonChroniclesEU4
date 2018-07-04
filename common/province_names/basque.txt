@@ -1,0 +1,105 @@
+89 = "Pikardia"
+92 = "Brusela"
+93 = "Lieja"
+94 = "Luxenburgo"
+102 = "Niza"
+116 = "Florentzia"
+118 = "Erroma"
+127 = "Sardinia"
+168 = "Caen" #Normandia
+169 = "Armorika"
+170 = "Finisterre" #?
+171 = "Vannes"
+172 = "Nantes"
+#SAME 173
+174 = "Akitania" #Bordele
+175 = "Armañac"
+176 = "Bearno"
+#SAME 177
+#SAME 178
+#SAME 179
+180 = "Goiko Poitou" #?
+#SAME 181
+#SAME 182
+#SAME 183
+184 = "Orleanerria"
+#SAME 185
+#SAME 186 #Xanpaina
+187 = "Bar"
+188 = "Hiru gotzain"
+189 = "Lorrena"
+190 = "Borboierria"
+#SAME 191
+192 = "Dijon" #Borgoina
+#SAME 194 #?
+195 = "Limousin"
+#SAME 196
+#SAME 197 #?
+198 = "Rouergue"
+199 = "Auvernia"
+200 = "Montpellier" #Lengadòc
+201 = "Proventza"
+202 = "Avignon"
+203 = "Lyonerria"
+204 = "Dofinerria"
+205 = "Savoia"
+206 = "Galizia"
+207 = "Asturias"
+208 = "Leon"
+#SAME 209
+#SAME 210
+211 = "Pirinioak"
+#SAME 212
+213 = "Bartzelona"
+#SAME 214
+215 = "Gaztela Zaharra"
+#SAME 216
+217 = "Madril"
+218 = "Badajoz"
+#SAME 219
+220 = "Valentzia"
+221 = "Murtzia"
+222 = "Almeria"
+#SAME 223
+224 = "Sibilia"
+225 = "Kordoba"
+#SAME 226
+#SAME 227
+#SAME 228 #?
+#SAME 229
+230 = "Algarbe"
+#SAME 231
+232 = "Bragantza"
+333 = "Balearrak"
+366 = "Kanariak"
+367 = "Azoreak"
+#SAME 368
+1247 = "Korsika"
+1745 = "Kantabria"
+#SAME 1746
+1747 = "Caceres" #?
+#SAME 1748
+1749 = "Cadiz"
+#SAME 1750
+#SAME 1851
+1877 = "Xaroles"
+#SAME 1879
+#SAME 2751
+#SAME 2753
+2754 = "Mantxa"
+#SAME 2755
+2986 = "Cagliari"
+#SAME 2987
+#SAME 2988
+2989 = "Errioxa"
+#SAME 2990
+2991 = "Forcalquier"
+4111 = "Saintonge"
+4112 = "Cahors"
+4150 = "Evora"
+
+4383 = "Haga"
+4384 = "Rennes"
+4385 = "Cotentin"
+4391 = "Viviers"
+4392 = "Auxerre"

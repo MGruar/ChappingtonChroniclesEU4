@@ -1,0 +1,283 @@
+#culture: azerbaijani
+#tag: AKK
+316 = "Kocaeli" #SAME 316
+317 = "Xudavendigar"
+318 = "Izmir"
+319 = "Mentese"
+320 = "Rodos"
+321 = "Qibris"
+322 = "Kütahya" #SAME 322
+323 = "Konya" #SAME 323
+324 = "Karaman" #SAME 324
+325 = "Kastamonu" #SAME 325
+326 = "Ankara" #SAME 326
+327 = "Adana" #SAME 327
+328 = "Sinop" #SAME 328
+329 = "Sivas" #SAME 329
+330 = "Trabzon"
+331 = "Erzurum"
+332 = "Meres"
+377 = "Heleb"
+378 = "Tripoli"
+379 = "Qüds"
+380 = "Kerak" #?
+381 = "Eclun" #?
+382 = "Demesq"
+#SAME 383
+384 = "Medine"
+385 = "Mekke"
+386 = "Bise" #?
+387 = "Muxa" #?
+388 = "Eden"
+389 = "Mukelle" #?
+390 = "Sana"
+391 = "Necran" #?
+393 = "Hail" #?, Cebel Sammar
+394 = "Qetif" #? Lehse?
+395 = "Qeter"
+396 = "Behreyn"
+#SAME 397 #?
+398 = "Sarja"
+399 = "Sohar"
+400 = "Maskat"
+#SAME 401 #?
+402 = "Qisn" #?
+403 = "Nizva"
+404 = "Live" #?
+405 = "Tedmur" #Palmira
+406 = "Hadise" #?
+407 = "Reqqe"
+408 = "Besre"
+409 = "Kerbela"
+410 = "Bagdad"
+411 = "Mosul"
+412 = "Ehvaz"
+413 = "Xürremabad"
+414 = "Hemedan"
+415 = "Kerkük"
+416 = "Tebriz" #SAME 416
+417 = "Lahican"
+418 = "Diyarbekir"
+419 = "Irevan"
+420 = "Gence" #SAME 420
+421 = "Sirvan" #SAME 421
+422 = "Basaçiq"
+423 = "Tiflis"
+424 = "Erdebil" #SAME 424
+425 = "Derbend"
+426 = "Amul"
+#SAME 427 #?
+#SAME 428
+429 = "Isfahan"
+430 = "Destistan"
+431 = "Muqustan" #?
+432 = "Kirman"
+433 = "Yezd"
+434 = "Kuhistan"
+435 = "Zaranc"
+436 = "Bircend"
+437 = "Kopetdag"
+438 = "Qaraqum"
+439 = "Manqislaq"
+440 = "Qaraqalpaqlar" #SAME 440
+441 = "Xive"
+442 = "Buxara"
+443 = "Üstyurd"
+444 = "Çarcuy"
+445 = "Merv"
+#SAME 446
+447 = "Qendehar"
+448 = "Qezni"
+449 = "Qövr"
+450 = "Belh"
+451 = "Kabil"
+452 = "Bedahsan"
+453 = "Qarsi" #?
+454 = "Semerqend"
+#SAME 455
+#SAME 456
+457 = "Daskend"
+458 = "Kokand"
+#SAME 459
+460 = "Özkend"
+461 = "Almati"
+462 = "Meqreliya"
+463 = "Çerkezistan"
+464 = "Hesterxan"
+465 = "Noqay"
+#SAME 466
+469 = "Narin qumlar"
+470 = "Bayuli"
+471 = "Elimuli"
+472 = "Jetiru"
+575 = "Gvadar"
+#SAME 576 #?
+577 = "Ketta"
+578 = "Pisever"
+1846 = "Amasya" #SAME 1846
+1848 = "Hemid"
+1849 = "Hema"
+1854 = "Yafa" #?
+1855 = "Sayda" #SAME 1855
+1856 = "Abxaziya"
+1967 = "Xucend"
+#SAME 1968 #?
+#SAME 1969 #?
+1970 = "Signaq" #Ag Mescit? 
+1973 = "Ürgenc" #?
+2125 = "Qoçqor" #?
+2126 = "Çuy"
+2195 = "Sucuq-Qale" #? or Adigey
+2196 = "Quriya"
+2197 = "Kabarda"
+2199 = "Tarku"
+2201 = "Alaniya"
+2202 = "Qarabag"
+2203 = "Kaxeti"
+2204 = "Mesheti"
+2205 = "Naxçivan"
+2206 = "Urmiya"
+2207 = "Maraga" #SAME 2207
+2208 = "Qizlar"
+2209 = "Ilam"
+2210 = "Kirmansah"
+2211 = "Erdalan"
+2212 = "Zencan" #SAME 2212
+2213 = "Merkezi"
+2214 = "Qorqan"
+2215 = "Qezvin" #SAME 2215
+2216 = "Simnan"
+2217 = "Yasuc"
+2218 = "Siraz"
+2219 = "Bender Lenge"
+2220 = "Bem"
+2221 = "Meshed"
+2222 = "Erdekan"
+2223 = "Laristan"
+2224 = "Ferah"
+2225 = "Bamiyan" #?
+2226 = "Celalabad"
+2227 = "Qunduz"
+2228 = "Meymene"
+2229 = "Büst" #?
+#SAME 2230
+2232 = "Xaran"
+2233 = "Çabahar"
+2234 = "Refsencan"
+2235 = "Sebzivar"
+2236 = "Bocnurd"
+2296 = "Karesi"
+2297 = "Sarixan"
+2298 = "Teke"
+2299 = "Bolu" #SAME 2299
+2300 = "Bozok" #SAME 2300
+2301 = "Kayseri" #SAME 2301
+2302 = "Içel" #SAME 2302
+2303 = "Malatya" #SAME 2303
+2304 = "Samsun" #SAME 2304
+2305 = "Erzincan"
+2306 = "Mus"
+#SAME 2307
+2308 = "Urfa"
+2309 = "Sincar"
+#SAME 2310
+2311 = "Semave" #?
+2312 = "Vasit"
+2313 = "Antakya"
+2314 = "Deyr ez-Zor"
+2327 = "Maan" #?
+2328 = "Ula" #?
+2329 = "Yenbu" #?
+2331 = "Cidde"
+2332 = "Turaba" #?
+#SAME 2333 #?
+2336 = "Kehriz" #?
+2337 = "Büreyde" #?
+2338 = "Hafar" #?
+2340 = "Küveyt"
+2341 = "Mesire" #?
+2342 = "Vusta" #?
+2343 = "Seyun" #?
+2344 = "Merib"
+2345 = "Beyhan" #?
+2346 = "Cizan" #?
+2347 = "Xufuf"
+2349 = "Qizil su"
+2350 = "Göytepe"
+2351 = "Sekti"
+2353 = "Törtqara"
+2356 = "Çimkend"
+2358 = "Altin"
+2362 = "Köhne Ürgenc"
+2363 = "Ataqend" #?
+2364 = "Ferqane"
+#SAME 2368 #?
+2370 = "Qonurat" #?
+2999 = "Hörmüz"
+4171 = "Eberkuh"
+4268 = "Aqabe" #?
+4269 = "Vecih" #?
+4270 = "Azraq" #?
+4271 = "Süveyde"
+4272 = "Cevf" #?
+4274 = "Sudeyir" #?
+4275 = "Yememe" #?
+4277 = "Taif"
+4278 = "Qunfuze" #?
+4279 = "Zebid"
+4280 = "Taiz" #?
+4281 = "Zamar" #?
+4282 = "Saada" #?
+4283 = "Sihr" #?
+4284 = "Qayde" #?
+4285 = "Buraymi" #?
+#SAME 4286 #? or Sarqiye?
+4287 = "Ibra" #?
+4288 = "Qurne" #?, Ervendrud
+4289 = "Suster"
+4290 = "Huveyze"
+4291 = "Qezeniye" #?
+4292 = "Mardin"
+4293 = "Erbil"
+4294 = "Süleymaniye" #?
+4295 = "Hesankeyf" #?
+4296 = "Bitlis"
+4297 = "Homs"
+4298 = "Antep"
+4299 = "Samaxi" #SAME 4299
+4300 = "Miyane" #SAME 4300
+4301 = "Kartli" #SAME 4301
+4302 = "Beyazit" #?
+4303 = "Oltu" #?
+4304 = "Xoy" #SAME 4304
+4305 = "Seki" #SAME 4305
+4306 = "Lakistan" #?
+4307 = "Aksaray" #SAME 4307
+4308 = "Denizli" #SAME 4308
+4309 = "Aydin" #SAME 4309
+4310 = "Divrigi" #SAME 4310
+4311 = "Afyon" #SAME 4311
+4312 = "Eskiseher"
+4313 = "Çankiri"
+4314 = "Kirseher"
+4315 = "Tokat" #SAME 4315
+4324 = "Guryan" #?
+4325 = "Serexs"
+4326 = "Nisapur"
+4327 = "Cask"
+4329 = "Fesa"
+#SAME 4330
+4331 = "Kazirun"
+#SAME 4332
+4334 = "Tebes"
+4335 = "Kasan"
+#SAME 4336
+4337 = "Save"
+4338 = "Sultaniye" #SAME 4338
+4339 = "Rest"
+#SAME 4340
+#SAME 4341
+4342 = "Malemir" #?
+#SAME 4343
+4344 = "Sehrisebz" #?
+4345 = "Sircan"

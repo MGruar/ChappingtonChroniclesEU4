@@ -1,0 +1,2 @@
+2317 = "Ushmunayn" #Standard Arabic: al-'Ashmuneyn
+2319 = "'Akhmim" #Akhmin

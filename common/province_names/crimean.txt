@@ -1,0 +1,5 @@
+282 = "Özü" #or same
+285 = "Kefe"
+2195 = "Sucuq-Qale" #?
+2410 = "Bagçasaray"
+2447 = "Matrika"

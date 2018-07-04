@@ -1,0 +1,113 @@
+#tags: BUK, KOK, SHY, TRS (not TIM)
+437 = "Kopetdog'"
+438 = "Qoraqum"
+439 = "Mang'ishloq"
+440 = "Qoraqalpoqlar"
+#SAME 441
+#SAME 442
+443 = "Ustyurt"
+444 = "Chorjo'y"
+445 = "Marv"
+446 = "Hirot"
+450 = "Balx"
+451 = "Kobul"
+452 = "Badaxshon"
+#SAME 453
+#SAME 454
+#SAME 455
+456 = "Turkiston"
+#SAME 457
+#SAME 458
+#SAME 459
+460 = "O'zgan"
+461 = "Olmota"
+465 = "Saroychiq"
+470 = "Boyuli" #?
+471 = "Olimuli" #?
+472 = "Jetiru" #?
+475 = "Ufa"
+476 = "Qipchoq"
+477 = "Nodim" #?
+478 = "Arg'in"
+#SAME 479 #?
+710 = "Xotan" #?
+711 = "Charchan" #?
+712 = "Oqsuv" #?
+713 = "Beshbaliq"
+714 = "Qoboqsar" #?
+715 = "Urumchi"
+739 = "Qoshg'ar"
+1071 = "Irtish"
+1074 = "Qoshliq" #? or Sibir?
+1075 = "Chingi Tura"
+1076 = "Qo'rg'on"
+1078 = "Turo" #?
+1082 = "Qozon"
+1965 = "Buzuluq" #?
+1966 = "Chelyaba"
+1967 = "Xo'jand"
+1968 = "Ko'lob"
+1969 = "Suzoq"
+1970 = "Sig'noq" #or Oqmachit
+1972 = "Ijkor" #?
+#SAME 1973
+2118 = "O'rjor" #?
+2119 = "Chug'uchoq" #?
+#SAME 2120
+2121 = "Quchor" #?
+#SAME 2122 #?
+2123 = "Choqiliq" #?
+2124 = "Yorkend"
+2125 = "Qo'chqor"
+2126 = "Chuy"
+2127 = "Yashilko'l"
+2192 = "Qorla" #?
+2214 = "Astarobod" #?
+#SAME 2221
+2226 = "Jalolobod" #?
+2227 = "Qunduz"
+2228 = "Maymana"
+2235 = "Sabzivor" #?
+2236 = "Bujnurd" #?
+2349 = "Qizilsuv"
+2350 = "Ko'ktepa"
+#SAME 2351 #?
+2352 = "Olti Quduq"
+2353 = "To'rtqora" #?
+2354 = "Shegendiq" #?
+2355 = "Norim" #?
+#SAME 2356
+2357 = "Oqsari" #?
+2358 = "Oltin"
+2359 = "Bogonali" #?
+2360 = "Tobiqti" #?
+2361 = "Jomon Quduq" #?
+2362 = "Ko'hna Urganch"
+#SAME 2363
+2364 = "Farg'ona"
+2366 = "Shingg'irlau" #?
+2368 = "Qoramegdan" #?
+#SAME 2369
+2370 = "Qo'ng'irot"
+2420 = "Oqidil" #?
+2421 = "Jukatau" #?
+2422 = "Cheboksar"
+2427 = "Ishtaklar" #?
+#SAME 2428 #?
+#SAME 2429 #?
+#SAME 2433 #?
+2434 = "Barnavul" #?
+#SAME 2441 #?
+2444 = "Boshqird"
+4206 = "Barko'l" #?
+4207 = "Turfon"
+#4208?
+#SAME 4209 #?
+#SAME 4210 #?
+4264 = "Tetish" #?
+4265 = "Cholli" #?
+4267 = "Bulg'or"
+4325 = "Saraxs" #?
+4326 = "Nishopur"
+4343 = "Termiz"
+#SAME 4344

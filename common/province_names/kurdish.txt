@@ -1,0 +1,104 @@
+#SAME 316
+317 = "Bursa"
+318 = "Smîrna"
+#SAME 319 #?
+321 = "Kîpros"
+322 = "Kotî"
+323 = "Qonye"
+#SAME 324
+#SAME 325
+326 = "Enqere"
+327 = "Kîlîkiya"
+328 = "Sînop"
+329 = "Sêwas"
+330 = "Trabzon"
+331 = "Erzîrom"
+332 = "Gurgum"
+377 = "Heleb"
+407 = "Reqa"
+408 = "Besre"
+410 = "Bexda"
+#SAME 411
+412 = "Ehvaz"
+413 = "Xurramawe"
+414 = "Hemedan"
+#SAME 415
+416 = "Tewrêz"
+417 = "Lahican" #?
+#SAME 418
+419 = "Êrîvan"
+#SAME 421 #?
+424 = "Erdebîl"
+#SAME 426 #?
+#SAME 428
+429 = "Îsfehan"
+430 = "Destestan" #?
+433 = "Yezd"
+#SAME 1846
+1848 = "Sparta" #?
+2204 = "Qers"
+2205 = "Naxçivan"
+#SAME 2206
+#SAME 2207 #?
+#SAME 2209
+#SAME 2211
+2212 = "Zengan"
+2213 = "Qum"
+2215 = "Qazwên"
+2216 = "Simnan"
+2217 = "Yasûc"
+2218 = "Sîraz"
+#SAME 2210
+2222 = "Erdekan" #?
+2234 = "Refsengan" #?
+2296 = "Biga" #?
+2297 = "Manisa"
+2298 = "Antalya"
+#SAME 2299 #?
+2300 = "Êlîsar" #Yozgat
+#SAME 2301 #?
+2302 = "Mêrsîn"
+2303 = "Meletî"
+#SAME 2304
+2305 = "Ezirgan"
+2306 = "Mûs"
+2307 = "Wan"
+#SAME 2308
+#SAME 2309
+2310 = "Tikrît"
+2313 = "Antakya"
+2340 = "Kuweyt"
+4171 = "Eberkuh" #?
+4288 = "Qurne" #?, Setelereb, Ervendrûd
+4289 = "Sustar" #?
+#SAME 4290 #?
+#SAME 4291 #?
+#SAME 4292
+#SAME 4293
+#SAME 4294
+#SAME 4295
+#SAME 4296
+4298 = "Dîlok"
+#SAME 4300 #?
+4302 = "Bazîd"
+4303 = "Oltî"
+4304 = "Kelexwê"
+4307 = "Axsere"
+#SAME 4308 #?
+#SAME 4309
+4310 = "Dîvrîgî"
+#SAME 4311 #?
+#SAME 4312 #?
+#SAME 4313 #?
+4314 = "Kirsehîr" #?
+#SAME 4315
+4329 = "Fesa" #?
+#SAME 4330 #?
+#SAME 4331 #?
+4335 = "Kasan"
+4337 = "Savê" #?
+#SAME 4338 #?
+4339 = "Rest"
+#SAME 4340
+4341 = "Sarî"
+4342 = "Malemir" #?

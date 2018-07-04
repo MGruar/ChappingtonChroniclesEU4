@@ -1,0 +1,12 @@
+#SAME 364
+#SAME 377
+378 = "Trablos" #SAME
+#379
+#SAME 381
+382 = "Dmashe'" #SAME
+#SAME 407
+#SAME 1849
+#SAME 1854
+#SAME 1855
+2313 = "'Antakya" #SAME
+#SAME 4297

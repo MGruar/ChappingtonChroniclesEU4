@@ -1,0 +1,116 @@
+142 = "Kerkira"
+143 = "Avalony" #Vloran
+144 = "Epiros"
+145 = "Moreas" #?
+146 = "Atenk"
+147 = "Tesalia"
+148 = "Makedonia"
+149 = "Adrianapolis" #Adrianupolis
+151 = "Kostandnupolis" # Gostandnubolis?
+163 = "Krete"
+164 = "Kikladner"
+284 = "Ghrim"
+285 = "Teodosia"
+287 = "Kuban" #?
+316 = "Nikomedia"
+317 = "Nikea" #?
+318 = "Smirna"
+319 = "Karia"
+320 = "Hrrodos"
+321 = "Kipros"
+322 = "Kyotahia"
+323 = "Konia"
+324 = "Laranda" #?
+325 = "Kastamon" #?
+326 = "Angara"
+327 = "Kilikia"
+#SAME 328
+329 = "Sebastia"
+330 = "Trapizon"
+#SAME 331
+332 = "Marash"
+364 = "Ghaza"
+377 = "Halep"
+378 = "Tripoli"
+379 = "Yerusaghem"
+380 = "Karak" #?
+381 = "Ajlun" #?
+382 = "Damaskos"
+405 = "Palmira"
+407 = "Rrakka" #Kalinikos
+411 = "Ninve"
+416 = "Tavrizy" #Tavrez
+418 = "Tigranakert" #Amid, Diarbekir
+#SAME 419
+420 = "Ganjak"
+421 = "Murgan" #Sharvan
+#SAME 422
+423 = "Tpghis"
+424 = "Artavet" #Artavil
+425 = "Derbend"
+462 = "Megrelia"
+463 = "Cherkezia"
+1773 = "Akheya"
+1846 = "Amasia"
+1848 = "Sparta"
+1849 = "Hama"
+1853 = "Kastoria"
+1854 = "Yaffa"
+1855 = "Sidon" #Sayda
+1856 = "Abkhazia"
+2195 = "Adigea"
+#SAME 2196
+2197 = "Kabarda"
+#SAME 2202
+#SAME 2203
+2204 = "Ghars" #Kars
+#SAME 2205
+2206 = "Urmia"
+2207 = "Maragha"
+2212 = "Zanjany"
+2296 = "Pegai" #?
+2297 = "Magnesia"
+2298 = "Attalia" #?
+2299 = "Byutania"
+2300 = "Pteria" #?
+2301 = "Mazhak"
+2302 = "Tarson"
+2303 = "Meletine"
+2304 = "Samson"
+#SAME 2305
+#SAME 2306
+#SAME 2307
+2308 = "Urrha" # Yedesia
+2309 = "Sinjar"
+2313 = "Antiok"
+2314 = "Der Zor"
+2348 = "Khios" #?
+2410 = "Teodoro"
+2447 = "Tamatarkha" #?
+3003 = "Evbea"
+4270 = "Azrak" #?
+4271 = "Suyeyda"
+4292 = "Mardin"
+4293 = "Erbil"
+4295 = "Harsenkev" #Harsnkv
+4296 = "Baghesh"
+4297 = "Emesa" #Homs
+4298 = "Ayntap"
+4299 = "Shamakhi"
+#SAME 4301
+#SAME 4302
+4303 = "Voltik"
+4304 = "Her"
+4305 = "Shaki"
+4306 = "Kumukh" #?
+4307 = "Garsarua" #?
+4308 = "Attuda" #?
+4309 = "Tralles" #?
+4310 = "Tewrik"
+4311 = "Nikopolis"
+4312 = "Doriley"
+4313 = "Gangra" #?
+4314 = "Mokissos" #?, Yustinianopolis?
+4315 = "Yevdokia"
+4339 = "Rrasht"
+#SAME 4340

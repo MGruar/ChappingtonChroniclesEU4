@@ -1,0 +1,128 @@
+#culture: venetian
+#tags: RAG
+73 = "Tirolo"
+76 = "Salisburgo"
+101 = "Genoa"
+102 = "Niza"
+103 = "Piemonte"
+104 = "Milàn"
+105 = "Parma"
+106 = "Modena"
+107 = "Bressa"
+#SAME 108
+109 = "Màntoa"
+110 = "Trénto"
+111 = "Friul"
+#SAME 112
+113 = "Ferara"
+114 = "Romagna"
+115 = "Pixa"
+116 = "Firense"
+#SAME 117
+#SAME 118
+#SAME 119
+120 = "Abruso"
+121 = "Nàpuli"
+122 = "Salento" #?
+123 = "Calabria"
+124 = "Mesina"
+125 = "Palermo"
+#SAME 126
+127 = "Sasari"
+128 = "Carinsia"
+129 = "Carniola" #?
+130 = "Istria"
+132 = "Stiria"
+#SAME 133
+134 = "Viena"
+136 = "Dalmàssia"
+137 = "Ragusa"
+138 = "Montenegro"
+142 = "Corfù"
+143 = "Valona" #?
+144 = "Epiro" #?
+145 = "Morea" #?
+146 = "Atene"
+147 = "Tessaglia" #?
+148 = "Macedonia"
+149 = "Adrianopoli" #?
+151 = "Costantinopoli" #?
+163 = "Càndia"
+164 = "Nasso"
+197 = "Rossiglione" #?
+200 = "Mompellieri" #?
+201 = "Provensa"
+#SAME 212 #?
+#SAME 213
+220 = "Valénsia"
+#SAME 221 #?
+#SAME 222 #?
+#SAME 223 #?
+224 = "Sibilia"
+225 = "Còrdoa"
+226 = "Gibiltera"
+284 = "Crimia"
+#SAME 285 #?
+286 = "Tana" #?
+320 = "Rodi" #?
+321 = "Sipro"
+327 = "Cilicia" #?
+330 = "Trapesunta" #?
+333 = "Baleari"
+334 = "Tangeri" #?
+335 = "Melilla"
+337 = "Orano"
+338 = "Algeri"
+339 = "Bugia" #?
+341 = "Túnixi"
+354 = "Tripoli"
+355 = "Sirte" #?
+356 = "Cirenaica" #?
+358 = "Alesandria"
+361 = "El Cairo"
+362 = "Rosetta" #?
+363 = "Damietta" #?
+364 = "Gaza" #?
+378 = "Tripoli"
+379 = "Hierusalem" #Zerusaleme
+1247 = "Còrsega"
+1749 = "Càdice"
+1750 = "Alicante"
+1768 = "Lienz"
+1769 = "Trieste"
+1773 = "Acaia" #?
+#SAME 1774
+1826 = "Licca" #?
+1862 = "Cremona"
+#SAME 1863
+1875 = "Cuneo"
+1882 = "Bona" #?
+1933 = "Bari"
+#SAME 1934 #?
+2313 = "Antiochia" #?
+2348 = "Sio"
+2410 = "Teodoro" #?
+2447 = "Matrega" #?
+2451 = "Misurata"
+2452 = "Zuara" #?
+2453 = "Sfax" #?
+2455 = "Biserta" #?
+2473 = "Susa" #?
+#SAME 2753 #?
+2954 = "Gerba" #?
+2976 = "Onbria"
+#SAME 2977
+2978 = "Arezo"
+2979 = "Novara"
+2980 = "Luca"
+2981 = "Monferà"
+2982 = "Siracuxa"
+#SAME 2983
+2984 = "Coxensa"
+2985 = "Captianata" #?
+2986 = "Cajari"
+2988 = "Taragona" #?
+2992 = "Albenga"
+3003 = "Negroponte"
+4174 = "Durazo"
+4175 = "Scutari" #?

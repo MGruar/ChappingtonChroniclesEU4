@@ -1,0 +1,95 @@
+#Hochdeutch
+#Cultures: austrian, prussian, saxon
+#Tags: HLR, GER
+44 = "Hamburg"
+45 = "Lübeck"
+#SAME 46
+#SAME 47
+#SAME 50
+51 = "Ruppin"
+52 = "Magdeburg"
+53 = "Lüneburg"
+54 = "Stade"
+55 = "Oldenburg"
+56 = "Osnabrück"
+57 = "Braunschweig"
+#SAME 58
+#SAME 59
+#SAME 61
+#SAME 62
+#SAME 63
+64 = "Landshut"
+65 = "München"
+66 = "Bamberg"
+67 = "Nürnberg"
+69 = "Konstanz" #Oberschwaben
+70 = "Württemberg"
+71 = "Ansbach" #Onolzbach
+72 = "Breisgau"
+#SAME 73
+74 = "Baden"
+75 = "Elsaß"
+76 = "Salzburg"
+77 = "Heidelberg"
+#SAME 78
+79 = "Würzburg"
+80 = "Trier"
+81 = "Hessen"
+82 = "Westfalen"
+85 = "Köln"
+86 = "Münster"
+90 = "Flandern"
+92 = "Brüssel"
+#SAME 95
+96 = "Seeland"
+#SAME 97
+99 = "Geldern"
+100 = "Friesland"
+#SAME 128
+132 = "Steiermark"
+#SAME 133
+134 = "Wien"
+165 = "Bern"
+166 = "Waldstätte"
+1742 = "Obergeldern" #Limburg
+1744 = "Antorf"
+1757 = "Oberpfalz"
+1758 = "Hannover"
+#SAME 1759
+1760 = "Coblenz"
+1761 = "Pfalz"
+1762 = "Cassel"
+1768 = "Lienz"
+#SAME 1770
+1775 = "Holstein"
+1857 = "Lauenburg"
+#SAME 1863
+#SAME 1865
+1867 = "Waadt"
+1868 = "Augsburg"
+1869 = "Zürich"
+1870 = "St. Gallen"
+1871 = "Wallis"
+#SAME 1872
+1873 = "Graubünden"
+#SAME 1874
+#SAME 1876
+1878 = "Aachen"
+1931 = "Ostfriesland"
+2955 = "Ingolstadt"
+#SAME 2956
+2957 = "Regensburg"
+2964 = "Altmark"
+#SAME 2965
+#SAME 2971
+2972 = "Paderborn"
+#SAME 2973
+#SAME 2974
+2975 = "Cleve"
+#SAME 2993
+2994 = "Greifswald"
+2996 = "Wismar"
+
+4381 = "Oberstift"
+4382 = "Gröningen"
+4383 = "Der Haag"

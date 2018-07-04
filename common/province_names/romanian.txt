@@ -1,0 +1,41 @@
+143 = "Valona"
+148 = "Macedonia"
+149 = "Adrianopol"
+#SAME 150
+151 = "Tarigrad" #Constantinopol
+153 = "Pesta"
+155 = "Bichis"
+#SAME 156
+#SAME 157
+#SAME 158
+159 = "Dârstor"
+#SAME 160
+#SAME 161
+261 = "Halici"
+#SAME 268
+281 = "Podolia"
+282 = "Vozia"
+283 = "Crimeea"
+#SAME 1756
+#SAME 1764
+#SAME 1765
+1942 = "Jîtomîr"
+1943 = "Vinita" #Bratlav
+1944 = "Cerkasî"
+#SAME 1951
+1952 = "Maramures"
+1953 = "Debretin" # Sabolciu
+1954 = "Torontal"
+#SAME 2405
+2746 = "Diiu"
+#SAME 2750
+2961 = "Liov"
+#SAME 2998
+3000 = "Nis"
+3001 = "Scopia"
+4125 = "Solnoca"
+4126 = "Seghedin"
+#SAME 4127
+4128 = "Pamântul craiesc"
+#SAME 4176
+4240 = "Alba Regala"

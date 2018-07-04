@@ -1,0 +1,349 @@
+101 = "Chenova"
+102 = "Niza"
+#SAME 103
+104 = "Milán"
+105 = "Parma"
+106 = "Mòdena" #catalan
+107 = "Brescia" #catalan
+108 = "Verona"
+109 = "Mantova"
+110 = "Trento"
+111 = "Friuli"
+112 = "Venecia"
+113 = "Ferrara" #catalan
+114 = "Romanya" #catalan
+#SAME 115
+116 = "Florencia"
+#SAME 117
+#SAME 118
+#SAME 119 #catalan
+120 = "Abruzos"
+121 = "Nápolis"
+122 = "Salento" #catalan
+123 = "Calabria"
+124 = "Mecina"
+125 = "Palermo"
+#SAME 126
+127 = "Sasser"
+130 = "Istria"
+136 = "Dalmacia"
+137 = "Ragusa"
+138 = "Montenegro"
+142 = "Corfú" #catalan
+143 = "Valona" #catalan
+144 = "Epiro"
+145 = "Morea" #catalan
+146 = "Atenas"
+147 = "Tessàlia" #catalan
+148 = "Macedonia"
+149 = "Andrianoplin"
+151 = "Constantinoble"
+163 = "Creta" #catalan
+164 = "Cíclades" #catalan #Naxos
+168 = "Caen"
+169 = "Armòrica" #catalan
+170 = "Finisterre"
+171 = "Vannes" #Morbihan
+172 = "Nantes" #catalan
+173 = "Labort"
+174 = "Aquitania" #Bordeus
+175 = "Armanyac"
+#SAME 176
+#SAME 177 #catalan
+178 = "Anchú"
+179 = "Berric" #catalan
+180 = "Piteus" #Alto Poitou?
+#SAME 181 #catalan
+182 = "Vermandois" #catalan
+183 = "París"
+184 = "Orleanés"
+#SAME 185 #catalan
+#SAME 186 # Campanya #catalan
+187 = "Bar" #catalan
+188 = "Tres Bisbats" #catalan
+189 = "Lorena"
+190 = "Borbonés"
+191 = "Nivernés" #?
+192 = "Dijon" #Borgonya #catalan
+193 = "Franco Condato"
+194 = "Perigord" #catalan
+195 = "Lemosín"
+#SAME 196
+197 = "Rosellón"
+198 = "Roergue" #catalan
+199 = "Auvernia"
+200 = "Montpeller" #Lenguadoc
+201 = "Provenza"
+202 = "Avinyón"
+203 = "Leonés"
+204 = "Delfinato"
+205 = "Savoya"
+206 = "Galicia"
+207 = "Asturias"
+208 = "Leyón"
+209 = "Vizcaya"
+210 = "Navarra"
+211 = "Perinés"
+212 = "Chirona"
+#SAME 213
+#SAME 214
+215 = "Castella la Vella" #catalan
+217 = "Madrit"
+#SAME 216
+218 = "Badajoz"
+#SAME 219
+220 = "Valencia"
+#SAME 221
+#SAME 222
+#SAME 223
+#SAME 224
+225 = "Cordoba"
+226 = "Chibraltar"
+227 = "Lisbona"
+#SAME 228 #catalan
+#SAME 229 #catalan
+#SAME 230 #catalan
+#SAME 231
+232 = "Bragança" #catalan
+285 = "Caffa" #catalan
+286 = "Tanais" #catalan
+316 = "Nicomèdia" #catalan
+317 = "Brusa" #Nicea #catalan
+318 = "Esmirna" #catalan
+319 = "Cària" #catalan
+320 = "Rodas"
+321 = "Chipre"
+322 = "Cotyaeum" #? #catalan
+323 = "Iconi" #catalan
+324 = "Laranda" #catalan
+325 = "Paflagònia" #catalan
+326 = "Angora" # Galàcia (catalan)
+327 = "Cilicia"
+328 = "Sinope" #catalan
+329 = "Sebaste" #catalan
+330 = "Trapesonda"
+331 = "Teodosiòpolis" #catalan
+332 = "Maraix" #catalan
+#SAME 333
+334 = "Táncher"
+335 = "Melilla"
+336 = "Termicén"
+337 = "Orà" #catalan
+338 = "Alcher"
+339 = "Cabília"
+340 = "Constantina" #catalan
+341 = "Túniz"
+342 = "Casablanca" #catalan
+343 = "Fes" #catalan
+344 = "Marráquex"
+345 = "Safi" #catalan
+#SAME 346 #catalan
+#SAME 347 #catalan
+#SAME 348 #catalan
+349 = "Figuig"
+350 = "Laghouat" #catalan
+351 = "Biskra" #catalan
+#SAME 352 #catalan
+353 = "Tataouine" #catalan
+354 = "Tripoli"
+355 = "Sirte" #catalan
+356 = "Cirenaica" #catalan
+357 = "Derna" #catalan
+358 = "Aleixandría"
+359 = "Faium" #catalan
+360 = "Luxor" #catalan
+361 = "Caire"
+362 = "Rosetta" #catalan
+363 = "Damietta" #catalan
+364 = "Gaza"
+365 = "Sinai"
+#SAME 366
+367 = "Azores"
+#SAME 368
+377 = "Alep" #catalan
+378 = "Trípoli" #catalan
+379 = "Cherusalem"
+380 = "Karak" #catalan
+381 = "Achlun" #?
+382 = "Domás"
+387 = "Muza" #catalan
+388 = "Aden" #catalan
+#SAME 395
+396 = "Bahrein"
+#SAME 400
+405 = "Palmira" #catalan
+407 = "Raqqà" #catalan
+408 = "Bàssora" #catalan
+418 = "Amida"
+517 = "Surat" #catalan
+596 = "Malaca" #catalan
+667 = "Canton" #catalan
+668 = "Macau"
+1096 = "Cap Verd" #catalan
+1097 = "Fernando Poo" #catalan
+1098 = "Santa Helena"
+1099 = "Socotra"
+1102 = "Mauricio"
+#SAME 1110 #catalan
+1111 = "Arguin" #catalan
+1112 = "Trarza" #catalan
+1113 = "Dakar"
+1114 = "Gabú" #catalan
+1118 = "Serra de Lleó" #catalan
+1119 = "Costa de Grans" #? #catalan
+1126 = "Costa de Vori"
+1127 = "Tuat" #?
+1128 = "Taudeni"
+#SAME 1129
+1130 = "Tadmekka" #catalan
+1132 = "Timbuktú"
+1139 = "Costa Daurada" #catalan
+1141 = "Chuda" #?
+1147 = "Benín"
+1163 = "Calabar" #catalan
+1164 = "Camerún"
+1165 = "Gabón"
+1166 = "Loango" #catalan
+1167 = "Luanda"
+#SAME 1172 #catalan
+1174 = "Badia de Balenes" #? #catalan
+1177 = "Cap de Bona Esperança" #catalan
+1201 = "Zanzíbar" #catalan
+1205 = "Mogadixo"
+1231 = "Siene" #catalan
+1233 = "Charga" #?
+1247 = "Corcega"
+1306 = "Sant Tomás"
+#SAME 1745
+#SAME 1746
+1747 = "Cáceres"
+1748 = "Chaén"
+#SAME 1749
+1750 = "Alicant"
+1751 = "Ceuta"
+1769 = "Gorizia"
+1773 = "Acaia" #catalan
+1774 = "Treviso" #catalan
+1846 = "Amàsia" #catalan
+1848 = "Esparta" #catalan
+1849 = "Hama" #catalan
+#SAME 1851
+1853 = "Kastorià" #catalan
+1854 = "Acre" #catalan
+1855 = "Sidó" #catalan
+1862 = "Cremona"
+1875 = "Cuneo" #catalan
+1877 = "Charolés"
+#SAME 1879 #catalan
+1882 = "Bona" #?
+1933 = "Bari" #catalan
+1934 = "Lucània" #catalan
+2030 = "Goa" #catalan
+2296 = "Peguea" #Abidos #catalan
+2297 = "Magnesia" #?
+2298 = "Adàlia" #catalan
+2299 = "Bitínia" #catalan
+2300 = "Capadòcia" #catalan
+2301 = "Cesarea" #catalan
+2302 = "Selèucia" #catalan
+2303 = "Melitene" #catalan
+2304 = "Càldia" #catalan
+2305 = "Acilisene" #catalan
+2306 = "Mux" #?
+2308 = "Edessa" #catalan
+2313 = "Antioquía"
+2315 = "Suez" #catalan
+2316 = "Tanta" #catalan
+2317 = "Minya" #catalan
+2318 = "Oasi del Nord" #catalan
+#SAME 2319 #?
+2325 = "Marsa Matruh" #?
+2326 = "Bardia" #?
+2327 = "Maan" #catalan
+2348 = "Quios" #catalan
+2448 = "Fasània" #catalan
+2449 = "Chufra" #?
+2450 = "Gadames" #catalan
+2451 = "Misratah" #catalan
+2452 = "Zuvara" #?
+2453 = "Sfax" #catalan
+2454 = "Le Kef" #catalan
+2455 = "Bizerta" #catalan
+2456 = "Tuggurt" #catalan
+2457 = "Mzab" #catalan
+#SAME 2458 #catalan
+2459 = "Titteri" #?
+#SAME 2460 #?
+#SAME 2461 #?
+2462 = "Uarsenis" #?
+#SAME 2463
+2464 = "Uarzazate" #?
+2465 = "Uchda" #?
+2466 = "Dara" #?
+2467 = "Meknès" #catalan
+2468 = "Tadla" #?
+2469 = "Dukkala" #?
+2470 = "Haha" #?
+2472 = "Uargla" #?
+2473 = "Sussa" #catalan
+#SAME 2751
+#SAME 2753
+#SAME 2754
+#SAME 2755
+2954 = "Cherba"
+2976 = "Umbría"
+2977 = "Urbino" #catalan
+#SAME 2978 #catalan
+2979 = "Novara" #catalan
+#SAME 2980 #catalan
+2981 = "Monferrato" #?
+2982 = "Siracusa"
+2983 = "Salern"
+2984 = "Cosenza" #catalan
+#SAME 2985
+2986 = "Cáller"
+2987 = "Urchel"
+#SAME 2988
+2989 = "Riocha"
+#SAME 2990
+2991 = "Folcalquer"
+2992 = "Albenga" #catalan
+3003 = "Eubea" #catalan
+4020 = "Comoras"
+4111 = "Santonja" #catalan
+4112 = "Carcí" #catalan
+#SAME 4150
+4174 = "Durrazo"
+4175 = "Scodra"
+4268 = "Àqaba" #catalan
+4270 = "Àzraq" #catalan
+4271 = "Suwayda" #? #catalan
+4297 = "Èmesa" #catalan
+4298 = "Antep" #catalan
+4303 = "Olti" #catalan
+4307 = "Palau Blanc" #? #catalan
+4308 = "Attuda" #?
+4309 = "Tralles" #?
+4310 = "Tefrícia" #catalan
+4311 = "Nicòpolis" #catalan
+4312 = "Dorilea" #catalan
+4313 = "Gangra" #catalan
+4314 = "Justiniàpolis" #catalan
+4315 = "Eudòxia" #catalan
+4316 = "Egipte oriental" #catalan
+4317 = "El Llac" #? #catalan
+4318 = "Afroditòpolis" #catalan
+4319 = "Latòpolis" #catalan
+4320 = "Girga" #catalan
+4323 = "Farafra" #catalan
+
+4383 = "La Haia" #catalan
+4384 = "Resna" #or Roaçona #catalan
+4385 = "Cotentin"
+4386 = "Vendea" #catalan
+4387 = "Angolemès" #catalan
+#SAME 4388 #catalan
+4389 = "Turena" #catalan
+#SAME 4390 #catalan
+4391 = "Vivarès" #catalan
+4392 = "Auxerre" #catalan

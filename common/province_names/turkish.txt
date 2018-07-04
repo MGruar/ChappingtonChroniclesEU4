@@ -1,0 +1,739 @@
+101 = "Cenova"
+#102 #?
+103 = "Piyemonte"
+#104 #?
+105 = "Parma"
+106 = "Modena"
+#107 #?
+108 = "Verona"
+#109 #?
+#110 #?
+#111 #?
+112 = "Venedik"
+113 = "Ferrara"
+114 = "Romanya" #?
+#115 #?
+116 = "Floransa"
+#117 #?
+118 = "Rum" #Modern Turkish Name: Roma
+119 = "Ankona" #?
+#120 #?
+121 = "Napoli"
+122 = "Otranto"
+123 = "Kalabriya"
+#124 #?
+#125 #?
+#SAME 126
+127 = "Sassari"
+128 = "Karintiya"
+129 = "Krayna" #?
+130 = "Istirya"
+131 = "Zagreb" #SAME 131
+132 = "Steiermark" #?
+133 = "Linç" #Modern Turkish Name: Linz
+134 = "Beç" #Modern Turkish Name: Viyana
+135 = "Sopron" #SAME 135
+136 = "Dalmaçya"
+137 = "Ragusa"
+138 = "Kotor"
+139 = "Hersek"
+140 = "Bosna" #SAME 140
+141 = "Semendire"
+142 = "Korfu"
+143 = "Avlonya"
+144 = "Yanya"
+145 = "Anabolu"
+146 = "Atina"
+147 = "Tirhala"
+148 = "Selanik"
+149 = "Edirne"
+150 = "Nigbolu"
+151 = "Kostantiniyye"
+152 = "Varazdin"
+153 = "Budin"
+154 = "Uyvar"
+155 = "Göle"
+156 = "Timisvar" #Modern Turkish Name: Temesvar
+157 = "Varad"
+158 = "Maros" #or Muris
+159 = "Silistre"
+160 = "Küçük Eflak"
+161 = "Bükres"
+162 = "Zemplin" #?
+163 = "Girid" #Modern Turkish Name: Girit
+164 = "Kiklad Adalari" #Naksa, or Naksa Berre
+201 = "Provans" #?
+213 = "Barselona"
+220 = "Valensiya"
+223 = "Girnata"
+225 = "Kurtuba"
+226 = "Cebelitarik"
+227 = "Lizbon"
+236 = "Londra"
+259 = "Sandomir" #?
+#SAME 260
+261 = "Galiç" #?
+262 = "Krakov"
+#263 #?
+265 = "Brno" #SAME 265
+266 = "Prag"
+267 = "Plzen" #SAME 267
+268 = "Bogdan"
+#SAME 276
+#SAME 277
+#SAME 278
+279 = "Volinya"
+#SAME 280
+281 = "Kamaniçe"
+282 = "Özi" #or Özü, or Hocabey, Modern Turkish Name: Hacibey
+283 = "Zaporojya" #?
+284 = "Kirim"
+285 = "Kefe"
+286 = "Azak"
+287 = "Kuban"
+288 = "Alt Tin" #?
+289 = "Çernigov"
+#SAME 290
+291 = "Harkov"
+#SAME 292
+#SAME 293
+#SAME 294
+295 = "Moskov" #Modern Turkish Name: Moskova
+#SAME 296
+#SAME 297
+#SAME 298
+299 = "Voronej"
+#SAME 300
+#SAME 301
+#SAME 302
+#303 #?
+#SAME 304
+#305 #?
+306 = "Nijniy Novgorod"
+#SAME 307
+#SAME 308
+316 = "Kocaeli" #SAME 316
+317 = "Hüdavendigar" #SAME 317 or Brusa #Modern Turkish Name: Bursa
+318 = "Sugla"
+319 = "Mentesa" #SAME, #Modern Turkish Name: Mentese
+320 = "Rodos"
+321 = "Kibris"
+322 = "Kütahya" #SAME 322
+323 = "Konya" #SAME 323
+324 = "Karaman" #SAME 324
+325 = "Kastamonu" #SAME 325
+326 = "Ankara" #SAME 326
+327 = "Adana" #SAME 327
+328 = "Sinop" #SAME 328
+329 = "Sivas" #SAME 329
+330 = "Trabzon"
+331 = "Erzirum" #Modern Turkish Name: Erzurum
+332 = "Maras" #SAME 332
+333 = "Balear Adalari"
+334 = "Tanca"
+335 = "Melilya" #?
+336 = "Tilimsan"
+337 = "Vahran"
+338 = "Cezayir"
+339 = "Kabiliye"
+340 = "Konstantin"
+341 = "Tunus"
+342 = "Kazablanka"
+343 = "Fes"
+344 = "Marakes"
+#SAME 345 #?
+#SAME 346 #?
+347 = "Ifni" #SAME 347 #?
+#SAME 348 #?
+349 = "Fikik" #?
+350 = "Lagvat" #?
+351 = "Biskra"
+352 = "Kafsa"
+353 = "Tatavin"
+354 = "Trablusgarp"
+355 = "Sirte"
+356 = "Bingazi"
+357 = "Derne"
+358 = "Iskenderiye"
+359 = "Feyyum"
+360 = "El Uksur"
+361 = "Kahire"
+362 = "Resid"
+363 = "Dimyat"
+364 = "Gazze"
+365 = "Sina" #SAME 365
+366 = "Kanarya Adalari"
+367 = "Azorlar"
+#SAME 368
+377 = "Haleb" #Modern Turkish Name: Halep
+378 = "Trablussam"
+379 = "Kudüs"
+380 = "El Kerak"
+381 = "Dera" #or Aclun
+382 = "Sam" #or Dimesk
+383 = "Tebük"
+384 = "Medine"
+385 = "Mekke"
+386 = "Bisa" #?
+387 = "Mohka"
+388 = "Aden"
+389 = "El Mukelle"
+390 = "San'a" #SAME 390
+391 = "Necran"
+#392 #?
+393 = "Hail" # Cebel Sammar
+394 = "Katif" #or Lahsa
+395 = "Katar"
+396 = "Bahreyn"
+#SAME 397 #?
+398 = "Sarika"
+399 = "El Batina" #Suhar
+400 = "Maskat"
+#SAME 401
+402 = "Kisn" #?
+403 = "Nizva"
+404 = "Liva" #?
+405 = "Palmira"
+406 = "Hadise"
+407 = "Rakka"
+408 = "Basra"
+409 = "Kerbela"
+410 = "Bagdad" #Modern Turkish Name: Bagdat
+411 = "Musul"
+412 = "Ahvaz"
+413 = "Hürremabad"
+414 = "Hemedan"
+415 = "Kerkük"
+416 = "Kent-i Tebriz" #or Tebriz Kend, Modern Turkish Name: Tebriz
+417 = "Lahican"
+418 = "Diyar-i Bekr" #Modern Turkish Name: Diyarbekir
+419 = "Erivan"
+420 = "Gence" #SAME 420
+421 = "Sirvan" #SAME 421
+422 = "Imereti" #SAME 422
+423 = "Tiflis"
+424 = "Erdebil" #SAME 424
+425 = "Derbent" #Dagistan
+426 = "Amul"
+427 = "Kumis" #?
+428 = "Tahran"
+429 = "Isfahan"
+430 = "Destistan" #Busehr
+431 = "Mugustan" #? or Hürmüzgan
+432 = "Kirman"
+433 = "Yezd"
+434 = "Kuhistan"
+435 = "Zaranc"
+436 = "Bircend"
+437 = "Kopet Daglari"
+438 = "Karakum Çölü"
+439 = "Mangislak"
+440 = "Karakalpaklar"
+441 = "Hive"
+442 = "Buhara"
+443 = "Üstyurt" #?
+444 = "Çarçou"
+445 = "Merv"
+446 = "Herat" #SAME 446
+447 = "Kandehar"
+448 = "Gazne"
+449 = "Gur"
+450 = "Belh"
+451 = "Kâbil"
+452 = "Bedahsan"
+453 = "Karsi"
+454 = "Semerkant"
+455 = "Kizilkum Çölü"
+#SAME 456
+457 = "Taskent"
+458 = "Hokand"
+#SAME 459
+460 = "Uzkend"
+461 = "Almati"
+462 = "Megrelya"
+463 = "Çerkesya"
+464 = "Hacitarkan"
+465 = "Saraycik" #?
+#SAME 466
+#467 #?
+468 = "Maniç" #?
+469 = "Narin Çölü" #?
+470 = "Bayirli"
+471 = "Alimoglu"
+472 = "Jetiru"
+473 = "Samara"
+474 = "Yayik"
+475 = "Ufa"
+476 = "Kipçak"
+477 = "Nadim" #?
+478 = "Argin"
+#SAME 479 #?
+483 = "Türk Adalari"
+575 = "Gvadar"
+576 = "Kalat"
+577 = "Ketta"
+578 = "Pesaver"
+714 = "Kobuksar"
+715 = "Urumçi"
+#SAME 771
+965 = "Yeni Istanbul"
+#SAME 1076 #?
+#SAME 1077 #?
+#SAME 1078 #?
+1079 = "Hlinov" #?
+#1081 #?
+1082 = "Kazan"
+#SAME 1083
+1099 = "Sokotra"
+1110 = "Agadir" #SAME 1110
+#SAME 1204 #?
+1205 = "Mogadisu"
+1206 = "Kardo" #?
+1207 = "Ogaden"
+1208 = "Degehabur" #?
+1209 = "Berbera" #SAME 1209
+1210 = "Davaro" #?
+#SAME 1211
+1212 = "Zeyla"
+1213 = "Seva" #?
+#SAME 1214 #?
+1215 = "Tacura" #?
+1216 = "Tegali" #?
+1217 = "Fazugli" #?
+#SAME 1218 #?
+1219 = "Darfur"
+1220 = "Bayuda Çölü"
+1221 = "El Ubeyd"
+1222 = "El Cezire"
+1223 = "Goccam" #?
+#SAME 1224 #?
+1225 = "Butana" #SAME 1225 #?
+1226 = "Becalar"
+#SAME 1227
+1228 = "Dongola"
+1229 = "Berber" #SAME 1229 #?
+1230 = "Massava"
+1231 = "Asvan"
+1232 = "Sevakin"
+1233 = "Harga"
+#SAME 1234 #?
+1247 = "Korsika"
+1318 = "Sepes" #?
+1751 = "Septe"
+1752 = "Rjev"
+#SAME 1753
+#SAME 1754
+1756 = "Akkerman" # or Bucak
+1764 = "Kirkkilise"
+1765 = "Sofya"
+1766 = "Kosova"
+1767 = "Slavonya"
+#1768 #?
+1769 = "Görç" #?
+#1770 #?
+1771 = "Krusne Daglari" #?
+#1772 #?
+1773 = "Ballibadra"
+1774 = "Treviso"
+1778 = "Hankirmen" #?
+1826 = "Lika" #SAME 1826 #?
+1827 = "Yeni Pazar"
+1828 = "Travik"
+1831 = "Trebine"
+1846 = "Amasya" #SAME 1846
+1848 = "Hamid" #SAME 1848
+1849 = "Hama"
+1853 = "Kesriye"
+#SAME 1854
+#SAME 1855
+1856 = "Abhazya"
+1862 = "Kremona" #?
+1863 = "Graç" #Modern Turkish Name: Graz
+1864 = "Kopan"
+#1875 #?
+1882 = "Annaba"
+1933 = "Bari"
+1934 = "Lukanya"
+#1940 #?
+#SAME 1941
+1942 = "Jitomir"
+#1943 #?
+1944 = "Çerkassi"
+1945 = "Cagalday" #?
+1951 = "Hunyad" #?
+1952 = "Maramaros" #?
+1953 = "Debrecin"
+1954 = "Beçkerek"
+#SAME 1956
+1957 = "Galiç"
+1959 = "Torjok"
+1962 = "Kudimkar" #?
+#SAME 1965
+1966 = "Çelyabinsk"
+1967 = "Hucend"
+1968 = "Kulâb"
+1969 = "Suzak"
+1970 = "Sugnak" #Ak Mescit?
+1971 = "Sari Su" #or Çariçin
+#1972 #?
+1973 = "Ürgenç"
+1974 = "Cedisikul"
+2024 = "Garove"
+2118 = "Ürjar" #?
+2119 = "Çuguçak" #or Çöçek
+#SAME 2120
+2125 = "Koçkor"
+2126 = "Çuy"
+2195 = "Sucuk-Kale" #Modern Turkish Name: Sogucak
+2196 = "Çildir"
+2197 = "Kabarda"
+2198 = "Dagistan"
+2199 = "Tarki"
+2201 = "Alanya"
+2202 = "Karabag"
+2203 = "Kaheti"
+2204 = "Kars"
+2205 = "Nahçivan"
+2206 = "Urmiye"
+2207 = "Meraga"
+2208 = "Kizlar"
+2209 = "Ilam"
+2210 = "Kirmansah"
+2211 = "Erdalan"
+2212 = "Zencan" #SAME 2212
+2213 = "Kum" #Merkezi
+2214 = "Gürgan"
+2215 = "Kazvin"
+2216 = "Simnan"
+2217 = "Yasuc"
+2218 = "Siraz"
+2219 = "Bender Lenge"
+2220 = "Bem"
+2221 = "Meshed"
+2222 = "Ardekan"
+2223 = "Laristan"
+2224 = "Ferah"
+#SAME 2225
+2226 = "Celalabad"
+2227 = "Kunduz" #SAME 2227
+2228 = "Meymene"
+2229 = "Büst"
+#SAME 2230
+#SAME 2231 #?
+2232 = "Haran"
+2233 = "Çabahar"
+2234 = "Refsencan"
+2235 = "Sebzevar"
+2236 = "Bucnurd"
+2296 = "Karasi" #SAME 2296 or Biga
+2297 = "Saruhan" #SAME 2297 or Manisa
+2298 = "Tekke" #SAME 2298 or Teke, or Antalya
+2299 = "Bolu" #SAME 2299
+2300 = "Bozok" #SAME 2300
+2301 = "Kayseri" #SAME 2301
+2302 = "Içel" #SAME 2302
+2303 = "Malatya" #SAME 2303
+2304 = "Canik" #or Samsun
+2305 = "Erzincan"
+2306 = "Mus"
+2307 = "Van" #SAME 2307
+2308 = "Urfa"
+2309 = "Sincar"
+#SAME 2310
+2311 = "Samava"
+2312 = "Vasit"
+2313 = "Antakya"
+2314 = "Deyrizor"
+2315 = "Süveys"
+2316 = "Garbiya"
+2317 = "Minye"
+2318 = "Bahriye"
+2319 = "Asyut"
+2320 = "Ras Garib" #?
+2321 = "Kuseyr"
+2323 = "Nübye Çölü"
+#2322 #?
+2324 = "Halayeb"
+2325 = "Mersa Matruh" #SAME 2325
+2326 = "Bardiye"
+#SAME 2327
+2328 = "El Ula"
+2329 = "Yenbu"
+#2330 #?
+2331 = "Cidde"
+2332 = "Turaba" #?
+#SAME 2333 #?
+2335 = "Davasir" #?
+2336 = "Kehriz" #?
+2337 = "Büreyde"
+2338 = "Hafar El Batin"
+#SAME 2339 #?
+2340 = "Kuveyt"
+2341 = "Mesire"
+2342 = "El Vusta"
+2343 = "Seiyun" #?
+2344 = "Marib"
+2345 = "Beyhan"
+2346 = "Cizan"
+2347 = "Lahsa" #Hüfuf
+2348 = "Sakiz"
+2349 = "Kizilsu"
+2350 = "Göktepe" #or Askabat
+2351 = "Sekti" #?
+2352 = "Alti-Kuduk" #?
+2353 = "Tortkara" #?
+2354 = "Segendik" #?
+2355 = "Narim" #?
+2356 = "Çimkent"
+2357 = "Aksari" #?
+2358 = "Altin" #?
+2359 = "Baganali" #?
+2360 = "Tobikti" #?
+2361 = "Caman-Kuduk" #?
+2362 = "Köhne Ürgenç"
+#SAME 2363 #?
+2364 = "Fergana"
+2365 = "Orda" #?
+2366 = "Singirlau" #?
+2367 = "Alt Yayik" #?
+2368 = "Karamegdan" #?
+#SAME 2369 #?
+2370 = "Konurat"
+2405 = "Bender"
+#SAME 2406 #?
+#SAME 2407 #?
+#SAME 2408
+#SAME 2409 #?
+2410 = "Bahçeseray"
+#SAME 2411 #?
+2412 = "Kizil-Yar" #?
+#SAME 2413
+#SAME 2414 #?
+2415 = "Atkara" #?
+2416 = "Macar" #?
+#2417 #?
+2418 = "Ükek" #?
+#2419 #?
+2420 = "Agizel"
+#2421 #?
+2422 = "Supaskar"
+#SAME 2423 #?
+2424 = "Peremisl" #?
+#SAME 2441 #?
+2444 = "Baskurt" #?
+2447 = "Hunkala"
+2448 = "Fizan"
+2449 = "El Cufra"
+2450 = "Gadames"
+2451 = "Misrata"
+2452 = "Zuvare"
+2453 = "Safakes"
+2454 = "El Kâf"
+2455 = "Bizerte"
+2456 = "Tugurt" #SAME 2456 #?
+2457 = "Mzab"
+2458 = "Hodna" #SAME 2458 #?
+2459 = "Titteri" #?
+2460 = "Saura" #SAME 2460 #?
+2461 = "Dahra" #SAME 2461 #?
+2462 = "Vansaris" #?
+2463 = "Kasdir" #SAME 2463 #?
+2464 = "Varzazat"
+2465 = "Ucda"
+2466 = "Dera" #?
+2467 = "Meknes"
+2468 = "Tadla" #SAME 2468 #?
+2469 = "Dukkala" #?
+2470 = "Haha" #?
+2472 = "Vurkla"
+2473 = "Susa" #SAME 2473
+2746 = "Vidin" #SAME 2746
+2750 = "Filibe"
+2756 = "Velayta" #?
+#SAME 2757 #?
+2758 = "Illubabor" #?
+#SAME 2759
+2760 = "Hadiya" #?
+#SAME 2761 #?
+#SAME 2762 #?
+#SAME 2763 #?
+#SAME 2764 #?
+2765 = "Assab"
+2766 = "Mendefera"
+#SAME 2767 #?
+#SAME 2768 #?
+#SAME 2769 #?
+2770 = "Agev" #?
+2771 = "Simen"
+#SAME 2772 #?
+2773 = "Mora" #SAME 2773 #?
+2774 = "Kismayo"
+2775 = "Merka"
+2776 = "Afgoye" #?
+2777 = "Bardere" #?
+2778 = "Verder" #?
+2779 = "Afder" #?
+2780 = "Beledveyne"
+2781 = "Gedo"
+2782 = "Varseyh" #?
+2783 = "Hobyo" #?
+2784 = "Galkayo"
+2785 = "El Buur"
+2786 = "Bosaso"
+2787 = "Hamasyen" #?
+2788 = "Hafun" #?
+2789 = "Las Horey" #?
+2790 = "Sanag"
+#SAME 2791 #?
+2792 = "Togdeyr"
+2793 = "Hargeysa" #SAME 2793 or Hargeisa
+2794 = "Barava" #?
+2795 = "Mereg" #?
+#SAME 2796 #?
+2797 = "Sendi" #?
+#SAME 2798 #?
+2799 = "Sennar"
+#SAME 2800 #?
+2801 = "Medve" #?
+#SAME 2802 #?
+2954 = "Cerbe"
+2959 = "Tarnuv" #?
+#2960 #?
+2961 = "Ilbav"
+#SAME 2962
+2967 = "Kralin Banyosu" #Egri
+2968 = "Budvar" #?
+#2970 #?
+#2976 #?
+2977 = "Urbino"
+#2978 #?
+2979 = "Novara"
+2980 = "Lukka" #?
+#2981 #?
+2982 = "Siraküza"
+2983 = "Salerno"
+2984 = "Kozentsa" #?
+2985 = "Foca" #?
+2986 = "Kalyari" #?
+2991 = "Draginyan" #?
+2992 = "Albenga"
+2998 = "Boze"
+2999 = "Hürmüz"
+3000 = "Nis"
+3001 = "Üsküp"
+3002 = "Saraybosna"
+3003 = "Egriboz"
+4033 = "El Gadarif"
+4051 = "Evaso Ngiro" #?
+4052 = "Dava" #?
+4115 = "Mozir" #?
+#SAME 4116
+4117 = "Bejetsk" #?
+4125 = "Eger"
+4126 = "Segedin" #or Baç
+4127 = "Turda" #SAME 4127 #?
+4128 = "Erdel" #or Erdelistan
+#SAME 4147
+4158 = "Canciro" #?
+4171 = "Aberkuh"
+4173 = "Sirem"
+4174 = "Ilbasan" #Modern Turkish Name: Elbasan
+4175 = "Iskodra"
+4176 = "Braniçevo"
+4236 = "Trençin" #?
+#4237 #?
+4239 = "Belgrad"
+4240 = "Istolni Belgrad"
+#SAME 4242 #?
+#SAME 4243 #?
+4244 = "Trubçevsk" #?
+#SAME 4245
+#SAME 4246 #?
+4247 = "Ovruç" #?
+4248 = "Kasin" #?
+#SAME 4249 #?
+#SAME 4250 #?
+4251 = "Mojaysk" #?
+#SAME 4252
+#SAME 4253 #?
+#SAME 4254 #?
+#SAME 4255 #?
+#4264 #?
+#SAME 4265 or Yarçalli
+#SAME 4266 #?
+#SAME 4267
+4268 = "Akabe"
+4269 = "El Vecih"
+4270 = "Azrak" #?
+4271 = "Süveyde"
+4272 = "El Cevf"
+#4273 #?
+4274 = "Havte Sudeyir"
+#4275 #?
+4277 = "Taif"
+4278 = "El Kunfuza"
+#SAME 4279
+4280 = "Taiz"
+4281 = "Zamar"
+4282 = "Saada"
+4283 = "Es Sihr" #?
+4284 = "El Gayda" #?
+4285 = "El Buraymi"
+#SAME 4286 or Es Sarkiya
+4287 = "Ibra" #?
+4288 = "Kurne" # Sattülarap
+4289 = "Suster"
+4290 = "Huveyze"
+4291 = "Kazaniye" #?
+4292 = "Mardin"
+4293 = "Erbil"
+4294 = "Süleymaniye"
+4295 = "Hisnikeyf" #Modern Turkish Name: Hasankeyf
+4296 = "Bitlis"
+4297 = "Humus"
+4298 = "Ayntab" #SAME 4298 #Modern Turkish Name: Antep
+4299 = "Samahi"
+4300 = "Miyane"
+4301 = "Kartli" #SAME 4301
+4302 = "Beyazit"
+4303 = "Oltu"
+4304 = "Hoy"
+4305 = "Seki" #SAME 4305
+4306 = "Lakistan" #?
+4307 = "Aksaray" #SAME 4307
+4308 = "Denizli" #SAME 4308
+4309 = "Aydin" #SAME 4309
+4310 = "Divrigi" #SAME 4310
+4311 = "Afyon" #SAME 4311 or Karahisar
+4312 = "Eskisehir" #SAME 4312
+4313 = "Kangiri" #SAME 4313
+4314 = "Kirsehir" #SAME 4314
+4315 = "Tokat" #SAME 4315
+4316 = "Sarkiye"
+4317 = "Buheyre"
+4318 = "Atfih" #?
+4319 = "Esna"
+4320 = "Circa"
+4323 = "Farafra Çölü"
+4324 = "Guryan"
+4325 = "Serahs"
+4326 = "Nisabur"
+4327 = "Cask"
+4329 = "Fesa"
+#SAME 4330
+4331 = "Kazerun" #SAME 4331
+#SAME 4332
+4334 = "Tebes"
+4335 = "Kasan"
+#SAME 4336
+4337 = "Save"
+4338 = "Sultaniye" #SAME 4338
+4339 = "Rest"
+4340 = "Astara" #SAME 4340
+#SAME 4341
+4342 = "Malemir"
+4343 = "Tirmiz"
+4344 = "Sehr-i-Sebz"
+4345 = "Seyidabad" #?
+
+4383 = "Lahey"

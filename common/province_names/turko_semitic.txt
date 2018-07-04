@@ -1,0 +1,687 @@
+#arabic: maghrebi, turko_semitic
+#cultures: andalucian, al_misr_arabic, al_suryah_arabic, al_iraqiya_arabic, gulf_arabic, bedouin_arabic, mahri_culture, hejazi_culture, omani_culture, yemeni_culture, moroccan, tunisian, algerian
+#excluded: turkish, berber
+73 = "Tirul" #?
+76 = "Salzburgh"
+101 = "Januwah"
+102 = "Nis"
+103 = "Bidmunt" #or Biyimunti
+104 = "Milanu"
+105 = "Barma"
+106 = "Mudina"
+107 = "Brisha"
+108 = "Firuna"
+109 = "Mantufa"
+110 = "Trintu"
+111 = "Friyuli"
+112 = "al-Bunadqiyyah" #?
+113 = "Firara"
+114 = "Rumaniyya"
+115 = "Biza"
+116 = "Fluransa"
+117 = "Siyina"
+118 = "ar-Rum" #Modern Arabic: Ruma
+119 = "'Ankuna"
+120 = "'Abrutsu"
+121 = "Nabuli"
+122 = "Salintu"
+123 = "Qalawriyyah"
+124 = "Massinah"
+125 = "Balarm"
+#SAME 126
+127 = "Sasari"
+128 = "Kirintin"
+129 = "Karniyula"
+130 = "'Istriyya"
+131 = "Zaghrib"
+132 = "Stayriyya" #?, Shrayirmark
+133 = "Linz" #?, Lints? or Linatas?
+134 = "Fiyana"
+135 = "Shubrun"
+136 = "Dalmasiyyah"
+137 = "Raghuza" #or Dubrufnik
+138 = "al-Jabal ul-'Aswad" #or Muntinighiru
+139 = "al-Hirsak"
+140 = "al-Busnah"
+141 = "Samandir" #?
+142 = "Kurfu"
+143 = "Falurah"
+144 = "'Ibayrus"
+145 = "Muriyyah"
+146 = "'Athina"
+147 = "Thaysaliya"
+148 = "Maqduniya"
+149 = "'Adrinah" #'Adriyanobl
+150 = "Nayqubulas" #Tarnufu
+151 = "al-Qustantiniyyah"
+152 = "Farajdin"
+153 = "Bisht"
+154 = "'Aqfal Jadidah" #? #Modern Arabic: Nufi Zamki
+155 = "Bikish"
+#SAME 156
+157 = "Krishana"
+158 = "Mawrish" #or Murish
+159 = "Silistra"
+160 = "al-'Aflaq" #or 'Ultiniya
+161 = "Tarjufisht"
+162 = "Kushitsah"
+163 = "Kirit"
+164 = "Naksus" #Kikladis
+165 = "Birn"
+166 = "Shawiz"
+167 = "Rawan" #al-Jir? Ku?
+168 = "Kayn" #Nurmandi
+169 = "Sant Bariyuk"
+170 = "Finistir" #or Brist
+171 = "Fan"
+172 = "Nant"
+173 = "Bayun" #Laburd
+174 = "Bardil" #Modern Arabic: Burdu
+175 = "'Ush" #?
+176 = "Bu"
+177 = "Law Man" #Min
+178 = "'Anjiyyah" #'Anju
+179 = "Burjiz"
+180 = "Buwatiyyah"
+181 = "Rithl" #?
+182 = "Faluwa" #?
+183 = "Bariz" #Modern Arabic: Baris
+184 = "'Urliyansh" #or 'Alyansh or 'Awrliyan?
+185 = "Namur"
+186 = "Rans" # Shambaniyya
+187 = "Bar"
+188 = "Mitz"
+189 = "Lurin"
+190 = "Mulinz"
+191 = "Nifir"
+192 = "Dayjun" #Burghuniyya
+193 = "Bizansun" #or Fransh Kuntah
+194 = "Birjirak" #?, Birigu?
+195 = "Limuzin"
+196 = "Tulusha" #Modern Arabic: Tuluz
+197 = "Birbinya" #Rusiyun
+198 = "Rudiz" #Rawirk?
+199 = "Kalirmun" #'Awfarn
+200 = "Munbiliyyah"
+201 = "Marsiliyya" #or Barufans
+202 = "'Afinyun"
+203 = "Liyun"
+204 = "Ghrunubil" #or Dufini?
+205 = "Shambiri" # Safuya or Safuy
+206 = "Shant Yakub"
+207 = "'Astuiyas" #?
+208 = "Liyun"
+209 = "Biskay"
+210 = "Banbaluna"
+211 = "Wasqah"
+212 = "Garundah"
+213 = "Barshalunah"
+214 = "Saraqustah"
+215 = "Ballad al-Walid"
+216 = "Shalamanqah"
+217 = "Majrit" #Modern Arabic: Madrid
+218 = "Batalyaws"
+219 = "Tulaytulah"
+220 = "Balansiyah"
+221 = "Mursiyah"
+222 = "al-Mariyyah"
+223 = "Gharnatah"
+224 = "Isbiliyah"
+225 = "Qurtubah"
+226 = "Jabal Tariq"
+227 = "'Ushbunah" #Modern Arabic: Lishbunah
+228 = "al-Thaghr al-'Adna"
+229 = "Bajah"
+230 = "al-Gharb" #Shilb
+231 = "Burtuqal" #Modern Arabic: Burtu
+232 = "Braghanza" #Biraghilanakah?
+268 = "Muldufa" #Modern Arabic: Muldafiyya
+284 = "al-Qirim"
+285 = "Qafa" #?
+#SAME 286 #? #Modern Arabic: Azuf
+287 = "al-Kuban"
+295 = "Mosku"
+316 = "Niqumidiyya" #or 'Izmid, or Qujah Ili?
+317 = "Bursah" #or Niqiyyah
+318 = "Smirna" #or 'Izmir
+319 = "Mughla"
+320 = "Rudus"
+321 = "Qubrus"
+322 = "Kawtahyah" #? or Kutahyah?
+323 = "Quniyah"
+324 = "Larindah" #or Karaman
+325 = "Qustamuni"
+326 = "'Ankuriyyah" #Modern Arabic: 'Anqarah
+327 = "'Adnah" #or 'Adanah?
+328 = "Sinub"
+329 = "Sibastiyya" #or Siwas
+330 = "Tarabizun"
+331 = "Ardh ur-Rum" #or 'Ardhurrum, Kalikala 
+332 = "Mar'ash"
+333 = "Mayurqah"
+334 = "Tanjah"
+335 = "Maliliyyah"
+336 = "Tilimsan"
+337 = "Wahran"
+338 = "al-Jaza'ir"
+339 = "Bijayah" #al-Qaba'ali
+340 = "Qustantinah" #"Qusantinah"
+341 = "Tunis"
+342 = "ad-Dar al-Bayda'"
+#SAME 343
+344 = "Marrakush"
+345 = "'Asfi"
+#SAME 346
+347 = "Sidi Ifni"
+#SAME 348
+349 = "Fikik"
+350 = "al-'Aghwat"
+351 = "Biskrah"
+352 = "al-Qafsah"
+353 = "Tathawin"
+354 = "Tarabulus al-Gharb"
+#SAME 355
+#SAME 356
+#SAME 357
+358 = "al-Iskandariyyah"
+359 = "al-Fayyum"
+360 = "al-'Uqsur"
+361 = "al-Qahirah"
+#SAME 362
+#SAME 363
+#SAME 364
+365 = "Sina'"
+366 = "Kanariyyah"
+367 = "al-'Azur"
+368 = "Madira"
+#SAME 377
+378 = "Tarabulus ash-Sham"
+379 = "al-Quds"
+#SAME 380
+#SAME 381
+382 = "Dimashq"
+#SAME 383
+#SAME 384
+#SAME 385
+#SAME 386
+387 = "al-Mukha"
+388 = "'Adan"
+#SAME 389
+390 = "San'a'"
+#SAME 391
+#SAME 392
+#SAME 393
+#SAME 394
+#SAME 395
+#SAME 396 or Awal (archaic)
+#SAME 397 #?
+398 = "ash-Shariqah"
+#SAME 399 or Suhar
+#SAME 400
+#SAME 401
+#SAME 402
+403 = "Nazwa"
+#SAME 404
+#SAME 405
+#SAME 406
+#SAME 407
+#SAME 408
+#SAME 409
+#SAME 410
+411 = "al-Mawsil"
+#SAME 412
+413 = "Khurramabad"
+414 = "Hamidan"
+415 = "Karkuk"
+416 = "Tibriz" #?
+417 = "Lahijan"
+418 = "Diyar Bakr"
+419 = "Irifan"
+420 = "Kanjah"
+421 = "Sharwan" #?
+422 = "'Imiriyati"
+423 = "Taflis"
+424 = "'Ardibil"
+425 = "Bab al-'Abwab" #or al-Bab
+426 = "Amul"
+#SAME 427 #?
+428 = "Tihran"
+429 = "'Asfahan"
+430 = "Dashtistan"
+431 = "Mukustan" #? or Mughustan?, Mujustan?
+432 = "Kirman" #?
+#SAME 433 #?
+434 = "Quhistan"
+#SAME 435 #?
+#SAME 436 #?
+441 = "Khaywah"
+442 = "Bikhara" #?
+444 = "Amul" #?
+445 = "Marw" #?
+446 = "Harat" #? or Harah?
+447 = "Qandahar"
+448 = "Ghaznah" #or Ghaznin
+449 = "Ghur"
+#SAME 450
+451 = "Kabul"
+452 = "Bidakhshan"
+#SAME 453
+#SAME 454
+457 = "Tashqand"
+458 = "Khuqand"
+460 = "'Awzakand"
+462 = "Minaghriliya"
+463 = "Sharkesiya"
+464 = "Hajji Tarkhan" #?
+466 = "Saray al-Jadid" # Saray al-Maqrus
+468 = "Manij" #?
+476 = "Qifjaq"
+#SAME 506
+507 = "Lahur"
+508 = "Kashmir"
+517 = "Surat"
+522 = "Dilhi"
+534 = "Qaliqut"
+558 = "Batna"
+575 = "Kwadar" #? or Ghwadar?
+#SAME 576
+#SAME 577 #?
+578 = "Bishawar"
+597 = "Jawhar"
+788 = "'Anghuj" #?
+965 = "Gharnatah al-Jadida"
+1096 = "ar-R'as al-'Akhdar"
+#SAME 1099
+1100 = "Mahih"
+1101 = "Tashaghus" #Modern Arabic
+1102 = "Dunya al-'Arubah"
+1103 = "Dunya Murghabin" #?
+1110 = "'Akadir" #or 'Aghadir
+#SAME 1111
+#SAME 1112
+1127 = "Tawat"
+1128 = "Tawdanni"
+1129 = "'Azawad"
+1130 = "Tadmakkah"
+1132 = "Tumbuktu"
+1183 = "Inhamiban"
+1186 = "Safalah"
+1192 = "Kilaymani"
+1195 = "Muzambiq" #Modern Arabic
+1196 = "Kilwah"
+1197 = "Mazizima" #Modern Arabic: Dar as-Salam
+#SAME 1198
+1199 = "Bajamuyu"
+1200 = "Tanja"
+1201 = "Zanjibar"
+1202 = "Mumbasa"
+#SAME 1203
+#SAME 1204
+1205 = "Maqadishu"
+1206 = "Qardu"
+1207 = "'Awghadin"
+1208 = "Jabal Sakhri" #?
+1209 = "Barbarah"
+#SAME 1211
+1212 = "Zayla'"
+1215 = "Tajurah"
+#SAME 1217
+#SAME 1219
+#SAME 1220
+1221 = "al-'Ubayyid"
+1222 = "al-Jazirah"
+1225 = "al-Butanah"
+1226 = "al-Bija"
+1228 = "Dunqula"
+1229 = "Barbar"
+1230 = "Massawa'"
+#SAME 1231
+#SAME 1232
+1233 = "al-Kharjah"
+#SAME 1234
+1247 = "Qurshiqah"
+1248 = "al-Maddif" #or Mahal Dibiyat?
+1318 = "Sibish" #?
+1745 = "Kantabriya" #?
+1746 = "Barghush"
+1747 = "Qasarash"
+1748 = "Jayyan"
+1749 = "Qadis"
+1750 = "al-Laqant"
+1751 = "Sabtah"
+1756 = "Bisarabiyya"
+1764 = "Burghas"
+1765 = "Sufiyya"
+1766 = "Qawsuh" #Modern Arabic: Kusufu
+1767 = "Slafuniyya" #?
+1768 = "Liynz" #?
+1769 = "Ghuritsiyya"
+1770 = "'Ustmark" #?
+1771 = "Jabal ul-Kham"
+1772 = "Brishburuk"
+1773 = "Akhaya"
+1774 = "Trifizu"
+#SAME 1826 #?
+1827 = "Rashka" #?
+1828 = "al-Hiwaf as-Safaliyyah" #?
+1831 = "Trafuniyya" #?
+1846 = "'Amasiya"
+1848 = "'Isbartah"
+#SAME 1849
+1851 = "Qulumriyah"
+1853 = "Qusturiyyah"
+#SAME 1854 or Yafa
+#SAME 1855
+1856 = "'Abkhaziya"
+1862 = "Krimuna"
+1863 = "Ghrats"
+1864 = "Shawmud"
+1865 = "Ghant"
+1866 = "Namur"
+1867 = "Fud"
+1869 = "Zayurikh"
+1870 = "Sant Ghallan"
+1871 = "Faliz"
+1873 = "Khur"
+1875 = "Kuniyu"
+1877 = "Sharul" #?
+1879 = "'Alunsun"
+1880 = "Zuntghaw" #?
+1882 = "'Annabah"
+1933 = "Bari"
+1934 = "Lukaniyya"
+1951 = "Difa"
+1952 = "Maramawris" #? or Maramurish?
+1953 = "Nayrighhaza" #or Kanisat ul-Qadban, or Zabuliks
+1954 = "Banat"
+1973 = "Jurjaniyyah"
+1967 = "Khujandah"
+1968 = "Kulab"
+2024 = "Gharuwa"
+2073 = "Baltistan"
+2074 = "Ladakh"
+2195 = "'Adighiyya"
+2196 = "Ghayuriya"
+2197 = "Qabarda"
+#SAME 2198 #?
+2199 = "Tarki" #?
+2201 = "Maghas" #?
+2202 = "Qurat Bagh"
+2203 = "Kakhiti"
+2204 = "Qars"
+2205 = "Nakhjuwan"
+2206 = "'Arumiyyah"
+2207 = "Maraghah"
+2208 = "Kizlar"
+2209 = "'Aylam" #or 'Ilam
+2210 = "Kirmanshah"
+2211 = "'Erdilaniyun"
+2212 = "Zanjan"
+2213 = "Qum"
+2214 = "Jurjan"
+2215 = "Qazwin"
+2216 = "Samnan"
+#SAME 2217
+#SAME 2218
+2219 = "Linjah" # Bandar Linjah
+#SAME 2220
+#SAME 2221
+#SAME 2222 #?
+2223 = "Laristan"
+#SAME 2224
+2225 = "Bamiyan"
+2226 = "Jalalabad"
+2227 = "Qunduz"
+2228 = "Maymanah" #?
+2229 = "Busta"
+2230 = "Nimaruz" #?
+2231 = "Bilah" #?
+#SAME 2232 #?
+2233 = "Jabahar" #?
+#SAME 2234
+2235 = "Sabziwar" #?
+2236 = "Bijnurd" #?
+2296 = "Baliq 'Asir"
+2297 = "Maghnisa" #? #Modern Arabic: Manisa
+2298 = "'Anutaliyyah"
+2299 = "Bithiniyya" #or Bulu
+2300 = "Yuzghat" #Qabaduqiyyah
+2301 = "Qaysariyyah" #or Qaysari
+2302 = "Marsin"
+2303 = "Malatiyah"
+#SAME 2304
+2305 = "'Arzinjan"
+#SAME 2306
+2307 = "Wan"
+2308 = "ar-Ruha" #Jazirat ibn 'Umar
+2309 = "Sanjar"
+#SAME 2310
+#SAME 2311
+#SAME 2312
+2313 = "'Antakiyyah" #or 'Antakiya
+2314 = "Dayr az-Zawr" # ad-Dayr
+2315 = "as-Suways"
+2316 = "al-Gharbiyyah"
+2317 = "al-Minyah"
+2318 = "al-Wahat al-Bahriyah"
+#SAME 2319
+2320 = "Ras Gharib"
+2321 = "al-Qusayr"
+#SAME 2322
+#SAME 2323
+#SAME 2324
+2325 = "Marsa Matruh"
+2326 = "al-Bardiyah"
+#SAME 2327
+#SAME 2328
+#SAME 2329
+#SAME 2330
+#SAME 2331
+#SAME 2332
+#SAME 2333 #?
+#SAME 2335
+#SAME 2336
+#SAME 2337
+#SAME 2338
+#SAME 2339
+2340 = "al-Kuwayt"
+#SAME 2341
+#SAME 2342
+2343 = "Say'un"
+#SAME 2344
+#SAME 2345
+#SAME 2346
+2347 = "al-'Ahsa" #or al-Hufuf
+2362 = "Jurjaniyyah al-Qadima" #?
+2405 = "Bindar" #?
+2410 = "Bakhtshisaray"
+#2414?
+#SAME 2416 #?
+2417 = "Kuma" #?
+#SAME 2447
+2448 = "Fizzan"
+2449 = "al-Jufrah"
+2450 = "Ghadames"
+2451 = "Misratah"
+2452 = "Zuwarah"
+2453 = "Safaqis"
+2454 = "al-Kaf"
+2455 = "Banzart" #or Benzart
+2456 = "Tuqurt"
+2457 = "Mzab"
+2458 = "Hodnah"
+2459 = "at-Tattari"
+2460 = "Sawrah"
+2461 = "ad-Dahrah"
+2462 = "al-Wansharis"
+2463 = "al-Qasdir"
+#SAME 2464
+2465 = "Wajdah" #or Wujdah?
+2466 = "Dra'ah"
+2467 = "Meknas"
+2468 = "Tadlah"
+2469 = "Dukkalah"
+2470 = "Haha"
+2472 = "Warqalah"
+2473 = "Susah"
+2746 = "Fidin"
+2750 = "Filibbah" #Modern Arabic: Blufdif
+2751 = "Qunkah"
+2753 = "'Arbunah"
+2754 = "al-Mansha"
+2755 = "Madinat Salim"
+2764 = "'Awsa"
+2765 = "'Assab"
+2766 = "Mandifira"
+2773 = "Mura" #?
+2774 = "Kismayu"
+2775 = "Markah"
+2776 = "'Afjuyya" #?
+2777 = "Bardara" #?
+2778 = "Wardar" #?
+2779 = "'Afdar" #?
+2780 = "Bilad Wayn" #?
+2781 = "Ghidu"
+2782 = "Wa'arshaykh" #?
+2783 = "Hubya"
+2784 = "Jalka'yu"
+2785 = "al-Bur" #?
+2786 = "Bawsasu"
+2787 = "al-Hamasin"
+2788 = "Hafun"
+2789 = "Lasqoray"
+2790 = "Sanaj"
+2792 = "Tughdayr"
+2793 = "Harjaysa" #?
+2794 = "Barawah"
+2795 = "Maraj" #?
+2796 = "Beyt"
+#SAME 2797 or Meruwah
+2798 = "Suba"
+#SAME 2799
+2800 = "Kusti"
+2954 = "Jarbah"
+2976 = "'Umbriyya"
+2977 = "'Urbinu"
+2978 = "'Aritsu"
+2979 = "Nufara"
+2980 = "Lukka" #?
+2981 = "Munfiratu"
+2982 = "Sirqusah"
+2983 = "Salirnu"
+2984 = "Kushintah" #Modern Arabic: Kawzinsa
+2985 = "Fudja"
+2986 = "Kaliyari"
+2987 = "at-Thaghr al-A'la"
+2988 = "Tarkunah" #Modern Arabic: Taraghunah
+2989 = "'Arnit"
+2990 = "Tirwal"
+2991 = "Furqalkiyyah" #?
+2992 = "Albingha" #?
+2998 = "Buzaw"
+2999 = "Hurmuz"
+3000 = "Nish"
+3001 = "Skubiyyah" #or 'Awskub?
+3002 = "Sarayifu"
+3003 = "Wabiyyah"
+4020 = "Qamar"
+4033 = "al-Qadarif"
+4049 = "'Ibu" #?
+4111 = "Shans" #or Santas?
+4112 = "Kahur" #?
+4125 = "Sulnuk"
+4126 = "Zayjid"
+#SAME 4127 #?
+4128 = "Transilfaniyya"
+4150 = "Yaburah"
+#SAME 4171
+4173 = "Sirim" #?
+4174 = "Duraj"
+4175 = "Shqudrah" #or Shuqudirah
+4176 = "Branitshifu" #?
+4236 = "Trintshin"
+4239 = "Bilghrad"
+4240 = "Fiyr"
+#SAME 4268
+#SAME 4269
+#SAME 4270
+#SAME 4271
+#SAME 4272
+#SAME 4273 #?
+#SAME 4274
+#SAME 4275
+#SAME 4277
+#SAME 4278
+#SAME 4279
+#SAME 4280
+#SAME 4281
+#SAME 4282
+#SAME 4283
+#SAME 4284
+#SAME 4285
+#SAME 4286
+#SAME 4287
+#SAME 4288
+4289 = "Tustar"
+4290 = "al-Hawizah" #?
+#SAME 4291
+4292 = "Mardin"
+4293 = "'Arbil"
+4294 = "as-Sulaymaniyyah"
+4295 = "Hisn Kayfa"
+4296 = "Badlis"
+#SAME 4297
+4298 = "'Ayntab"
+4299 = "Shamakhi"
+4300 = "Mayanah"
+#SAME 4301
+4302 = "Bayazid"
+4303 = "'Ultu" #?
+4304 = "Khuy" #?
+4305 = "Shaki"
+4306 = "Qumuq" #?
+4307 = "Aq Saray" #or 'Arkhilas, or Gharsawra
+4308 = "Lawudikiyya"
+4309 = "Tralis" #? #Modern Arabic: 'Aydin
+4310 = "Tafriqah" #? #Modern Arabic: Diwriji?
+4311 = "'Afyun" #?
+4312 = "Daruliyyah" #Modern Arabic: 'Iski Shahar
+4313 = "Janqiri" #?
+4314 = "Qarashahir" #?
+4315 = "Tuqad"
+4316 = "ash-Sharqiyah"
+4317 = "al-Buhayrah"
+#SAME 4318
+4319 = "'Isna"
+4320 = "Jirja"
+4323 = "al-Farafrah"
+4324 = "Ghuriyan"
+4325 = "Sarkhas" #?
+4326 = "Naysabur"
+#SAME 4327
+#SAME 4329
+#SAME 4330
+4331 = "Kazirun"
+#SAME 4332 or Bandar Siraf
+#SAME 4334
+4335 = "Qasan"
+#SAME 4336 #?
+4337 = "Sawah"
+4338 = "Sultaniyyah"
+4339 = "Rasht"
+#SAME 4340
+#SAME 4341
+4342 = "'Idhaj"
+4343 = "Tirmidh"
+#SAME 4344
+4345 = "Sa'idabad"
+
+4384 = "Rin"
+4385 = "Shirbur" #?
+4386 = "Fundiyyah"
+4387 = "'Anghulim"
+4388 = "Shartr"
+4389 = "Tur"
+4390 = "Truwa"
+4391 = "Fifirz"
+4392 = "'Awksar"

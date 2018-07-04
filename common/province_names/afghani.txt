@@ -1,0 +1,2 @@
+#or AFG
+2226 = "Jalalabad"

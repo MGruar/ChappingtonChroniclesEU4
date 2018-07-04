@@ -1,0 +1,1262 @@
+#SAME 1
+2 = "Východní Götland" #?
+#SAME 3
+#SAME 4
+5 = "Vermland" #?
+#SAME 6
+#SAME 7
+#SAME 8
+9 = "Helsingland" #?
+10 = "Jamtland"
+11 = "Západní Botnie" #?
+12 = "Zéland"
+13 = "Slesvicko"
+#SAME 14
+15 = "Západní Jutsko"
+16 = "Bohuslen" #?
+#SAME 17
+18 = "Laponsko"
+19 = "Východní Botnie" #?
+20 = "Trönelág"
+21 = "Nordland"
+22 = "Oppland" #?
+#SAME 23 #?
+#SAME 24
+25 = "Gotland"
+#SAME 26 #?
+27 = "Abo" #?
+28 = "Helsinky"
+29 = "Tavastsko" #?
+30 = "Vyborg"
+31 = "Savonsko" #?
+32 = "Korela" #?
+33 = "Orešek"
+34 = "Ingrie"
+35 = "Ozylie" #?
+36 = "Revel"
+37 = "Livonsko"
+#SAME 38
+39 = "Kuronsko"
+40 = "Klajpeda"
+41 = "Královec"
+42 = "Varmie"
+43 = "Gdansk"
+44 = "Hamburk"
+45 = "Lubek"
+46 = "Roztoky"
+47 = "Strelasund"
+48 = "Kolobreh"
+49 = "Nová Marka"
+50 = "Berlín"
+51 = "Rypín" #?
+52 = "Devín"
+53 = "Lüneburk" #?
+54 = "Štade" #?
+55 = "Oldenburk" #?
+56 = "Osnaburk" #?
+57 = "Brunšvik"
+58 = "Desava"
+59 = "Wittenberk"
+60 = "Horní Lužice"
+61 = "Dráždany"
+62 = "Lipsko"
+63 = "Durynsko"
+64 = "Landshut"
+65 = "Mnichov"
+66 = "Bamberk"
+67 = "Norimberk"
+#SAME 68
+69 = "Kostnice" #Horní Švábsko
+70 = "Württembersko"
+71 = "Ansbach"
+72 = "Brisgovie" #?
+73 = "Tyrolsko"
+74 = "Bádensko"
+75 = "Alsasko"
+76 = "Solnohrad"
+77 = "Hajdelberk" #?
+78 = "Mohuc"
+79 = "Vircpurk"
+80 = "Trevír"
+81 = "Hesensko"
+82 = "Vestfálsko"
+83 = "Nasavsko"
+#SAME 84
+85 = "Kolín"
+86 = "Münster"
+87 = "Kale" #?
+88 = "Arras"
+89 = "Pikardie"
+90 = "Vlámsko"
+91 = "Henegavsko"
+92 = "Brusel" #Brabantsko
+93 = "Lutych"
+94 = "Lucembursko"
+#SAME 95
+96 = "Zelandsko" #?
+#SAME 97 #Holandsko
+#SAME 98
+99 = "Geldern" #?
+100 = "Frísko"
+101 = "Janov"
+102 = "Nica" #?
+#SAME 103
+104 = "Milán"
+105 = "Parma"
+106 = "Modena"
+107 = "Breša" #?
+108 = "Verona"
+109 = "Mantova"
+110 = "Trident"
+111 = "Furlánsko"
+112 = "Benátky"
+113 = "Ferrara"
+114 = "Romanja" #?
+#SAME 115
+116 = "Florencie"
+#SAME 117
+118 = "Rím"
+119 = "Ankona" #?
+120 = "Abrucco" #?
+121 = "Neapol"
+122 = "Salento" #?
+123 = "Kalábrie"
+124 = "Messina"
+125 = "Palermo"
+#SAME 126
+127 = "Sassari"
+128 = "Korutany"
+129 = "Kransko"
+130 = "Istrie"
+131 = "Záhreb"
+132 = "Štýrsko"
+133 = "Linec"
+134 = "Víden"
+135 = "Šopron"
+136 = "Dalmácie"
+137 = "Dubrovník"
+138 = "Cerná Hora"
+#SAME 139
+#SAME 140
+#SAME 141
+142 = "Korfu"
+143 = "Vlára"
+144 = "Epir"
+145 = "Morea"
+146 = "Athény"
+147 = "Thesálie"
+148 = "Makedonie"
+149 = "Drinopol"
+#SAME 150
+151 = "Carihrad" #Konstantinopol
+152 = "Varaždín"
+153 = "Pešt'"
+154 = "Hont"
+155 = "Békéš" #?
+156 = "Banát"
+157 = "Krišana"
+158 = "Maruše"
+#SAME 159 #?
+160 = "Malé Valašsko" #Olténie
+161 = "Trhovište"
+#SAME 162
+163 = "Kréta"
+164 = "Kyklady" #Naxos
+165 = "Bern"
+166 = "Švic" #?
+167 = "Ruán" #Vápno?
+168 = "Kan" #Normandie
+169 = "Armorika" #?
+170 = "Finister" #?
+171 = "Van" #?
+172 = "Nant" #?
+173 = "Bajonna" #?
+174 = "Akvitánie" #Bordó
+175 = "Armanak"
+176 = "Béarn"
+177 = "Men" #?
+178 = "Anžu" #?
+#SAME 179
+180 = "Horní Puatu" #?
+181 = "Retel" #?
+182 = "Valua" #?
+183 = "Pariž"
+184 = "Orleán"
+185 = "Nemur" #?
+186 = "Remeš" #Šampansko?
+187 = "Bar"
+188 = "Méty" #Tri Biskupství
+189 = "Lotrinsko"
+190 = "Mulen" #?
+191 = "Never" #?
+192 = "Dyžon" #Burgundsko
+193 = "Svobodné hrabství"
+194 = "Perigor" #?
+195 = "Limuzensko" #?
+196 = "Tuluza" #?
+197 = "Perpinjan" #?, Russiljon?
+198 = "Rodez"
+199 = "Klermon" #?, Overnsko?
+200 = "Monpeljé"
+201 = "Provensálsko"
+202 = "Avinjon" #?
+203 = "Lijon"
+204 = "Delfinat" #?
+205 = "Savojsko"
+206 = "Galície"
+207 = "Asturie"
+208 = "León"
+209 = "Biskajsko"
+210 = "Navarra"
+211 = "Pyreneje"
+#SAME 212
+#SAME 213
+#SAME 214
+215 = "Stará Kastilie"
+216 = "Salamanka" #?
+#SAME 217
+218 = "Badachos" #?
+#SAME 219
+220 = "Valencie"
+221 = "Murcie" #?
+#SAME 222
+#SAME 223
+#SAME 224
+225 = "Kórdova" #?
+#SAME 226
+227 = "Lisabon"
+228 = "Bejra" #?
+229 = "Beža" #?
+#SAME 230
+231 = "Porta"
+232 = "Bragansa" #?
+233 = "Kornvalie" #?
+234 = "Vincester" #?
+#SAME 235
+236 = "Londýn"
+237 = "Oxford"
+#SAME 238
+239 = "Gloster" #?
+240 = "Salop" #Mercie
+241 = "Glamorgan"
+242 = "Gvined" #?
+243 = "Linkoln" #?
+244 = "Lankaster" #?
+245 = "Jork" #?
+246 = "Northumbrie"
+247 = "Kambrie" #?
+248 = "Lotian" #?
+249 = "Er" #?
+250 = "Pert" #?
+251 = "Aberdyn" #?
+252 = "Inverness"
+253 = "Vnejší Hebridy"
+#SAME 254
+255 = "Kališ"
+#SAME 256
+257 = "Varšava"
+#SAME 258
+259 = "Sandomer"
+#SAME 260
+261 = "Halyc"
+262 = "Krakov"
+263 = "Ratibor"
+264 = "Vratislav"
+#SAME 265
+#SAME 266
+#SAME 267
+268 = "Moldavsko"
+269 = "Podlesí"
+270 = "Troky"
+271 = "Žmud'"
+272 = "Vilno"
+273 = "Latgalsko"
+#SAME 274
+275 = "Polock"
+#SAME 276
+#SAME 277
+#SAME 278
+279 = "Volyn"
+280 = "Kyjev"
+281 = "Podolí"
+282 = "Jedisan" #Ocakov
+283 = "Záporoží"
+284 = "Krym"
+285 = "Feodosija"
+286 = "Azov"
+287 = "Kubán" #Jekaterinodar
+288 = "Cerkassk" #?, "Ust'-Medvedickaja"
+289 = "Cernigov"
+#SAME 290
+291 = "Charkov"
+292 = "Mogilev"
+#SAME 293
+#SAME 294
+#SAME 295
+#SAME 296
+297 = "Brjansk"
+#SAME 298
+299 = "Voronež"
+#SAME 300
+301 = "Rjazan"
+#SAME 302
+303 = "Saratov"
+#SAME 304
+305 = "Perm"
+306 = "Dolní Novgorod" #Nižnij Novgorod
+#SAME 307
+308 = "Jaroslavl"
+309 = "Olonec" #?
+#SAME 310
+311 = "Cholm"
+#SAME 312 #?
+#SAME 313 #?
+#SAME 314
+315 = "Finnmark"
+316 = "Nikomédie"
+317 = "Prusa" #?, Nikáj
+318 = "Smyrna"
+319 = "Kárie"
+320 = "Rhodos"
+321 = "Kypr"
+322 = "Koteon" #?
+323 = "Ikonion" #?
+324 = "Laranda" #?
+325 = "Paflagonia"
+326 = "Ankyra" # Galacie
+327 = "Kilíkie"
+328 = "Sinópé"
+329 = "Sebasteja" #?
+330 = "Trapezunt"
+331 = "Teodosiopol" #?
+332 = "Germanikeja" #?
+333 = "Baleáry"
+334 = "Tanger"
+335 = "Melilla"
+336 = "Tlemsen" #?
+337 = "Oran"
+338 = "Alžír"
+339 = "Bedžaja" #?
+340 = "Konstantine" #?
+341 = "Túnis"
+342 = "Kasablanka"
+343 = "Fás"
+344 = "Marrákeš"
+345 = "Sáfí"
+#SAME 346
+#SAME 347
+#SAME 348 #?
+349 = "Figig" #?
+350 = "Laguat" #?
+351 = "Biskra" #?
+#SAME 352 #?
+353 = "Tatuin" #?
+354 = "Tripolis"
+355 = "Syrta"
+356 = "Kyrenaika"
+357 = "Derna"
+358 = "Alexandrie"
+359 = "Fajjúm"
+360 = "Luxor"
+361 = "Káhira"
+362 = "Rosetta" #?
+363 = "Damietta"
+364 = "Gáza"
+365 = "Sinaj"
+366 = "Kanáry"
+367 = "Azory"
+#SAME 368
+369 = "Orkneje"
+372 = "Tiron" #?
+373 = "Dublin" #Koloví
+374 = "Lenster" #?
+375 = "Limerik"
+376 = "Konnacht" #?
+377 = "Aleppo"
+378 = "Tripolis"
+379 = "Jeruzalém"
+380 = "Kerak"
+381 = "Adžlún" #?
+382 = "Damašek"
+#SAME 383
+384 = "Medína"
+385 = "Mekka"
+386 = "Biša"
+387 = "Mokka" #?
+388 = "Aden"
+389 = "Mukallá"
+390 = "Saná"
+391 = "Nadžrán" #?
+394 = "Katif" #?
+395 = "Katar"
+396 = "Bahrajn"
+397 = "Bani Jas" #?
+398 = "Šardžá"
+399 = "Batína"
+400 = "Maskat"
+401 = "Dafár"
+402 = "Kišn" #?
+403 = "Nizva" #?
+404 = "Liva" #?
+405 = "Palmýra"
+406 = "Hadíta"
+407 = "Rakka"
+408 = "Basra"
+409 = "Karbalá"
+410 = "Bagdád"
+411 = "Mosul"
+412 = "Ahváz"
+413 = "Chorramábád"
+414 = "Hamadán"
+415 = "Kirkúk"
+416 = "Tabríz"
+417 = "Lahidžan" #?
+418 = "Amida"
+419 = "Jerevan"
+420 = "Gandža"
+421 = "Širván" #?
+422 = "Imeretie"
+423 = "Tiflis"
+424 = "Ardabíl"
+425 = "Derbent"
+#SAME 426 #?
+427 = "Hekatompilos" #?
+428 = "Teherán"
+429 = "Isfahán"
+430 = "Búšehr"
+431 = "Mogostán" #?
+432 = "Kermán"
+433 = "Jazd"
+434 = "Kuhistán" #?
+435 = "Zarandž" #?
+436 = "Bírdžand"
+437 = "Kopet Dag"
+438 = "Karakum"
+439 = "Mangyšlak"
+440 = "Nukus"
+441 = "Chiva"
+442 = "Buchara"
+443 = "Ustjurt" #?
+444 = "Cardžuj" #?
+445 = "Merv"
+446 = "Herát"
+447 = "Kandahár"
+448 = "Gazni" #?
+449 = "Ghór"
+450 = "Balch"
+451 = "Kábul"
+452 = "Badachšán" #?
+453 = "Karši" #?
+454 = "Samarkand"
+455 = "Kyzylkum"
+456 = "Turkestán"
+457 = "Taškent"
+458 = "Kokand" #?
+460 = "Uzkend"
+462 = "Mingrelie"
+463 = "Majkop"
+464 = "Astrachan"
+465 = "Gurjev"
+466 = "Kamyšin"
+467 = "Borisoglebsk"
+468 = "Manyc"
+469 = "Rynská poušt" #?
+470 = "Kalmykov" #?
+471 = "Aralsk" #?
+472 = "Aktjubinsk"
+473 = "Samara"
+474 = "Jajik"
+475 = "Ufa"
+517 = "Surat"
+522 = "Dillí"
+524 = "Strední Doab"
+529 = "Severní Konkan" #Bombaj
+530 = "Jižní Konkan"
+531 = "Severní Kanara"
+534 = "Kalikut"
+535 = "Kócin"
+537 = "Kollam"
+539 = "Madrás"
+543 = "Masulipatam" #?
+546 = "Vychodní Berar"
+548 = "Zapadní Berar"
+556 = "Dolní Doab"
+561 = "Kolkátá"
+572 = "Kolombo"
+574 = "Andamany"
+575 = "Gwádar"
+576 = "Kalát" #?
+577 = "Kvéta"
+578 = "Péšávar"
+596 = "Malakka"
+632 = "Sumbawa"
+633 = "Flores"
+635 = "Zapadní Timor"
+636 = "Brunej"
+#SAME 641
+#SAME 646 #?
+647 = "Ceram"
+651 = "Sulu" #?
+667 = "Kanton"
+668 = "Macao"
+669 = "Fu-cou" #China
+670 = "Kan-cou" #China
+671 = "Cchang-sa" #China
+674 = "Kuej-jang" #China
+676 = "Zikace" #China
+679 = "Ccheng-tu" #China
+680 = "Cchung-cching" #China
+681 = "I-cchang" #China
+683 = "Nan-cchang" #China
+684 = "Chang-cou" #China
+685 = "Jang-cou" #China
+686 = "An-cching" #China
+687 = "Nan-jang" #China
+688 = "Kchaj-feng" #China
+689 = "Chan-cung" #China
+690 = "Cching-cou" #China
+691 = "Ti-nan" #China
+696 = "Pao-ting" #China
+697 = "Ta-tchung" #China
+698 = "Ning-sia" #China
+699 = "Lan-cou" #China
+700 = "Si-an" #China
+703 = "Ccheng-te" #China
+708 = "Cang-jie" #China
+726 = "Sen-jang" #China
+727 = "Ajgun" #China
+767 = "Ortelsburk" #?
+#SAME 770
+#SAME 771
+788 = "Angoše" #?
+789 = "Zululand"
+#SAME 833 #?
+1020 = "Kjoto"
+1032 = "Kurily"
+1033 = "Sachalin"
+1034 = "Kamcatka"
+1059 = "Východní Tunguska"
+1061 = "Západní Tunguska"
+#SAME 1077
+1078 = "Jekaterinburg"
+1079 = "Chlynov"
+1081 = "Simbirsk"
+1082 = "Kazan"
+#SAME 1083 #?
+1085 = "Tasmánie"
+1095 = "Falklandy"
+1096 = "Kapverdy"
+1097 = "Fernando Pó"
+1098 = "Svatá Helena"
+1099 = "Sokotra"
+1102 = "Mauricius"
+1110 = "Agádír"
+1111 = "Argen" #?
+1112 = "Trarza" #?
+1113 = "Dakar"
+1114 = "Gabú"
+1118 = "Lví hory"
+1119 = "Pobreží obilí"
+1126 = "Pobreží slonoviny"
+1127 = "Tuát" #?
+1128 = "Taudeni" #?
+1129 = "Azavad"
+1130 = "Tadmekka" #?
+1132 = "Timbuktu"
+1139 = "Zlatonosné pobreží"
+1141 = "Hvida" #?
+#SAME 1147
+1151 = "Bonny" #?
+1163 = "Kalabar" #?
+1164 = "Kamerun"
+#SAME 1165
+1166 = "Loango" #?
+1167 = "Luanda"
+#SAME 1172
+1173 = "Namibie"
+1174 = "Velrybí zátoka"
+1175 = "Malý Namakwaland" #?
+1177 = "Mys Dobré nadeje"
+#SAME 1179 #?
+1180 = "Divoké pobreží"
+#SAME 1181
+1182 = "Zálivu Delagoa" #?
+1183 = "Inambáne"
+#SAME 1186 #?
+1192 = "Kelimane" #?
+1195 = "Mosambik"
+#SAME 1196
+#SAME 1197
+#SAME 1198 #?
+#SAME 1199 #?
+#SAME 1200
+#SAME 1201
+#SAME 1202
+#SAME 1203
+#SAME 1204
+1205 = "Mogadišo"
+1206 = "Kardo" #?
+1207 = "Ogaden"
+1208 = "Degehabur" #?
+#SAME 1209
+#SAME 1210 #?
+#SAME 1211
+1212 = "Zejla" #?
+1213 = "Ševa" #?
+#SAME 1214 #?
+1215 = "Tadžura"
+1216 = "Tegali" #?
+1217 = "Fazokl" #?
+#SAME 1218 #?
+1219 = "Dárfúr"
+1220 = "Bajuda" #?
+1221 = "el-Obejd" #?
+1222 = "Gezira" #?
+1223 = "Godžam" #?
+#SAME 1224
+1225 = "Butána" #?
+1226 = "Bedža" #?
+1227 = "Aksúm"
+1228 = "Dongola"
+#SAME 1229 #?
+1230 = "Massava" #?
+1231 = "Siena" #?
+1232 = "Suakin"
+1233 = "Charga"
+1234 = "Kasr Ibrim" #?
+1235 = "Guam"
+1236 = "Nová Británie"
+1238 = "Šalamounovy ostrovy"
+1239 = "Nové Hebridy"
+1240 = "Havajské ostrovy"
+1241 = "Gilbertovy ostrovy"
+1242 = "Fidži"
+1243 = "Plavecké ostrovy"
+1244 = "Nebezpecné ostrovy"
+1247 = "Korsika"
+1248 = "Maledivy"
+1306 = "Svatý Tomáš"
+1318 = "Spiš"
+1742 = "Limburk" #Horní Geldern?
+1743 = "Kambré"
+1744 = "Antverpy"
+1745 = "Kantábrie"
+#SAME 1746
+1747 = "Kaseres" #?
+1748 = "Chaén" #?
+1749 = "Kádis" #?
+1750 = "Alikante" #?
+1751 = "Seuta"
+1752 = "Ržev"
+#SAME 1753
+#SAME 1754
+1755 = "Ustjug" #?
+1756 = "Besarábie"
+1757 = "Horní Falc"
+1758 = "Hannover"
+1759 = "Postupim"
+1760 = "Koblenc"
+1761 = "Falc"
+1762 = "Kassel"
+1763 = "Dolní Lužice"
+#SAME 1764
+1765 = "Sofie"
+#SAME 1766
+1767 = "Slavonie"
+1768 = "Línec"
+1769 = "Gorice"
+1770 = "Rakúsy"
+#SAME 1771
+1772 = "Prešpurk"
+1773 = "Achaia"
+1774 = "Treviso"
+1775 = "Holštýnsko"
+1776 = "Bílá Karélie"
+1777 = "Kola"
+1778 = "Kasimov"
+1816 = "Peking" #China
+1821 = "Nanking" #China
+1822 = "Su-cou" #China
+1824 = "Wen-cou" #China
+#SAME 1826
+#SAME 1827
+1828 = "Dolní Kraj"
+#SAME 1831 #?
+1833 = "Ti-an" #China
+1834 = "Derpt" #?
+1836 = "Luo-jang" #China
+1838 = "Che-fej" #China
+1840 = "Kuej-lin" #China
+1841 = "Malbork"
+#SAME 1842
+1846 = "Amasie" #?
+1848 = "Sparta"
+1849 = "Hamá"
+1851 = "Koimbra" #?
+1853 = "Kastorie" #?
+1854 = "Akko"
+1855 = "Sidón"
+1856 = "Abcházie"
+1857 = "Lauenburk"
+1858 = "Štetín"
+1859 = "Chlumno"
+#SAME 1860
+1861 = "Derby"
+1862 = "Kremona" #?
+1863 = "Štýrský Hradec"
+1864 = "Šomod'"
+#SAME 1865
+1866 = "Namur"
+1867 = "Vo" #?
+1868 = "Aušpurk"
+1869 = "Curych"
+1870 = "Svatý Havel"
+#SAME 1872
+1871 = "Vale" #?
+#SAME 1873 #?
+1874 = "Brémy"
+1875 = "Kuneo" #?
+1876 = "Frankobrod"
+1877 = "Šarol" #?
+1878 = "Cáchy"
+1879 = "Alanson" #?
+1880 = "Zuntgau" #?
+1882 = "Bona" #?, Annaba
+1930 = "Alandy"
+1931 = "Východní Frísko"
+1933 = "Bari"
+1934 = "Lukánie"
+1935 = "Mitava"
+1936 = "Kovno"
+#SAME 1937
+1938 = "Vizna" #?
+1939 = "Lencyca" #?
+#SAME 1940
+#SAME 1941
+1942 = "Žitomír"
+1943 = "Vinnica" #Braclav
+1944 = "Cerkassy"
+1945 = "Severie"
+1951 = "Hunjad" #?
+1952 = "Maramureš"
+1953 = "Debrecín"
+#SAME 1954 #?
+1955 = "Archangelsk" # Cholmogory
+#SAME 1956
+1957 = "Galic"
+#SAME 1958
+1959 = "Toržok"
+#SAME 1960
+#SAME 1961
+1962 = "Kudymkar"
+1963 = "Cerdyn"
+#SAME 1964
+#SAME 1965
+1966 = "Celjabinsk"
+1967 = "Chodžend"
+#SAME 1968 #?
+1969 = "Suzak" #?
+1970 = "Perovsk"
+1971 = "Caricyn"
+1972 = "Iževsk"
+1973 = "Urgenc"
+1974 = "Cherson"
+1978 = "Šetlandy" #?
+1979 = "Faery" #?
+#SAME 1981
+1982 = "Blekinge"
+#SAME 1983
+1984 = "Severní Jutsko"
+1985 = "Nerke" #?
+1986 = "Nová Kaledonie"
+1987 = "Spolecenské ostrovy"
+1988 = "Velikonocní ostrov"
+1989 = "Prátelské ostrovy" #?
+1990 = "Lagunové ostrovy"
+1991 = "Gilbertovy ostrovy"
+1992 = "Príjemný ostrov"
+1993 = "Marshallovy ostrovy"
+1995 = "Mikronésie"
+1996 = "Palau"
+1997 = "Uprostred" #?
+1998 = "Vánocní ostrov"
+1999 = "Kokosový ostrov"
+2002 = "Galapágy"
+2024 = "Garowe" #?
+2025 = "Jižní Georgie"
+2026 = "Trankebar"
+2029 = "Jižní Kanara" #Kannanur?
+2030 = "Goa"
+2060 = "Horni Doab"
+2080 = "Vizag"
+2099 = "Trinkomali" #?
+2100 = "Džafna" #?
+2124 = "Jarkend" #China
+2129 = "Changthang" #China
+2131 = "Chamdo" #China
+2137 = "Ta-ming" #China
+2139 = "Lan-cou" #China
+2140 = "Jang-cou" #China
+2142 = "Chuaj-an" #China
+2143 = "Feng-jang" #China
+2144 = "Fu-jang" #China
+2145 = "Cen-tiang" #China
+2147 = "Chuej-cou" #China
+2149 = "Ning-po" #China
+2150 = "Tin-chua" #China
+2163 = "Liou-cou" #China
+2164 = "Nan-nin" #China
+2165 = "Pchu-er" #China
+2167 = "Li-tiang" #China
+2168 = "Po-cou" #China
+2171 = "Siang-jang" #China
+2172 = "Ting-cou" #China
+2174 = "Cheng-jang" #China
+2176 = "Sang-cchiou" #China
+2179 = "Jen-an" #China
+2180 = "Tchien-suej" #China
+2181 = "Pching-liang" #China
+2184 = "Si-ning" #China
+2195 = "Soci"
+2196 = "Gurie"
+2197 = "Pjatigorsk"
+2198 = "Hrozivá"
+2199 = "Petrovsk"
+2201 = "Vladikavkaz"
+2202 = "Karabach"
+2203 = "Kachetie"
+2204 = "Kars"
+2205 = "Nachicevan"
+2206 = "Orumíje"
+#SAME 2207 #?
+2208 = "Kizljar"
+2209 = "Ílám"
+2210 = "Kermánšáh"
+2211 = "Ardalan" #?
+2212 = "Zandžán"
+2213 = "Kum"
+2214 = "Hyrkanie" #?
+2215 = "Kazvín"
+2216 = "Semnán"
+2217 = "Jásúdž"
+2218 = "Šíráz"
+2219 = "Bandar Lenge" #?
+#SAME 2220
+2221 = "Mašhad"
+#SAME 2222 #?
+#SAME 2223 #?
+#SAME 2224 #?
+2225 = "Bámiján"
+2226 = "Džalálábád"
+2227 = "Kundúz"
+2228 = "Majmana"
+#SAME 2229 #?
+2230 = "Nímróz"
+#SAME 2231
+2232 = "Charan" #?
+2233 = "Cáhbahár"
+2234 = "Rafsandžán"
+#SAME 2235 #?
+2236 = "Bodžnúrd"
+2239 = "Gambie"
+2241 = "Guinea"
+2242 = "Peprové pobreží"
+2258 = "Mysoví pobreží" #?
+2290 = "Otrokoví pobreží" #?
+#SAME 2294 #?
+2296 = "Pegaj" #?
+2297 = "Magnisa"
+2298 = "Attalia" #?
+2299 = "Bithýnie"
+2300 = "Kapadocie" #Kappadokie, Tavie?
+2301 = "Kesarja" #?
+2302 = "Seleukie" #?, Mersin
+2303 = "Meliténé"
+2304 = "Chaldie" #?
+2305 = "Arsinga" #?
+2306 = "Muš"
+#SAME 2307
+2308 = "Edessa"
+2309 = "Singara" #?
+2310 = "Tikrít"
+2311 = "Samáva" #?
+2312 = "Vasít" #?
+2313 = "Antiochie"
+2314 = "Derezor" #or Dajr az-Zaur
+2315 = "Suez"
+2316 = "Tanta"
+2317 = "Minjá"
+2318 = "Morské oázy" #?, Baharie?
+2319 = "Manfalút" #?
+2320 = "Ras Garib" #?
+2321 = "Kusejr" #?
+2322 = "Vádí Halfa"
+2323 = "Núbijská poušt"
+2324 = "Halaib"
+2325 = "Marsa Matrúh"
+2326 = "Bardie" #?
+2327 = "Maán"
+2328 = "Dedan" #?
+2329 = "Janbu" #?
+2331 = "Džidda"
+2332 = "Turuba" #?
+#SAME 2333 #?
+2340 = "Kuvajt"
+2341 = "Masíra"
+2342 = "Centrální Omán"
+2343 = "Sajvun"
+2344 = "Marib"
+2345 = "Bejhan" #?
+2346 = "Džizán" #?
+2347 = "Hufuf" #?
+2348 = "Chios"
+2349 = "Krasnovodsk" #?
+2350 = "Ašchabad"
+2351 = "Irgiz"
+2352 = "Kazalinsk" #?
+2356 = "Cimkent"
+2362 = "Starý Urgenc"
+#SAME 2363 #?
+2364 = "Fergana"
+2365 = "Alexandrov Gaj" #?
+2366 = "Ileck" #?
+2367 = "Dolní Ural"
+2370 = "Kungrad" #?
+2405 = "Tihina" #?
+2406 = "Inhul"
+2407 = "Perejaslav"
+2408 = "Jelec"
+2409 = "Vjošenskaja" #?
+2410 = "Feodoro" #?
+2411 = "Kodak" #?
+2412 = "Melitopol" #?
+2413 = "Novocerkassk"
+2414 = "Tichoreck" #?
+2415 = "Atkarsk"
+2416 = "Stavropol"
+2417 = "Elista"
+2418 = "Pokrovská sloboda"
+2419 = "Syzran"
+2420 = "Orenburg"
+2421 = "Cistopol"
+2422 = "Ceboksary"
+2423 = "Alatyr"
+2424 = "Premyšl"
+2444 = "Zlatoust"
+#SAME 2447
+2448 = "Fezzán"
+2449 = "Džufra"
+2450 = "Gadameš"
+2451 = "Misuráta"
+2452 = "Zuára"
+2453 = "Sfax"
+2454 = "Kef" #?
+2455 = "Bizerta"
+2456 = "Tuggurt" #?
+2457 = "Mzab"
+#SAME 2458 #?
+2459 = "Titteri" #?
+#SAME 2460 #?
+#SAME 2461 #?
+2462 = "Uarsenis" #?
+#SAME 2463 #?
+2464 = "Warzazát"
+2465 = "Udžda" #?
+#SAME 2466
+2467 = "Meknes"
+#SAME 2468 #?
+2469 = "Dukkala" #?
+2470 = "Haha" #?
+2472 = "Uargla" #?
+2473 = "Súsa"
+#SAME 2746
+2682 = "Pariaman" #?
+2684 = "Nias"
+2716 = "Buton" #?
+2749 = "Tichvin"
+2750 = "Filippopol" #?
+2751 = "Kuenka" #?
+#SAME 2752 #?
+#SAME 2753 #?
+2754 = "La Manca" #?
+2756 = "Welajta" #?
+#SAME 2757 #?
+2758 = "Illubabor" #?
+#SAME 2759
+#SAME 2755 #?
+2760 = "Hadija" #?
+#SAME 2761 #?
+#SAME 2762 #?
+#SAME 2763 #?
+2764 = "Asaita" #?
+2765 = "Aseb" #?
+#SAME 2766 #?
+2767 = "Enderta" #?
+#SAME 2768 #?
+#SAME 2769 #?
+2770 = "Agau" #?
+2771 = "Simien"
+2772 = "Dembija" #?
+#SAME 2773 #?
+2774 = "Kísmájú"
+2775 = "Merka" #?
+2776 = "Afgoje" #?
+2777 = "Bardera" #?
+2778 = "Warder" #?
+2779 = "Afder" #?
+2780 = "Beledwejne" #?
+2781 = "Gedo" #?
+2782 = "Varšejch" #?
+2783 = "Hobjo" #?
+2784 = "Galkajo" #?
+2785 = "Elbur" #?
+2786 = "Bender Kassim" #?
+#SAME 2787 #?
+2788 = "Hafun" #?
+2789 = "Laskoraj" #?
+2790 = "Sanag" #?
+#SAME 2791 #?
+2792 = "Togder" #?
+2793 = "Hargejsa" #?
+2794 = "Brava"
+2795 = "Mereg" #?
+#SAME 2796 #?
+2797 = "Šendy" #?
+#SAME 2798 #?
+2799 = "Sennar" #?
+#SAME 2800 #?
+#SAME 2801 #?
+#SAME 2802 #?
+2954 = "Džerba"
+2955 = "Ingolštadt" #?
+2956 = "Štrubina"
+2957 = "Rezno"
+2958 = "Ostroda" #?
+2959 = "Tarnov"
+2960 = "Nový Sadec"
+#SAME 2961
+#SAME 2962
+#SAME 2963
+2964 = "Stará Marka"
+2965 = "Fojtsko"
+2966 = "Hlohov"
+#SAME 2967
+#SAME 2968
+2969 = "Lubušsko"
+#SAME 2970
+2971 = "Choja" #?
+2972 = "Paderborn"
+#SAME 2973
+#SAME 2974 #?
+2975 = "Klévsko" #?
+2976 = "Umbrie"
+2977 = "Urbino"
+2978 = "Arecco" #?
+2979 = "Novara"
+2980 = "Lukka" #?
+2981 = "Monferrat" #?
+2982 = "Syrakusy"
+2983 = "Salerno"
+2984 = "Kosénca"
+2985 = "Kapitanata" #?
+2986 = "Kaljari" #?
+2987 = "Uržel" #?
+#SAME 2988
+2989 = "Riócha" #?
+#SAME 2990
+2991 = "Forkalkjé" #?
+2992 = "Albenga"
+2993 = "Premyslav"
+2994 = "Greifswald"
+2995 = "Slupsk" #?
+2996 = "Vysomer" #?
+2997 = "Tuchola" #?
+2998 = "Boza"
+2999 = "Hormuz"
+#SAME 3000
+#SAME 3001
+3002 = "Sarajevo"
+3003 = "Euboja"
+4020 = "Komory"
+4033 = "Gedaref" #?
+#SAME 4049 #?
+4078 = "Majumba" #?
+4079 = "Kabinda" #?
+4080 = "Zaire" #?
+4110 = "Jižní zeme"
+4111 = "Sentonž" #?
+4112 = "Kahor" #?
+4113 = "Uleaborg" #?
+4114 = "Jokkmokk" #?
+#SAME 4115
+#SAME 4116
+4117 = "Bežeck"
+4118 = "Kork" #?
+4119 = "Slajgo" #?
+4120 = "Kilder" #?
+4121 = "Ulster"
+4122 = "Šenkursk"
+4123 = "Tampere"
+4124 = "Karélie"
+4125 = "Solník"
+4126 = "Segedín"
+#SAME 4127
+4128 = "Sedmihradsko"
+4129 = "Vym"
+4130 = "Somerset"
+4141 = "Dytmarsko" #?
+4142 = "Východní Jutsko"
+4143 = "Východní Folsko" #?
+#SAME 4144
+4145 = "Agder"
+#SAME 4147
+#SAME 4148
+#SAME 4149
+#SAME 4150
+4151 = "Enare"
+4152 = "Kajany" #?
+4158 = "Džandžiro" #?
+4163 = "Elfsborg" #?
+#SAME 4164
+4165 = "Kristianstad"
+4166 = "Malé zeme"
+4171 = "Eberku" #?
+4173 = "Sriem" #?
+4174 = "Drac"
+4175 = "Skadar"
+#SAME 4176
+#SAME 4236
+4237 = "Olomouc"
+4238 = "Lehnice"
+4239 = "Belehrad"
+4240 = "Stolicný Belehrad"
+#SAME 4241
+#SAME 4242
+4243 = "Toropec" #?
+4244 = "Trubcevsk"
+4245 = "Vjazma"
+#SAME 4246
+4247 = "Ovruc"
+4248 = "Kašin"
+4249 = "Zubcov" #?
+#SAME 4250
+4251 = "Možajsk"
+#SAME 4252
+4253 = "Jurjev" #?
+#SAME 4254
+#SAME 4255
+4256 = "Usolsk"
+#SAME 4257
+#SAME 4258
+#SAME 4259
+4260 = "Vyšnij Volocok"
+4261 = "Ustjužna"
+#SAME 4262
+4263 = "Soligalic"
+4264 = "Tetjuši"
+4265 = "Celny"
+4266 = "Glazov"
+4267 = "Bulgar"
+4268 = "Akaba"
+4269 = "Vadžch" #?
+4270 = "Azrak" #?
+4271 = "Suvajda"
+4272 = "Džauf" #?
+4277 = "Taif" #?
+4278 = "Kunfuda" #?
+#SAME 4279 #?
+4280 = "Taiz" #?
+4281 = "Damar" #?
+4282 = "Saada" #?
+4283 = "Šihr" #?
+4284 = "Gajda" #?
+4285 = "Burajmi"
+4286 = "Súr" #Východní Omán
+4287 = "Ibra"
+4288 = "Kurna" #?, Arabské pobreží
+4289 = "Šúštar"
+4290 = "Hovejze" #?
+4291 = "Kazanija" #?
+4292 = "Merida" #?
+4293 = "Arbil"
+4294 = "Sulajmáníja"
+4295 = "Kefa" #?
+4296 = "Bitlis"
+4297 = "Emesa"
+4298 = "Antep"
+4299 = "Šemacha" #?
+4300 = "Mejane" #?
+4301 = "Kartlie" #?
+4302 = "Darojnk" #?, Bajazit?
+4303 = "Olty" #?
+4304 = "Choj" #?
+4305 = "Šeki" #?
+4306 = "Kumuch" #?
+4307 = "Bílý Palác"
+4308 = "Laodikeja" #?
+4309 = "Trally" #?
+4310 = "Tefrika" #?
+4311 = "Nikopol" #?
+4312 = "Dorilej" #?
+4313 = "Gangra" #?
+4314 = "Justinianopol" #?
+4315 = "Eudokija" #?
+4316 = "Východní Egypt"
+4317 = "Jezero"
+4318 = "Afroditopol" #?
+4319 = "Latopol" #?
+4320 = "Girga"
+4323 = "Farafra" #?
+4324 = "Gurian" #?
+4325 = "Sarachs" #?
+4326 = "Níšápúr"
+4327 = "Džask" #?
+#SAME 4329 #?
+#SAME 4330 #?
+#SAME 4331 #?
+#SAME 4332 #?
+#SAME 4334 #?
+4335 = "Kašan" #?
+#SAME 4336 #?
+4337 = "Save" #?
+4338 = "Sultaníje"
+4339 = "Rašt"
+#SAME 4340 #?
+4341 = "Sárí"
+#SAME 4342 #?
+#SAME 4343 #?
+4344 = "Zelené Mesto"
+#SAME 4345 #?
+
+4361 = "Džedburg" #?
+4362 = "Damfris" #?
+4363 = "Argajl" #?
+4364 = "Vnitrní Hebridy"
+4365 = "Man"
+4366 = "Montgomery" #?
+#SAME 4367
+4368 = "Skarboro" #?
+4369 = "Karmarten" #?
+4370 = "Kembridž" #?
+#SAME 4371
+4372 = "Koventry" #?
+4373 = "Devon"
+4374 = "Dorset" #Dorcester?
+4375 = "Cester" #?
+4376 = "Lester" #?
+4377 = "Ormond" #?
+4378 = "Desmond" #?
+4379 = "Midlands" #?
+4380 = "Donegal" #?
+4381 = "Oversticht" #?
+4382 = "Groningen"
+4383 = "Haag"
+4384 = "Ren" #?
+4385 = "Kotanten" #?
+4386 = "Dolní Puatu" #?, Vandeja?
+4387 = "Angulem" #?
+4388 = "Šártr"
+4389 = "Tur" #?
+4390 = "Trua"
+4391 = "Vivjé" #?
+4392 = "Osér"

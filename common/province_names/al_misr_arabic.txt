@@ -1,0 +1,32 @@
+163 = "Kerit"
+356 = "Benghazi" #?
+357 = "Dernah" #?
+358 = "el-Eskendereyyah" #SAME
+359 = "el-Fayyum" #SAME
+360 = "Lo'sor"
+361 = "el-Qaherah" #SAME
+#SAME 362
+#SAME 363
+#SAME 364
+365 = "Sina" #SAME
+379 = "el-Quds"
+382 = "Demesh'"
+#SAME 1222
+#SAME 1231
+1233 = "el-Khargah" #SAME
+1869 = "Zurikh"
+2315 = "es-Sewes" #SAME
+2316 = "el-Gharbeyyah" #SAME
+2317 = "el-Menyah" #SAME
+2318 = "el-Wahat el-Bahariyah" #SAME
+#SAME 2319 #former 'Asyut
+2320 = "Ras Ghareb" #SAME
+2321 = "el-'Oseer" #SAME
+2325 = "Mersa Matruh" #SAME
+2326 = "el-Bardiyah" #SAME
+4316 = "el-Shar'eyyah" #SAME
+4317 = "el-Beherah" #SAME
+#SAME 4318
+4319 = "'Esna" #SAME
+4320 = "Gerga" #SAME
+4323 = "el-Farafrah" #SAME

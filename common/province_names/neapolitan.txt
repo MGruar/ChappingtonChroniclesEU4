@@ -1,0 +1,62 @@
+101 = "Genova"
+102 = "Nizza"
+103 = "Piemunte"
+104 = "Milano"
+105 = "Parma"
+106 = "Modena"
+107 = "Brescia"
+108 = "Verona"
+109 = "Mantova"
+110 = "Trento"
+111 = "Friuli"
+112 = "Venezia"
+113 = "Ferrara"
+114 = "Rumagna"
+#SAME 115
+116 = "Sciorenza"
+#SAME 117
+118 = "Romma"
+#SAME 119
+#SAME 120
+#SAME 121
+122 = "Salento"
+123 = "Calavria"
+124 = "Messina"
+125 = "Palermo"
+#SAME 126
+127 = "Sassari"
+130 = "Istria"
+136 = "Dalmazia"
+137 = "Ragusa"
+138 = "Montenegro"
+142 = "Corfò"
+151 = "Custantenobbule"
+333 = "Baleari"
+341 = "Tunisi"
+354 = "Tripoli"
+1247 = "Corseca"
+1769 = "Trieste"
+1774 = "Treviso"
+1862 = "Cremona"
+1875 = "Cuneo"
+1882 = "Bona"
+1933 = "Bari"
+#SAME 1934
+#SAME 2451
+2452 = "Zuara"
+2453 = "Sfax" #?
+2455 = "Biserta"
+#SAME 2473
+2954 = "Gerba"
+2976 = "Ummria"
+2977 = "Urbino"
+#SAME 2978
+2979 = "Novara"
+#SAME 2980
+2981 = "Monferrato" #?
+2982 = "Siracusa"
+#SAME 2983
+#SAME 2984
+#SAME 2985 #?
+2986 = "Cagliari"
+2992 = "Albenga"

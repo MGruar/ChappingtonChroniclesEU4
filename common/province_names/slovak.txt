@@ -1,0 +1,32 @@
+128 = "Korutánsko"
+132 = "Štajersko"
+133 = "Linec"
+135 = "Šopron"
+134 = "Vieden"
+153 = "Pešt'"
+154 = "Nové Zámky"
+155 = "Békéš"
+#SAME 157
+158 = "Maruša"
+161 = "Trhovište"
+#SAME 162
+259 = "Sandomier"
+262 = "Krakov"
+263 = "Ratibor"
+264 = "Vratislav"
+#SAME 265
+#SAME 1318
+1770 = "Kremža"
+1772 = "Nitra"
+1863 = "Štajerský Hradec"
+1864 = "Šomod"
+1952 = "Maramaroš"
+1953 = "Sabolc" #Debrecín
+2959 = "Tarnov"
+2960 = "Nový Sonc"
+4125 = "Solnok"
+4126 = "Segedín"
+4173 = "Sriem"
+#SAME 4236
+4237 = "Olomouc"
+4240 = "Stolicný Belehrad"

@@ -1,0 +1,14 @@
+316 = "Nikomédeia"
+317 = "Proúsa" #Níkaia
+325 = "Kastamón" #Kastamoní, Kastamóna
+326 = "Ánkyra"
+#1764 = "Pýrgos"
+1846 = "Amáseia"
+#2296 = "Pegaí" #Palaiókastron
+2297 = "Magnesía"
+2299 = "Vithýnion"
+2300 = "Táouion"
+2301 = "Kaisáreia"
+2302 = "Zefýrion"
+2304 = "Sampsoúnta"
+4311 = "Nikópolis"

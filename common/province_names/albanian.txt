@@ -1,0 +1,39 @@
+130 = "Istria"
+131 = "Zagrebi"
+136 = "Dalmacia"
+137 = "Dubrovniku"
+138 = "Mali i Zi"
+#SAME 139
+140 = "Bosnja"
+141 = "Smedereva"
+142 = "Korfuzi"
+#SAME 143
+144 = "Epiri"
+145 = "Moreja"
+146 = "Athina"
+147 = "Thesalia"
+148 = "Maqedonia"
+149 = "Adrianopoja"
+150 = "Tarnova" #?
+151 = "Konstandinopoja"
+152 = "Varazhdin"
+159 = "Drastari" #?
+163 = "Kreta"
+320 = "Rhodos"
+1764 = "Burgasi" #?
+1765 = "Sofja"
+1766 = "Kosova"
+#SAME 1767 #?
+#SAME 1826 #?
+1827 = "Rashka"
+1828 = "Tokë të Ulëta"
+1831 = "Travunia" #?
+1853 = "Kosturi"
+2746 = "Vidini" #?
+2750 = "Filipopoja" #?, or Plovdivi?
+3000 = "Nishi"
+3001 = "Shkupi"
+#SAME 3002 #?
+#SAME 4174
+#SAME 4175
+4239 = "Beogradi"

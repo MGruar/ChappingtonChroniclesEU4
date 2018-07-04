@@ -1,0 +1,27 @@
+330 = "Trapizoni"
+331 = "Karnu-Kalaki" #Erzurumi
+416 = "Tavrizi"
+419 = "Somkhetshi" #Erebuni
+420 = "Ganja"
+421 = "Sharvani"
+#SAME 422
+#SAME 423
+424 = "Ardebili"
+425 = "Derbenti"
+#SAME 462
+463 = "Cherkezeti"
+1856 = "Apkhazeti"
+2195 = "Adighe"
+#SAME 2196
+2201 = "Alanebi"
+2202 = "Artsakhi"
+#SAME 2203
+#SAME 2204 #Lomsia
+2205 = "Nakhichevani"
+2208 = "Tergi"
+2304 = "Samsuni"
+2307 = "Vani"
+4299 = "Shemakha"
+#SAME 4301
+4303 = "Tao"
+4305 = "Shaki"
