@@ -244,7 +244,7 @@
  TYR:0 "Tír Eoghain" #Tyrone (or: Thír Eoghain)
  UKR:0 "Rus'" #Ruthenia (earlier: Ukrayina)
  URB:0 "Urbìn" #Urbino
- USA:1 "United States of America" #United States (or: USA)
+ USA:1 "United States of Fenella" #United States (or: USF)
  UTR:0 "Utrecht" #no changes
  WAL:0 "Valahia" #Wallachia (or: Vlahia, earlier: Rumâneasca, or: Tara Rumâneasca)
  WBG:0 "Wörtzburch" #Wurzburg
@@ -509,7 +509,7 @@
  TYR_ADJ:0 "Tyrone"
  UKR_ADJ:0 "Ruthenian"
  URB_ADJ:0 "Urbinese"
- USA_ADJ:0 "American"
+ USA_ADJ:0 "Fenellan"
  UTR_ADJ:0 "Utrechtian"
  WAL_ADJ:0 "Wallachian"
  WBG_ADJ:0 "Wurzburgian"
