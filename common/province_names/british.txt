@@ -203,7 +203,7 @@
 203 = "Lyons"
 204 = "Dauphiny"
 205 = "Savoy"
-206 = "Galicia"
+206 = "Santiago"
 207 = "Asturias"
 208 = "Leon"
 209 = "Biscay"
