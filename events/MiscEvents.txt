@@ -89,3 +89,25 @@ country_event = {
 		remove_historical_friend = Z27
 	}
 }
+
+# Colonial Agitation
+country_event = {
+	id = chapchron_misc_events.3
+	title = "chapchron_misc_events.EVTNAME3"
+	desc = "chapchron_misc_events.EVTDESC3"
+	picture =
+	
+	trigger = {
+		is_year = 1790
+		is_colonial_nation = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 24
+	}
+	
+	option = {
+		name = "chapchron_misc_events.EVTOPTA3"
+		add_liberty_desire = 20
+	}
+}

@@ -32,3 +32,6 @@
  chapchron_misc_events.EVTNAME2: "Diplomatic Incident!"
  chapchron_misc_events.EVTDESC2: "Our centuries-old friendship with Gran Atlassia has been stretched somewhat this recently. Now they have the gall to claim El Dorado, the city that we found, as their own?!"
  chapchron_misc_events.EVTOPTA2: "This can not be allowed to stand."
+ chapchron_misc_events.EVTNAME3: "Agitation for Liberty"
+ chapchron_misc_events.EVTDESC3: "After the independence of the United States, our people yearn for similar liberties."
+ chapchron_misc_events.EVTOPTA3: "This could be unfortunate."
