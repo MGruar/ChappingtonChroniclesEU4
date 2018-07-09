@@ -95,7 +95,7 @@ country_event = {
 	id = chapchron_misc_events.3
 	title = "chapchron_misc_events.EVTNAME3"
 	desc = "chapchron_misc_events.EVTDESC3"
-	picture =
+	picture = ANGRY_MOB_eventPicture
 	
 	trigger = {
 		is_year = 1790
