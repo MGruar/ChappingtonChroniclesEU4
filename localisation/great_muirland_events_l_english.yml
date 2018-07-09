@@ -29,3 +29,6 @@
  chapchron_misc_events.EVTDESC1: "The tax collectors have done rechecked our maps, and it seems that our territory extends slightly further into Brittany. In fact, we could make a case that all of Brittany should be ours. We can formally make a claim on this land."
  chapchron_misc_events.EVTOPTA1: "They won't like this, but it is our land!"
  chapchron_misc_events.EVTOPTB1: "Perhaps we should be more diplomatic."
+ chapchron_misc_events.EVTNAME2: "Diplomatic Incident!"
+ chapchron_misc_events.EVTDESC2: "Our centuries-old friendship with Gran Atlassia has been stretched somewhat this recently. Now they have the gall to claim El Dorado, the city that we found, as their own?!"
+ chapchron_misc_events.EVTOPTA2: "This can not be allowed to stand."

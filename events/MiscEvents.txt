@@ -58,3 +58,34 @@ country_event = {
 		}
 	}
 }
+
+# Diplomatic Incident with Gran Atlassia
+country_event = {
+	id = chapchron_misc_events.2
+	title = "chapchron_misc_events.EVTNAME2"
+	desc = "chapchron_misc_events.EVTDESC2"
+	picture = ACCUSATION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = Z00
+		is_year = 1620
+		exists = Z27
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	# Grant claims & negative relations
+	option = {
+		name = "chapchron_misc_events.EVTOPTA2"
+		# Claims
+		2839 = { add_permanent_claim = ROOT }
+		2841 = { add_claim = ROOT }
+		792 = { add_claim = ROOT }
+		# Remove historic friend
+		remove_historical_friend = Z27
+	}
+}
